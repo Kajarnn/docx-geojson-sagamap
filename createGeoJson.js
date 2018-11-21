@@ -2,7 +2,7 @@ const fs = require('fs');
 const _ = require('underscore');
 
 if (process.argv.length < 4) {
-	console.log('node createGeoJson.js [input file] [output file] --saga_name=[saga name] --saga_id=[saga id] --action=[year range] --composition=[year range] --manuscript_time=[year range]');
+	console.log('node createGeoJson.js [input file] [output file] --saga_name=[saga name] --saga_id=[saga id] --action=[year range] --composition=[year range] --oldest_manuscript=[shelfmark] --oldest_manuscript_time=[year range] --manuscriptLink=[link to handrit.is]');
 
 	return;
 }
@@ -14,7 +14,6 @@ var sagaId = argv.saga_id;
 
 var actionRange = argv.action ? argv.action.split('-') : '';
 var compositionRange = argv.composition ? argv.composition.split('-') : '';
-var manuscriptRange = argv.manuscript_time ? argv.manuscript_time.split('-') : '';
 var oldestManuscript = argv.oldest_manuscript;
 var oldestManuscriptRange = argv.oldest_manuscript_time ? argv.oldest_manuscript_time.split('-') : '';
 var manuscriptLink = argv.manuscript_link;
