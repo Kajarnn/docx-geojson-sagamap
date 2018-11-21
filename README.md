@@ -39,3 +39,14 @@ When converting each xml file, the right style name has to be indicated as the l
 
 ### Fetching geo data
 The `xmlParse.js` file also fetches geo data for each place entry by looking up place names in the Saga map database using the http://sagamap.hi.is/api/places API endpoint. Due to different inflectional forms of the place names in the texts, each place name in the text is determined by looking for similar place name in the database with levenshtein distance between the two place names is lower than 4. This of course can give us wrong results but in majority of cases it's the results is right. A better method would be to add the place ID's to the Word documents in the beginning.
+
+## Converting the json to geojson files
+The next step is to convert the json files generated in the previous step to geosjon files. This is done using the command: `node createGeoJson.js [input file] [output file] --saga_name=[saga name] --saga_id=[saga id] --action=[year range] --composition=[year range] --oldest_manuscript=[shelfmark] --oldest_manuscript_time=[year range] --manuscriptLink=[link to handrit.is]`
+
+The different arguments ends up as properties of each feature in the geojson files.
+Conversion commands for each of the sagas are found in the `createGeoJson.bat` file.
+
+Example: `node createGeoJson.js "data\Eyrbyggja saga.json" "geojson\Eyrbyggja saga.geojson" --saga_name="Eyrbyggja saga" --saga_id=28 --action=880-1031 --composition=1240-1310 --oldest_manuscript="AM 162 e fol. " --oldest_manuscript_time=1290-1310 --manuscript_link="https://handrit.is/en/manuscript/view/is/AM02-0162E"`
+
+## Joining all the geojson files into single file
+...
