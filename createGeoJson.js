@@ -2,7 +2,7 @@ const fs = require('fs');
 const _ = require('underscore');
 
 if (process.argv.length < 4) {
-	console.log('node createGeoJson.js [input file] [output file] --saga_name=[saga name] --saga_id=[saga id]');
+	console.log('node createGeoJson.js [input file] [output file] --saga_name=[saga name] --saga_id=[saga id] --action=[year range] --composition=[year range] --manuscript_time=[year range]');
 
 	return;
 }
