@@ -1,0 +1,2062 @@
+[
+    {
+        "chapter": "Chapter 1",
+        "concepts": [
+            "Activities: travel",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Íslands",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Breiðdal",
+                "sm_entry": {
+                    "id": "191",
+                    "name": "Breiðdalur",
+                    "lat": "64.815376",
+                    "lng": "-14.239634",
+                    "type": "valley",
+                    "county": "SuðMúl01",
+                    "c": "9",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Fljótsdalshérað",
+                "sm_entry": {
+                    "id": "201",
+                    "name": "Fljótsdalshérað",
+                    "lat": "64.9654157575426",
+                    "lng": "-15.0347900390625",
+                    "type": "other",
+                    "county": "NorMúl01",
+                    "c": "21",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Það var á dögum Haralds konungs hins hárfagra, Hálfdanar sonar hins svarta, Guðröðar sonar veiðikonungs, Hálfdanar sonar hins milda og hins matarilla, Eysteins sonar frets, Ólafs sonar trételgju Svíakonungs, að sá maður kom skipi sínu til Íslands í Breiðdal , er Hallfreður hét. Það er fyrir neðan Fljótsdalshérað . Þar var á skipi kona hans og sonur, er Hrafnkell hét. Hann var þá fimmtán vetra gamall, mannvænn og gervilegur."
+    },
+    {
+        "chapter": "Chapter 1",
+        "concepts": [
+            "Physical Landscape: ecological area: heathland",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Arnþrúðarstöðum",
+                "sm_entry": {
+                    "id": "1301",
+                    "name": "Arnþrúðarstaðir",
+                    "lat": "64.967524",
+                    "lng": "-13.914598",
+                    "type": "farm",
+                    "info": "NB location randomly assigned. Unknown.",
+                    "county": "SuðMúl01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Geitdal",
+                "sm_entry": {
+                    "id": "1302",
+                    "name": "Geitdalur",
+                    "lat": "64.967248",
+                    "lng": "-13.935501",
+                    "type": "farm",
+                    "info": "NB location randomly assigned. \"Óvíst er, hvort átt er við bæinn eða dalin með því nafni\" (ÍF XI: 97). ",
+                    "county": "SuðMúl01",
+                    "c": "2",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Hallfreður setti bú saman. Um veturinn andaðist útlend ambátt, er Arnþrúður hét, og því heitir það síðan á Arnþrúðarstöðum . En um vorið færði Hallfreður bú sitt norður yfir heiði og gerði bú þar, sem heitir í Geitdal . Og eina nótt dreymdi hann, að maður kom að honum og mælti:"
+    },
+    {
+        "chapter": "Chapter 1",
+        "concepts": [
+            "Physical Processes: landscape change: natural change",
+            "Actors: animals: mammls: boar",
+            "Actors: animals: mammals: goat",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Rangá",
+                "sm_entry": {
+                    "id": "1944",
+                    "name": "Rangá",
+                    "lat": "65.356921",
+                    "lng": "-14.418687",
+                    "type": "farm",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Tungu",
+                "sm_entry": {
+                    "id": "632",
+                    "name": "Tunga",
+                    "lat": "65.121629",
+                    "lng": "-21.073299",
+                    "type": "farm",
+                    "county": "VesHún01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Hallfreðarstöðum",
+                "sm_entry": {
+                    "id": "1305",
+                    "name": "Hallfreðarstaðir",
+                    "lat": "65.500962",
+                    "lng": "-14.475133",
+                    "type": "farm",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Geitdal",
+                "sm_entry": {
+                    "id": "1302",
+                    "name": "Geitdalur",
+                    "lat": "64.967248",
+                    "lng": "-13.935501",
+                    "type": "farm",
+                    "info": "NB location randomly assigned. \"Óvíst er, hvort átt er við bæinn eða dalin með því nafni\" (ÍF XI: 97). ",
+                    "county": "SuðMúl01",
+                    "c": "2",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Eftir það vaknar hann og færir bú sitt út yfir Rangá í Tungu , þar sem síðan heitir á Hallfreðarstöðum , og bjó þar til elli. En honum varð þar eftir göltur og hafur. Og hinn sama dag, sem Hallfreður var í brott, hljóp skriða á húsin, og týndust þar þessir gripir; og því heitir það síðan í Geitdal ."
+    },
+    {
+        "chapter": "Chapter 2",
+        "concepts": [
+            "Actors: things: bridge ",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Jökulsdalur",
+                "sm_entry": {
+                    "id": "1272",
+                    "name": "Jökulsdalur",
+                    "lat": "65.355019",
+                    "lng": "-14.870235",
+                    "type": "valley",
+                    "county": "NorMúl01",
+                    "c": "8",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Fljótsdalsheiði",
+                "sm_entry": {
+                    "id": "1306",
+                    "name": "Fljótsdalsheiði",
+                    "lat": "65.068539",
+                    "lng": "-15.21813",
+                    "type": "heath",
+                    "county": "NorMúl01",
+                    "c": "8",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Jökulsdal",
+                "sm_entry": {
+                    "id": "1272",
+                    "name": "Jökulsdalur",
+                    "lat": "65.355019",
+                    "lng": "-14.870235",
+                    "type": "valley",
+                    "county": "NorMúl01",
+                    "c": "8",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Aðalbóli",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Hrafnkell lagði það í vanda sinn að ríða yfir á heiðar á sumarið. Þá var Jökulsdalur albyggður upp að brúm. Hrafnkell reið upp eftir Fljótsdalsheiði og sá, hvar eyðidalur gekk af Jökulsdal . Sá dalur sýndist Hrafnkatli byggilegri en aðrir dalir, þeir sem hann hafði áður séð. En er Hrafnkell kom heim, beiddi hann föður sinn fjárskiptis, og sagðist hann bústað vilja reisa sér. Þetta veitti faðir hans honum, og hann gerir sér bæ í dal þeim og kallar á Aðalbóli ."
+    },
+    {
+        "chapter": "Chapter 2",
+        "concepts": [
+            "Activities: land management",
+            "Events: construction",
+            "Actors: institution: preChristian temple"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Aðalbóli",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "En þá er Hrafnkell hafði land numið á Aðalbóli , þá efldi hann blót mikil. Hrafnkell lét gera hof mikið. Hrafnkell elskaði eigi annað goð meira en Frey, og honum gaf hann alla hina bestu gripi sína hálfa við sig. Hrafnkell byggði allan dalinn og gaf mönnum land, en vildi þó vera yfirmaður þeirra og tók goðorð yfir þeim. Við þetta var lengt nafn hans og kallaður Freysgoði, og var ójafnaðarmaður mikill, en menntur vel. Hann þröngdi undir sig Jökulsdalsmönnum til þingmanna. Hann var linur og blíður við sína menn, en stríður og stirðlyndur við Jökulsdalsmenn, og fengu þeir af honum öngvan jafnað. Hrafnkell stóð mjög í einvígum og bætti öngvan mann fé, því að engi fékk af honum neinar bætur, hvað sem hann gerði."
+    },
+    {
+        "chapter": "Chapter 2",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Fljótsdalsheiði",
+                "sm_entry": {
+                    "id": "1306",
+                    "name": "Fljótsdalsheiði",
+                    "lat": "65.068539",
+                    "lng": "-15.21813",
+                    "type": "heath",
+                    "county": "NorMúl01",
+                    "c": "8",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Fljótsdalsheiði",
+                "sm_entry": {
+                    "id": "1306",
+                    "name": "Fljótsdalsheiði",
+                    "lat": "65.068539",
+                    "lng": "-15.21813",
+                    "type": "heath",
+                    "county": "NorMúl01",
+                    "c": "8",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Hallfreðargata",
+                "sm_entry": {
+                    "id": "1309",
+                    "name": "Hallfreðargata",
+                    "lat": "64.959906",
+                    "lng": "-15.200677",
+                    "type": "road",
+                    "info": "\"Hin torsótta leið, sem hér er nefnd, er auðsælega Bessagötur. Nafnið Hallfreðargata hefir eigi varðveitzt, en hún hefir legið ofar (s. innar) yfir heiðina, e.t.v. upp frá Kleif. Fellin munu vera Eyvindarfjöll, og eru þau eigi nafngreind hér, af því að þau fengu eigi nafn fyrr en síðar að tali sögunnar. Sjá annars formála #5\" (ÍF XI: 99). ",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Fljótsdalsheiði",
+                "sm_entry": {
+                    "id": "1306",
+                    "name": "Fljótsdalsheiði",
+                    "lat": "65.068539",
+                    "lng": "-15.21813",
+                    "type": "heath",
+                    "county": "NorMúl01",
+                    "c": "8",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Fljótsdalsheiði er yfirferðarill, grýtt mjög og blaut, en þó riðu þeir feðgar jafnan hvorir til annarra, því að gott var í frændsemi þeirra. Hallfreði þótti sú leið torsótt og leitaði sér leiðar fyrir ofan fell þau, er standa í Fljótsdalsheiði . Fékk hann þar þurrari leið og lengri, og heitir þar Hallfreðargata . Þessa leið fara þeir einir, er kunnugastir eru um Fljótsdalsheiði ."
+    },
+    {
+        "chapter": "Chapter 3",
+        "concepts": [
+            "Activities: travel",
+            "Actors: animals: domestick animals: livestock",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Laugarhúsum",
+                "sm_entry": {
+                    "id": "1310",
+                    "name": "Laugarhús",
+                    "lat": "64.984704",
+                    "lng": "-15.579051",
+                    "type": "farm",
+                    "info": "\"Laugarhús heitir eyðibýli að austanverðu í Hrafnkelsdal, nokkru fyrir innan Aðalból. Þar eru miklar rústir frá ýmsum tímum. Þar er; D. Bruun, Fortidsm. og Nutidshj., 172-73)\" (ÍF XI: 100). ",
+                    "county": "NorMúl01",
+                    "c": "2",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Hrafnkelsdal",
+                "sm_entry": {
+                    "id": "1311",
+                    "name": "Hrafnkelsdalur",
+                    "lat": "65.012534",
+                    "lng": "-15.567928",
+                    "type": "valley",
+                    "county": "NorMúl01",
+                    "c": "11",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Leikskálum",
+                "sm_entry": {
+                    "id": "1312",
+                    "name": "Leikskálar",
+                    "lat": "64.984463",
+                    "lng": "-15.579152",
+                    "type": "farm",
+                    "info": "\"Ókunnugt er, hvar sá bær hefir verið. Olavius getur um tvenna Leikskála meðal eyðibýla í Hrafnkelsdal og segir, að heitar laguar séu hjá báðum (Oeconomisk Reyse, 479-80), en hætt er við, að þar sé málum sama og Laugarhús\" (ÍF XI: 100). ",
+                    "county": "NorMúl01",
+                    "c": "7",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Noregs",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Miklagarði",
+                "sm_entry": {
+                    "id": "872",
+                    "name": "Miklagarður",
+                    "lat": "41.011864",
+                    "lng": "28.984377",
+                    "type": "city",
+                    "info": "=Constantinople/Istanbul. ",
+                    "county": "Foreign01",
+                    "c": "18",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Bjarni hét maður, er bjó að þeim bæ, er að Laugarhúsum heitir. Það er við Hrafnkelsdal . hann var kvongaður og átti tvo sonu við konu sinni, og hét annar Sámur, en annar Eyvindur, vænir menn og efnilegir. Eyvindur var heima með föður sínum, en Sámur var kvongaður og bjó í norðanverðum dalnum á þeim bæ, er heitir á Leikskálum , og átti hann margt fé. Sámur var uppivöðslumaður mikill og lögkænn, en Eyvindur gerðist farmaður og fór utan til Noregs og var þar um veturinn. Þaðan fór hann og út í lönd og nam staðar í Miklagarði og fékk þar góðar virðingar af Grikkjakonungi og var þar um hríð."
+    },
+    {
+        "chapter": "Chapter 3",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Hrafnkell átti þann grip í eigu sinni, er honum þótti betri en annar. Það var hestur brúnmóálóttur að lit, er hann kallaði Freyfaxa sinn. Hann gaf Frey, vin sínum, þann hest hálfan. Á þessum hesti hafði hann svo mikla elsku, að hann strengdi þess heit, að hann skyldi þeim manni að bana verða, sem honum riði án hans vilja."
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hrafnkelsdal",
+                "sm_entry": {
+                    "id": "1311",
+                    "name": "Hrafnkelsdalur",
+                    "lat": "65.012534",
+                    "lng": "-15.567928",
+                    "type": "valley",
+                    "county": "NorMúl01",
+                    "c": "11",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Hóli",
+                "sm_entry": {
+                    "id": "1839",
+                    "name": "Sóli",
+                    "lat": "58.888529",
+                    "lng": "5.652754",
+                    "type": "farm",
+                    "county": "Foreign01",
+                    "c": "1",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Aðalbóli",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þorbjörn hét maður. Hann var bróðir Bjarna og bjó á þeim bæ í Hrafnkelsdal , er að Hóli hét, gegnt Aðalbóli fyrir austan. Þorbjörn átti fé lítið, en ómegð mikla. Sonur hans hét Einar hinn elsti; hann var mikill og vel mannaður."
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Activities: travel",
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Aðalból",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Einn dag tók Einar hest sinn og reið á Aðalból . Hrafnkell sat í stofu. Hann heilsar honum vel og glaðlega. Einar leitar til vistar við Hrafnkel. Hann svaraði:"
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Actors: animals: mammals: horses",
+            "Actors: things: wood",
+            "Actors: animals: mammals: sheep"
+        ],
+        "places": [],
+        "text": "\"Eg geri þér skjótan kost,\" sagði Hrafnkell. \"Þú skalt reka heim fimm tigu ásauðar í seli og viða heim öllum sumarviði. Þetta skaltu vinna til tveggja missera vistar. En þó vil eg skilja á við þig einn hlut sem aðra smalamenn mína: Freyfaxi gengur í dalnum fram með liði sínu; honum skaltu umsjá veita vetur og sumar. En varnað býð eg þér á einum hlut: Eg vil, að þú komir aldrei á bak honum, hversu mikil nauðsyn sem þér er á, því að eg hefi hér allmikið um mælt, að þeim manni skyldi eg að bana verða, sem honum riði. Honum fylgja tólf hross. Hvert sem þú vilt af þeim hafa á nótt eða degi, skulu þér til reiðu. Ger nú sem eg mæli, því að það er forn orðskviður, að eigi veldur sá, er varar annan. Nú veistu, hvað eg hefi um mælt.\""
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Einar kvað sér eigi mundu svo meingefið að ríða þeim hesti, er honum var bannað, ef þó væri mörg önnur til."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: agricultural buildings: shieling/shed",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Aðalból",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Hrafnkelsdal",
+                "sm_entry": {
+                    "id": "1311",
+                    "name": "Hrafnkelsdalur",
+                    "lat": "65.012534",
+                    "lng": "-15.567928",
+                    "type": "valley",
+                    "county": "NorMúl01",
+                    "c": "11",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Grjótteigsseli",
+                "sm_entry": {
+                    "id": "1314",
+                    "name": "Grjótteigssel",
+                    "lat": "64.883358",
+                    "lng": "-15.640703",
+                    "type": "shieling",
+                    "info": "\"Helzt virðist mega ráða af frásögninni hér á eftir, að Grjótteigssel hafi verið austan við Þuríðarstaðadalsá, rétt norðan við Grjótá. Hefir nafnið Hrafnkelsdalur þá náð yfir báðar greinar hans, Þuríðarstaðadal g Glúmsstaðadal. \" Við Grjótá...sjást tóttabrot, sem kallað er Grjótársel\" (Lýsing Hofteigssóknar 1874 í ÍB 71, fol.), en eigi munu þau nú kunn\" (ÍF XI: 102). ",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Einar fer nú heim eftir klæðum sínum og flytur heim á Aðalból . Síðan var fært í sel fram í Hrafnkelsdal , þar sem heitir á Grjótteigsseli ."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: moving water: river",
+            "Physical Landscape: built environment: buildings: agricultural buildings: shieling/shed",
+            "Physical processes: weather: fog/ rain",
+            "Actors: animals: mammals: sheep"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grjótteigsá",
+                "sm_entry": {
+                    "id": "1315",
+                    "name": "Grjótteigsá",
+                    "lat": "64.876346",
+                    "lng": "-15.636995",
+                    "type": "river",
+                    "info": "\"Líklega sú á, sem nú heitir Grjótá, smbr. Grjótárgil hér síðar\" (ÍF XI: 102). ",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Einari fer allvel að um sumarið, svo að aldrei verður sauðvant fram allt til miðsumars, en þá var vant nær þremur tigum ásauðar eina nótt. Leitar Einar um alla haga og finnur eigi. Honum var vant nær viku. Það var einn morgun, að Einar gekk út snemma, og er þá létt af allri sunnanþokunni og úrinu. Hann tekur staf í hönd sér, beisl og þófa. Gengur hann þá fram yfir ána Grjótteigsá . Hún féll fyrir framan selið. En þar á eyrunum lá fé það, er heima hafði verið um kveldið. Hann stökkti því heim að selinu, en fer að leita hins, er vant var áður. "
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Actors: animals: mammals: sheep",
+            "Physical Landscape: built environment: buildings: agricultural buildings: shieling/shed",
+            "Physical Landscape: unmanaged landscape area: moving water: river",
+            "Physical Landscape: unmanaged landscape area: glacier",
+            "Activities: travel",
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grjótárgili",
+                "sm_entry": {
+                    "id": "1316",
+                    "name": "Grjótárgil",
+                    "lat": "64.878162",
+                    "lng": "-15.644764",
+                    "type": "gully",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Jökulsá",
+                "sm_entry": {
+                    "id": "2941",
+                    "name": "Jökulsá",
+                    "lat": "64.043793",
+                    "lng": "-16.179381",
+                    "type": "river",
+                    "county": "AusSka02",
+                    "c": "2",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Reykjasels",
+                "sm_entry": {
+                    "id": "1318",
+                    "name": "Reykjasel",
+                    "lat": "64.931615",
+                    "lng": "-15.861967",
+                    "type": "shieling",
+                    "info": "\"Reykjaársels A, farið eftir hinum. \"Reykjasel heitir enn austan við Jökulsá, móts við Reykjará\" (Safn t. s. Ísl. II, 456; smbr. Árb. fornl. 1903, 17-19)\" (ÍF XI: 103). //NB add publications about possible discovery of Reykjasel (or at least another sel) prior to flooding/building of Kárahnjúkar// ",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Hann sér nú stóðhrossin fram á eyrunum og hugsar að höndla sér hross nokkurt til reiðar og þóttist vita, að hann mundi fljótara yfir bera, ef hann riði heldur en gengi. Og er hann kom til hrossanna, þá elti hann þau, og voru þau nú skjörr, er aldrei voru vön að ganga undan manni, nema Freyfaxi einn; hann var svo kyrr sem hann væri grafinn niður. Einar veit, að líður morgunninn, og hyggur, að Hrafnkell mundi eigi vita, þótt hann riði hestinum. Nú tekur hann hestinn og slær við beisli, lætur þófa á bak hestinum undir sig og ríður upp hjá Grjótárgili , svo upp til jökla og vestur með jöklunum, þar sem Jökulsá fellur undir þeim, svo ofan með ánni til Reykjasels . Hann spurði alla sauðamenn að seljum, ef nokkur hefði séð þetta fé, og kvaðst engi séð hafa."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Actors: animals: mammals: horses",
+            "Activities: travel",
+            "Actors: animals: mammals: sheep"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hrafnkelsdal",
+                "sm_entry": {
+                    "id": "1311",
+                    "name": "Hrafnkelsdalur",
+                    "lat": "65.012534",
+                    "lng": "-15.567928",
+                    "type": "valley",
+                    "county": "NorMúl01",
+                    "c": "11",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Grjótteigi",
+                "sm_entry": {
+                    "id": "1319",
+                    "name": "Grjótteigr",
+                    "lat": "64.878105",
+                    "lng": "-15.652937",
+                    "type": "field",
+                    "info": "\"sc. Grjótárgili. Örnefnið Grjótteigr hefir eigi varðveitzt\" (ÍF XI: 103). ",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Einar reið Freyfaxa allt frá eldingu og til miðs aftans. Hesturinn bar hann skjótt yfir og víða, því að hann var góður af sér. Einari kom það í hug, að honum mundi mál heim og reka það fyrst heim, sem heima var, þótt hann fyndi hitt eigi. Reið hann þá austur yfir hálsa í Hrafnkelsdal . En er hann kemur ofan að Grjótteigi , heyrir hann sauðajarm fram með gilinu, þangað sem hann hafði  fram riðið áður. Snýr hann þangað til og sér renna í móti sér þrjá tigu ásauðar, það sama sem hann vantað hafði áður viku, og stökkti hann því heim með fénu."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Síðan gekk hann út og sér Freyfaxa og mælti við hann: \"Illa þykir mér, að þú ert þann veg til ger, fóstri minn, en heima hafðir þú vit þitt, er þú sagðir mér til, og skal þessa hefnt verða. Far þú til liðs þíns.\" En hann gekk þegar upp eftir dalnum til stóðs síns."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Actors: animals: mammals: horse",
+            "Physical Landscape: built environment: buildings: agricultural buildings: shieling/shed",
+            "Actors: animals: sheep"
+        ],
+        "places": [],
+        "text": "Hrafnkell fer í rekkju sína um kvöldið og svaf af um nóttina. En um morguninn lét hann taka sér hest og leggja á söðul og ríður upp til sels. Hann ríður í bláum klæðum. Öxi hafði hann í hendi, en ekki fleira vopna."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Activities: animal husbandry: milking"
+        ],
+        "places": [],
+        "text": "Þá hafði Einar nýrekið fé í kvíar. Hann lá á kvíagarðinum og taldi fé, en konur voru að mjólka. Þau heilsuðu honum. Hann spurði, hversu þeim færi að. Einar svarar:"
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Actors: animals: mammals: horsse",
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Hrafnkell svarar: \"Fyrir hví reiðstu þessu hrossi, er þér var bannað, þar er hin voru nóg til, er þér var lofað? Þar mundi eg hafa gefið þér upp eina sök, ef eg hefði eigi svo mikið um mælt; en þó hefir þú vel við gengið.\" En við þann  átrúnað, að ekki verði að þeim mönnum, er heitstrengingar fella á sig, þá hljóp hann af baki til hans og hjó hann banahögg."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "cairn",
+            "Physical Landscape: built environment: buildings: agricultural buildings: shieling/shed",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Aðalból",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Einarsvarða",
+                "sm_entry": {
+                    "id": "1320",
+                    "name": "Einarsvarða",
+                    "lat": "64.884495",
+                    "lng": "-15.664442",
+                    "type": "cairn",
+                    "info": "NB location following ÍF map. \"Vestan við Þuríðarstaðadalsá, spölkorn norðar en Grjótá fellur í hana að austan, er stórgrýtis- eða urðarhóll, sem kallaður er Einarsdys. Vörðuleifar eða annað mannaverk má greina á toppinum. Fremur hallalítið er frá hólnum að ánni\" (ÍF XI: 105). ",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Eftir það ríður hann heim við svo búið á Aðalból og segir þessi tíðindi. Síðan lét hann fara annan mann til smala í selið. En hann lét færa Einar vestur á hallinn frá selinu og reisti vörðu hjá dysinni. Þetta er kölluð Einarsvarða , og er þaðan haldinn miður aftann frá selinu."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Activities: butchery",
+            "Activities: animal husbandry: milking",
+            "Actors: things: money",
+            "Activities: travel",
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hól",
+                "sm_entry": {
+                    "id": "309",
+                    "name": "Hóll",
+                    "lat": "65.7215935565506",
+                    "lng": "-18.1892395019531",
+                    "type": "farm",
+                    "info": "Sennilega Brennihóll",
+                    "county": "Eyjafj02",
+                    "c": "4",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Aðalból",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þorbjörn spyr yfir á Hól víg Einars, sonar síns. Hann kunni illa tíðindum þessum. Nú tekur hann hest sinn og ríður yfir á Aðalból og beiðir Hrafnkel bóta fyrir víg sonar síns. Hann kvaðst fleiri menn hafa drepið en þenna einn. \"Er þér það eigi ókunnugt, að eg vil öngvan mann fé bæta, og verða menn það þó svo gert að hafa. En þó læt eg svo sem mér þyki þetta verk mitt í verra lagi víga þeirra, er eg hefi unnið. Hefir þú verið nábúi minn langa stund, og hefir mér líkað vel til þín og hvorum okkar til annars. Mundi okkur Einari ekki hafa annað en smátt til orðið, ef hann hefði eigi riðið hestinum. En við munum oft þess iðrast, er við erum of málgir, og sjaldnar mundum við þessa iðrast, þó að við mæltum færra en fleira. Mun eg það nú sýna, að mér þykir þetta verk mitt verra en önnur þau, er eg hefi unnið. Eg vil birgja bú þitt með málnytu í sumar, en með slátrum í haust; svo vil eg gera við þig hvert misseri, meðan þú vilt búa. "
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Laugarhúsa",
+                "sm_entry": {
+                    "id": "1310",
+                    "name": "Laugarhús",
+                    "lat": "64.984704",
+                    "lng": "-15.579051",
+                    "type": "farm",
+                    "info": "\"Laugarhús heitir eyðibýli að austanverðu í Hrafnkelsdal, nokkru fyrir innan Aðalból. Þar eru miklar rústir frá ýmsum tímum. Þar er; D. Bruun, Fortidsm. og Nutidshj., 172-73)\" (ÍF XI: 100). ",
+                    "county": "NorMúl01",
+                    "c": "2",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þá reið Þorbjörn í brott og ofan eftir héraði. Hann kom til Laugarhúsa og hittir Bjarna, bróður sinn, og segir honum þessi tíðindi, biður, að hann muni nokkurn hlut í eiga um þessi mál."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Bjarni kvað eigi sitt jafnmenni við að eiga, þar er Hrafnkell er. \"En þó að vér stýrum peningum miklum, þá megum vér ekki deila af kappi við Hrafnkel, og er það satt, að sá er svinnur, er sig kann. Hefir hann þá marga málaferlum vafið, er meira bein hafa í hendi haft en vér. Sýnist mér þú vitlítill við hafa orðið, er þú hefir svo góðum kostum neitað. Vil eg mér hér öngu af skipta.\""
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Leikskála",
+                "sm_entry": {
+                    "id": "1312",
+                    "name": "Leikskálar",
+                    "lat": "64.984463",
+                    "lng": "-15.579152",
+                    "type": "farm",
+                    "info": "\"Ókunnugt er, hvar sá bær hefir verið. Olavius getur um tvenna Leikskála meðal eyðibýla í Hrafnkelsdal og segir, að heitar laguar séu hjá báðum (Oeconomisk Reyse, 479-80), en hætt er við, að þar sé málum sama og Laugarhús\" (ÍF XI: 100). ",
+                    "county": "NorMúl01",
+                    "c": "7",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þorbjörn mælti þá mörg herfileg orð til bróður síns og segir því síður dáð í honum sem meira lægi við. Hann ríður nú í brott, og skiljast þeir nú með lítilli blíðu. Hann léttir eigi, fyrr en hann kemur ofan til Leikskála , drepur þar á dyr. Var þar til dyra gengið. Þorbjörn biður Sám út ganga. Sámur heilsaði vel frænda sínum og bauð honum þar að vera. Þorbjörn tók því öllu seint. Sámur sér ógleði á Þorbirni og spyr tíðinda, en hann sagði víg Einars, sonar síns."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Ideas: power: legal power"
+        ],
+        "places": [],
+        "text": "Þá rétti Sámur fram höndina og tók við málinu af Þorbirni."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Community Places: administrative unit: farm",
+            "Actors: animals: mammals: horses",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Sámur lætur taka sér hest og ríður upp eftir dal og ríður á bæ einn og lýsir víginu - fær sér menn - á hendur Hrafnkeli. Hrafnkell spyr þetta og þótti hlægilegt, er Sámur hefir tekið mál á hendur honum."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Leið nú á veturinn. En að vori, þá er komið var að stefnudögum, Ríður Sámur heiman upp á  Aðalból  og stefnir Hrafnkeli um víg Einars. Eftir það ríður Sámur ofan eftir dalnum og kvaddi búa til þingreiðar, og situr hann um kyrrt, þar til er menn búast til þingreiðar."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Actors: things: bridge",
+            "Physical Landscape: unmanaged landscape area: standing water",
+            "Activities: travel",
+            "Physical Landscape: built environment: buildings: booths",
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [],
+        "text": "Hrafnkell sendi þá menn ofan eftir dalnum og kvaddi upp menn. Hann fer með þingmönnum sínum, sjö tigum manns. Með þenna flokk ríður hann austur yfir  Fljótsdalsheiði  og svo fyrir vatnsbotninn og um þveran háls til  Skriðudals  og upp eftir  Skriðudal  og suður á  Öxarheiði  til  Berufjarðar  og rétta þingmanna leið á  Síðu . Suður úr  Fljótsdal  eru sautján dagleiðir á  Þingvöll ."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [],
+        "text": "Þetta þing var harla fjölmennt. Voru þar flestir höfðingjar, þeir er voru á Íslandi. Sámur finnur alla höfðingja og bað sér trausts og liðsinnis, en einn veg svöruðu allir, að engi kvaðst eiga svo gott Sámi upp að gjalda, að ganga vildi í deild við Hrafnkel goða og hætta svo sinni virðingu, segja og það einn veg flestum farið hafa, þeim er þingdeilur við Hrafnkel hafa haft, að hann hafi alla menn hrakið af málaferlum þeim, er við hann hafa haft."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: booth"
+        ],
+        "places": [],
+        "text": "Sámur gengur heim til búðar sinnar, og var þeim frændum þungt í skapi og uggðu, að þeirra mál mundu svo niður falla, að þeir mundu ekki fyrir hafa nema skömm og svívirðing; og svo mikla áhyggju hafa þeir frændur, að þeir njóta hvorki svefns né matar, því að allir höfðingjarnir skárust undan liðsinni við þá frændur, jafnvel þeir, sem þeir væntu, að þeim mundi lið veita."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Actors: things: bridge"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Öxará",
+                "sm_entry": {
+                    "id": "173",
+                    "name": "Öxará",
+                    "lat": "64.265862",
+                    "lng": "-21.118744",
+                    "type": "river",
+                    "county": "Árnes01",
+                    "c": "33",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Sámur stendur upp og fer í klæði sín. Þeir ganga út og ofan að Öxará fyrir neðan brúna. Þar þvo þeir sér. Þorbjörn mælti við Sám:"
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Actors: things: horses"
+        ],
+        "places": [],
+        "text": "\"Það er ráð mitt, að þú látir reka að hesta vora, og búumst heim. Er nú séð, að oss vill ekki annað en svívirðing.\""
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: booth",
+            "Physical Landscape: unmanaged landscape area: moving water: river"
+        ],
+        "places": [],
+        "text": "Þá sjá þeir vestan að ánni, hóti neðar en þeir sátu, hvar fimm menn gengu saman frá einni búð. Sá var hár maður og ekki þreklegur, er fyrstur gekk, í laufgrænum kyrtli og hafði búið sverð í hendi, réttleitur maður og rauðlitaður og vel í yfirbragði, ljósjarpur á hár og mjög hærður. Sá maður var auðkennilegur, því að hann hafði ljósan lepp í hári sínu hinum vinstra megin."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: moving water: river"
+        ],
+        "places": [],
+        "text": "Sámur mælti: \"Stöndum upp og göngum vestur yfir ána til móts við þessa menn.\""
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [],
+        "text": "\"Er hann hér á þinginu?\" segir Sámur."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: booth"
+        ],
+        "places": [],
+        "text": "Þorkell segir: \"Því mun eg heita að vera heldur með ykkur en móti, með því að mér þykir ærin nauðsyn til að mæla eftir náskyldan mann. Farið þið nú fyrir til búðarinnar, og gangið inn í búðina. Er mannfólk í svefni. Þið munuð sjá, hvar standa innar um þvera búðina tvö húðföt, og reis eg upp úr öðru, en í öðru hvílir  Þorgeir, bróðir minn. Hann hefir haft kveisu mikla í fætinum, síðan hann kom á þingið, og því hefir hann lítið sofið um nætur. En nú sprakk fóturinn í nótt, og er úr kveisunaglinn. En nú hefir hann sofnað síðan og hefir réttan fótinn út undan fötunum fram á fótafjölina sakir ofurhita, er á er fætinum. Gangi sá hinn gamli maður fyrir og svo innar eftir búðinni. Mér sýnist hann mjög hrymdur bæði að sýn og elli. Þá er þú, maður,\" segir Þorkell, \"kemur að húðfatinu, skaltu rasa mjög og falla á fótafjölina og tak í tána þá, er um er bundið, og hnykk að þér og vit, hversu hann verður við.\""
+    },
+    {
+        "chapter": "Chapter 10",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: booth"
+        ],
+        "places": [],
+        "text": "Og nú gengu þeir Sámur og Þorbjörn og koma í búðina. Sváfu þar menn allir. Þeir sjá brátt, hvar Þorgeir lá. Þorbjörn karl gekk fyrir og fór mjög rasandi. En er hann kom að húðfatinu, þá féll hann á fótafjölina og þrífur í tána, þá er vanmátta var, og hnykkir að sér, en Þorgeir vaknar við og hljóp upp í húðfatinu og spurði, hver þar færi svo hrapallega, að hlypi á fætur mönnum, er áður voru vanmátta. En þeim Sámi varð ekki að orði."
+    },
+    {
+        "chapter": "Chapter 10",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: booth"
+        ],
+        "places": [],
+        "text": "Þá gengu þeir heim til búðar sinnar; voru þá ölteitir. Menn undruðust þetta allir, hví þeir hefðu svo skjótt skapskipti tekið, þar sem þeir voru óglaðir, er þeir fóru heiman."
+    },
+    {
+        "chapter": "Chapter 11",
+        "concepts": [
+            "Ideas: power: legal power"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Lögbergs",
+                "sm_entry": {
+                    "id": "379",
+                    "name": "Lögberg",
+                    "lat": "64.259847",
+                    "lng": "-21.122677",
+                    "type": "assembly site",
+                    "county": "Árnes01",
+                    "c": "54",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú sitja þeir, þar til er dómar fara út. Þá kveður Sámur upp menn sína og gengur til Lögbergs . Var þar þá dómur settur. Sámur gekk þá djarflega að dóminum. Hann hefur þegar upp vottnefnu og sótti mál sitt að réttum landslögum á hendur Hrafnkeli goða, miskviðalaust með skörulegum flutningi. "
+    },
+    {
+        "chapter": "Chapter 11",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Community Places: shared spaces: assembly site",
+            "Physical Landscape: built environment: buildings: booth"
+        ],
+        "places": [],
+        "text": "Menn hlupu til búðar Hrafnkels og sögðu honum, hvað um var að vera. Hann veikst við skjótt og kvaddi upp menn sína og gekk til dóma, hugði, að þar myndi lítil vörn fyrir landi. Hafði hann það í hug sér að leiða smámönnum að sækja mál á hendur honum. Ætlaði hann að hleypa upp dóminum fyrir Sámi og hrekja hann af málinu. En þess var nú eigi kostur. Þar var fyrir sá mannfjöldi, að Hrafnkell komst hvergi nær. Var honum þröngt frá í brott með miklu ofríki, svo að hann náði eigi að heyra mál þeirra, er hann sóttu. Var honum því óhægt að færa lögvörn fram fyrir sig. En Sámur sótti málið til fullra laga, til þess er Hrafnkell var alsekur á þessu þingi."
+    },
+    {
+        "chapter": "Chapter 11",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: booth",
+            "Actors: animals: mammals: horses",
+            "Community Places: shared spaces: assembly site",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Lyngdalsheiði",
+                "sm_entry": {
+                    "id": "1475",
+                    "name": "Lyngdalsheiði",
+                    "lat": "64.150902",
+                    "lng": "-20.880183",
+                    "type": "heath",
+                    "county": "Árnes01",
+                    "c": "3",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Síðu",
+                "sm_entry": {
+                    "id": "94",
+                    "name": "Síða",
+                    "lat": "63.83056",
+                    "lng": "-17.952955",
+                    "type": "other",
+                    "county": "VesSka01",
+                    "c": "25",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Hrafnkelsdal",
+                "sm_entry": {
+                    "id": "1311",
+                    "name": "Hrafnkelsdalur",
+                    "lat": "65.012534",
+                    "lng": "-15.567928",
+                    "type": "valley",
+                    "county": "NorMúl01",
+                    "c": "11",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Aðalból",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Hrafnkell gengur þegar til búðar og lætur taka hesta sína og ríður á brott af þingi og undi illa við sínar málalyktir, því að hann átti aldrei fyrr slíkar. Ríður hann þá austur Lyngdalsheiði og svo austur á Síðu , og eigi léttir hann fyrr en heima í Hrafnkelsdal og sest á Aðalból og lét sem ekki hefði í orðið."
+    },
+    {
+        "chapter": "Chapter 12",
+        "concepts": [
+            "Community Places: shared spaces: assembly site",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Sámur bíður til þess, að slitið er þinginu. Búast menn þá heim. Þakkar hann þeim bræðrum sína liðveislu, en Þorgeir spurði Sám hlæjandi, hversu honum þætti að fara. Hann lét vel yfir því."
+    },
+    {
+        "chapter": "Chapter 12",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Sámur mælti: \"Beðið þykir mér Hrafnkell hafa sneypu, er lengi mun uppi vera, þessi hans sneypa, og er þetta við mikla fémuni.\""
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [],
+        "text": "Þorgeir valdi lið sitt og lét sér fylgja fjóra tigu manna. Sámur hafði og fjóra tigu manna. Var það lið vel búið að vopnum og hestum."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Physical landscape: ecological area: heathland",
+            "Physical Landscape: unmanaged landscape area: moving water: river",
+            "Actors: things: bridge",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Jökulsdal",
+                "sm_entry": {
+                    "id": "1272",
+                    "name": "Jökulsdalur",
+                    "lat": "65.355019",
+                    "lng": "-14.870235",
+                    "type": "valley",
+                    "county": "NorMúl01",
+                    "c": "8",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Hrafnkelsdals",
+                "sm_entry": {
+                    "id": "1311",
+                    "name": "Hrafnkelsdalur",
+                    "lat": "65.012534",
+                    "lng": "-15.567928",
+                    "type": "valley",
+                    "county": "NorMúl01",
+                    "c": "11",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Jökulsdals",
+                "sm_entry": {
+                    "id": "1272",
+                    "name": "Jökulsdalur",
+                    "lat": "65.355019",
+                    "lng": "-14.870235",
+                    "type": "valley",
+                    "county": "NorMúl01",
+                    "c": "8",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Aðalbóli",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Eftir það ríða þeir alla hina sömu leið, þar til er þeir koma í næturelding í Jökulsdal , fara yfir brú á ánni, og var þetta þann morgun, er féránsdóm átti að heyja. Þá spyr Þorgeir, hversu þeir mætti helst á óvart koma. Sámur kvaðst mundu kunna ráð til þess. Hann snýr þegar af leiðinni og upp á múlann og svo eftir hálsinum milli Hrafnkelsdals og Jökulsdals , þar til er þeir koma utan undir fjallið, er bærinn stendur undir niðri á Aðalbóli . Þar gegu grasgeilar í heiðina upp, en þar var brekka brött ofan í dalin, og stóð þar bærinn undir niðri. Þar stígur Sámur af baki og mælti:"
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "\"Látum lausa hesta vora og geymi tuttugu menn, en vér sex tigir saman hlaupum að bænum, og get eg, að fátt muni manna á fótum.\""
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: house"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hrossageilar",
+                "sm_entry": {
+                    "id": "1476",
+                    "name": "Hrossageilar",
+                    "lat": "65.018608",
+                    "lng": "-15.575642",
+                    "type": "gully",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þeir gerðu nú svo, og heita þar síðan Hrossageilar ."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: agricultural buildings: outhouses",
+            "Physical Landscape: managed landscape area: agricultural landscape: infield"
+        ],
+        "places": [],
+        "text": "Í túninu stóð útibúr. Af því og heim á skálavegginn var skotið voðási einum. Þeir leiða Hrafnkel þar til og hans menn. Hann bauð mörg boð fyrir sig og sína menn. En er það tjáði eigi, þá bað hann mönnum sínum lífs, - \"því að þeir hafa ekki til saka gert við yður, en það er mér engi ósæmd, þótt þér drepið mig; mun eg ekki undan því mælast. Undan hrakningum mælist eg; er yður engi sæmd í því.\""
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: things: knife"
+        ],
+        "places": [],
+        "text": "Þá taka þeir Hrafnkel og hans menn og bundu hendur þeirra á bak aftur. Eftir það brutu þeir upp útibúrið og tóku reip ofan úr krókum, taka síðan hnífa sína og stinga raufar á hásinum þeirra og draga þar í reipin og kasta þeim svo upp yfir ásinn og binda þá svo átta saman."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Þá mælti Þorgeir: \"Svo er komið nú kosti yðrum, Hrafnkell, sem maklegt er, og mundi þér þykja þetta ólíklegt, að þú mundir slíka skömm fá af nokkrum manni, sem nú er orðið. Eða hvort viltu, Þorkell, nú gera, að sitja hér hjá Hrafnkeli og gæta þeirra, eða viltu fara með Sámi úr garði á brott í örskotshelgi við bæinn og heyja féránsdóm á grjóthól nokkrum, þar sem hvorki er akur né eng?\" Þetta skyldi í þann tíma gera, er sól væri í fullu suðri."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Phyiscal Landscape: managed landscape area: agricultural landscape: infield"
+        ],
+        "places": [],
+        "text": "Þeir Þorgeir og Sámur fóru þá og háðu féránsdóm, ganga heim eftir það og tóku Hrafnkel ofan og hans menn og settu þá niður í túninu, og var þá sigið blóð fyrir augu þeim. Þá mælti Þorgeir til Sáms, að hann skyldi gera við Hrafnkel slíkt, sem hann vildi, - \"því að mér sýnist nú óvandleikið við hann.\""
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Actors: things: money",
+            "Physical Landscape: managed landscape area: yard"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Aðalbóli",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Fljótsdalsheiði",
+                "sm_entry": {
+                    "id": "1306",
+                    "name": "Fljótsdalsheiði",
+                    "lat": "65.068539",
+                    "lng": "-15.21813",
+                    "type": "heath",
+                    "county": "NorMúl01",
+                    "c": "8",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Sámur svarar þá: \"Tvo kosti geri eg þér, Hrafnkell; sá annar, að þig skal leiða úr garði brott og þá menn, sem mér líkar, og vera drepinn. En með því að þú átt ómegð mikla fyrir að sjá, þá vil eg þess unna þér, að þú sjáir þar fyrir. Og ef þú vilt líf þiggja, þá far þú af Aðalbóli með allt lið þitt og haf þá eina fémuni, er eg skep þér, og mun það harðla lítið, en eg skal taka staðfestu þína og mannaforráð allt. Skaltu aldrei tilkall veita né þínir erfingjar. Hvergi skaltu nær vera en fyrir  austan Fljótsdalsheiði , og máttu nú eiga handsöl við mig, ef þú vilt þenna upp taka.\""
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Actors: things: spear"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Aðalbóli",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þá er Hrafnkell leystur, og seldi hann Sámi sjálfdæmi. Sámur skipti Hrafnkeli af fé slíkt, er hann vildi, og var það raunlítið. Spjót sitt hafði Hrafnkell með sér, en ekki fleira vopna. Þenna dag færði Hrafnkell sig brott af Aðalbóli og allt sitt fólk. Þorgeir mælti þá við Sám:"
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Fljótsdalsheiði",
+                "sm_entry": {
+                    "id": "1306",
+                    "name": "Fljótsdalsheiði",
+                    "lat": "65.068539",
+                    "lng": "-15.21813",
+                    "type": "heath",
+                    "county": "NorMúl01",
+                    "c": "8",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Fljótsdal",
+                "sm_entry": {
+                    "id": "2283",
+                    "name": "Fljótsdalur",
+                    "lat": "65.01987",
+                    "lng": "-17.74513",
+                    "type": "valley",
+                    "county": "SuðÞin01",
+                    "c": "3",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Lagarfljót",
+                "sm_entry": {
+                    "id": "197",
+                    "name": "Lagarfljót",
+                    "lat": "65.116064",
+                    "lng": "-14.739751",
+                    "type": "lake",
+                    "county": "NorMúl01",
+                    "c": "26",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Lokhillu",
+                "sm_entry": {
+                    "id": "1477",
+                    "name": "Lokhilla",
+                    "lat": "65.051163",
+                    "lng": "-14.888337",
+                    "type": "farm",
+                    "info": "=Hrafnkelsstaðir",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Hrafnkell færði nú bú sitt austur yfir Fljótsdalsheiði og um þveran Fljótsdal fyrir austan Lagarfljót . Við vatnsbotninn stóð einn lítill bær, sem hét að Lokhillu . "
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Actors: animals: mammals: goat (kid)",
+            "Actors: animals: mammals: cow (calf)",
+            "Actors: animals: fish",
+            "Events: construction",
+            "Activities: woodland management",
+            "Physical Landscape: ecological area: woods and trees",
+            "Activities: exchange"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hrafnkelsstöðum",
+                "sm_entry": {
+                    "id": "194",
+                    "name": "Hrafnkelsstaðir",
+                    "lat": "65.05128",
+                    "lng": "-14.885914",
+                    "type": "farm",
+                    "county": "NorMúl01",
+                    "c": "8",
+                    "distance": 3
+                }
+            }
+        ],
+        "text": "Þetta land keypti Hrafnkell í skuld, því að eigi var kosturinn meiri en þurfti til búshluta hafa. Á þetta lögðu menn mikla umræðu, hversu hans ofsi hafði niður fallið, og minnist nú margur á fornan orðskvið, að skömm er óhófs ævi. Þetta var skógland mikið og mikið merkjum, vont að húsum, og fyrir það efni keypti hann landið litlu verði. En Hrafnkell sá ekki mjög í kostnað og felldi mörkina, því að hún var stór, og reisti þar reisilegan bæ, þann er síðan hét á Hrafnkelsstöðum . Hefir það síðan verið kallaður jafnan góður bær. Bjó Hrafnkell þar við mikil óhægindi hin fyrstu misseri. Hann hafði mikinn aðdrátt af fiskinum. Hrafnkell gekk mjög að verkum, meðan bær var í smíði. Hrafnkell dró á vetur kálf og kið hin fyrstu misseri, og hann hélt vel, svo að nær lifði hvertvetna það, er til ábyrgðar var. Mátti svo að kveða, að nálega væri tvö höfuð á hverju kvikindi."
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Þjóstarssynir létu senda eftir Freyfaxa og liði hans og kváðust vilja sjá gripi þessa, er svo gengu miklar sögur af. Þá voru hrossin heim leidd. Þeir bræður líta á hrossin. Þorgeir mælti:"
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Events: destruction",
+            "Actors: institution: preChristian temple",
+            "Physical Landscape: unmanaged landscape area: moving water: river",
+            "Physical Landscape: managed landscape area: agricultural area: field"
+        ],
+        "places": [],
+        "text": "Þeir leiða nú hestinn ofan eftir vellinum. Einn hamar stendur niður við ána, en fyrir framan hylur djúpur. Þar leiða þeir nú hestinn fram á hamarinn. Þjóstarssynir drógu fat eitt á höfuð hestinum, taka síðan háar stengur og hrinda hestinum af fram, binda stein við hálsinn og týndu honum svo. Heitir þar síðan  Freyfaxahamar . Þar ofan frá standa goðahús þau, er Hrafnkell hafði átt. Þorkell vildi koma þar. Lét hann fletta goðin öll. Eftir það lætur hann leggja eld í goðahúsið og brenna allt saman."
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Síðan búast boðsmenn í brottu. Velur Sámur þeim ágæta gripi báðum bræðrum, og mæla til til fullkominnar vináttu með sér og skiljast allgóðir vinir; ríða nú rétta leið vestur í fjörðu og koma heim í  Þorskafjörð  með virðingu."
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Actors: institution: preChristian temple"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Fljótsdal",
+                "sm_entry": {
+                    "id": "2283",
+                    "name": "Fljótsdalur",
+                    "lat": "65.01987",
+                    "lng": "-17.74513",
+                    "type": "valley",
+                    "county": "SuðÞin01",
+                    "c": "3",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Hrafnkell spurði austur í Fljótsdal , að Þjóstarssynir höfðu týnt Freyfaxa og brennt hofið. Þá svarar Hrafnkell:"
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hrafnkelsstöðum",
+                "sm_entry": {
+                    "id": "194",
+                    "name": "Hrafnkelsstaðir",
+                    "lat": "65.05128",
+                    "lng": "-14.885914",
+                    "type": "farm",
+                    "county": "NorMúl01",
+                    "c": "8",
+                    "distance": 3
+                }
+            }
+        ],
+        "text": "Hrafnkell sat á Hrafnkelsstöðum og rakaði fé saman. Hann fékk brátt miklar virðingar í héraðinu. Vildi svo hver sitja og standa sem hann vildi."
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Actors: thigns: boat",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Noregi",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Íslands",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Lagarfljót",
+                "sm_entry": {
+                    "id": "197",
+                    "name": "Lagarfljót",
+                    "lat": "65.116064",
+                    "lng": "-14.739751",
+                    "type": "lake",
+                    "county": "NorMúl01",
+                    "c": "26",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Skriðudal",
+                "sm_entry": {
+                    "id": "1259",
+                    "name": "Skriðudalur",
+                    "lat": "65.076763",
+                    "lng": "-14.586918",
+                    "type": "valley",
+                    "info": "=Skriðdalur",
+                    "county": "NorMúl01",
+                    "c": "9",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Lagarfljóti",
+                "sm_entry": {
+                    "id": "197",
+                    "name": "Lagarfljót",
+                    "lat": "65.116064",
+                    "lng": "-14.739751",
+                    "type": "lake",
+                    "county": "NorMúl01",
+                    "c": "26",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Í þenna tíma komu sem mest skip af Noregi til Íslands . Námu menn þá sem mest land í héraðinu um Hrafnkels daga. Engi náði með frjálsu að sitja, nema  Hrafnkel bæði orlofs. Þá urðu og allir honum að heita sínu liðsinni. Hann hét og sínu trausti. Lagði hann land undir sig allt fyrir austan Lagarfljót . Þessi þinghá varð brátt miklu meiri og fjölmennari en sú, er hann hafði áður haft. Hún gekk upp um Skriðudal og upp allt með Lagarfljóti . Var nú skipan á komin á land hans. Maðurinn var miklu vinsælli en áður; hafði hann hina sömu skapsmuni um gagnsemd og risnu, en miklu var maðurinn nú vinsælli og gæfari og hægari en fyrr að öllu. Oft fundust þeir Sámur og Hrafnkell á mannamótum, og minntust þeir aldrei á sín viðskipti. Leið svo fram sex vetur."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Reyðarfjörð",
+                "sm_entry": {
+                    "id": "370",
+                    "name": "Reyðarfjörður",
+                    "lat": "65.0211460214622",
+                    "lng": "-13.974609375",
+                    "type": "fjord",
+                    "county": "SuðMúl01",
+                    "c": "13",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Þess er getið, að skip kom af hafi í Reyðarfjörð , og var stýrimaður Eyvindur Bjarnason. Hann hafði utan verið sjö vetur. Eyvindur hafði mikið við gengist um menntir og var orðinn hinn vaskasti maður. Eru honum sögð brátt þau tíðindi, er gerst höfðu, og lét hann sér um það fátt finnast. Hann var fáskiptinn maður."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Og þegar Sámur spyr þetta, þá ríður hann til skips. Verður nú mikill fagnafundur með þeim bræðrum. Sámur býður honum vestur þangað, en Eyvindur tekur því vel og biður Sám ríða heim fyrir, en senda hesta á móti varningi hans. Hann setur upp skip sitt og býr um."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hrafnkelsdals",
+                "sm_entry": {
+                    "id": "1311",
+                    "name": "Hrafnkelsdalur",
+                    "lat": "65.012534",
+                    "lng": "-15.567928",
+                    "type": "valley",
+                    "county": "NorMúl01",
+                    "c": "11",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Reyðarfirði"
+            }
+        ],
+        "text": "Sámur gerir svo, fer heim og lætur reka hesta á móti Eyvindi. Og er hann hefur búið svo um varnað sinn, býr hann ferð sína til Hrafnkelsdals , fer upp eftir Reyðarfirði . Þeir voru fimm saman; hinn sjötti var skósveinn Eyvindar. Sá var íslenskur að kyni, skyldur honum. Þenna svein hafði Eyvindur tekið af volaði og flutt utan með sér og haldið sem sjálfan sig. Þetta bragð Eyvindar var uppi haft, og var það alþýðu rómur að færri væri hans líkar."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: moving water: river",
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þórisdalsheiði",
+                "sm_entry": {
+                    "id": "1478",
+                    "name": "Þórisdalsheiði",
+                    "lat": "65.008947",
+                    "lng": "-14.441202",
+                    "type": "heath",
+                    "info": "=Þórdalsheiði",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Skriðudal",
+                "sm_entry": {
+                    "id": "1259",
+                    "name": "Skriðudalur",
+                    "lat": "65.076763",
+                    "lng": "-14.586918",
+                    "type": "valley",
+                    "info": "=Skriðdalur",
+                    "county": "NorMúl01",
+                    "c": "9",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Fljótsdals",
+                "sm_entry": {
+                    "id": "2283",
+                    "name": "Fljótsdalur",
+                    "lat": "65.01987",
+                    "lng": "-17.74513",
+                    "type": "valley",
+                    "county": "SuðÞin01",
+                    "c": "3",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Gilsáreyri",
+                "sm_entry": {
+                    "id": "1480",
+                    "name": "Gilsáreyri",
+                    "lat": "65.069052",
+                    "lng": "-14.835741",
+                    "type": "other",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Hallormsstaða",
+                "sm_entry": {
+                    "id": "1265",
+                    "name": "Hallormsstaðir",
+                    "lat": "65.09459",
+                    "lng": "-14.744771",
+                    "type": "farm",
+                    "county": "NorMúl01",
+                    "c": "4",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Lagarfljóti",
+                "sm_entry": {
+                    "id": "197",
+                    "name": "Lagarfljót",
+                    "lat": "65.116064",
+                    "lng": "-14.739751",
+                    "type": "lake",
+                    "county": "NorMúl01",
+                    "c": "26",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Jökulsá",
+                "sm_entry": {
+                    "id": "2941",
+                    "name": "Jökulsá",
+                    "lat": "64.043793",
+                    "lng": "-16.179381",
+                    "type": "river",
+                    "county": "AusSka02",
+                    "c": "2",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þeir ríða upp Þórisdalsheiði og ráku fyrir sér sextán klyfjaða hesta. Voru þar húskarlar Sáms tveir, en þrír farmenn. Voru þeir og allir í litklæðum og riðu við fagra skjöldu. Þeir riðu um þveran Skriðudal og yfir háls yfir til Fljótsdals , þar sem heita Bulungarvellir, og ofan á Gilsáreyri . Hún gengur austan að fljótinu milli Hallormsstaða og . Ríða þeir upp með Lagarfljóti fyrir neðan völl á og svo fyrir vatnsbotninn og yfir Jökulsá að Skálavaði. Þá var jafnnær rismálum og dagmálum."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Activities: farming/cultivation",
+            "Physical Landscape: built environment: buildings: hall/house",
+            "Actors: things: wood"
+        ],
+        "places": [],
+        "text": "Kona ein var við vatnið og þó léreft sín. Hún sér ferð manna. Griðkona sjá sópar saman léreftunum og hleypur heim. Hún kastar þeim niður úti hjá viðarkesti, en hleypur inn. Hrafnkell var þá eigi upp staðinn, og nokkrir  vildarmenn lágu í skálanum, en verkmenn voru til íðnar farnir. Þetta var um heyjaannir."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: moving water: river",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Konan tók til orða, er hún kom inn: \"Satt er flest það, er fornkveðið er, að svo ergist hver sem eldist. Verður sú lítil virðing, sem snemma leggst á, ef maður lætur síðan sjálfur af með ósóma og hefir eigi traust til að reka þess réttar nokkurt sinni, og eru slík mikil undur um þann mann, sem hraustur hefir verið. Nú er annan veg þeirra lífi, er upp vaxa með föður sínum og þykja yður einskis háttar hjá yður, en þá er þeir eru frumvaxta, fara land af landi og þykja þar mestháttar, sem þá koma þeir; koma við það út og þykjast þá höfðingjum meiri. Eyvindur Bjarnason reið hér yfir á að Skálavaði með svo fagran skjöld, að ljómaði af. Er hann svo menntur, að hefnd væri í honum.\""
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: moving water: river",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hrólfsstaði",
+                "sm_entry": {
+                    "id": "1481",
+                    "name": "Hrólfsstaðir",
+                    "lat": "65.399189",
+                    "lng": "-14.658394",
+                    "type": "farm",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Aðra griðkonu sendir hann út á Hrólfsstaði eftir þeim Hrólfssonum, Þórði og Halla, og þeim, sem þar voru vopnfærir. Þessir hvorirtveggju voru gildir menn og allvel menntir. Hrafnkell sendi og eftir húskörlum sínum. Þeir uðru alls átján saman. Þeir vopnuðust harðfengilega; ríða þar yfir á sem hinir fyrri."
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Physical Landscape: ecological area: lava",
+            "Phyiscal Landscape: unmanaged landscape area: moorland",
+            "Physical Landscape: ecological area: heathland",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Bersagötur",
+                "sm_entry": {
+                    "id": "1482",
+                    "name": "Bersagötur",
+                    "lat": "65.073104",
+                    "lng": "-15.185539",
+                    "type": "road",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þá voru þeir Eyvindur komnir upp á heiðina. Eyvindur ríður þar til, er hann kom vestur á miðja heiðina. Þar heita Bersagötur . Þar er svarðlaus mýri, og er sem ríði í efju eina fram, og tók jafnan í kné eða miðjan legg, stundum í kvið; þá er undir svo hart sem hölkn. Þá er hraun stórt fyrir vestan, og er þeir koma á hraunið, þá lítur sveinninn aftur og mælti til Eyvindar:"
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Physical Landscaepe: ecological area: moorland",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Aðalbóls",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þeir ríða nú vestur af hrauninu. Þá er fyrir þeim önnur mýri, er heitir Oxamýri. Hún er grösug mjög. Þar eru bleytur, svo að nálega er ófært yfir. Af því lagði Hallfreður karl hinar efri götur, þó að þær væri lengri. Eyvindur ríður vestur á mýrina. Lá þá drjúgum í fyrir þeim. Dvaldist þá mjög fyrir þeim. Hina bar skjótt eftir, er lausu riðu. Ríða þeir Hrafnkell nú leið sína á mýrina. Þeir Eyvindur eru þá komnir af mýrinni. Sjá þeir þá Hrafnkel og sonu hans báða. Þeir báðu Eyvind þá undan að ríða. \"Eru nú af allar torfærur. Muntu ná til Aðalbóls , meðan mýrin er á millum.\""
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Þeir ríða þá upp á hálsinn. Þar standa fjöll lítil á hálsinum. Utan í fjallinu er meltorfa ein, blásin mjög. Bakkar háir voru umhvefis. Eyvindur ríður að torfunni; þar stígur hann af baki og bíður þeirra."
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: animals: mammals: horse",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Aðalbóls",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Eftir það gengu þeir upp á torfuna og brjóta þar upp grjót nokkurt. Hrafnkell snýr þá af götunni og suður að torfunni. Hann hafði engi orð við Eyvind og veitti þegar aðgöngu. Eyvindur varðist vel og drengilega. Skósveinn Eyvindar þóttist ekki kröftugur til orrustu og tók hest sinn og ríður vestur yfir háls til Aðalbóls og segir Sámi, hvað leika er. Sámur brá skjótt við og sendi eftir mönnum. Urðu þeir saman tuttugu. Var þetta lið vel búið. Ríður Sámur austur á heiðina og að þar, er vettfangið hafði verið. Þá er umskipti á orðið með þeim. Reið Hrafnkell þá austur frá verkunum. Eyvindur var þá fallinn og allir hans menn."
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Activities: travel",
+            "Physical Landscape: ecological area: heathland"
+        ],
+        "places": [],
+        "text": "Sámur gerði það fyrst, að hann leitaði lífs með bróður sínum. Var það trúlega gert. Þeir voru allir líflátnir, fimm saman. Þar voru og fallnir af Hrafnkeli tólf menn, en sex riðu brott. Sámur átti þar litla dvöl, bað menn ríða þegar eftir. Ríða þeir nú eftir þeim og hafa þó mædda hesta. Þá mælti Sámur: \"Ná megum vér þeim, því að þeir hafa mædda hesta, en vér höfum alla hvílda, og mun nálægt verða, hvort vér náum þeim eða eigi, áður en þeir komast af heiðinni.\""
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Physical Landscape: ecological area: heathland"
+        ],
+        "places": [],
+        "text": "Þá var Hrafnkell kominn austur yfir Oxamýri. Ríða nú hvorirtveggju allt til þess, að Sámur kemur á heiðarbrúnina. Sá hann þá, að Hrafnkell var kominn lengra ofan í brekkurnar. Sér Sámur, að hann mun undan taka ofan í héraðið. Hann mælti þá:"
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Physical Landscape: ecological area: heathland"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Aðalból",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Sámur fer þá með allan varnaðinn heim á Aðalból . Og er hann kemur heim, sendir Sámur eftir þingmönnum sínum, að þeir skyldi koma þar um morguninn fyrir dagmál. Ætlar hann þá austur yfir heiði. \"Verður ferð vor slík sem má.\" Um kveldið fer Sámur í hvílu, og var þar drjúgt komið manna."
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Aðalbóls",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Hrafnkell reið heim og sagði tíðindi þessi. Hann etur mat, og eftir það safnar hann mönnum að sér, svo að hann fær sjö tigu manna, og ríður við þetta vestur yfir heiði og kemur á óvart til Aðalbóls , tekur Sám í rekkju og leiðir hann út. Hrafnkell mælti þá:"
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Aðalbóli",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Leikskála",
+                "sm_entry": {
+                    "id": "1312",
+                    "name": "Leikskálar",
+                    "lat": "64.984463",
+                    "lng": "-15.579152",
+                    "type": "farm",
+                    "info": "\"Ókunnugt er, hvar sá bær hefir verið. Olavius getur um tvenna Leikskála meðal eyðibýla í Hrafnkelsdal og segir, að heitar laguar séu hjá báðum (Oeconomisk Reyse, 479-80), en hætt er við, að þar sé málum sama og Laugarhús\" (ÍF XI: 100). ",
+                    "county": "NorMúl01",
+                    "c": "7",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Leikskálum",
+                "sm_entry": {
+                    "id": "1312",
+                    "name": "Leikskálar",
+                    "lat": "64.984463",
+                    "lng": "-15.579152",
+                    "type": "farm",
+                    "info": "\"Ókunnugt er, hvar sá bær hefir verið. Olavius getur um tvenna Leikskála meðal eyðibýla í Hrafnkelsdal og segir, að heitar laguar séu hjá báðum (Oeconomisk Reyse, 479-80), en hætt er við, að þar sé málum sama og Laugarhús\" (ÍF XI: 100). ",
+                    "county": "NorMúl01",
+                    "c": "7",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Hrafnkell kvað hann það ætla mega, - \"því að vér eigum þér það að launa, og skyldi eg hálfu betur við þig gera, ef þess væri vert. Þú skalt fara brott af Aðalbóli ofan til Leikskála , og sest þar í bú þitt. Skaltu hafa með þér auðæfi þau, sem Eyvindur hafði átt. Þú skalt ekki héðan fleira hafa í fémunum utan það, er þú hefir hingað haft. Það skaltu allt í brott hafa. Eg vil taka við goðorði mínu, svo og við búi og staðfestu. Sé eg, að mikill ávöxtur hefir á orðið á gósi mínu, og skaltu ekki þess njóta. Fyrir Eyvind, bróður þinn, skulu öngvar bætur koma, fyrir því að þú mæltir herfilega eftir hinn fyrra frænda þinn, og hafið þér ærnar bætur þó eftir Einar, frænda yðvarn, þar er þú hefir haft ríki og fé sex vetur. En eigi þykir mér meira vert dráp Eyvindar og manna hans en meiðsl við mig og minna manna. Þú gerðir mig sveitarrækan, en eg læt mér líka, að þú sitjir á Leikskálum , og mun það duga, ef þú ofsar þér eigi til vansa. Minn undirmaður skaltu vera, meðan við lifum báðir. Máttu og til þess ætla, að þú munt því verr fara, sem við eigumst fleira illt við.\""
+    },
+    {
+        "chapter": "Chapter 20",
+        "concepts": [
+            "Actors: things: bridge",
+            "Actors: animals:mammals: horses",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Leikskálum",
+                "sm_entry": {
+                    "id": "1312",
+                    "name": "Leikskálar",
+                    "lat": "64.984463",
+                    "lng": "-15.579152",
+                    "type": "farm",
+                    "info": "\"Ókunnugt er, hvar sá bær hefir verið. Olavius getur um tvenna Leikskála meðal eyðibýla í Hrafnkelsdal og segir, að heitar laguar séu hjá báðum (Oeconomisk Reyse, 479-80), en hætt er við, að þar sé málum sama og Laugarhús\" (ÍF XI: 100). ",
+                    "county": "NorMúl01",
+                    "c": "7",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Möðrudalsheiði",
+                "sm_entry": {
+                    "id": "318",
+                    "name": "Möðrudalsheiði",
+                    "lat": "65.5379958556212",
+                    "lng": "-15.4632568359375",
+                    "type": "region",
+                    "county": "NorÞin01",
+                    "c": "2",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Jökulsá",
+                "sm_entry": {
+                    "id": "2941",
+                    "name": "Jökulsá",
+                    "lat": "64.043793",
+                    "lng": "-16.179381",
+                    "type": "river",
+                    "county": "AusSka02",
+                    "c": "2",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Mývatns",
+                "sm_entry": {
+                    "id": "290",
+                    "name": "Mývatn",
+                    "lat": "65.5913956467353",
+                    "lng": "-17.0040893554688",
+                    "type": "lake",
+                    "county": "SuðÞin01",
+                    "c": "43",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Fljótsheiði",
+                "sm_entry": {
+                    "id": "273",
+                    "name": "Fljótsheiði",
+                    "lat": "65.7841945550661",
+                    "lng": "-17.4655151367188",
+                    "type": "region",
+                    "county": "SuðÞin01",
+                    "c": "6",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Ljósavatnsskarð",
+                "sm_entry": {
+                    "id": "276",
+                    "name": "Ljósavatnsskarð",
+                    "lat": "65.7137930517234",
+                    "lng": "-17.7294445037842",
+                    "type": "other",
+                    "county": "SuðÞin01",
+                    "c": "15",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Þorskafjörð",
+                "sm_entry": {
+                    "id": "697",
+                    "name": "Þorskafjörður",
+                    "lat": "65.534286",
+                    "lng": "-22.201934",
+                    "type": "fjord",
+                    "county": "AusBar01",
+                    "c": "47",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Sámur sat á Leikskálum þenna vetur. Hann var hljóður og fáskiptinn. Fundu margir það, að hann undi lítt við sinn hlut. En um veturinn, er daga lengdi, fór Sámur við annan mann - og hafði þrjá hesta - yfir brú og þaðan yfir Möðrudalsheiði og svo yfir Jökulsá uppi á fjalli, svo til Mývatns , þaðan yfir Fljótsheiði og Ljósavatnsskarð og létti eigi fyrri en hann kom vestur í Þorskafjörð . Er þar tekið vel við honum. Þá var Þorkell nýkominn út úr för. Hann hafði verið utan fjóra vetur."
+    },
+    {
+        "chapter": "Chapter 20",
+        "concepts": [
+            "Actors: animals: mammals: horses",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Sámur kveðst ekki því nenna, segist vilja heim aftur og bað þá skipta hestum við sig. Var það þegar til reiðu. Þeir bræður vildu gefa Sámi góðar gjafir, en hann vildi öngvar þiggja og sagði þá vera litla í skapi. Reið Sámur heim við svo búið og bjó þar til elli. Fékk hann aldrei uppreist móti Hrafnkeli, meðan hann lifði."
+    },
+    {
+        "chapter": "Chapter 20",
+        "concepts": [
+            "Physical Landscape: built environment: cairn",
+            "Actors: things: spear"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hrafnkelsdal",
+                "sm_entry": {
+                    "id": "1311",
+                    "name": "Hrafnkelsdalur",
+                    "lat": "65.012534",
+                    "lng": "-15.567928",
+                    "type": "valley",
+                    "county": "NorMúl01",
+                    "c": "11",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Aðalbóli",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Aðalbóli",
+                "sm_entry": {
+                    "id": "1307",
+                    "name": "Aðalból",
+                    "lat": "65.018103",
+                    "lng": "-15.571285",
+                    "type": "farm",
+                    "info": "\"Landn. segir, að Hrafnkell hafi búið að Steinröðarstöðum, en þeir eru annars ókunnir. Almennt er talið, að Aðalból sögunnar hafi verið á sama stað sem bær sá, er nú heitir Aðalból og byggður var úr auðn 1775. En tveir staðir í sögunni benda til þess, að Aðalból það, sem hún nefnir, hafi verið miklu innar í dalnum. Sjá 106. og 123. bls. Kemur þá helzt til greina, að það hafi verið þar, sem ýmist er kallað Glúmsstaðasel eða Sámsstaðir, að vestanverðu í dalnum móts við tungusporðinn. Þar eru allmiklar rústaleifar (sjá Safn t. s. Ísl. II, 455; D. Bruun: Fortidsminder og Nutidshjem (1928), 172-73). Sjá enn fremur formála #5\" (ÍF XI: 98). ",
+                    "county": "NorMúl01",
+                    "c": "30",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "En Hrafnkell sat í búi sínu og hélt virðingu sinni. Hann varð sóttdauður, og er haugur hans í Hrafnkelsdal út frá Aðalbóli . Var lagt í haug hjá honum mikið fé, herklæði hans öll og spjót hans hið góða. Synir hans tóku við mannaforráði. Þórir bjó á , en Ásbjörn á Aðalbóli . Báðir áttu þeir goðorðið saman og þóttu miklir menn fyrir sér. Og lýkur þar frá Hrafnkeli að segja."
+    }
+]

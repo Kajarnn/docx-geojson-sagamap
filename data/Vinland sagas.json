@@ -1,0 +1,3163 @@
+[
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Community Places: administrative unit: farm",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vogs",
+                "sm_entry": {
+                    "id": "422",
+                    "name": "Vors",
+                    "lat": "60.631086",
+                    "lng": "6.428037",
+                    "type": "region",
+                    "info": "=Voss á Hörðalandi",
+                    "county": "Foreign01",
+                    "c": "14",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Reykjaness",
+                "sm_entry": {
+                    "id": "863",
+                    "name": "Reykjanes",
+                    "lat": "65.8833533534456",
+                    "lng": "-19.7384834289551",
+                    "type": "peninsula",
+                    "county": "Skagaf01",
+                    "c": "1",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Drepstokki",
+                "sm_entry": {
+                    "id": "1189",
+                    "name": "Drepstokki",
+                    "lat": "63.880464",
+                    "lng": "-21.186735",
+                    "type": "farm",
+                    "info": "= Refstokkur (and/or Rekstokkur). Nú í Óseyrarnesslandi, fyrir vestan Eyrarbakka, og hefur verið í eyði um langan aldur; sbr. KK I, 177-78 (ÍF IV 244). ",
+                    "county": "Árnes01",
+                    "c": "1",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Noregi",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Herjúlfsnesi",
+                "sm_entry": {
+                    "id": "1176",
+                    "name": "Herjólfsnes",
+                    "lat": "60.048969",
+                    "lng": "-44.854699",
+                    "type": "peninsula",
+                    "county": "Foreign01",
+                    "c": "6",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Herjúlfur var Bárðarson Herjúlfssonar. Hann var frændi Ingólfs landnámamanns. Þeim Herjúlfi gaf Ingólfur land á milli  Vogs  og  Reykjaness . Herjúlfur bjó fyrst á  Drepstokki . Þorgerður hét kona hans en Bjarni son þeirra og var hinn efnilegsti maður. Hann fýstist utan þegar á unga aldri. Varð honum gott bæði til fjár og mannvirðingar og var sinn vetur hvort, utan lands eða með föður sínum. Brátt átti Bjarni skip í förum. Og hinn síðasta vetur er hann var í  Noregi  þá brá Herjúlfur til Grænlandsferðar með Eiríki og brá búi sínu. Með Herjúlfi var á skipi suðureyskur maður, kristinn, sá er orti Hafgerðingadrápu. Þar er þetta stef í: Mínar bið eg að munka reyni meinalausan farar beina, heiðis haldi hárrar foldar hallar drottinn yfir mér stalli. Herjúlfur bjó á  Herjúlfsnesi . Hann var hinn göfgasti maður."
+    },
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Actors: thigns: money"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Brattahlíð",
+                "sm_entry": {
+                    "id": "877",
+                    "name": "Brattahlíð",
+                    "lat": "61.151352",
+                    "lng": "-45.524699",
+                    "type": "farm",
+                    "info": "=Kagsiarsuk",
+                    "county": "Foreign01",
+                    "c": "25",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Görðum",
+                "sm_entry": {
+                    "id": "662",
+                    "name": "Garður",
+                    "lat": "65.943393023042",
+                    "lng": "-17.4394226074219",
+                    "type": "farm",
+                    "info": "\"Garði í Aðaldal\" ... Þannig öll hdrr. sögunnar. Það er þó fullvíst, að Þórir farmaður bjó ekki í Garði í Aðaldal, heldur í Garði í Kelduhverfi (Miklagarði), og ber öllum hdrr. Landnámu saman um það. Hvernig á þessum ruglingi stendur hér í sögunni, er allsendis óvíst, enda er hann lítt skiljanlegur, þar sem Landn. (Stb.) er vafalaust heimild sögunnar um Þóri, og þar verður ekki um villzt, hvar hann bjó. Auk þess kemur það rétta fram í tveim vísum sögunnar (47. og 54. vísu), þar sem talað er um Kelduhverfinga í fylgd með Þóri. Af þessum ruglingi virðist leiða ýmsa ónákvæmni í staðháttalýsingu sögunnar um Þingeyjarþing (ÍF VII, 127). ",
+                    "county": "SuðÞin01",
+                    "c": "10",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Eiríkur rauði bjó í  Brattahlíð . Hann var þar með mestri virðingu og lutu allir til hans. Þessi voru börn Eiríks: Leifur, Þorvaldur og Þorsteinn en Freydís hét dóttir hans. Hún var gift þeim manni er er Þorvarður hét og bjuggu þau í  Görðum  þar sem nú er biskupsstóll. Hún var svarri mikill en Þorvarður var lítilmenni. Var hún mjög gefin til fjár."
+    },
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Activites: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eyrar",
+                "sm_entry": {
+                    "id": "120",
+                    "name": "Eyrar",
+                    "lat": "63.861632",
+                    "lng": "-21.142065",
+                    "type": "harbour",
+                    "info": "=Eyrarbakki. Main port for south of Iceland for many centuries.",
+                    "county": "Árnes01",
+                    "c": "28",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Grænlands",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Það sama sumar kom Bjarni skipi sínu á  Eyrar  er faðir hans hafði brott siglt um vorið. Þau tíðindi þóttu Bjarna mikil og vildi eigi bera af skipi sínu. Þá spurðu hásetar hans hvað er hann bærist fyrir en hann svaraði að hann ætlaði að að halda siðvenju sinni og þiggja að föður sínum veturvist \"og vil eg halda skipinu til  Grænlands  ef þér viljið mér fylgd veita\""
+    },
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Physical Processes: weather: fog/wind"
+        ],
+        "places": [],
+        "text": "En þó halda þeir nú í haf þegar þeir voru búnir og sigldu þrjá daga þar til er landið var vatnað en þá tók af byrina og lagði á norrænur og þokur og vissu þeir eigi hvert að þeir fóru og skipti það mörgum dægrum."
+    },
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Physical Landscape: unamanged landscape area: unmanaged forest"
+        ],
+        "places": [],
+        "text": "Og svo gera þeir og sáu það brátt að landið var ófjöllótt og skógi vaxið og smár hæðir á landinu og létu landið á bakborða og létu skaut horfa á land."
+    },
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Physical Landscape: unamanged landscape area: glacier"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænland",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Grænlandi",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Hann kvaðst eigi heldur ætla þetta  Grænland  en hið fyrra \"því að jöklar eru mjög miklir sagðir á  Grænlandi \""
+    },
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Actors: things: wood (timber)",
+            "Physical Landscape: ecological area: woods and trees"
+        ],
+        "places": [],
+        "text": "Þeir nálguðust brátt þetta land og sáu það vera slétt land og viði vaxið. Þá tók af byr fyrir þeim. Þá ræddu hásetar það að þeim þótti það ráð að taka það land en Bjarni vill það eigi. Þeir þóttust bæði þurfa við og vatn."
+    },
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Physical Landscape: unamanged landscape area: glacier",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Hann bað þá vinda segl og svo var gert og settu framstafn frá landi og sigla í haf útsynningsbyr þrjú dægur og sáu þá landið þriðja. En það land var hátt og fjöllótt og jökull á."
+    },
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Nú lögðu þeir eigi segl sitt, halda með landinu fram og sáu að það var eyland, settu enn stafn við því landi og héldu í haf hinn sama byr. En veður óx í hönd og bað Bjarni þá svipta og eigi sigla meira en bæði dygði vel skipi þeirra og reiða, sigldu nú fjögur dægur."
+    },
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Herjúlfsnes",
+                "sm_entry": {
+                    "id": "1176",
+                    "name": "Herjólfsnes",
+                    "lat": "60.048969",
+                    "lng": "-44.854699",
+                    "type": "peninsula",
+                    "county": "Foreign01",
+                    "c": "6",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Svo gera þeir og taka land undir einhverju nesi að kveldi dags og var þar bátur á nesinu. En þar bjó Herjúlfur faðir Bjarna á því nesi og af því hefir  nesið nafn tekið og er síðan kallað  Herjúlfsnes . Fór Bjarni nú til föður síns og hættir nú siglingu og er með föður sínum meðan Herjúlfur lifði. Og síðan bjó hann þar eftir föður sinn."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænlandi",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Það er nú þessu næst að Bjarni Herjúlfsson kom utan af  Grænlandi  á fund Eiríks jarls og tók jarl við honum vel. Sagði Bjarni frá ferðum sínum er hann hafði lönd séð og þótti mönnum hann verið hafa óforvitinn er hann hafði ekki að segja af þeim löndum og fékk hann af því nokkuð ámæli."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Activities: exchange",
+            "Actors: thigns: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Brattahlíð",
+                "sm_entry": {
+                    "id": "877",
+                    "name": "Brattahlíð",
+                    "lat": "61.151352",
+                    "lng": "-45.524699",
+                    "type": "farm",
+                    "info": "=Kagsiarsuk",
+                    "county": "Foreign01",
+                    "c": "25",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Leifur son Eiríks rauða úr  Brattahlíð  fór á fund Bjarna Herjúlfssonar og keypti skip að honum og réð til háseta svo að þeir voru hálfur fjórði tugur manna saman. Leifur bað föður sinn Eirík að hann mundi enn fyrir vera förinni."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Eiríkur taldist heldur undan, kveðst þá vera hniginn í aldur og kveðst minna mega við vosi öllu en var. Leifur kveður hann enn mundu mestri heill stýra af þeim frændum. Og þetta lét Eiríkur eftir Leifi og ríður heiman þá er þeir eru að því búnir og var þá skammt að fara til skipsins. Drepur hesturinn fæti, sá er Eiríkur reið, og féll hann af baki og lestist fótur hans."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Physical Landscape: unamanged landscape area: glacier",
+            "Activities: travel",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Brattahlíð",
+                "sm_entry": {
+                    "id": "877",
+                    "name": "Brattahlíð",
+                    "lat": "61.151352",
+                    "lng": "-45.524699",
+                    "type": "farm",
+                    "info": "=Kagsiarsuk",
+                    "county": "Foreign01",
+                    "c": "25",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Fór Eiríkur heim í  Brattahlíð  en Leifur réðst til skips og félagar hans með honum, hálfur fjóði tugur manna. Þar var suðurmaður einn í ferð er Tyrkir hét."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Physical Landscape: managed landscape area: beach",
+            "Physical Landscaspe: unamanged landscape area: unmanaged forest",
+            "Activities: travel",
+            "Actors: thigns: boat"
+        ],
+        "places": [],
+        "text": "Síðan fóru þeir til skips. Eftir þetta sigla þeir í haf og fundu land annað, sigla enn að landi og kasta akkerum, skjóta síðan báti og ganga á landið. Það land var slétt og skógi vaxið og sandar hvítir víða þar sem þeir fóru og ósæbratt."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Markland",
+                "sm_entry": {
+                    "id": "1183",
+                    "name": "Markland",
+                    "lat": "53.3505513183999",
+                    "lng": "-57.9144287109375",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "3",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þá mælti Leifur: \"Af kostum skal þessu landi nafn gefa og kalla  Markland .\""
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Actors: plants: grasses"
+        ],
+        "places": [],
+        "text": "Nú sigla þeir þaðan í haf landnyrðingsveður og voru úti tvö dægur áður þeir sáu land og sigldu að landi og komu að ey einni er lá norður af landinu og gengu þar upp og sáust um í góðu veðri og fundu það að dögg var á grasinu og varð þeim það fyrir að þeir tóku höndum sínum í döggina og brugðu í munn sér og þóttust ekki jafnsætt kennt hafa sem það var."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: house",
+            "Physical Landscape: unamanged landscape area: moving water: river",
+            "Physical Landscape: built environment: buildings: booth",
+            "Events: construction",
+            "Physical Landscape: unmanaged landscape area: lake"
+        ],
+        "places": [],
+        "text": "En þeim var svo mikil forvitni á að fara til landsins að þeir nenntu eigi þess að bíða að sjór félli undir skip þeirra og runnu til lands þar er á ein féll úr vatni einu. En þegar sjór féll undir skip þeirra þá tóku þeir bátinn og réru til skipsins og fluttu það upp í ána, síðan í vatnið og köstuðu þar akkerum og báru af skipi húðföt sín og gerðu þar búðir, tóku það ráð síðan að búast þar um þann vetur og gerðu þar hús mikil."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Actors: animals: fish"
+        ],
+        "places": [],
+        "text": "Hvorki skorti þar lax í ánni né í vatninu og stærra lax en þeir hefðu fyrr séð."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Actors: plants: grasses",
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænlandi",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Íslandi",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þar var svo góður landskostur, að því er þeim sýndist, að þar mundi engi fénaður fóður þurfa á vetrum. Þar komu engi frost á vetrum og lítt rénuðu þar grös. Meira var þar jafndægri en á  Grænlandi  eða  Íslandi . Sól hafði þar eyktarstað og dagmálastað um skammdegi."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: house/hall"
+        ],
+        "places": [],
+        "text": "En er þeir voru skammt komnir frá skála þá gekk Tyrkir í mót þeim og var honum vel fagnað."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: plants: fruit"
+        ],
+        "places": [],
+        "text": "Hann mælti þá á norrænu er stund leið: \"Eg var genginn eigi miklu lengra en þið. Kann eg nokkur nýnæmi að að segja. Eg fann vínvið og vínber.\""
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: plants: trees",
+            "Actors: thigns: boat"
+        ],
+        "places": [],
+        "text": "Nú sváfu þeir af þá nótt en um morguninn mælti Leifur við háseta sína: \"Nú skal hafa tvennar sýslur fram og skal sinn dag hvort, lesa vínber eða höggva vínvið og fella mörkina svo að það verði farmur til skips míns.\""
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Actors: plants: fruit"
+        ],
+        "places": [],
+        "text": "Svo er sagt að eftirbátur þeirra var fylltur af vínberjum."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Physical Landscape: unamanged landscape area: glacier",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Og er vorar þá bjuggust þeir og sigldu burt og gaf Leifur nafn landinu eftir landkostum og kallaði Vínland, sigla nú síðan í haf og gaf þeim vel byri þar til er þeir sáu Grænland og fjöll undir jöklum."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Þá tók einn maður til máls og mælti við Leif: \"Hví stýrir þú svo mjög undir veður skipinu?\""
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "\"Eg veit eigi, \"segir Leifur, \"hvort eg sé skip eða sker.\""
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Nú sækja þeir undir skerið og lægðu segl sitt, köstuðu akkeri og skutu litlum báti öðrum er þeir höfðu haft með sér. Þá spurði Leifur hver þar réði fyrir liði."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Leifur kvað svo vera: \"Nú vil eg, \"segir Leifur, \"bjóða yður öllum á mitt skip og fémunum þeim er skipið má við taka.\""
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eiríksfjarðar",
+                "sm_entry": {
+                    "id": "876",
+                    "name": "Eiríksfjörður",
+                    "lat": "61.0024129227167",
+                    "lng": "-45.5300903320313",
+                    "type": "fjord",
+                    "info": "=Tunugdliarfik",
+                    "county": "Foreign01",
+                    "c": "30",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Brattahlíðar",
+                "sm_entry": {
+                    "id": "877",
+                    "name": "Brattahlíð",
+                    "lat": "61.151352",
+                    "lng": "-45.524699",
+                    "type": "farm",
+                    "info": "=Kagsiarsuk",
+                    "county": "Foreign01",
+                    "c": "25",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Þeir þágu þann kost og sigldu síðan til  Eiríksfjarðar  með þeim farmi þar til er þeir komu til  Brattahlíðar , báru farminn af skipi. Síðan bauð Leifur Þóri til vistar með sér og Guðríði konu hans og þrem mönnum öðrum en fékk vistir öðrum hásetum, bæði Þóris og sínum félögum. Leifur tók fimmtán menn úr skerinu. Hann var síðan kallaður Leifur hinn heppni. Leifi varð nú bæði gott til fjár og mannvirðingar."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: things: wood (timber)",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Þá mælti Leifur við Þorvald: \"Þú skalt fara með skip mitt bróðir ef þú vilt til Vínlands og vil eg þó að skipið fari áður eftir viði þeim er Þórir átti í skerinu.\""
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: fishing"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vínlands",
+                "sm_entry": {
+                    "id": "1179",
+                    "name": "Vínland",
+                    "lat": "51.5087424588033",
+                    "lng": "-60.8203125",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "15",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Leifsbúða",
+                "sm_entry": {
+                    "id": "1190",
+                    "name": "Leifsbúðir",
+                    "lat": "51.4266144970748",
+                    "lng": "-55.7666015625",
+                    "type": "other",
+                    "info": "= L'Anse aux Meadows?",
+                    "county": "Foreign01",
+                    "c": "3",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Nú bjóst Þorvaldur til þeirrar ferðar með þrjá tigi manna með umráði Leifs bróður síns. Síðan bjuggu þeir skip sitt og héldu í haf og er engi frásögn um ferð þeirra fyrr en þeir koma til  Vínlands  til  Leifsbúða  og bjuggu þar um skip sitt og sátu um kyrrt þann vetur og veiddu fiska til matar sér."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Physical Landscape: managed landscape area: beach",
+            "Physical Landscape: unamanged landscape area: unamanged forest"
+        ],
+        "places": [],
+        "text": "En um vorið mælti Þorvaldur að þeir skyldu búa skip sitt og skyldi eftirbátur skipsins og nokkurir menn með fara fyrir vestan landið og kanna þar um sumarið. Þeim sýndist landið fagurt og skógótt, og skammt milli skógar og sjóvar, og hvítir sandar. Þar var eyjótt mjög og grunnsævi mikið."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": ""
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "En að sumri öðru fór Þorvaldur fyrir austan með kaupskipið og hið nyrðra fyrir landið. Þá gerði að þeim veður hvasst fyrir andnesi einu og rak þá þar upp og brutu kjölinn undan skipinu og höfðu þar langa dvöl og bættu skip sitt."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Physical Landscape: unmanaged landsape area: unmanaged forest"
+        ],
+        "places": [],
+        "text": "Síðan sigla þeir þaðan í braut og austur fyrir landið og inn í fjarðarkjafta þá er þar voru næstir og að höfða þeim er þar gekk fram. Hann var allur skógi vaxin. Þá leggja þeir fram skip sitt í lægi og skjóta bryggjum á land og gengur Þorvaldur þar á land upp með alla förunauta sína."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Hann mælti þá: \"Hér er fagurt og hér vildi eg bæ minn reisa.\""
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Ganga síðan til skips og sjá á sandinum inn frá höfðanum þrjár hæðir og fóru til þangað og sjá þar húðkeipa þrjá og þrjá menn undir hverjum. Þá skiptu þeir liði sínu og höfðu hendur á þeim öllum nema einn komst í burt með keip sinn. Þeir drepa hina átta og ganga síðan aftur á höfðann og sjást þar um og sjá inn í fjörðinn hæðir nokkurar og ætluðu þeir það vera byggðir."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Svo segir kallið: \"Vaki þú Þorvaldur og allt föruneyti þitt ef þú vilt líf þitt hafa og far þú á skip þitt og allir menn þínir og farið frá landi sem skjótast.\""
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Svo gera þeir en Skrælingjar skutu á þá um stund en flýja síðan í burt sem ákafast hver sem mátti."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Actors: plants: fruit"
+        ],
+        "places": [],
+        "text": "Nú andaðist Þorvaldur en þeir gerðu allt eftir því sem hann hafði mælt og fóru síðan og hittu þar förunauta sína og sögðu hvorir öðrum slík tíðindi sem vissu og bjuggu þar þann vetur og fengu sér vínber og vínvið til skips síns."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænlands",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Eiríksfjörð",
+                "sm_entry": {
+                    "id": "876",
+                    "name": "Eiríksfjörður",
+                    "lat": "61.0024129227167",
+                    "lng": "-45.5300903320313",
+                    "type": "fjord",
+                    "info": "=Tunugdliarfik",
+                    "county": "Foreign01",
+                    "c": "30",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Nú búast þeir þaðan um vorið eftir til  Grænlands  og komu skipi sínu í  Eiríksfjörð  og kunnu Leifi að segja mikil tíðindi."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vínlands",
+                "sm_entry": {
+                    "id": "1179",
+                    "name": "Vínland",
+                    "lat": "51.5087424588033",
+                    "lng": "-60.8203125",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "15",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú fýstist Þorsteinn Eiríksson að fara til  Vínlands  eftir líki Þorvalds bróður síns og bjó skip hið sama og valdi hann lið að afli og vexti og hafði með sér hálfan þriðja tug manna og Guðríði konu sína og sigla í haf þegar þau eru búin og úr landsýn. Þau velkti úti allt sumarið og vissu eigi hvar þau fóru."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Actors: animals: mammals: oxen"
+        ],
+        "places": [],
+        "text": "\"Þá mun eg koma eftir ykkur á morgun með eyki því að mig skortir ekki til að veita ykkur vist en fásinni er mikið með mér að vera því að tvö erum við þar hjón því að eg er einþykkur mjög. Annan sið hefi eg og en þér hafið og ætla eg þann þó betra er þér hafið.\""
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Actors: humans: dead humans"
+        ],
+        "places": [],
+        "text": "Þorsteinn bað gera kistur að líkum þeirra er önduðust og færa til skips og búa þar um \"því að eg vil láta flytja til Eiríksfjarðar að sumri öll líkin.\""
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Actors: humans: dead humans",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Og í því kom Þorsteinn bóndi inn og lagðist Grímhildur niður í því og brakaði þá í hverju tré í stofunni. Nú gerir Þorsteinn kistu að líki Grímhildar og færði í brott og bjó um. Hann var bæði mikill maður og sterkur og þurfti hann þess alls áður hann kom henni burt af bænum."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Actors: humans: dead humans"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eiríksfjarðar",
+                "sm_entry": {
+                    "id": "876",
+                    "name": "Eiríksfjörður",
+                    "lat": "61.0024129227167",
+                    "lng": "-45.5300903320313",
+                    "type": "fjord",
+                    "info": "=Tunugdliarfik",
+                    "county": "Foreign01",
+                    "c": "30",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Nú elnaði sóttin Þorsteini Eiríkssyni og andaðist hann. Guðríður kona hans kunni því lítt. Þá voru þau öll í stofunni. Guðríður hafði setið á stóli frammi fyrir bekknum er hann hafði legið Þorsteinn bóndi hennar. Þá tók Þorsteinn bóndi Guðríði af stólinum í fang sér og settist í bekkinn annan með hana  gegnt líki Þorsteins og taldi um fyrir henni marga vega og huggaði hana og hét henni því að hann mundi fara með henni til  Eiríksfjarðar  með líki Þorsteins bónda hennar og förunauta hans."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: communal buildings: church",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænlandi",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Noregs",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Íslands",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Íslandi",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Hann svarar er stund leið: \"Mér er annt til þess að segja Guðríði forlög sín til þess að hún kunni þá betur andláti mínu því að eg er kominn til góðra hvíldarstaða. En það er þér að segja Guðríður að þú munt gift vera íslenskum manni og munu langar vera samfarir ykkar og mart manna mun frá ykkur koma, þroskasamt, bjart og ágætt, sætt og ilmað vel. Munuð þið fara af  Grænlandi  til  Noregs  og þaðan til  Íslands  og gera bú á  Íslandi . Þar munuð þið lengi búa og muntu honum lengur lifa. Þú munt utan fara og ganga suður og koma út aftur til Íslands til bús þíns og þá mun þar kirkja reist vera og muntu þar vera og taka nunnuvígslu og þar muntu andast.\""
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Actors: humans: dead humans",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Og þá hnígur Þorsteinn aftur og var búið um lík hans og fært til skips."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Actors: animals: domestic animals: livestock",
+            "Activities: exchange",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eiríksfjarðar",
+                "sm_entry": {
+                    "id": "876",
+                    "name": "Eiríksfjörður",
+                    "lat": "61.0024129227167",
+                    "lng": "-45.5300903320313",
+                    "type": "fjord",
+                    "info": "=Tunugdliarfik",
+                    "county": "Foreign01",
+                    "c": "30",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Þorsteinn bóndi efndi vel við Guðríði allt það er hann hafði heitið. Hann seldi um vorið jörð sína og kvikfé og fór til skips með Guðríði með allt sitt, bjó skipið og fékk menn til og fór síðan til  Eiríksfjarðar . Voru nú líkin jörðuð að kirkju."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Commmunity Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Brattahlíð",
+                "sm_entry": {
+                    "id": "877",
+                    "name": "Brattahlíð",
+                    "lat": "61.151352",
+                    "lng": "-45.524699",
+                    "type": "farm",
+                    "info": "=Kagsiarsuk",
+                    "county": "Foreign01",
+                    "c": "25",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Eiríksfirði"
+            }
+        ],
+        "text": "Guðríður fór til Leifs í  Brattahlíð  en Þorsteinn svarti gerði bú í  Eiríksfirði og bjó þar meðan hann lifði og þótti vera hinn vaskasti maður."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Noregi",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Grænlands",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Höfða",
+                "sm_entry": {
+                    "id": "326",
+                    "name": "Höfði",
+                    "lat": "65.9151421690238",
+                    "lng": "-18.1625461578369",
+                    "type": "assembly site",
+                    "county": "SuðÞin01",
+                    "c": "16",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Það sama sumar kom skip af  Noregi  til  Grænlands . Sá maður hét Þorfinnur karlsefni er því skipi stýrði. Hann var son Þórðar hesthöfða Snorrasonar, Þórðarsonar frá  Höfða ."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock",
+            "Actors: animals: mammals: bull",
+            "Physical Landscape: built environment: buildings: house/booth",
+            "Actors: animals: domestic animals: livestock",
+            "Actors: things: boat",
+            "Actors: animals: mammals: whale",
+            "Physical Landscape: managed landscape area: beach",
+            "Actors: plants: trees/fruit",
+            "Actors: animals: fish"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vínland",
+                "sm_entry": {
+                    "id": "1179",
+                    "name": "Vínland",
+                    "lat": "51.5087424588033",
+                    "lng": "-60.8203125",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "15",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þann máldaga gerðu þeir Karlsefni og hásetar hans að jöfnum höndum skyldu þeir hafa allt það er þeir fengju til gæða. Þeir höfðu með sér alls konar fénað því að þeir ætluðu að byggja landið ef þeir mættu það. Karlsefni bað Leif húsa á  Vínland i en hann kveðst ljá mundu húsin en gefa eigi."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Physical Landscape: ecological area: woods and trees"
+        ],
+        "places": [],
+        "text": "Eftir þann vetur hinn fyrsta kom sumar. Þá urðu þeir varir við Skrælingja og fór þar úr skógi fram mikill flokkur manna. Þar var nær nautfé þeirra en graðungur tók að belja og gjalla ákaflega hátt. En það hræddust Skrælingjar og lögðu undan með byrðar sínar en það var grávara og safali og alls konar skinnavara og snúa til bæjar Karlsefnis og vildu þar inn í húsin en Karlsefni lét verja dyrnar. Hvorigir skildu annars mál."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Activities: exchange"
+        ],
+        "places": [],
+        "text": "Og nú leitar hann ráðs með þeim hætti að hann bað konur bera út búnyt að þeim og þegar er þeir sáu búnyt þá vildu þeir kaupa það en ekki annað. Nú var sú kaupför Skrælingja að þeir báru sinn varning í brott í mögum sínum en Karlsefni og förunautar hans höfðu eftir bagga þeirra og skinnavöru. Fóru þeir við svo búið í burt."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Events: construction"
+        ],
+        "places": [],
+        "text": "Nú er frá því að segja að Karlsefni lætur gera skíðgarð rammlegan um bæ sinn og bjuggust þar um. Í þann tíma fæddi Guðríður sveinbarn, kona Karlsefnis, og hét sá sveinn Snorri."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Actors: things: food"
+        ],
+        "places": [],
+        "text": "Þá mælti Karlsefni við konur: \"Nú skuluð þér bera út slíkan mat sem fyrr var rífastur en ekki annað.\""
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Physical Landscape: unamanged landscape area: unmanaged forest"
+        ],
+        "places": [],
+        "text": "Þá rétti Guðríður húsfreyja hönd sína til hennar að hún sæti hjá henni en það bar allt saman að þá heyrði Guðríður brest mikinn og var þá konan horfin og í því var og veginn einn Skrælingi af einum húskarli Karlsefnis því að hann hafði viljað taka vopn þeirra og fóru nú í brott sem tíðast en klæði þeirra lágu þar eftir og varningur. Engi maður hafði konu þessa séð utan Guðríður  ein."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Actors: animals: mammals: bull",
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [],
+        "text": "\"Nú munum vér þurfa til ráða að taka,\" segir Karlsefni, \"því að eg hygg að þeir muni vitja vor hið þriðja sinni með ófriði og fjölmenni. Nú skulum vér taka það ráð að tíu menn fari fram á nes þetta og sýni sig þar en annað lið vort skal fara í skóg og höggva þar rjóður fyrir nautfé vort þá er liðið kemur framúr skóginum. Vér skulum og taka griðung vorn og láta hann fara fyrir oss.\""
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Physical Landscape: unamanged landscape area: unmanaged forest",
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Nú komu Skrælingjar í þann stað er Karlsefni hafði ætlað til bardaga. Nú var þar bardagi og féll fjöldi af liði Skrælingja. Einn maður var mikill og vænn í liði Skrælingja og þótti Karlsefni sem hann mundi vera höfðingi þeirra. Nú hafði einn þeirra Skrælingja tekið upp öxi eina og leit á um stund og reiddi að félaga sínum og hjó til hans. Sá féll þegar dauður. Þá tók sá hinn mikli maður við öxinni og leit á um stund og varp henni síðan á sjóinn sem lengst  mátti hann. En síðan flýja þeir á skóginn svo hver sem fara mátti og lýkur þar nú þeirra viðskiptum."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Actors: plants: fruit",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænlands",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Eiríksfjarðar",
+                "sm_entry": {
+                    "id": "876",
+                    "name": "Eiríksfjörður",
+                    "lat": "61.0024129227167",
+                    "lng": "-45.5300903320313",
+                    "type": "fjord",
+                    "info": "=Tunugdliarfik",
+                    "county": "Foreign01",
+                    "c": "30",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Voru þeir Karlsefni þar þann vetur allan. En að vori þá lýsir Karlsefni að hann vill eigi þar vera lengur og vill fara til  Grænlands . Nú búa þeir ferð sína og höfðu þaðan mörg gæði í vínviði og berjum og skinnavöru. Nú sigla þeir í haf og komu til  Eiríksfjarðar  skipi sínu heilu og voru þar um veturinn."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Noregi",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Grænlands",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Vínlandi",
+                "sm_entry": {
+                    "id": "1179",
+                    "name": "Vínland",
+                    "lat": "51.5087424588033",
+                    "lng": "-60.8203125",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "15",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Það sama sumar kom skip af  Noregi  til  Grænlands  er Karlsefni kom af  Vínlandi ."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Physical Landscape: "
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vínlandi",
+                "sm_entry": {
+                    "id": "1179",
+                    "name": "Vínland",
+                    "lat": "51.5087424588033",
+                    "lng": "-60.8203125",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "15",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þaðan fór hún á fund Leifs bróður síns og bað að hann gæfi henni hús þau er hann hafði gera látið á  Vínlandi . En hann svarar hinu sama, kveðst ljá mundu hús en gefa eigi."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vínlands",
+                "sm_entry": {
+                    "id": "1179",
+                    "name": "Vínland",
+                    "lat": "51.5087424588033",
+                    "lng": "-60.8203125",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "15",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Sá var máldagi með þeim bræðrum og Freydísi að hvorir skyldu hafa þrjá tigi vígra manna á skipi og konur umfram. En Freydís brá af því þegar og hafði fimm mönnum fleira og leyndi þeim og urðu þeir bræður eigi fyrri við þá varir en þeir komu til  Vínlands ."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Physical Landscape: "
+        ],
+        "places": [],
+        "text": "Nú létu þau í haf og höfðu til þess mælt áður að þau mundu samflota hafa ef svo vildi verða, og þess var lítill munur. En þó komu þeir bræður nokkuru fyrri og höfðu upp borið föng sín til húsa Leifs. En er Freydís kom að landi þá ryðja þeir skip sitt og bera upp til húss föng sín."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Physical Landscape: "
+        ],
+        "places": [],
+        "text": "\"Mér léði Leifur húsanna,\" segir hún, \"en eigi yður.\""
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Physical Landscape: unamanged landscape area: lake",
+            "Actors: things: boat",
+            "Actors: things: wood",
+            "Physical Landscape: ",
+            "Events: construction"
+        ],
+        "places": [],
+        "text": "Báru nú út föng og gerðu sér skála og settu þann skála firr sjónum á vatnsströndu og bjuggu vel um. En Freydís lét fella viðu til skips síns."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Physical Landscape: "
+        ],
+        "places": [],
+        "text": "Nú tók að vetra og töluðu þeir bræður að takast mundu upp leikar og væri höfð skemmtan. Svo var gert um stund þar til er menn bárust verra í milli. Og þá gerðist sundurþykki með þeim og tókust af leikar og öngar gerðust komur milli skálanna. Og fór svo fram lengi vetrar."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Actors: plants: trees"
+        ],
+        "places": [],
+        "text": "Svo gerir hann. Þau ganga að tré er lá undir skálavegginum og settust þar niður."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Activities: exchange",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "\"Þá segir þú sem er,\" segir hún, \"og svo þykir mér. En það er erindi mitt á þinn fund að eg vildi kaupa skipum við ykkur bræður því að þið hafið meira skip en eg og vildi eg í brott héðan.\""
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænlandi",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Hún svarar með miklum þjósti: \"Eg var gengin,\" segir hún, \"til þeirra bræðra að fala skip að þeim og vildi eg kaupa meira skip. En þeir urðu við það svo illa að þeir börðu mig og léku sárlega en þú, vesæll maður, munt hvorki vilja reka minnar skammar né þinnar og mun eg það nú finna að eg er í brottu af  Grænlandi  og mun eg gera skilnað við þig utan þú hefnir þessa.\""
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Physical Landscape: "
+        ],
+        "places": [],
+        "text": "Og nú stóðst hann eigi átölur hennar og bað menn upp standa sem skjótast og taka vopn sín. Og svo gera þeir og fara þegar til skála þeirra bræðra og gengu inn að þeim sofundum og tóku þá og færðu í bönd og leiddu svo út hvern sem bundinn var en Freydís lét drepa hvern sem út kom. Nú voru þar allir karlar drepnir en konur voru eftir og vildi engi þær drepa."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Physical Landscape: "
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænlands",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú fóru þau til skála síns eftir það hið illa verk og fannst það eitt á að Freydís þóttist allvel hafa um ráðið og mælti við félaga sína: \"Ef oss verður auðið að koma til  Grænlands ,\" segir hún, \"þá skal eg þann mann ráða af lífi er segir frá þessum atburðum. Nú skulum vér það segja að þau búi hér eftir þá er vér förum í brott.\""
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eiríksfjörð",
+                "sm_entry": {
+                    "id": "876",
+                    "name": "Eiríksfjörður",
+                    "lat": "61.0024129227167",
+                    "lng": "-45.5300903320313",
+                    "type": "fjord",
+                    "info": "=Tunugdliarfik",
+                    "county": "Foreign01",
+                    "c": "30",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Grænlandi",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú bjuggu þeir skipið snemma um vorið, það er þeir bræður höfðu átt, með þeim öllum gæðum er þau máttu til fá og skipið bar, sigla síðan í haf og urðu vel reiðfara og komu í  Eiríksfjörð  skipi sínu snemma sumars. Nú var þar Karlsefni fyrir og hafði albúið skip sitt til hafs og beið byrjar og er það mál manna að eigi mundi auðgara skip gengið hafa af  Grænlandi  en það er hann stýrði."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Freydís fór nú til bús síns því að það hafði staðið meðan óskatt. Hún fékk mikinn feng fjár öllu föruneyti sínu því að hún vildi leyna láta ódáðum sínum. Situr hún nú í búi sínu."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Noregi",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Íslands",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú er að segja frá því er Karlsefni býr skip sitt og sigldi í haf. Honum fórst vel og kom til Noregs með heilu og höldnu og sat þar um veturinn og seldi  varning sinn og hafði þar gott yfirlæti og þau bæði hjón af hinum göfgustum mönnum í  Noregi . En um vorið eftir bjó hann skip sitt til  Íslands ."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: things: money",
+            "Activities: exchange"
+        ],
+        "places": [],
+        "text": "\"Eg mun gefa þér við hálfa mörk gulls,\" segir Suðurmaður."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: things: wood"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vínlandi",
+                "sm_entry": {
+                    "id": "1179",
+                    "name": "Vínland",
+                    "lat": "51.5087424588033",
+                    "lng": "-60.8203125",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "15",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Karlsefni þótti vel við boðið og keyptu síðan. Fór Suðurmaður í burt með húsasnotruna en Karlsefni vissi eigi hvað tré var. En það var mösur kominn af  Vínlandi ."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Activities: exchange",
+            "Community Places: administrative unit: farm",
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Skagafjörð",
+                "sm_entry": {
+                    "id": "162",
+                    "name": "Skagafjörður",
+                    "lat": "65.796189",
+                    "lng": "-19.497358",
+                    "type": "fjord",
+                    "county": "Skagaf01",
+                    "c": "69",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Glaumbæjarland"
+            }
+        ],
+        "text": "Nú siglir Karlsefni í haf og kom skipi sínu fyrir norðan land í  Skagafjörð og var þar upp sett skip hans um veturinn. En um vorið keypti hann  Glaumbæjarland  og gerði bú á og bjó þar meðan hann lifði og var hið mesta göfugmenni og er mart manna frá honum komið og Guðríði konu hans og góður ættbogi."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Events: construction",
+            "Physical Landscape: built environment: buildings: communal buildings: church"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Glaumbæ",
+                "sm_entry": {
+                    "id": "842",
+                    "name": "Glaumbær",
+                    "lat": "65.611096",
+                    "lng": "-19.504467",
+                    "type": "farm",
+                    "county": "Skagaf01",
+                    "c": "6",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Og er Snorri var kvongaður þá fór Guðríður utan og gekk suður og kom út aftur til bús Snorra sonar síns og hafði hann þá látið gera kirkju í  Glaumbæ ."
+    },
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Katanes",
+                "sm_entry": {
+                    "id": "1011",
+                    "name": "Katanes",
+                    "lat": "58.58182",
+                    "lng": "-3.254223",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "8",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Suðurland",
+                "sm_entry": {
+                    "id": "1708",
+                    "name": "Aurland",
+                    "lat": "60.904258",
+                    "lng": "7.201873",
+                    "type": "farm",
+                    "county": "Foreign01",
+                    "c": "12",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Ross",
+                "sm_entry": {
+                    "id": "2977",
+                    "name": "Foss",
+                    "lat": "63.820554",
+                    "lng": "-19.919914",
+                    "type": "farm",
+                    "county": "Rangár01",
+                    "c": "1",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Skotland",
+                "sm_entry": {
+                    "id": "536",
+                    "name": "Skotland",
+                    "lat": "57.338381265529",
+                    "lng": "-3.9111328125",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "23",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þorsteinn gerðist herkonungur. Hann réðst til lags með Sigurði jarli hinum ríka syni Eysteins glumru. Þeir unnu  Katanes  og  Suðurland ,  Ross  og Meræfi og meir en hálft  Skotland . Gerðist Þorsteinn þar konungur yfir áður Skotar sviku hann og féll hann þar í orustu."
+    },
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel",
+            "Events: construction"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Katanesi",
+                "sm_entry": {
+                    "id": "1544",
+                    "name": "Katanes",
+                    "lat": "64.36442",
+                    "lng": "-21.752518",
+                    "type": "farm",
+                    "county": "Borga01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Orkneyjar",
+                "sm_entry": {
+                    "id": "380",
+                    "name": "Orkneyjar",
+                    "lat": "59.0857385698195",
+                    "lng": "-2.8125",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "49",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Auður var þá á  Katanesi  er hún spurði fall Þorsteins. Hún lét þá gera knörr í skógi á laun en er hún var búin hélt hún út í  Orkneyjar . Þar gifti hún Gró dóttur Þorsteins rauðs. Hún var móðir Grélaðar er Þorfinnur jarl hausakljúfur átti."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Jaðri",
+                "sm_entry": {
+                    "id": "395",
+                    "name": "Jaðar",
+                    "lat": "58.7026294366368",
+                    "lng": "5.7952880859375",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "4",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Íslands",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Hornströndum",
+                "sm_entry": {
+                    "id": "2684",
+                    "name": "Hornstrandir",
+                    "lat": "66.393782",
+                    "lng": "-22.497638",
+                    "type": "coast",
+                    "county": "NorÍsa01",
+                    "c": "3",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Dröngum",
+                "sm_entry": {
+                    "id": "2169",
+                    "name": "Drangey",
+                    "lat": "65.94536",
+                    "lng": "-19.68888",
+                    "type": "island",
+                    "county": "Skagaf01",
+                    "c": "2",
+                    "distance": 3
+                }
+            }
+        ],
+        "text": "Þorvaldur hét maður. Hann var son Ásvalds Úlfssonar, Yxna-Þórissonar. Eiríkur rauði hét son hans. Þeir feðgar fóru af  Jaðri  til  Íslands  fyrir víga sakir  og námu land á  Hornströndum  og bjuggu að  Dröngum . Þar andaðist Þorvaldur."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Physical Processes: landscape change: human induced change"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Haukadal",
+                "sm_entry": {
+                    "id": "2579",
+                    "name": "Haukadalsá",
+                    "lat": "65.04618",
+                    "lng": "-21.72263",
+                    "type": "river",
+                    "county": "Dalas01",
+                    "c": "3",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Eiríksstöðum",
+                "sm_entry": {
+                    "id": "1419",
+                    "name": "Eiríksstaðir",
+                    "lat": "64.36973",
+                    "lng": "-20.878529",
+                    "type": "farm",
+                    "info": "Uncertain location. \"Í Jarðab. Á. M. (II, 363) er getið um eyðibýlið Eiríksstaði \"fyrir norðan Mjóafelli (svo!) á milli og Skjaldbreiðar\", en að vísu bólar þar jafnframt á fjarstæðri hugmynd um fornt byggðarlag langt fyrir ofan núverandi Þingvallasveit. Sbr. og Á. M. Chorogr. isl. 45. B.V.\", ÍF XIII: 130. ",
+                    "county": "Árnes01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Vatnshorni"
+            }
+        ],
+        "text": "Eiríkur fékk þá Þjóðhildar dóttur Jörundar Úlfssonar og Þorbjargar knarrarbringu er þá átti Þorbjörn hinn haukdælski. Réðst Eiríkur þá norðan og ruddi land í  Haukadal  og bjó á  Eiríksstöðum  hjá  Vatnshorni ."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vatnshorni"
+            },
+            {
+                "as_mentioned": "Leikskálum",
+                "sm_entry": {
+                    "id": "1312",
+                    "name": "Leikskálar",
+                    "lat": "64.984463",
+                    "lng": "-15.579152",
+                    "type": "farm",
+                    "info": "\"Ókunnugt er, hvar sá bær hefir verið. Olavius getur um tvenna Leikskála meðal eyðibýla í Hrafnkelsdal og segir, að heitar laguar séu hjá báðum (Oeconomisk Reyse, 479-80), en hætt er við, að þar sé málum sama og Laugarhús\" (ÍF XI: 100). ",
+                    "county": "NorMúl01",
+                    "c": "7",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Jörva",
+                "sm_entry": {
+                    "id": "770",
+                    "name": "Jörvi",
+                    "lat": "64.745224",
+                    "lng": "-22.300443",
+                    "type": "farm",
+                    "county": "Mýras01",
+                    "c": "6",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þá felldu þrælar Eiríks skriðu á bæ Valþjófs á Valþjófsstöðum. Eyjólfur saur frændi hans drap þrælana hjá Skeiðsbrekkum upp frá  Vatnshorni . Fyrir það vó Eiríkur Eyjólf saur. Hann vó og Hólmgöngu-Hrafn að  Leikskálum . Geirsteinn og Oddur á  Jörva , frændur Eyjólfs, mæltu eftir hann."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Haukadal",
+                "sm_entry": {
+                    "id": "2579",
+                    "name": "Haukadalsá",
+                    "lat": "65.04618",
+                    "lng": "-21.72263",
+                    "type": "river",
+                    "county": "Dalas01",
+                    "c": "3",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Brokey",
+                "sm_entry": {
+                    "id": "1157",
+                    "name": "Brokey",
+                    "lat": "65.079333",
+                    "lng": "-22.480402",
+                    "type": "island",
+                    "county": "Snæfe02",
+                    "c": "3",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Yxney",
+                "sm_entry": {
+                    "id": "3130",
+                    "name": "Viðey",
+                    "lat": "64.164655",
+                    "lng": "-21.851113",
+                    "type": "island",
+                    "county": "Kjósar01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Tröðum",
+                "sm_entry": {
+                    "id": "1242",
+                    "name": "Tröð",
+                    "lat": "64.752473",
+                    "lng": "-23.649968",
+                    "type": "farm",
+                    "info": "=Skjaldartröð á Hellnum. \"En reyndar er önnur Tröð  eyðibýli austan við Helluhraun (sjá Safn II, 302). Þessara landnám er ekki getið í Landn\" (ÍF XIII: 112).  ",
+                    "county": "Snæfe02",
+                    "c": "1",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Suðurey",
+                "sm_entry": {
+                    "id": "2469",
+                    "name": "Suðuroy",
+                    "lat": "61.514985",
+                    "lng": "-6.83285",
+                    "type": "island",
+                    "county": "Foreign01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Yxney",
+                "sm_entry": {
+                    "id": "3130",
+                    "name": "Viðey",
+                    "lat": "64.164655",
+                    "lng": "-21.851113",
+                    "type": "island",
+                    "county": "Kjósar01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Eiríksstöðum",
+                "sm_entry": {
+                    "id": "1419",
+                    "name": "Eiríksstaðir",
+                    "lat": "64.36973",
+                    "lng": "-20.878529",
+                    "type": "farm",
+                    "info": "Uncertain location. \"Í Jarðab. Á. M. (II, 363) er getið um eyðibýlið Eiríksstaði \"fyrir norðan Mjóafelli (svo!) á milli og Skjaldbreiðar\", en að vísu bólar þar jafnframt á fjarstæðri hugmynd um fornt byggðarlag langt fyrir ofan núverandi Þingvallasveit. Sbr. og Á. M. Chorogr. isl. 45. B.V.\", ÍF XIII: 130. ",
+                    "county": "Árnes01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Breiðabólstað",
+                "sm_entry": {
+                    "id": "2934",
+                    "name": "Breiðabólstaðir",
+                    "lat": "64.129372",
+                    "lng": "-16.014921",
+                    "type": "farm",
+                    "county": "AusSka02",
+                    "c": "1",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Dröngum",
+                "sm_entry": {
+                    "id": "2169",
+                    "name": "Drangey",
+                    "lat": "65.94536",
+                    "lng": "-19.68888",
+                    "type": "island",
+                    "county": "Skagaf01",
+                    "c": "2",
+                    "distance": 3
+                }
+            }
+        ],
+        "text": "Þá var Eiríkur ger á brott úr  Haukadal . Hann nam þá  Brokey  og  Yxney  og bjó að  Tröðum  í  Suðurey  hinn fyrsta vetur. Þá léði hann Þorgesti setstokka. Síðan fór Eiríkur í  Yxney  og bjó á  Eiríksstöðum . Þá heimti hann setstokkana og náði eigi. Eiríkur sótti setstokkana á  Breiðabólstað  en Þorgestur fór eftir honum. Þeir börðust skammt frá garði að  Dröngum . Þar féllu tveir synir Þorgests og nokkurir menn aðrir."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Community Places: shared spaces: local assembly "
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þórsnessþingi",
+                "sm_entry": {
+                    "id": "686",
+                    "name": "Þórsnessþing",
+                    "lat": "65.028925",
+                    "lng": "-22.750292",
+                    "type": "assembly site",
+                    "info": "Vorþing á Ísl. að fornu, haldið að Þórsnesi í Helgafellssveit á Snæfellsnesi; eitt elsta þing á Ísl., komið á fót á landnámsöld af Þórólfi mostrarskegg.",
+                    "county": "Snæfe02",
+                    "c": "40",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Eiríksvogi",
+                "sm_entry": {
+                    "id": "2685",
+                    "name": "Eiríksvogur",
+                    "lat": "65.091895",
+                    "lng": "-22.508867",
+                    "type": "other",
+                    "county": "Snæfe02",
+                    "c": "1",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Dímunarvogi",
+                "sm_entry": {
+                    "id": "1400",
+                    "name": "Dímunarvogur",
+                    "lat": "65.134139",
+                    "lng": "-22.599016",
+                    "type": "bay",
+                    "county": "Dalas01",
+                    "c": "2",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Þeir Eiríkur urðu sekir á  Þórsnessþingi . Hann bjó skip í  Eiríksvogi  en Eyjólfur leyndi honum í  Dímunarvogi  meðan þeir Þorgestur leituðu hans um eyjarnar. Hann sagði þeim að hann ætlaði að leita lands þess er Gunnbjörn son Úlfs kráku sá, er hann rak vestur um haf og hann fann Gunnbjarnarsker. Hann kveðst aftur mundu leita til vina sinna ef hann fyndi landið. Þeir Þorbjörn og Styr og Eyjólfur fylgdu Eiríki út um eyjar og skildu með hinni mestu vináttu. Kveðst Eiríkur þeim skyldu verða að þvílíku trausti sem hann mætti sér við koma ef þeir kynnu hans að þurfa."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Physical Landscape: unmanaged landscape area: glacier "
+        ],
+        "places": [
+            {
+                "as_mentioned": "Snæfellsjökli",
+                "sm_entry": {
+                    "id": "1165",
+                    "name": "Snæfellsjökull",
+                    "lat": "64.810042",
+                    "lng": "-23.777655",
+                    "type": "mountain",
+                    "info": "=Snjófell in Bárðar saga mss. ",
+                    "county": "Snæfe02",
+                    "c": "31",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Sigldi Eiríkur á haf undan  Snæfellsjökli  og kom utan að jökli þeim er Bláserkur heitir. Hann fór þaðan suður að leita ef þar væri byggjanda."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Laugarbrekku",
+                "sm_entry": {
+                    "id": "1171",
+                    "name": "Laugarbrekka",
+                    "lat": "64.754741",
+                    "lng": "-23.682081",
+                    "type": "farm",
+                    "county": "Snæfe02",
+                    "c": "21",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Hellisvöllum",
+                "sm_entry": {
+                    "id": "1172",
+                    "name": "Hellisvellir",
+                    "lat": "64.749009",
+                    "lng": "-23.647973",
+                    "type": "farm",
+                    "info": "=Hellnar",
+                    "county": "Snæfe02",
+                    "c": "1",
+                    "distance": 3
+                }
+            }
+        ],
+        "text": "Önnur dóttir Einars hét Hallveig. Hennar fékk Þorbjörn Vífilsson og tók með land á  Laugarbrekku  á  Hellisvöllum . Réðst Þorbjörn þangað byggðum og gerðist göfugmenni mikið. Hann var goðorðsmaður og hafði rausnarbú. Guðríður hét dóttir Þorbjarnar. Hún var kvenna vænst og hinn mesti skörungur í öllu athæfi sínu."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock",
+            "Physical Landscape: built environment: buildings: agricultural buildings: shieling/shed"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þorgeirsfelli",
+                "sm_entry": {
+                    "id": "1174",
+                    "name": "Þorgeirsfell",
+                    "lat": "64.838132",
+                    "lng": "-23.112618",
+                    "type": "farm",
+                    "county": "Skagaf01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Ísland",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Noregi",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Maður hét Þorgeir er bjó að  Þorgeirsfelli . Hann var vellauðigur að fé og hafði verið leysingi. Hann átti son er Einar hét. Hann var vænn maður og vel mannaður og skartsmaður mikill. Einar var í siglingu landa í milli og tókst honum það vel. Var hann jafnan sinn vetur hvort á  Ísland i eða í  Noregi ."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þorgeirsfelli",
+                "sm_entry": {
+                    "id": "1174",
+                    "name": "Þorgeirsfell",
+                    "lat": "64.838132",
+                    "lng": "-23.112618",
+                    "type": "farm",
+                    "county": "Skagaf01",
+                    "c": "2",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Ormur kemur að máli við Þorbjörn og segir að Einar var þar skömmu, frá  Þorgeirsfelli , og gerðist efnilegur maður. Hefur Ormur nú upp bónorðið fyrir hönd Einars og sagði að það væri vel hent fyrir sumra manna sakir að hluta \"má þér bóndi að því verða styrkur mikill fyrir fjárkosta sakir.\""
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Breiðafirði",
+                "sm_entry": {
+                    "id": "344",
+                    "name": "Breiðamýri",
+                    "lat": "65.9694108052555",
+                    "lng": "-17.3844909667969",
+                    "type": "farm",
+                    "county": "SuðÞin01",
+                    "c": "4",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Grænlands",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Og að veislunni kvaddi Þorbjörn sér hljóðs og mælti: \"Hér hefi eg búið langa ævi. Hefi eg reynt góðvilja manna við mig og ástúð. Kalla eg vel vor skipti  farið hafa. En nú tekur fjárhagur minn að óhægjast fyrir lausafjár sakir en hefir kallað verið hingað til heldur virðingarráð. Nú vil eg fyrr búi mínu bregða en sæmd minni týna, fyrr af landi fara en ætt mína svívirða. Ætla eg nú að vitja um mál Eiríks rauða vinar míns er hann hafði þá er við skildum á  Breiðafirði . Ætla eg nú að fara til  Grænlands  í sumar ef svo fer sem eg vildi.\""
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hraunhafnarósi",
+                "sm_entry": {
+                    "id": "1175",
+                    "name": "Hraunhafnarós",
+                    "lat": "64.828837",
+                    "lng": "-23.381661",
+                    "type": "estuary",
+                    "info": "=Búðarós",
+                    "county": "Snæfe02",
+                    "c": "5",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Arnarstapa",
+                "sm_entry": {
+                    "id": "1173",
+                    "name": "Arnarstapi",
+                    "lat": "64.769249",
+                    "lng": "-23.629461",
+                    "type": "farm",
+                    "county": "Snæfe02",
+                    "c": "14",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þorbjörn selur lendur sínar og kaupir skip er stóð uppi í  Hraunhafnarósi . Réðust til ferðar með honum þrír tigir manna. Var þar Ormur frá  Arnarstapa  og kona hans og þeir vinir Þorbjarnar er eigi vildu við hann skilja."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Herjólfsnes",
+                "sm_entry": {
+                    "id": "1176",
+                    "name": "Herjólfsnes",
+                    "lat": "60.048969",
+                    "lng": "-44.854699",
+                    "type": "peninsula",
+                    "county": "Foreign01",
+                    "c": "6",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Grænlandi",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Síðan létu þeir í haf. Þá er þeir höfðu út látið var veður hagstætt en er þeir komu í haf tók af byri og fengu þeir mikil veður og fórst þeim ógreitt um sumarið. Því næst kom sótt í lið þeirra og andaðist Ormur og Halldís kona hans og helmingur þeirra. Sjó tók að stæra og fengu þeir vos mikið og vesöld á marga vega og tóku þó  Herjólfsnes  á  Grænlandi  við veturnætur sjálfar."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Actors: supernatural actors: seeress"
+        ],
+        "places": [],
+        "text": "Sú kona var þar í byggð er Þorbjörg hét. Hún var spákona og var kölluð lítilvölva. Hún hafði átt sér níu systur og voru allar spákonur og var hún ein eftir á lífi."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Actors: things: skin"
+        ],
+        "places": [],
+        "text": "En er hún kom um kveldið og sá maður er í móti henni var sendur þá var hún svo búin að hún hafði yfir sér tuglamöttul blán og var settur steinum allt í skaut ofan. Hún hafði á hálsi sér glertölur. Hún hafði á höfði lambskinnskofra svartan og við innan kattarskinn hvítt. Staf hafði hún í hendi og var á hnappur. Hann var búinn messingu og settur steinum ofan um hnappinn. Hún hafði um sig hnjóskulinda og var þar á skjóðupungur mikill. Varðveitti hún þar í töfur þau er hún þurfti til fróðleiks að hafa. Hún hafði kálfskinnsskó loðna á fótum og í þvengi langa og sterklega, látúnshnappar miklir á endunum. Hún hafði á höndum sér kattskinnsglófa og voru hvítir innan og loðnir."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock",
+            "Physical Landscape: built landscape: buildings"
+        ],
+        "places": [],
+        "text": "En er hún kom inn þótti öllum mönnum skylt að velja henni sæmilegar kveðjur en hún tók því eftir sem henni voru menn skapfelldir til. Tók Þorkell bóndi í hönd vísindakonunni og leiddi hana til þess sætis er henni var búið. Þorkell bað hana þá renna þar augum yfir hjörð og hjú og híbýli. Hún var fámálug um allt."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Actors: things: food"
+        ],
+        "places": [],
+        "text": "Borð voru upp tekin um kveldið og er frá því að segja að spákonunni var matbúið. Henni var ger grautur af kiðjamjólk en til matar henni voru búin hjörtu úr alls konar kvikindum þeim sem þar voru til. Hún hafði messingarspón og hníf tannskeftan, tvíhólkaðan af eiri, og var af brotinn oddurinn."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Activities: socializing: performance"
+        ],
+        "places": [],
+        "text": "En eftir að áliðnum degi var henni veittur sá umbúningur sem hún skyldi til að fremja seiðinn. Bað hún fá sér konur þær sem kynnu fræði það er þyrfti til seiðinn að fremja og Varðlokur heita. En þær konur fundust eigi. Þá var að leitað um bæinn ef nokkur kynni."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Activities: socializing: performance"
+        ],
+        "places": [],
+        "text": "Þorkell herðir nú að Guðríði en hún kveðst mundu gera sem hann vildi. Slógu þá konur hring umhverfis en Þorbjörg sat uppi á seiðhjallinum. Kvað Guðríður þá kvæðið svo fagurt og vel að engi þóttist fyrr heyrt hafa með fegri raust kveðið sá er þar var."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Síðan gengu menn að vísindakonunni og frétti hver eftir því sem mest forvitni var á. Var hún og góð af frásögnum. Gekk það og lítt í tauma er hún sagði. Þessu næst var komið eftir henni af öðrum bæ og fór hún þá þangað. Þá var sent eftir Þorbirni því að hann vildi eigi heima vera meðan slík heiðni var framin."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Activities: travel",
+            "Actor: thing: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Brattahlíð",
+                "sm_entry": {
+                    "id": "877",
+                    "name": "Brattahlíð",
+                    "lat": "61.151352",
+                    "lng": "-45.524699",
+                    "type": "farm",
+                    "info": "=Kagsiarsuk",
+                    "county": "Foreign01",
+                    "c": "25",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Stokkanesi",
+                "sm_entry": {
+                    "id": "879",
+                    "name": "Stokkanes",
+                    "lat": "61.181914",
+                    "lng": "-45.443991",
+                    "type": "farm",
+                    "county": "Foreign01",
+                    "c": "12",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Veðrátta batnaði skjótt þegar er vora tók sem Þorbjörg hafði sagt. Býr Þorbjörn skip sitt og fer uns hann kemur í  Brattahlíð . Tekur Eiríkur við honum báðum höndum og kvað það vel er hann var þar kominn. Var Þorbjörn með honum um veturinn og skuldalið hans. Eftir um vorið gaf Eiríkur Þorbirni land á  Stokkanesi  og var þar ger sæmilegur bær og bjó hann þar síðan."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænlandi",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Noregs",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Eiríkur átti þá konu er Þjóðhildur hét og við henni tvo sonu. Hét annar Þorsteinn en annar Leifur. Þeir voru báðir efnilegir menn. Var Þorsteinn heima með föður sínum og var eigi þá sá maður á  Grænlandi  er jafn mannvænn þótti sem hann. Leifur hafði siglt til  Noregs . Var hann þar með Ólafi konungi Tryggvasyni."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Actors: things: jewelry "
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænlands",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Íslands",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Grænlandi",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Hann gaf henni fingurgull og möttul grænlenskan og tannbelti. Þessi sveinn kom til  Grænlands  og nefndist Þorgils. Leifur tók við honum að faðerni. Og er það sumra manna sögn að þessi Þorgils kæmi til  Íslands  fyrir Fróðárundur um sumarið. En sjá Þorgils var síðan á  Grænlandi  og þótti enn eigi kynjalaust um verða áður lauk."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Actors: plants: crops/trees",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Leifur lét í haf þegar hann var búinn. Leif velkti lengi úti og hitti hann á lönd þau er hann vissi áður öngva von í. Voru þar hveitiakrar sjálfsánir og vínviður vaxinn. Þar voru og þau tré er mösur hétu og höfðu þeir af öllu þessu nokkur merki, sum tré svo mikil að í hús voru lögð."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Leifur fann menn á skipflaki og flutti heim með sér og fékk öllum vist um veturinn. Sýndi hann svo mikla stórmennsku og gæsku af sér. Hann kom kristni á landið og hann bjargaði mönnunum. Var hann kallaður Leifur hinn heppni."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: building: house",
+            "Physical Landscape: built environment: buildings: communal buildings: church",
+            "Events: construction"
+        ],
+        "places": [],
+        "text": "Eiríkur tók því máli seint að láta sið sinn en Þjóðhildur gekk skjótt undir og lét gera kirkju eigi allnær húsunum. Var það hús kallað Þjóðhildarkirkja. hafði hún þar fram bænir sínar og þeir menn sem við kristni tóku en þeir voru margir. Þjóðhildur vildi ekki halda samfarar við Eirík síðan er hún tók trú en honum var það mjög í móti skapi."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Af þessu gerðist orð mikið að menn mundu leita lands þess er Leifur hafði fundið. Var þar formaður Þorsteinn Eiríksson, góður maður og fróður og vinsæll. Eiríkur var og til beðinn og trúðu menn því að hans gæfa mundi framast vera og forsjá. Hann var þá fyrir en kvað eigi nei við er vinir hans fýstu hann til. Bjuggu þeir skip það síðan er Þorbjörn hafði út haft og voru til ráðnir tuttugu menn. Höfðu þeir fé lítið en meir vopn og vistir."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Þann morgun er Eiríkur fór heiman tók hann kistil og var þar í gull og silfur. Fal hann það fé og fór síðan leiðar sinnar. Og er hann var skammt á leið kominn féll hann af baki og braut rif sín og lesti öxl sína og kvað við: \"Ái, ái.\""
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Actors: animals: avian",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eiríksfirði"
+            },
+            {
+                "as_mentioned": "Ísland",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Írlandi",
+                "sm_entry": {
+                    "id": "421",
+                    "name": "Írland",
+                    "lat": "53.142131",
+                    "lng": "-7.691925",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "41",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Eiríksfjörð",
+                "sm_entry": {
+                    "id": "876",
+                    "name": "Eiríksfjörður",
+                    "lat": "61.0024129227167",
+                    "lng": "-45.5300903320313",
+                    "type": "fjord",
+                    "info": "=Tunugdliarfik",
+                    "county": "Foreign01",
+                    "c": "30",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Síðan sigldu þeir út úr  Eiríksfirði  með gleði og þótti vænt um sitt ráð. Þá velkti lengi úti í hafi og komu ekki á þær slóðir sem þeir vildu. Þeir komu í sýn við  Ísland  og svo höfðu þeir fugl af  Írlandi . Reiddi þá skip þeirra um haf innan, fóru aftur um haustið og voru mæddir og mjög þrekaðir og komu við vetur sjálfan á  Eiríksfjörð ."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vestribyggð",
+                "sm_entry": {
+                    "id": "1177",
+                    "name": "Vestribyggð",
+                    "lat": "64.600971",
+                    "lng": "-50.483475",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "5",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Lýsufirði"
+            },
+            {
+                "as_mentioned": "Lýsufjörð",
+                "sm_entry": {
+                    "id": "1178",
+                    "name": "Lýsufjörður",
+                    "lat": "64.404412",
+                    "lng": "-50.570679",
+                    "type": "farm",
+                    "county": "Foreign01",
+                    "c": "3",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Þorsteinn átti bú í  Vestribyggð  á bæ þeim er í  Lýsufirði  heitir. Sá maður átti þar helming í búi er Þorsteinn hét. Sigríður hét kona hans. Fóru þau Þorsteinn heim í  Lýsufjörð  og Guðríður bæði. Var þar vel við þeim tekið. Voru þau þar um veturinn."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: buildings"
+        ],
+        "places": [],
+        "text": "Þá tók sótt Þorsteinn Eiríksson og Sigríður kona Þorsteins. Og eitt kveld fýsist hún að ganga til garðs þess er stóð í gegnt útidyrum."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Actors: humans: dead humans"
+        ],
+        "places": [],
+        "text": "Síðan gengu þær inn og áður morgunn kæmi var hún önduð og var ger kista að líkinu."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Activities: fishing"
+        ],
+        "places": [],
+        "text": "Og þann sama dag ætluðu menn út að róa og leiddi Þorsteinn þá til vara og í annan lit fór hann að sjá um veiðiskap þeirra. Þá sendi Þorsteinn Eiríksson nafna sínum orð að hann kæmi til hans og sagði svo að þar var varla kyrrt og húsfreyja vildi færast á fætur og vildi undir klæðin hjá honum. Og er hann kom inn var hún komin á rekkjustokkinn hjá honum. Hann tók hana höndum og lagði bolöxi fyrir brjóstið."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Actors: humans: dead humans"
+        ],
+        "places": [],
+        "text": "Þorsteinn Eiríksson andaðist nær dagsetri. Þorsteinn bað Guðríði leggjast niður og sofa en hann kveðst vaka mundu um nóttina yfir líkunum. Hún gerir svo."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Hann sagði henni og um sína hagi og kvað hennar forlög mikil mundu verða en hann bað hana varast að giftast grænlenskum manni. Bað hann og að hún legði fé þeirra til kirkju eða gefa það fátækum mönnum. Og þá hneig hann aftur í öðru."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Events: burial"
+        ],
+        "places": [],
+        "text": "Sá hafði háttur verið á Grænlandi síðan kristni kom út þangað að menn voru grafnir þar á bæjum, er menn önduðust, í óvígðri moldu. Skyldi setja staur upp af brjósti en síðan er kennimenn komu til þá skyldi kippa upp staurnum og hella þar í vígðu vatni og veita þar yfirsöngva þótt það væri miklu síðar."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Actors: humans: dead humans",
+            "Events: burial",
+            "Physical Landscape: built environment: buildings: communal buildings: church"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eiríksfjörð",
+                "sm_entry": {
+                    "id": "876",
+                    "name": "Eiríksfjörður",
+                    "lat": "61.0024129227167",
+                    "lng": "-45.5300903320313",
+                    "type": "fjord",
+                    "info": "=Tunugdliarfik",
+                    "county": "Foreign01",
+                    "c": "30",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Líkin voru færð til kirkju í  Eiríksfjörð  og veittir yfirsöngvar af kennimönnum."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Eftir það andaðist Þorbjörn. Bar þá féið allt undir Guðríði. Tók Eiríkur við henni og sá vel um kost hennar."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænlands",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Álftafirði"
+            }
+        ],
+        "text": "Eitt sumar býr Karlsefni skip sitt og ætlaði til  Grænlands . Réðst til ferðar með honum Snorri Þorbrandsson úr  Álftafirði  og voru fjórir tigir manna með þeim."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænlands",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Maður hét Bjarni Grímólfsson, breiðfirskur maður. Annar hét Þórhallur Gamlason, austfirskur maður. Þeir bjuggu skip sitt samsumars sem Karlsefni og ætluðu til  Grænlands . Þeir voru á skipi fjórir tigir manna."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: buildings"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Brattahlíð",
+                "sm_entry": {
+                    "id": "877",
+                    "name": "Brattahlíð",
+                    "lat": "61.151352",
+                    "lng": "-45.524699",
+                    "type": "farm",
+                    "info": "=Kagsiarsuk",
+                    "county": "Foreign01",
+                    "c": "25",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Brattahlíð",
+                "sm_entry": {
+                    "id": "877",
+                    "name": "Brattahlíð",
+                    "lat": "61.151352",
+                    "lng": "-45.524699",
+                    "type": "farm",
+                    "info": "=Kagsiarsuk",
+                    "county": "Foreign01",
+                    "c": "25",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Eiríkur reið til skips og aðrir landsmenn og tókst með þeim greiðleg kaupstefna. Buðu stýrimenn Eiríki að hafa slíkt af varninginum sem hann vildi. En Eiríkur sýni mikla stórmennsku af sér í móti því að hann bauð þessum skipverjunum báðum heim til sín til veturvistar í  Brattahlíð . Þetta þágu kaupmenn og fóru með Eiríki. Síðan var fluttur heim varningur þeirra  í  Brattahlíð . Skorti þar eigi góð og stór útibúr að varðveita í. Líkaði kaupmönnum vel með Eiríki um veturinn."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Actors: things: food",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Karlsefni svarar: \"Það mun ekki á þá leið. Vér höfum á skipum vorum malt og mjöl og korn og er yður heimilt að hafa af slíkt sem þér viljið og gerið veislu slíka sem stórmennsku ber til.\""
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Ideas: fate"
+        ],
+        "places": [],
+        "text": "Og eftir jólin vekur Karlsefni við Eirík um ráðahag við Guðríði er honum leist sem það mundi á hans forræði en honum leist kona fríð og vel kunnandi. Eiríkur svarar, kveðst vel mundu undir taka hans mál en kvað hana góðs gjaforð verða \"er það og líklegt að hún fylgi sínum forlögum\" þó að hún væri honum gefin og kvað góða frétt af honum koma."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Brattahlíð",
+                "sm_entry": {
+                    "id": "877",
+                    "name": "Brattahlíð",
+                    "lat": "61.151352",
+                    "lng": "-45.524699",
+                    "type": "farm",
+                    "info": "=Kagsiarsuk",
+                    "county": "Foreign01",
+                    "c": "25",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Vínlands",
+                "sm_entry": {
+                    "id": "1179",
+                    "name": "Vínland",
+                    "lat": "51.5087424588033",
+                    "lng": "-60.8203125",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "15",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Vínlands",
+                "sm_entry": {
+                    "id": "1179",
+                    "name": "Vínland",
+                    "lat": "51.5087424588033",
+                    "lng": "-60.8203125",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "15",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Á því léku miklar umræður um veturinn í  Brattahlíð  að þar voru mjög töfl uppi höfð og sagnaskemmtan og margt það er til híbýlabótar mátti vera. Ætluðu þeir Karlsefni og Snorri að leita  Vínlands  og töluðu menn margt um það. En því lauk svo að þeir Karlsefni og Snorri bjuggu skip sitt og ætluðu að leita  Vínlands  um sumarið. Til þeirrar ferðar réðust þeir Bjarni og Þórhallur með skip sitt og það föruneyti er þeim hafði fylgt."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænland",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Maður hét Þorvarður. Hann átti Freydísi, dóttur Eiríks rauða laungetna. Hann fór með þeim og Þorvaldur son Eiríks og Þórhallur er var kallaður  veiðimaður. Hann hafði lengi verið í veiðiförum með Eiríki um sumrum og hafði hann margar varðveislur. Þórhallur var mikill vexti, svartur og þurslegur. Hann var heldur við aldur, ódæll í skapi, hljóðlyndur, fámálugur hversdaglega, undirförull og þó atmælasamur og fýstist jafnan hins verra. Hann hafði lítt við trú blandast síðan hún kom á  Grænland . Þórhallur var lítt vinsældum horfinn en þó hafði Eiríkur lengi tal af honum haldið. Hann var á skipi með þeim Þorvaldi því að honum var víða kunnigt í óbyggðum. Þeir höfðu það skip er Þorbjörn hafði út þangað og réðust til ferðar með þeim Karlsefni og voru þar flestir grænlenskir menn á. Á skipum þeirra voru fjórir tigir manna annars hundraðs."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Actors: animals: mammals: fox",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vestribyggðar",
+                "sm_entry": {
+                    "id": "1177",
+                    "name": "Vestribyggð",
+                    "lat": "64.600971",
+                    "lng": "-50.483475",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "5",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Bjarneyja",
+                "sm_entry": {
+                    "id": "37",
+                    "name": "Bjarneyjar",
+                    "lat": "65.273868",
+                    "lng": "-22.842035",
+                    "type": "island",
+                    "info": "group of islands of which Heimaey is largest",
+                    "county": "Dalas01",
+                    "c": "6",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Bjarneyjum",
+                "sm_entry": {
+                    "id": "37",
+                    "name": "Bjarneyjar",
+                    "lat": "65.273868",
+                    "lng": "-22.842035",
+                    "type": "island",
+                    "info": "group of islands of which Heimaey is largest",
+                    "county": "Dalas01",
+                    "c": "6",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Helluland",
+                "sm_entry": {
+                    "id": "3043",
+                    "name": "Hólmsland",
+                    "lat": "64.086711",
+                    "lng": "-21.726753",
+                    "type": "other",
+                    "county": "Mýras01",
+                    "c": "1",
+                    "distance": 3
+                }
+            }
+        ],
+        "text": "Sigldu þeir undan síðan til  Vestribyggðar  og til  Bjarneyja . Sigldu þeir þaðan undan  Bjarneyjum  norðan veður. Voru þeir úti tvö dægur. Þá fundu þeir land og reru fyrir á bátum og könnuðu landið og fundu þar hellur margar og svo stórar að tveir menn máttu vel spyrnast í iljar. Melrakkar voru þar margir. Þeir gáfu nafn landinu og kölluð  Helluland ."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: animals: mammals: bear",
+            "Physical Landscape: ecological area: woods and trees"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Bjarney",
+                "sm_entry": {
+                    "id": "2483",
+                    "name": "Bjarnarey",
+                    "lat": "63.44738",
+                    "lng": "-20.1894",
+                    "type": "island",
+                    "county": "Rangár01",
+                    "c": "1",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Markland",
+                "sm_entry": {
+                    "id": "1183",
+                    "name": "Markland",
+                    "lat": "53.3505513183999",
+                    "lng": "-57.9144287109375",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "3",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þá sigldu þeir norðan veður tvö dægur og var þá land fyrir þeim og var á skógur mikill og dýr mörg. Ey lá í landsuður undan landinu og fundu þeir þar bjarndýr og kölluðu  Bjarney  en landið kölluðu þeir  Markland . Þar er skógurinn."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Kjalarnes",
+                "sm_entry": {
+                    "id": "1008",
+                    "name": "Kjalarnes",
+                    "lat": "64.242635",
+                    "lng": "-21.822147",
+                    "type": "peninsula",
+                    "county": "Kjósar01",
+                    "c": "11",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Furðustrandir",
+                "sm_entry": {
+                    "id": "1185",
+                    "name": "Furðustrandir",
+                    "lat": "50.33877",
+                    "lng": "-63.799957",
+                    "type": "coast",
+                    "county": "Foreign01",
+                    "c": "4",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þá er liðin voru tvö dægur sjá þeir land og þeir sigldu undir landið. Þar var nes er þeir komu að. Þeir beittu með landinu og létu landið á stjórnborða. Þar var öræfi og strandir langar og sandar. Fara þeir á bátum til lands og fundu þar á nesinu kjöl af skipi og köllu þar  Kjalarnes . Þeir gáfu og nafn ströndunum og köllu  Furðustrandir  því að langt var með að sigla. Þá gerðist vogskorið landið og héldu þeir skipunum að vogunum."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: plants: crops",
+            "Actors: plants: fruit"
+        ],
+        "places": [],
+        "text": "Þeir köstuðu akkerum og lágu þar þessa stund. Og er þrír dagar voru liðnir hljópu þau af landi ofan og hafði annað þeirra í hendi vínber en annað hveiti sjálfsáið. Sagði Karlsefni að þau þóttust fundið hafa landskosti góða."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: animals: avian",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Tóku þeir þau á skip sitt og fóru leiðar sinnar þar til er varð fjarðskorið. Þeir lögðu skipunum inn á fjörðinn. Þar var ey ein út fyrir og voru þar straumar miklir og um eyna. Þeir kölluð hana Straumsey. Fugl var þar svo margur að trautt mátti fæti niður koma í milli eggjanna."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock",
+            "Ideas: resources",
+            "Actors: plants: grasses",
+            "Actors: thigns: boat"
+        ],
+        "places": [],
+        "text": "Þeir héldu inn með firðinum og kölluðu hann Straumsfjörð og báru farminn af skipunum og bjuggust þar um. Þeir höfðu með sér alls konar fé og leituðu sér þar landsnytja. Fjöll voru þar og fagurt var þar um að litast. Þeir gáðu einskis nema að kanna landið. Þar voru grös mikil."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: things: food",
+            "Activities: hunting/fishing"
+        ],
+        "places": [],
+        "text": "Þar voru þeir um veturinn og gerðist vetur mikill en ekki fyrir unnið og gerðist illt til matarins og tókust af veiðarnar. Þá fóru þeir út í eyna og væntu að þar mundi gefa nokkuð af veiðum eða rekum. Þar var þó lítið til matfanga en fé þeirra varð þar vel. Síðan hétu þeir á guð að hann sendi þeim nokkuð til matfanga og var eigi svo brátt við látið sem þeim var annt til."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Activities: food preparation ",
+            "Actors: animals: mammals: whale"
+        ],
+        "places": [],
+        "text": "Litlu síðar kom þar hvalur og drifu menn til og skáru hann en þó kenndu menn eigi hvað hval það var. Karlsefni kunni mikla skyn á hvalnum og kenndi hann þó eigi. Þenna hval suðu matsveinar og átu af og varð þó öllum illt af."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Activities: hunting/fishing "
+        ],
+        "places": [],
+        "text": "Og er menn vissu þetta vildu öngvir nýta og köstuðu fyrir björg ofan og sneru sínu máli til guðs miskunnar. Gaf þeim þá út að róa og skorti þá eigi birgðir."
+    },
+    {
+        "chapter": "9. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": ""
+    },
+    {
+        "chapter": "9. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Furðustrandir",
+                "sm_entry": {
+                    "id": "1185",
+                    "name": "Furðustrandir",
+                    "lat": "50.33877",
+                    "lng": "-63.799957",
+                    "type": "coast",
+                    "county": "Foreign01",
+                    "c": "4",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Kjalarnes",
+                "sm_entry": {
+                    "id": "1008",
+                    "name": "Kjalarnes",
+                    "lat": "64.242635",
+                    "lng": "-21.822147",
+                    "type": "peninsula",
+                    "county": "Kjósar01",
+                    "c": "11",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Írland",
+                "sm_entry": {
+                    "id": "421",
+                    "name": "Írland",
+                    "lat": "53.142131",
+                    "lng": "-7.691925",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "41",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Síðan skildu þeir og sigldu norður fyrir  Furðustrandir  og  Kjalarnes  og vildu beita þar fyrir vestan. Kom þá veður á móti þeim og rak þá upp við  Írland  og voru þar mjög þjáðir og barðir. Þá lét Þórhallur líf sitt."
+    },
+    {
+        "chapter": "10. kafli",
+        "concepts": [
+            "Physical Landscape: unamanged landscape area: lake",
+            "Physical Landscape: unamanged landscape area: moving water: river"
+        ],
+        "places": [],
+        "text": "Karlsefni fór suður fyrir land og Snorri og Bjarni og annað lið þeirra. Þeir fóru lengi og til þess er þeir komu að á þeirri er féll af landi ofan og í vatn og svo til sjóvar. Eyrar voru þar miklar fyrir árósinum og mátti eigi komast inn í ána nema að háflæðum."
+    },
+    {
+        "chapter": "10. kafli",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock",
+            "Actors: animals: mammals: deer",
+            "Physical Landscape: unmanaged landscape area: unmanaged forest",
+            "Actors: animals: fish",
+            "Physical Landscape: unmanaged landscape area: moving water: stream",
+            "Actors: plants: crops/vines"
+        ],
+        "places": [],
+        "text": "Sigldu þeir Karlsefni þá til áróssins og kölluðu í Hópi landið. Þar fundu þeir sjálfsána hveitiakra þar sem lægðir voru en vínviður allt þar sem holta kenndi. Hver lækur var þar fullur af fiskum. Þeir gerðu þar grafir sem landið mættist og flóðið gekk efst, og er út féll voru helgir fiskar í gröfunum. Þar var mikill fjöldi dýra á skógi með öllu móti. Þeir voru þar hálfan mánuð og skemmtu sér og urðu við ekki varir. Fé sitt höfðu þeir með sér."
+    },
+    {
+        "chapter": "10. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Og einn morgunn snemma er þeir lituðust um sáu þeir níu húðkeipa og var veift trjánum af skipunum og lét því líkast í sem í hálmþústum og fer sólarsinnis."
+    },
+    {
+        "chapter": "10. kafli",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock",
+            "Physical Landscape: built environment: buildings: hall/hut",
+            "Physical Landscape: unmanaged landscape area: lake"
+        ],
+        "places": [],
+        "text": "Þeir höfðu gert byggðir sínar upp frá vatninu og voru sumir skálarnir nær vatninu en sumir firr. Nú voru þeir þar þann vetur. Þar kom alls engi snjár og allur fénaður gekk þar úti sjálfala."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "En er vora tók geta þeir að líta einn morgun snemma að fjöldi húðkeipa reri sunnan fyrir nesið, svo margir sem kolum væri sáð og var þó veift á hverju skipi trjánum."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Actors: things: spear",
+            "Activities: exchange"
+        ],
+        "places": [],
+        "text": "Þeir brugðu þá skjöldum upp og tóku kaupstefnu sín á millum og vildi það fólk helst kaupa rautt klæði. Þeir vildu og kaupa sverð og spjót en það bönnuðu þeir Karlsefni og Snorri. Þeir höfðu ófölvan belg fyrir klæðið og tóku spannarlangt klæði fyrir belg og bundu um höfuð sér og fór svo um stund. En er minnka tók klæðið þá skáru þeir í sundur svo að eigi var breiðara en þvers fingrar breitt. Gáfu þeir Skrælingjar jafnmikið fyrir eða meira."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Actors: animals: mammals: bull ",
+            "Physical Landscape: ecological area: woods and trees"
+        ],
+        "places": [],
+        "text": "Það bar til að griðungur hljóp úr skógi er þeir Karlsefni áttu og gall hátt við. Þeir fælast við Skrælingjar og hlaupa út á keipana og reru suður fyrir land. Varð þá ekki vart við þá þrjár vikur í samt."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "En er sjá stund var liðin sjá þeir sunnan fara mikinn fjölda skipa Skrælingja svo sem straumur stæði. Var þá veift trjánum öllum rangsælis og ýla allir Skrælingjar hátt upp. Þá tóku þeir rauða skjöldu og báru í mót."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Gengu þeir þá saman og börðust. Varð þar skothríð hörð. Þeir höfðu og valslöngur Skrælingjar."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Actors: animals; mammals: sheep"
+        ],
+        "places": [],
+        "text": "Freydís kom út og sá er þeir héldu undan. Hún kallaði: \"Hví rennið þér undan slíkum auvirðismönnum, svo gildir menn er mér þætti líklegt að þér mættuð drepa þá svo sem búfé? Og ef eg hefði vopn þætti mér sem eg mundi betur berjast en einnhver yðvar.\""
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: unamanged forest"
+        ],
+        "places": [],
+        "text": "Þeir gáfu öngvan gaum hvað sem hún sagði. Freydís vildi fylgja þeim og varð hún heldur sein því að hún var eigi heil. Gekk hún þá eftir þeim í skóginn en Skrælingjar sækja að henni. Hún fann fyrir sér mann dauðan, Þorbrand Snorrason, og stóð hellusteinn í höfði honum. Sverðið lá hjá honum og hún tók það upp og býst að verja sig með. Þá koma Skrælingjar að henni. Hún tekur brjóstið upp úr serkinum og slettir á sverðið. Þeir fælast við og hlaupa undan og á skip sín og héldu á brottu. Þeir Karlsefni finna hana og lofa happ hennar."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Physical Landscape; built environment: buildings: booths"
+        ],
+        "places": [],
+        "text": "Tveir menn féllu af Karlsefni en fjórir af Skrælingjum en þó urðu þeir Karlsefni ofurliði bornir. Fara þeir nú til búða sinna og íhuga hvað fjölmenni það var er að þeim sótti á landinu. Sýnist þeim nú að það eina mun liðið hafa verið er á skipunum kom an annað liðið mun hafa verið þversýningar."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Actors: plants: tree"
+        ],
+        "places": [],
+        "text": "Þeir Skrælingjar fundu og mann dauðan og lá öx hjá honum. Einn þeirra tók upp öxina og höggur með tré og þá hver að öðrum og þótti þeim vera gersemi og bíta vel. Síðan tók einn og hjó í stein og brotnaði öxin. Þótti honum þá öngu nýt er eigi stóð við grjótinu og kastaði niður."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Actors: animals: mammals: deer",
+            "Events: hostil encounter",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Síðan bjuggust þeir á brottu og ætluðu til síns lands og sigldu norður fyrir landið og fundu fimm Skrælingja í skinnhjúpum, sofnaða, nær sjó. Þeir höfðu með sér stokka og í dýramerg, dreyra blandinn. Þóttust þeir Karlsefni það skilja að þessir menn myndu hafa verið gervir brott af landinu. Þeir drápu þá. Síðan fundu þeir Karlsefni nes eitt og á fjölda dýra. Var nesið að sjá sem mykiskán væri af því að dýrin lágu þar um næturnar."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: moving water: river",
+            "Physical Landscape: unmanaged landscape area: unmanaged forest",
+            "Activities: travel",
+            "Actors: things: boag"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Kjalarnes",
+                "sm_entry": {
+                    "id": "1008",
+                    "name": "Kjalarnes",
+                    "lat": "64.242635",
+                    "lng": "-21.822147",
+                    "type": "peninsula",
+                    "county": "Kjósar01",
+                    "c": "11",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Karlsefni fór þá einu skipi að leita Þórhalls veiðimanns en annað liðið var eftir og fóru þeir norður fyrir  Kjalarnes  og ber þá fyrir vestan fram og var landið á bakborða þeim. Þar voru þá eyðimerkur einar allt að sjá fyrir þeim og nær hvergi rjóður í. Og er þeir höfðu lengi farið fellur á af landi ofan úr austri og í vestur. Þeir lögðu inn í árósinn og lágu við hinn syðra bakkann."
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Það var einn morgun er þeir Karlsefni sáu fyrir ofan rjóðrið flekk nokkurn sem glitraði við þeim og æptu þeir á það. Það hrærðist og var það einfætingur og skaust ofan á þann árbakkann sem þeir lágu við. Þorvaldur Eiríksson rauða sat við stýri."
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: house"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Markland",
+                "sm_entry": {
+                    "id": "1183",
+                    "name": "Markland",
+                    "lat": "53.3505513183999",
+                    "lng": "-57.9144287109375",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "3",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Grænlands",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Höfðu þeir sunnanveður og hittu  Markland  og fundu Skrælingja fimm. Var einn skeggjaður og tvær konur, börn tvö. Tóku þeir Karlsefni til sveinanna en hitt komst undan og sukku í jörð niður. En sveinana höfðu þeir með sér og kenndu þeim mál og voru skírðir. Þeir nefndu móður sína Vethildi og föður Óvægi. Þeir sögðu að konungar stjórnuðu Skrælingjalandi. Hét annar þeirra Avaldamon en annar hét Valdidida. Þeir kváðu þar engi hús og lágu menn í hellum eða holum. Þeir sögðu land þar öðrumegin gagnvart sínu landi og gengu menn þar í hvítum klæðum og æptu hátt og báru stangir og fóru með flíkur. Það ætla menn Hvítramannaland. Nú komu þeir til  Grænlands  og eru með Eiríki rauða um veturinn."
+    },
+    {
+        "chapter": "13. kafli",
+        "concepts": [
+            "Actors: animals: worms",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænlandshaf",
+                "sm_entry": {
+                    "id": "1158",
+                    "name": "Grænlandshaf",
+                    "lat": "65.8027763934024",
+                    "lng": "-29.794921875",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "2",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þá Bjarna Grímólfsson bar í  Grænlandshaf  og komu í maðksjá. Fundu þeir eigi fyrr en skipið gerist maðksmogið undir þeim. Þá töluðu þeir um hvert ráð þeir skyldu taka. Þeir höfðu eftirbát þann er bræddur var seltjöru. Það segja menn að skelmaðkurinn smjúgi eigi það tré er seltjörunni er brætt. Var það flestra manna sögn og tillaga að skipa mönnum bátinn svo sem hann tæki upp. En er það var reynt þá tók báturinn eigi meir upp en helming manna. Bjarni mælti þá að menn skyldu fara í bátinn og skyldi það fara að hlutföllum en eigi að mannvirðingum. En hver þeirra manna vildi fara í bátinn sem þar voru, þá mátti hann eigi við öllum taka. Fyrir því tóku þeir þetta ráð að hluta menn í bátinn og af kaupskipinu. Hlutaðist þar svo til að  Bjarni hlaut að fara í bátinn og nær helmingur manna með honum. Þá gengu þeir af skipinu og í bátinn er til þess höfðu hlotist."
+    },
+    {
+        "chapter": "13. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Þá er menn voru komnir í bátinn mælti einn ungur maður íslenskur sá er verið hafði förunautur Bjarna: \"Ætlar þú Bjarni að skiljast hér við mig?\""
+    },
+    {
+        "chapter": "13. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Skiptust þeir þá í rúmunum. Gekk þessi maður í bátinn en Bjarni upp í skipið og er það sögn manna að Bjarni létist þar í maðkahafinu og þeir menn sem í skipinu voru með honum. En báturinn og þeir er þar voru á fóru leiðar sinnar til þess er þeir tóku land og sögðu þessa sögu síðan."
+    },
+    {
+        "chapter": "14. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Íslands",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Reynines",
+                "sm_entry": {
+                    "id": "843",
+                    "name": "Reynines",
+                    "lat": "65.657103",
+                    "lng": "-19.562432",
+                    "type": "farm",
+                    "info": "=Reynistaðir?",
+                    "county": "Skagaf01",
+                    "c": "3",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Annað sumar eftir fór Karlsefni til  Íslands  og Guðríður með honum og fór hann heim til bús síns í  Reynines . Móður hans þótti sem hann hefði lítt til kostar tekið og var hún eigi heima þar hinn fyrsta vetur. En er hún reyndi að Guðríður var skörungur mikill fór hún heim. Og voru samfarar þeirra góðar."
+    }
+]

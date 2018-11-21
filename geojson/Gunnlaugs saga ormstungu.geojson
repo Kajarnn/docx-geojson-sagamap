@@ -1,0 +1,3326 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1066",
+                "name": "Gufuárós",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 2",
+                "concept": "Actors: things: boat",
+                "text": "Eitt sumar er það sagt að skip kom af hafi í   Gufárós . Bergfinnur er nefndur stýrimaður fyrir skipinu, norrænn að ætt, auðigur að fé og heldur við aldur. Hann var vitur maður.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.803905,
+                    64.584174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "894",
+                "name": "Valfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 2",
+                "concept": "Activities: travel",
+                "text": "Um vorið einn dag ræddi Þorsteinn um við Bergfinn ef hann vildi ríða með honum upp undir  Valfell . Þar var þá þingstöð þeirra Borgfirðinga en Þorsteini var sagt að fallnir væru búðarveggir hans. Austmaðurinn kveðst það víst vilja og riðu þeir heiman of daginn þrír saman og húskarl Þorsteins þar til er þeir koma upp undir  Valfell  til bæjar þess er að  Grenjum  heitir. Þar bjó einn maður félítill er Atli hét. Hann var landseti Þorsteins og beiddi Þorsteinn Atla að hann færi til starfs með þeim og hefði pál og reku. Hann gerði svo.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.721776,
+                    64.721471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "894",
+                "name": "Valfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 2",
+                "concept": "Activities: travel",
+                "text": "Um vorið einn dag ræddi Þorsteinn um við Bergfinn ef hann vildi ríða með honum upp undir  Valfell . Þar var þá þingstöð þeirra Borgfirðinga en Þorsteini var sagt að fallnir væru búðarveggir hans. Austmaðurinn kveðst það víst vilja og riðu þeir heiman of daginn þrír saman og húskarl Þorsteins þar til er þeir koma upp undir  Valfell  til bæjar þess er að  Grenjum  heitir. Þar bjó einn maður félítill er Atli hét. Hann var landseti Þorsteins og beiddi Þorsteinn Atla að hann færi til starfs með þeim og hefði pál og reku. Hann gerði svo.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.721776,
+                    64.721471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1108",
+                "name": "Grenjar",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 2",
+                "concept": "Activities: travel",
+                "text": "Um vorið einn dag ræddi Þorsteinn um við Bergfinn ef hann vildi ríða með honum upp undir  Valfell . Þar var þá þingstöð þeirra Borgfirðinga en Þorsteini var sagt að fallnir væru búðarveggir hans. Austmaðurinn kveðst það víst vilja og riðu þeir heiman of daginn þrír saman og húskarl Þorsteins þar til er þeir koma upp undir  Valfell  til bæjar þess er að  Grenjum  heitir. Þar bjó einn maður félítill er Atli hét. Hann var landseti Þorsteins og beiddi Þorsteinn Atla að hann færi til starfs með þeim og hefði pál og reku. Hann gerði svo.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.876408,
+                    64.699918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "894",
+                "name": "Valfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 2",
+                "concept": "Physical Landscape: built environment: buildings: booth",
+                "text": "Um vorið einn dag ræddi Þorsteinn um við Bergfinn ef hann vildi ríða með honum upp undir  Valfell . Þar var þá þingstöð þeirra Borgfirðinga en Þorsteini var sagt að fallnir væru búðarveggir hans. Austmaðurinn kveðst það víst vilja og riðu þeir heiman of daginn þrír saman og húskarl Þorsteins þar til er þeir koma upp undir  Valfell  til bæjar þess er að  Grenjum  heitir. Þar bjó einn maður félítill er Atli hét. Hann var landseti Þorsteins og beiddi Þorsteinn Atla að hann færi til starfs með þeim og hefði pál og reku. Hann gerði svo.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.721776,
+                    64.721471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "894",
+                "name": "Valfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 2",
+                "concept": "Physical Landscape: built environment: buildings: booth",
+                "text": "Um vorið einn dag ræddi Þorsteinn um við Bergfinn ef hann vildi ríða með honum upp undir  Valfell . Þar var þá þingstöð þeirra Borgfirðinga en Þorsteini var sagt að fallnir væru búðarveggir hans. Austmaðurinn kveðst það víst vilja og riðu þeir heiman of daginn þrír saman og húskarl Þorsteins þar til er þeir koma upp undir  Valfell  til bæjar þess er að  Grenjum  heitir. Þar bjó einn maður félítill er Atli hét. Hann var landseti Þorsteins og beiddi Þorsteinn Atla að hann færi til starfs með þeim og hefði pál og reku. Hann gerði svo.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.721776,
+                    64.721471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1108",
+                "name": "Grenjar",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 2",
+                "concept": "Physical Landscape: built environment: buildings: booth",
+                "text": "Um vorið einn dag ræddi Þorsteinn um við Bergfinn ef hann vildi ríða með honum upp undir  Valfell . Þar var þá þingstöð þeirra Borgfirðinga en Þorsteini var sagt að fallnir væru búðarveggir hans. Austmaðurinn kveðst það víst vilja og riðu þeir heiman of daginn þrír saman og húskarl Þorsteins þar til er þeir koma upp undir  Valfell  til bæjar þess er að  Grenjum  heitir. Þar bjó einn maður félítill er Atli hét. Hann var landseti Þorsteins og beiddi Þorsteinn Atla að hann færi til starfs með þeim og hefði pál og reku. Hann gerði svo.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.876408,
+                    64.699918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "422",
+                "name": "Vors",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 2",
+                "concept": "Actors: animals: avian: swan/eagle/hawk",
+                "text": "Þorsteinn mælti þá: \"Það dreymdi mig að eg þóttist heima vera að  Borg og úti fyrir karldyrum og sá eg upp á húsin og á mæninum álft eina væna og fagra og þóttist eg eiga og þótti mér allgóð. Þá sá eg fljúga ofan frá fjöllunum örn mikinn. Hann fló hingað og settist hjá álftinni og klakaði við hana blíðlega og hún þótti mér það vel þekkjast. Þá sá eg að örninn var svarteygur og járnklær voru á honum. Vasklegur sýndist mér hann. Því næst sá eg fljúga annan fugl af suðurátt. Sá fló hingað til   Borgar  og settist á húsin hjá álftinni og vildi þýðast hana. Það var og örn mikill. Brátt þótti mér sá örninn er fyrir var ýfast mjög er hinn kom til og þeir börðust snarplega og lengi og það sá eg að hvorumtveggja blæddi. Og svo lauk þeirra leik að sinn veg hné hvor þeirra af húsmæninum og voru þá báðir dauðir en álftin sat  eftir hnipin mjög og dapurleg. Og þá sá eg fljúga fugl úr vestri. Það var valur. Hann settist hjá álftinni og lét blítt við hana og síðan flugu þau í brott bæði samt í sömu átt og þá vaknaði eg. Og er draumur þessi ómerkilegur,\" segir hann, \"og mun vera fyrir veðrum að þau mætast í lofti úr þeim áttum er mér þóttu fuglarnir fljúga.\"",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.428037,
+                    60.631086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1646",
+                "name": "Torgar",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 2",
+                "concept": "Actors: animals: avian: swan/eagle/hawk",
+                "text": "Þorsteinn mælti þá: \"Það dreymdi mig að eg þóttist heima vera að  Borg og úti fyrir karldyrum og sá eg upp á húsin og á mæninum álft eina væna og fagra og þóttist eg eiga og þótti mér allgóð. Þá sá eg fljúga ofan frá fjöllunum örn mikinn. Hann fló hingað og settist hjá álftinni og klakaði við hana blíðlega og hún þótti mér það vel þekkjast. Þá sá eg að örninn var svarteygur og járnklær voru á honum. Vasklegur sýndist mér hann. Því næst sá eg fljúga annan fugl af suðurátt. Sá fló hingað til   Borgar  og settist á húsin hjá álftinni og vildi þýðast hana. Það var og örn mikill. Brátt þótti mér sá örninn er fyrir var ýfast mjög er hinn kom til og þeir börðust snarplega og lengi og það sá eg að hvorumtveggja blæddi. Og svo lauk þeirra leik að sinn veg hné hvor þeirra af húsmæninum og voru þá báðir dauðir en álftin sat  eftir hnipin mjög og dapurleg. Og þá sá eg fljúga fugl úr vestri. Það var valur. Hann settist hjá álftinni og lét blítt við hana og síðan flugu þau í brott bæði samt í sömu átt og þá vaknaði eg. Og er draumur þessi ómerkilegur,\" segir hann, \"og mun vera fyrir veðrum að þau mætast í lofti úr þeim áttum er mér þóttu fuglarnir fljúga.\"",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.709363,
+                    65.571338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "422",
+                "name": "Vors",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 2",
+                "concept": "Physical Landscape: built environment: buildings",
+                "text": "Þorsteinn mælti þá: \"Það dreymdi mig að eg þóttist heima vera að  Borg og úti fyrir karldyrum og sá eg upp á húsin og á mæninum álft eina væna og fagra og þóttist eg eiga og þótti mér allgóð. Þá sá eg fljúga ofan frá fjöllunum örn mikinn. Hann fló hingað og settist hjá álftinni og klakaði við hana blíðlega og hún þótti mér það vel þekkjast. Þá sá eg að örninn var svarteygur og járnklær voru á honum. Vasklegur sýndist mér hann. Því næst sá eg fljúga annan fugl af suðurátt. Sá fló hingað til   Borgar  og settist á húsin hjá álftinni og vildi þýðast hana. Það var og örn mikill. Brátt þótti mér sá örninn er fyrir var ýfast mjög er hinn kom til og þeir börðust snarplega og lengi og það sá eg að hvorumtveggja blæddi. Og svo lauk þeirra leik að sinn veg hné hvor þeirra af húsmæninum og voru þá báðir dauðir en álftin sat  eftir hnipin mjög og dapurleg. Og þá sá eg fljúga fugl úr vestri. Það var valur. Hann settist hjá álftinni og lét blítt við hana og síðan flugu þau í brott bæði samt í sömu átt og þá vaknaði eg. Og er draumur þessi ómerkilegur,\" segir hann, \"og mun vera fyrir veðrum að þau mætast í lofti úr þeim áttum er mér þóttu fuglarnir fljúga.\"",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.428037,
+                    60.631086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1646",
+                "name": "Torgar",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 2",
+                "concept": "Physical Landscape: built environment: buildings",
+                "text": "Þorsteinn mælti þá: \"Það dreymdi mig að eg þóttist heima vera að  Borg og úti fyrir karldyrum og sá eg upp á húsin og á mæninum álft eina væna og fagra og þóttist eg eiga og þótti mér allgóð. Þá sá eg fljúga ofan frá fjöllunum örn mikinn. Hann fló hingað og settist hjá álftinni og klakaði við hana blíðlega og hún þótti mér það vel þekkjast. Þá sá eg að örninn var svarteygur og járnklær voru á honum. Vasklegur sýndist mér hann. Því næst sá eg fljúga annan fugl af suðurátt. Sá fló hingað til   Borgar  og settist á húsin hjá álftinni og vildi þýðast hana. Það var og örn mikill. Brátt þótti mér sá örninn er fyrir var ýfast mjög er hinn kom til og þeir börðust snarplega og lengi og það sá eg að hvorumtveggja blæddi. Og svo lauk þeirra leik að sinn veg hné hvor þeirra af húsmæninum og voru þá báðir dauðir en álftin sat  eftir hnipin mjög og dapurleg. Og þá sá eg fljúga fugl úr vestri. Það var valur. Hann settist hjá álftinni og lét blítt við hana og síðan flugu þau í brott bæði samt í sömu átt og þá vaknaði eg. Og er draumur þessi ómerkilegur,\" segir hann, \"og mun vera fyrir veðrum að þau mætast í lofti úr þeim áttum er mér þóttu fuglarnir fljúga.\"",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.709363,
+                    65.571338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2668",
+                "name": "Fjarðarhorn",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 3",
+                "concept": "Activities: exchange",
+                "text": "Konur vildu það bera að henni en hún kvað þess litla þörf og lét þangað kalla smalamann sinn er Þorvarður hét og mælti hún: \"Hest minn skaltu taka og leggja söðul á og færa barn þetta vestur í  Hjarðarholt  Þorgerði Egilsdóttur og bið hana upp fæða með leynd svo að Þorsteinn verði ei var við. Og þeim ástaraugum renni eg til barns þessa að víst eigi nenni eg að það sé út borið. En hér eru þrjár merkur silfurs er þú skalt hafa að verkkaupi. En Þorgerður skal fá þér fari vestur þar og vist um haf.\"",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.002238,
+                    64.912983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2668",
+                "name": "Fjarðarhorn",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 3",
+                "concept": "Actors: things: money",
+                "text": "Konur vildu það bera að henni en hún kvað þess litla þörf og lét þangað kalla smalamann sinn er Þorvarður hét og mælti hún: \"Hest minn skaltu taka og leggja söðul á og færa barn þetta vestur í  Hjarðarholt  Þorgerði Egilsdóttur og bið hana upp fæða með leynd svo að Þorsteinn verði ei var við. Og þeim ástaraugum renni eg til barns þessa að víst eigi nenni eg að það sé út borið. En hér eru þrjár merkur silfurs er þú skalt hafa að verkkaupi. En Þorgerður skal fá þér fari vestur þar og vist um haf.\"",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.002238,
+                    64.912983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2668",
+                "name": "Fjarðarhorn",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 3",
+                "concept": "Actor: animal: mammals: horse",
+                "text": "Konur vildu það bera að henni en hún kvað þess litla þörf og lét þangað kalla smalamann sinn er Þorvarður hét og mælti hún: \"Hest minn skaltu taka og leggja söðul á og færa barn þetta vestur í  Hjarðarholt  Þorgerði Egilsdóttur og bið hana upp fæða með leynd svo að Þorsteinn verði ei var við. Og þeim ástaraugum renni eg til barns þessa að víst eigi nenni eg að það sé út borið. En hér eru þrjár merkur silfurs er þú skalt hafa að verkkaupi. En Þorgerður skal fá þér fari vestur þar og vist um haf.\"",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.002238,
+                    64.912983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2668",
+                "name": "Fjarðarhorn",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 3",
+                "concept": "Activities: travel",
+                "text": "Þorvarður gerði sem hún mælti. Síðan reið hann vestur í  Hjarðarholt með barnið og fékk Þorgerði í hendur en hún lét upp fæða landseta sína er bjuggu inn á   Leysingjastöðum  í  Hvammsfirði . En hún tók Þorvarði fari norður í  Steingrímsfirði  í   Skeljavík  og vist of haf og fór hann þar utan og er hann nú úr sögunni.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.002238,
+                    64.912983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "734",
+                "name": "Skeljavík",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 3",
+                "concept": "Activities: travel",
+                "text": "Þorvarður gerði sem hún mælti. Síðan reið hann vestur í  Hjarðarholt með barnið og fékk Þorgerði í hendur en hún lét upp fæða landseta sína er bjuggu inn á   Leysingjastöðum  í  Hvammsfirði . En hún tók Þorvarði fari norður í  Steingrímsfirði  í   Skeljavík  og vist of haf og fór hann þar utan og er hann nú úr sögunni.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.725557,
+                    65.700653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2668",
+                "name": "Fjarðarhorn",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 3",
+                "concept": "Activities: travel",
+                "text": "Nú liðu svo sex vetur að þetta varð ekki víst. Og þá reið Þorsteinn til heimboðs vestur í   Hjarðarholt  til Ólafs pá mags síns Höskuldssonar er þá þótti vera með mestri virðingu allra höfðingja vestur þar. Þorsteini var þar vel fagnað sem líklegt var.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.002238,
+                    64.912983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1646",
+                "name": "Torgar",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 4",
+                "concept": "Activities: travel",
+                "text": "Gunnlaugur reið þá í brott þaðan og kom um kveldið ofan til  Borgar  og bauð Þorsteinn bóndi honum þar að vera og það þiggur hann. Gunnlaugur segir Þorsteini hversu farið hafði með þeim feðgum. Þorsteinn bað hann þar vera þeim stundum sem hann vildi og þar var hann þau misseri og nam lögspeki að Þorsteini og virðist öllum mönnum þar vel til hans.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.709363,
+                    65.571338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2607",
+                "name": "Vatnsdalur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Activities: travel",
+                "text": "Maður hét Þorkell svarti. Hann var heimamaður Illuga og náfrændi og hafði þar upp vaxið. Honum tæmdist arfur norður í  Vatnsdal  í  Ási  og beiddi hann Gunnlaug fara með sér. Og hann gerði svo og riðu norður tveir saman í   Ás  og fengu féið, og greiddu þeir féið af höndum er varðveitt höfðu með atgöngu Gunnlaugs.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.05386,
+                    63.77549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3038",
+                "name": "Ás",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Activities: travel",
+                "text": "Maður hét Þorkell svarti. Hann var heimamaður Illuga og náfrændi og hafði þar upp vaxið. Honum tæmdist arfur norður í  Vatnsdal  í  Ási  og beiddi hann Gunnlaug fara með sér. Og hann gerði svo og riðu norður tveir saman í   Ás  og fengu féið, og greiddu þeir féið af höndum er varðveitt höfðu með atgöngu Gunnlaugs.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.583947,
+                    63.845047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3038",
+                "name": "Ás",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Activities: travel",
+                "text": "Maður hét Þorkell svarti. Hann var heimamaður Illuga og náfrændi og hafði þar upp vaxið. Honum tæmdist arfur norður í  Vatnsdal  í  Ási  og beiddi hann Gunnlaug fara með sér. Og hann gerði svo og riðu norður tveir saman í   Ás  og fengu féið, og greiddu þeir féið af höndum er varðveitt höfðu með atgöngu Gunnlaugs.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.583947,
+                    63.845047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2607",
+                "name": "Vatnsdalur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Activities: exchange",
+                "text": "Maður hét Þorkell svarti. Hann var heimamaður Illuga og náfrændi og hafði þar upp vaxið. Honum tæmdist arfur norður í  Vatnsdal  í  Ási  og beiddi hann Gunnlaug fara með sér. Og hann gerði svo og riðu norður tveir saman í   Ás  og fengu féið, og greiddu þeir féið af höndum er varðveitt höfðu með atgöngu Gunnlaugs.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.05386,
+                    63.77549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3038",
+                "name": "Ás",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Activities: exchange",
+                "text": "Maður hét Þorkell svarti. Hann var heimamaður Illuga og náfrændi og hafði þar upp vaxið. Honum tæmdist arfur norður í  Vatnsdal  í  Ási  og beiddi hann Gunnlaug fara með sér. Og hann gerði svo og riðu norður tveir saman í   Ás  og fengu féið, og greiddu þeir féið af höndum er varðveitt höfðu með atgöngu Gunnlaugs.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.583947,
+                    63.845047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3038",
+                "name": "Ás",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Activities: exchange",
+                "text": "Maður hét Þorkell svarti. Hann var heimamaður Illuga og náfrændi og hafði þar upp vaxið. Honum tæmdist arfur norður í  Vatnsdal  í  Ási  og beiddi hann Gunnlaug fara með sér. Og hann gerði svo og riðu norður tveir saman í   Ás  og fengu féið, og greiddu þeir féið af höndum er varðveitt höfðu með atgöngu Gunnlaugs.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.583947,
+                    63.845047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1113",
+                "name": "Grímstungur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Events: hostile encounter",
+                "text": "Og er þeir riðu norðan gistu þeir í  Grímstungum  að auðigs bónda er þar bjó. Og um morguninn tók smalamaður hest Gunnlaugs og var þá sveittur mjög er þeir fengu. Gunnlaugur laust smalamanninn í óvit. Bóndi vildi eigi svo  búið hafa og beiddi bóta fyrir. Gunnlaugur bauð að gjalda bónda mörk. Bónda þótti það of lítið.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.18363,
+                    65.325694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1113",
+                "name": "Grímstungur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Actors: animals: horse",
+                "text": "Og er þeir riðu norðan gistu þeir í  Grímstungum  að auðigs bónda er þar bjó. Og um morguninn tók smalamaður hest Gunnlaugs og var þá sveittur mjög er þeir fengu. Gunnlaugur laust smalamanninn í óvit. Bóndi vildi eigi svo  búið hafa og beiddi bóta fyrir. Gunnlaugur bauð að gjalda bónda mörk. Bónda þótti það of lítið.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.18363,
+                    65.325694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1066",
+                "name": "Gufuárós",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Activities: travel",
+                "text": "Reið Illugi þá heiman skjótt og keypti skip hálft til handa Gunnlaugi, er uppi stóð í  Gufuárósi , að Auðuni festargram. Þessi Auðun vildi eigi utan flytja sonu Ósvífs hins spaka eftir víg Kjartans Ólafssonar sem segir í Laxdæla sögu og varð það þó síðar en þetta.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.803905,
+                    64.584174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1066",
+                "name": "Gufuárós",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Actirvities: exchange",
+                "text": "Reið Illugi þá heiman skjótt og keypti skip hálft til handa Gunnlaugi, er uppi stóð í  Gufuárósi , að Auðuni festargram. Þessi Auðun vildi eigi utan flytja sonu Ósvífs hins spaka eftir víg Kjartans Ólafssonar sem segir í Laxdæla sögu og varð það þó síðar en þetta.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.803905,
+                    64.584174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1066",
+                "name": "Gufuárós",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Activities: exchange",
+                "text": "Reið Illugi þá heiman skjótt og keypti skip hálft til handa Gunnlaugi, er uppi stóð í  Gufuárósi , að Auðuni festargram. Þessi Auðun vildi eigi utan flytja sonu Ósvífs hins spaka eftir víg Kjartans Ólafssonar sem segir í Laxdæla sögu og varð það þó síðar en þetta.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.803905,
+                    64.584174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1083",
+                "name": "Langavatnsdalur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Actors: animals: horses",
+                "text": "Einnhvern dag spurði Þorsteinn Gunnlaug ef hann vildi ríða til hrossa með honum upp í   Langavatnsdal . Gunnlaugur kvaðst það vilja.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.733602,
+                    64.860868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1083",
+                "name": "Langavatnsdalur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Activities: travel",
+                "text": "Einnhvern dag spurði Þorsteinn Gunnlaug ef hann vildi ríða til hrossa með honum upp í   Langavatnsdal . Gunnlaugur kvaðst það vilja.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.733602,
+                    64.860868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "676",
+                "name": "Gilsbakki",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Activities: travel",
+                "text": "Um kveldið koma þeir heim. Og um morguninn ríður Gunnlaugur upp á  Gilsbakka  og bað föður sinn ríða til kvonbæna með sér út til Borgar.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.98376,
+                    64.722228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "359",
+                "name": "Noregur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Actors: things: boat",
+                "text": "Og við þetta skilja þeir. Ríður Illugi heim en Gunnlaugur til skips. Og er þeim gaf byr létu þeir í haf og komu skipi sínu norður við   Noreg  og sigldu inn eftir  Þrándheimi  til  Niðaróss  og lágu þar í lægi og skipuðu upp.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734375,
+                    60.2398111699989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "369",
+                "name": "Þrándheimur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Actors: things: boat",
+                "text": "Og við þetta skilja þeir. Ríður Illugi heim en Gunnlaugur til skips. Og er þeim gaf byr létu þeir í haf og komu skipi sínu norður við   Noreg  og sigldu inn eftir  Þrándheimi  til  Niðaróss  og lágu þar í lægi og skipuðu upp.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37109375,
+                    63.4062799937642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "515",
+                "name": "Niðarós",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Actors: things: boat",
+                "text": "Og við þetta skilja þeir. Ríður Illugi heim en Gunnlaugur til skips. Og er þeim gaf byr létu þeir í haf og komu skipi sínu norður við   Noreg  og sigldu inn eftir  Þrándheimi  til  Niðaróss  og lágu þar í lægi og skipuðu upp.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.394988,
+                    63.430534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "359",
+                "name": "Noregur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Activities: travel",
+                "text": "Og við þetta skilja þeir. Ríður Illugi heim en Gunnlaugur til skips. Og er þeim gaf byr létu þeir í haf og komu skipi sínu norður við   Noreg  og sigldu inn eftir  Þrándheimi  til  Niðaróss  og lágu þar í lægi og skipuðu upp.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734375,
+                    60.2398111699989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "369",
+                "name": "Þrándheimur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Activities: travel",
+                "text": "Og við þetta skilja þeir. Ríður Illugi heim en Gunnlaugur til skips. Og er þeim gaf byr létu þeir í haf og komu skipi sínu norður við   Noreg  og sigldu inn eftir  Þrándheimi  til  Niðaróss  og lágu þar í lægi og skipuðu upp.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37109375,
+                    63.4062799937642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "515",
+                "name": "Niðarós",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 5",
+                "concept": "Activities: travel",
+                "text": "Og við þetta skilja þeir. Ríður Illugi heim en Gunnlaugur til skips. Og er þeim gaf byr létu þeir í haf og komu skipi sínu norður við   Noreg  og sigldu inn eftir  Þrándheimi  til  Niðaróss  og lágu þar í lægi og skipuðu upp.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.394988,
+                    63.430534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "26",
+                "name": "England",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 8",
+                "concept": "Activities: travel",
+                "text": "Síðan siglir Gunnlaugur af  Englandi  með kaupmönnum norður til   Dyflinnar . Þá réð fyrir   Írlandi  Sigtryggur konungur silkiskegg, son Ólafs kvarans og Kormlaðar drottningar. Hann hafði þá skamma stund ráðið ríkinu. Gunnlaugur gekk þá fyrir konung og kvaddi hann vel og virðulega. Konungur tók honum sæmilega.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.691388,
+                    52.304361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1040",
+                "name": "Dyflinn",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 8",
+                "concept": "Activities: travel",
+                "text": "Síðan siglir Gunnlaugur af  Englandi  með kaupmönnum norður til   Dyflinnar . Þá réð fyrir   Írlandi  Sigtryggur konungur silkiskegg, son Ólafs kvarans og Kormlaðar drottningar. Hann hafði þá skamma stund ráðið ríkinu. Gunnlaugur gekk þá fyrir konung og kvaddi hann vel og virðulega. Konungur tók honum sæmilega.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.261226,
+                    53.349257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "421",
+                "name": "Írland",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 8",
+                "concept": "Activities: travel",
+                "text": "Síðan siglir Gunnlaugur af  Englandi  með kaupmönnum norður til   Dyflinnar . Þá réð fyrir   Írlandi  Sigtryggur konungur silkiskegg, son Ólafs kvarans og Kormlaðar drottningar. Hann hafði þá skamma stund ráðið ríkinu. Gunnlaugur gekk þá fyrir konung og kvaddi hann vel og virðulega. Konungur tók honum sæmilega.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.691925,
+                    53.142131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "380",
+                "name": "Orkneyjar",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 8",
+                "concept": "Activities: exchange",
+                "text": "Konungur gaf honum klæði sín af nýju skarlati, kyrtil hlaðbúinn og skikkju með ágætum skinnum og gullhring er stóð mörk. Gunnlaugur þakkaði honum vel og dvaldist þar skamma stund og fór þaðan til  Orkneyja .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8125,
+                    59.0857385698195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "380",
+                "name": "Orkneyjar",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 8",
+                "concept": "Activities: travel",
+                "text": "Konungur gaf honum klæði sín af nýju skarlati, kyrtil hlaðbúinn og skikkju með ágætum skinnum og gullhring er stóð mörk. Gunnlaugur þakkaði honum vel og dvaldist þar skamma stund og fór þaðan til  Orkneyja .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8125,
+                    59.0857385698195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "380",
+                "name": "Orkneyjar",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 8",
+                "concept": "Activities: exchange",
+                "text": "Þá réð fyrir  Orkneyjum  Sigurður jarl Hlöðvisson. Hann var vel til íslenskra manna. Gunnlaugur kvaddi jarl vel og kveðst hafa að færa honum kvæði. Jarl kvaðst hlýða vilja kvæði hans, svo stórra manna sem hann var á  Íslandi . Gunnlaugur flutti kvæðið og var það flokkur og vel ortur. Jarl gaf honum breiðöxi, sifurrekna alla þar er bæta þótti, að kvæðislaunum og bauð honum með sér að vera.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8125,
+                    59.0857385698195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 8",
+                "concept": "Activities: exchange",
+                "text": "Þá réð fyrir  Orkneyjum  Sigurður jarl Hlöðvisson. Hann var vel til íslenskra manna. Gunnlaugur kvaddi jarl vel og kveðst hafa að færa honum kvæði. Jarl kvaðst hlýða vilja kvæði hans, svo stórra manna sem hann var á  Íslandi . Gunnlaugur flutti kvæðið og var það flokkur og vel ortur. Jarl gaf honum breiðöxi, sifurrekna alla þar er bæta þótti, að kvæðislaunum og bauð honum með sér að vera.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "501",
+                "name": "Svíþjóð",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 8",
+                "concept": "Activities: travel",
+                "text": "Gunnlaugur þakkaði honum gjöfina og svo boð hið sama en kveðst verða að fara austur til  Svíþjóðar  og gekk síðan á skip með kaupmönnum þeim er sigldu til   Noregs  og komu um haustið austur við  Konungahellu . Þorkell frændi hans fylgdi honum jafnan. Úr   Konungahellu  fengu þeir sér leiðtoga upp í  Gautland  hið vestra og komu fram í kaupstað þeim er í  Skörum  heitir.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.395403,
+                    58.323631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "359",
+                "name": "Noregur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 8",
+                "concept": "Activities: travel",
+                "text": "Gunnlaugur þakkaði honum gjöfina og svo boð hið sama en kveðst verða að fara austur til  Svíþjóðar  og gekk síðan á skip með kaupmönnum þeim er sigldu til   Noregs  og komu um haustið austur við  Konungahellu . Þorkell frændi hans fylgdi honum jafnan. Úr   Konungahellu  fengu þeir sér leiðtoga upp í  Gautland  hið vestra og komu fram í kaupstað þeim er í  Skörum  heitir.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734375,
+                    60.2398111699989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17",
+                "name": "Konungahella",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 8",
+                "concept": "Activities: travel",
+                "text": "Gunnlaugur þakkaði honum gjöfina og svo boð hið sama en kveðst verða að fara austur til  Svíþjóðar  og gekk síðan á skip með kaupmönnum þeim er sigldu til   Noregs  og komu um haustið austur við  Konungahellu . Þorkell frændi hans fylgdi honum jafnan. Úr   Konungahellu  fengu þeir sér leiðtoga upp í  Gautland  hið vestra og komu fram í kaupstað þeim er í  Skörum  heitir.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.882742,
+                    57.869485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17",
+                "name": "Konungahella",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 8",
+                "concept": "Activities: travel",
+                "text": "Gunnlaugur þakkaði honum gjöfina og svo boð hið sama en kveðst verða að fara austur til  Svíþjóðar  og gekk síðan á skip með kaupmönnum þeim er sigldu til   Noregs  og komu um haustið austur við  Konungahellu . Þorkell frændi hans fylgdi honum jafnan. Úr   Konungahellu  fengu þeir sér leiðtoga upp í  Gautland  hið vestra og komu fram í kaupstað þeim er í  Skörum  heitir.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.882742,
+                    57.869485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "19",
+                "name": "Gautland",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 8",
+                "concept": "Activities: travel",
+                "text": "Gunnlaugur þakkaði honum gjöfina og svo boð hið sama en kveðst verða að fara austur til  Svíþjóðar  og gekk síðan á skip með kaupmönnum þeim er sigldu til   Noregs  og komu um haustið austur við  Konungahellu . Þorkell frændi hans fylgdi honum jafnan. Úr   Konungahellu  fengu þeir sér leiðtoga upp í  Gautland  hið vestra og komu fram í kaupstað þeim er í  Skörum  heitir.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.449973,
+                    56.845705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "345",
+                "name": "Skörð",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 8",
+                "concept": "Activities: travel",
+                "text": "Gunnlaugur þakkaði honum gjöfina og svo boð hið sama en kveðst verða að fara austur til  Svíþjóðar  og gekk síðan á skip með kaupmönnum þeim er sigldu til   Noregs  og komu um haustið austur við  Konungahellu . Þorkell frændi hans fylgdi honum jafnan. Úr   Konungahellu  fengu þeir sér leiðtoga upp í  Gautland  hið vestra og komu fram í kaupstað þeim er í  Skörum  heitir.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.321108,
+                    65.958407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "369",
+                "name": "Þrándheimur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 9",
+                "concept": "Actors: things: boat",
+                "text": "Hrafn fór austan um vorið og kom til   Þrándheims  og bjó skip sitt og sigldi til  Íslands  um sumarið og kom skipi sínu í  Leiruvog  fyrir neðan   Heiði og urðu honum fegnir frændur og vinir og var hann heima þann vetur með föður sínum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37109375,
+                    63.4062799937642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 9",
+                "concept": "Actors: things: boat",
+                "text": "Hrafn fór austan um vorið og kom til   Þrándheims  og bjó skip sitt og sigldi til  Íslands  um sumarið og kom skipi sínu í  Leiruvog  fyrir neðan   Heiði og urðu honum fegnir frændur og vinir og var hann heima þann vetur með föður sínum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2924",
+                "name": "Leiruvogur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 9",
+                "concept": "Actors: things: boat",
+                "text": "Hrafn fór austan um vorið og kom til   Þrándheims  og bjó skip sitt og sigldi til  Íslands  um sumarið og kom skipi sínu í  Leiruvog  fyrir neðan   Heiði og urðu honum fegnir frændur og vinir og var hann heima þann vetur með föður sínum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.574451,
+                    64.543604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "326",
+                "name": "Höfði",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 9",
+                "concept": "Actors: things: boat",
+                "text": "Hrafn fór austan um vorið og kom til   Þrándheims  og bjó skip sitt og sigldi til  Íslands  um sumarið og kom skipi sínu í  Leiruvog  fyrir neðan   Heiði og urðu honum fegnir frændur og vinir og var hann heima þann vetur með föður sínum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.1625461578369,
+                    65.9151421690238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "369",
+                "name": "Þrándheimur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 9",
+                "concept": "Activities: travel",
+                "text": "Hrafn fór austan um vorið og kom til   Þrándheims  og bjó skip sitt og sigldi til  Íslands  um sumarið og kom skipi sínu í  Leiruvog  fyrir neðan   Heiði og urðu honum fegnir frændur og vinir og var hann heima þann vetur með föður sínum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37109375,
+                    63.4062799937642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 9",
+                "concept": "Activities: travel",
+                "text": "Hrafn fór austan um vorið og kom til   Þrándheims  og bjó skip sitt og sigldi til  Íslands  um sumarið og kom skipi sínu í  Leiruvog  fyrir neðan   Heiði og urðu honum fegnir frændur og vinir og var hann heima þann vetur með föður sínum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2924",
+                "name": "Leiruvogur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 9",
+                "concept": "Activities: travel",
+                "text": "Hrafn fór austan um vorið og kom til   Þrándheims  og bjó skip sitt og sigldi til  Íslands  um sumarið og kom skipi sínu í  Leiruvog  fyrir neðan   Heiði og urðu honum fegnir frændur og vinir og var hann heima þann vetur með föður sínum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.574451,
+                    64.543604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "326",
+                "name": "Höfði",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 9",
+                "concept": "Activities: travel",
+                "text": "Hrafn fór austan um vorið og kom til   Þrándheims  og bjó skip sitt og sigldi til  Íslands  um sumarið og kom skipi sínu í  Leiruvog  fyrir neðan   Heiði og urðu honum fegnir frændur og vinir og var hann heima þann vetur með föður sínum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.1625461578369,
+                    65.9151421690238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 10",
+                "concept": "Actors: things: boat",
+                "text": "Jarl mælti: \"Nú eru öll skip í brottu, þau er til   Íslands  bjuggust.\"",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2924",
+                "name": "Leiruvogur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 10",
+                "concept": "Ideas: power: legal power",
+                "text": "Hallfreður mælti þá: \"Þess þyrfti félagi að þér veitti betur málin við Hrafn en mér. Eg kom skipi mínu í   Leiruvog  fyrir neðan  Heiði  fyrir fám vetrum og átti eg að gjalda hálfa mörk silfurs húskarli Hrafns og hélt eg því fyrir honum. En Hrafn reið til vor með sex tigu manna og hjó strengina og rak skipið upp á leirur og búið við skipbroti. Varð eg þá að selja Hrafni sjálfdæmi og galt eg mörk og eru slíkar mínar að segja frá honum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.574451,
+                    64.543604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "326",
+                "name": "Höfði",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 10",
+                "concept": "Ideas: power: legal power",
+                "text": "Hallfreður mælti þá: \"Þess þyrfti félagi að þér veitti betur málin við Hrafn en mér. Eg kom skipi mínu í   Leiruvog  fyrir neðan  Heiði  fyrir fám vetrum og átti eg að gjalda hálfa mörk silfurs húskarli Hrafns og hélt eg því fyrir honum. En Hrafn reið til vor með sex tigu manna og hjó strengina og rak skipið upp á leirur og búið við skipbroti. Varð eg þá að selja Hrafni sjálfdæmi og galt eg mörk og eru slíkar mínar að segja frá honum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.1625461578369,
+                    65.9151421690238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2924",
+                "name": "Leiruvogur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 10",
+                "concept": "Activities: exchange",
+                "text": "Hallfreður mælti þá: \"Þess þyrfti félagi að þér veitti betur málin við Hrafn en mér. Eg kom skipi mínu í   Leiruvog  fyrir neðan  Heiði  fyrir fám vetrum og átti eg að gjalda hálfa mörk silfurs húskarli Hrafns og hélt eg því fyrir honum. En Hrafn reið til vor með sex tigu manna og hjó strengina og rak skipið upp á leirur og búið við skipbroti. Varð eg þá að selja Hrafni sjálfdæmi og galt eg mörk og eru slíkar mínar að segja frá honum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.574451,
+                    64.543604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "326",
+                "name": "Höfði",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 10",
+                "concept": "Activities: exchange",
+                "text": "Hallfreður mælti þá: \"Þess þyrfti félagi að þér veitti betur málin við Hrafn en mér. Eg kom skipi mínu í   Leiruvog  fyrir neðan  Heiði  fyrir fám vetrum og átti eg að gjalda hálfa mörk silfurs húskarli Hrafns og hélt eg því fyrir honum. En Hrafn reið til vor með sex tigu manna og hjó strengina og rak skipið upp á leirur og búið við skipbroti. Varð eg þá að selja Hrafni sjálfdæmi og galt eg mörk og eru slíkar mínar að segja frá honum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.1625461578369,
+                    65.9151421690238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2924",
+                "name": "Leiruvogur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 10",
+                "concept": "Actors: things: money",
+                "text": "Hallfreður mælti þá: \"Þess þyrfti félagi að þér veitti betur málin við Hrafn en mér. Eg kom skipi mínu í   Leiruvog  fyrir neðan  Heiði  fyrir fám vetrum og átti eg að gjalda hálfa mörk silfurs húskarli Hrafns og hélt eg því fyrir honum. En Hrafn reið til vor með sex tigu manna og hjó strengina og rak skipið upp á leirur og búið við skipbroti. Varð eg þá að selja Hrafni sjálfdæmi og galt eg mörk og eru slíkar mínar að segja frá honum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.574451,
+                    64.543604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "326",
+                "name": "Höfði",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 10",
+                "concept": "Actors: things: money",
+                "text": "Hallfreður mælti þá: \"Þess þyrfti félagi að þér veitti betur málin við Hrafn en mér. Eg kom skipi mínu í   Leiruvog  fyrir neðan  Heiði  fyrir fám vetrum og átti eg að gjalda hálfa mörk silfurs húskarli Hrafns og hélt eg því fyrir honum. En Hrafn reið til vor með sex tigu manna og hjó strengina og rak skipið upp á leirur og búið við skipbroti. Varð eg þá að selja Hrafni sjálfdæmi og galt eg mörk og eru slíkar mínar að segja frá honum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.1625461578369,
+                    65.9151421690238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2924",
+                "name": "Leiruvogur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 10",
+                "concept": "Actors: things: boat",
+                "text": "Hallfreður mælti þá: \"Þess þyrfti félagi að þér veitti betur málin við Hrafn en mér. Eg kom skipi mínu í   Leiruvog  fyrir neðan  Heiði  fyrir fám vetrum og átti eg að gjalda hálfa mörk silfurs húskarli Hrafns og hélt eg því fyrir honum. En Hrafn reið til vor með sex tigu manna og hjó strengina og rak skipið upp á leirur og búið við skipbroti. Varð eg þá að selja Hrafni sjálfdæmi og galt eg mörk og eru slíkar mínar að segja frá honum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.574451,
+                    64.543604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "326",
+                "name": "Höfði",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 10",
+                "concept": "Actors: things: boat",
+                "text": "Hallfreður mælti þá: \"Þess þyrfti félagi að þér veitti betur málin við Hrafn en mér. Eg kom skipi mínu í   Leiruvog  fyrir neðan  Heiði  fyrir fám vetrum og átti eg að gjalda hálfa mörk silfurs húskarli Hrafns og hélt eg því fyrir honum. En Hrafn reið til vor með sex tigu manna og hjó strengina og rak skipið upp á leirur og búið við skipbroti. Varð eg þá að selja Hrafni sjálfdæmi og galt eg mörk og eru slíkar mínar að segja frá honum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.1625461578369,
+                    65.9151421690238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "287",
+                "name": "Melrakkaslétta",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 10",
+                "concept": "Actors: things: boat",
+                "text": "Þeir tóku land norður á   Melrakkasléttu  í   Hraunhöfn  hálfum mánuði fyrir vetur og skipuðu þar upp.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.468505859375,
+                    66.4650508151067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "833",
+                "name": "Hraunhöfn",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 10",
+                "concept": "Actors: things: boat",
+                "text": "Þeir tóku land norður á   Melrakkasléttu  í   Hraunhöfn  hálfum mánuði fyrir vetur og skipuðu þar upp.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.041541,
+                    66.535812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "676",
+                "name": "Gilsbakki",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 10",
+                "concept": "Activities: travel",
+                "text": "Þeir Hallfreður riðu tólf menn saman og komu suður á  Gilsbakka  í  Borgarfirði  það laugarkveld er þeir sátu að brúðlaupinu að  Borg . Illugi varð feginn Gunnlaugi syni sínum og hans förunautum. Gunnlaugur kvaðst þá þegar vilja ofan ríða til  Borgar . Illugi kvað það ekki ráð og svo sýndist öllum nema Gunnlaugi en Gunnlaugur var þó ófær fyrir fótarins sakir þótt hann léti ekki á sjást og varð því ekki af ferðinni.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.98376,
+                    64.722228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2184",
+                "name": "Borgarvirki",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 10",
+                "concept": "Activities: travel",
+                "text": "Þeir Hallfreður riðu tólf menn saman og komu suður á  Gilsbakka  í  Borgarfirði  það laugarkveld er þeir sátu að brúðlaupinu að  Borg . Illugi varð feginn Gunnlaugi syni sínum og hans förunautum. Gunnlaugur kvaðst þá þegar vilja ofan ríða til  Borgar . Illugi kvað það ekki ráð og svo sýndist öllum nema Gunnlaugi en Gunnlaugur var þó ófær fyrir fótarins sakir þótt hann léti ekki á sjást og varð því ekki af ferðinni.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.59634,
+                    65.47439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "422",
+                "name": "Vors",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 10",
+                "concept": "Activities: travel",
+                "text": "Þeir Hallfreður riðu tólf menn saman og komu suður á  Gilsbakka  í  Borgarfirði  það laugarkveld er þeir sátu að brúðlaupinu að  Borg . Illugi varð feginn Gunnlaugi syni sínum og hans förunautum. Gunnlaugur kvaðst þá þegar vilja ofan ríða til  Borgar . Illugi kvað það ekki ráð og svo sýndist öllum nema Gunnlaugi en Gunnlaugur var þó ófær fyrir fótarins sakir þótt hann léti ekki á sjást og varð því ekki af ferðinni.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.428037,
+                    60.631086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1646",
+                "name": "Torgar",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 10",
+                "concept": "Activities: travel",
+                "text": "Þeir Hallfreður riðu tólf menn saman og komu suður á  Gilsbakka  í  Borgarfirði  það laugarkveld er þeir sátu að brúðlaupinu að  Borg . Illugi varð feginn Gunnlaugi syni sínum og hans förunautum. Gunnlaugur kvaðst þá þegar vilja ofan ríða til  Borgar . Illugi kvað það ekki ráð og svo sýndist öllum nema Gunnlaugi en Gunnlaugur var þó ófær fyrir fótarins sakir þótt hann léti ekki á sjást og varð því ekki af ferðinni.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.709363,
+                    65.571338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2595",
+                "name": "Mosfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 11",
+                "concept": "Community Places: shared spaces: assembly site",
+                "text": "Og um sumarið riðu menn fjölmennir til þings, Illugi svarti og synir hans með honum Gunnlaugur og Hermundur, Þorsteinn Egilsson og Kollsveinn son hans, Önundur frá   Mosfelli  og synir hans allir, Svertingur Hafur-Bjarnarson.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.60462,
+                    64.13402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "379",
+                "name": "Lögberg",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 11",
+                "concept": "Community Places: shared spaces: assembly site",
+                "text": "Og einn dag á þinginu er menn gengu fjölmennir til  Lögbergs  og er þar var lykt að mæla lögskilum þá kvaddi Gunnlaugur sér hljóðs og mælti: \"Er Hrafn hér Önundarson?\"",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.122677,
+                    64.259847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 11",
+                "concept": "Community Places: shared spaces: assembly site",
+                "text": "Og annan dag eftir í lögréttu var það í lög sett að af skyldi taka hólmgöngur allar þaðan í frá og var það gert að ráði allra vitrustu manna er við voru staddir en þar voru allir þeir er vitrastir voru á landinu. Og þessi hefir hólmganga síðast framin verið á  Íslandi  er þeir Hrafn og Gunnlaugur börðust. Það hefir hið þriðja þing verið fjölmennast, annað eftir brennu Njáls, hið þriðja eftir Heiðarvíg.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 11",
+                "concept": "Ideas: power: legal power",
+                "text": "Og annan dag eftir í lögréttu var það í lög sett að af skyldi taka hólmgöngur allar þaðan í frá og var það gert að ráði allra vitrustu manna er við voru staddir en þar voru allir þeir er vitrastir voru á landinu. Og þessi hefir hólmganga síðast framin verið á  Íslandi  er þeir Hrafn og Gunnlaugur börðust. Það hefir hið þriðja þing verið fjölmennast, annað eftir brennu Njáls, hið þriðja eftir Heiðarvíg.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "375",
+                "name": "Öxará",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 11",
+                "concept": "Physical Landscape: unmanaged landscape area: moving water: river",
+                "text": "Og einn morgun er þeir bræður Hermundur og Gunnlaugur gengu til  Öxarár  að þvo sér þá gengu öðrumegin að ánni konur margar og var þar Helga hin fagra í því liði.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.5733184814453,
+                    65.6670466599179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "676",
+                "name": "Gilsbakki",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 11",
+                "concept": "Activities: travel",
+                "text": "Og eftir þetta um liðið riðu menn heim af þinginu og var Gunnlaugur heima á  Gilsbakka .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.98376,
+                    64.722228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2924",
+                "name": "Leiruvogur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Actors: things: boat",
+                "text": "Nú er að segja frá Hrafni að hann bjó skip sitt í  Leiruvogum . Tveir menn eru þeir nefndir er fóru með Hrafni, systursynir Önundar föður hans. Hét annar Grímur en annar Ólafur og voru báðir gildir menn. Öllum frændum Hrafns þótti mikill svipur er hann fór í brott en hann sagði svo, kvaðst því Gunnlaug á hólm skorað hafa að hann kvaðst öngvar nytjar hafa Helgu og kvað annan hvorn verða að hníga fyrir öðrum.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.574451,
+                    64.543604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "369",
+                "name": "Þrándheimur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Actors: things: boat",
+                "text": "Síðan sigldi Hrafn í haf er þeim gaf byr og komu skipi sínu í  Þrándheim og var þar of veturinn og frétti ekki til Gunnlaugs á þeim vetri og þar beið hann Gunnlaugs um sumarið. Og enn annan vetur var hann í  Þrándheimi þar sem heitir í  Lifangri .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37109375,
+                    63.4062799937642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "369",
+                "name": "Þrándheimur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Actors: things: boat",
+                "text": "Síðan sigldi Hrafn í haf er þeim gaf byr og komu skipi sínu í  Þrándheim og var þar of veturinn og frétti ekki til Gunnlaugs á þeim vetri og þar beið hann Gunnlaugs um sumarið. Og enn annan vetur var hann í  Þrándheimi þar sem heitir í  Lifangri .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37109375,
+                    63.4062799937642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1123",
+                "name": "Lifangur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Actors: things: boat",
+                "text": "Síðan sigldi Hrafn í haf er þeim gaf byr og komu skipi sínu í  Þrándheim og var þar of veturinn og frétti ekki til Gunnlaugs á þeim vetri og þar beið hann Gunnlaugs um sumarið. Og enn annan vetur var hann í  Þrándheimi þar sem heitir í  Lifangri .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.299663,
+                    63.745649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "369",
+                "name": "Þrándheimur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Activities: travel",
+                "text": "Síðan sigldi Hrafn í haf er þeim gaf byr og komu skipi sínu í  Þrándheim og var þar of veturinn og frétti ekki til Gunnlaugs á þeim vetri og þar beið hann Gunnlaugs um sumarið. Og enn annan vetur var hann í  Þrándheimi þar sem heitir í  Lifangri .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37109375,
+                    63.4062799937642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "369",
+                "name": "Þrándheimur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Activities: travel",
+                "text": "Síðan sigldi Hrafn í haf er þeim gaf byr og komu skipi sínu í  Þrándheim og var þar of veturinn og frétti ekki til Gunnlaugs á þeim vetri og þar beið hann Gunnlaugs um sumarið. Og enn annan vetur var hann í  Þrándheimi þar sem heitir í  Lifangri .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37109375,
+                    63.4062799937642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1123",
+                "name": "Lifangur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Activities: travel",
+                "text": "Síðan sigldi Hrafn í haf er þeim gaf byr og komu skipi sínu í  Þrándheim og var þar of veturinn og frétti ekki til Gunnlaugs á þeim vetri og þar beið hann Gunnlaugs um sumarið. Og enn annan vetur var hann í  Þrándheimi þar sem heitir í  Lifangri .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.299663,
+                    63.745649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2750",
+                "name": "Hlöðuvík",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Physical Landscape: unmanaged landscape area: lake",
+                "text": "Nú fer Gunnlaugur af  Hlöðum  við sjöunda mann inn í  Lifangur  og þann mogun hafði Hrafn farið þaðan með fimmta mann er Gunnlaugur kom þar um kveldið. Þaðan fór Gunnlaugur í  Veradal  og kom þar að kveldi jafnan sem Hrafn hafði áður verið um nóttina. Gunnlaugur fer til þess er hann kom á efsta bæ í dalnum er á Súlu hét og hafði Hrafn þaðan farið um moguninn. Gunnlaugur dvaldi þá ekki ferðina og fór þegar um nóttina. Og um morguninn í sólarroð þá sáu hvorir aðra. Hrafn var þar kominn sem voru vötn tvö og á meðal vatnanna voru vellir sléttir. Það heita Gleipnisvellir. En fram í vatnið annað gekk nes lítið er heitir Dinganes. Þar námu þeir Hrafn við í nesinu og voru fimm saman. Þeir voru þar með Hrafni frændur hans, Grímur og Ólafur.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.65121,
+                    66.42161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1123",
+                "name": "Lifangur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Physical Landscape: unmanaged landscape area: lake",
+                "text": "Nú fer Gunnlaugur af  Hlöðum  við sjöunda mann inn í  Lifangur  og þann mogun hafði Hrafn farið þaðan með fimmta mann er Gunnlaugur kom þar um kveldið. Þaðan fór Gunnlaugur í  Veradal  og kom þar að kveldi jafnan sem Hrafn hafði áður verið um nóttina. Gunnlaugur fer til þess er hann kom á efsta bæ í dalnum er á Súlu hét og hafði Hrafn þaðan farið um moguninn. Gunnlaugur dvaldi þá ekki ferðina og fór þegar um nóttina. Og um morguninn í sólarroð þá sáu hvorir aðra. Hrafn var þar kominn sem voru vötn tvö og á meðal vatnanna voru vellir sléttir. Það heita Gleipnisvellir. En fram í vatnið annað gekk nes lítið er heitir Dinganes. Þar námu þeir Hrafn við í nesinu og voru fimm saman. Þeir voru þar með Hrafni frændur hans, Grímur og Ólafur.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.299663,
+                    63.745649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1124",
+                "name": "Veradalur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Physical Landscape: unmanaged landscape area: lake",
+                "text": "Nú fer Gunnlaugur af  Hlöðum  við sjöunda mann inn í  Lifangur  og þann mogun hafði Hrafn farið þaðan með fimmta mann er Gunnlaugur kom þar um kveldið. Þaðan fór Gunnlaugur í  Veradal  og kom þar að kveldi jafnan sem Hrafn hafði áður verið um nóttina. Gunnlaugur fer til þess er hann kom á efsta bæ í dalnum er á Súlu hét og hafði Hrafn þaðan farið um moguninn. Gunnlaugur dvaldi þá ekki ferðina og fór þegar um nóttina. Og um morguninn í sólarroð þá sáu hvorir aðra. Hrafn var þar kominn sem voru vötn tvö og á meðal vatnanna voru vellir sléttir. Það heita Gleipnisvellir. En fram í vatnið annað gekk nes lítið er heitir Dinganes. Þar námu þeir Hrafn við í nesinu og voru fimm saman. Þeir voru þar með Hrafni frændur hans, Grímur og Ólafur.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.677498,
+                    63.804136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2750",
+                "name": "Hlöðuvík",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Activities: travel",
+                "text": "Nú fer Gunnlaugur af  Hlöðum  við sjöunda mann inn í  Lifangur  og þann mogun hafði Hrafn farið þaðan með fimmta mann er Gunnlaugur kom þar um kveldið. Þaðan fór Gunnlaugur í  Veradal  og kom þar að kveldi jafnan sem Hrafn hafði áður verið um nóttina. Gunnlaugur fer til þess er hann kom á efsta bæ í dalnum er á Súlu hét og hafði Hrafn þaðan farið um moguninn. Gunnlaugur dvaldi þá ekki ferðina og fór þegar um nóttina. Og um morguninn í sólarroð þá sáu hvorir aðra. Hrafn var þar kominn sem voru vötn tvö og á meðal vatnanna voru vellir sléttir. Það heita Gleipnisvellir. En fram í vatnið annað gekk nes lítið er heitir Dinganes. Þar námu þeir Hrafn við í nesinu og voru fimm saman. Þeir voru þar með Hrafni frændur hans, Grímur og Ólafur.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.65121,
+                    66.42161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1123",
+                "name": "Lifangur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Activities: travel",
+                "text": "Nú fer Gunnlaugur af  Hlöðum  við sjöunda mann inn í  Lifangur  og þann mogun hafði Hrafn farið þaðan með fimmta mann er Gunnlaugur kom þar um kveldið. Þaðan fór Gunnlaugur í  Veradal  og kom þar að kveldi jafnan sem Hrafn hafði áður verið um nóttina. Gunnlaugur fer til þess er hann kom á efsta bæ í dalnum er á Súlu hét og hafði Hrafn þaðan farið um moguninn. Gunnlaugur dvaldi þá ekki ferðina og fór þegar um nóttina. Og um morguninn í sólarroð þá sáu hvorir aðra. Hrafn var þar kominn sem voru vötn tvö og á meðal vatnanna voru vellir sléttir. Það heita Gleipnisvellir. En fram í vatnið annað gekk nes lítið er heitir Dinganes. Þar námu þeir Hrafn við í nesinu og voru fimm saman. Þeir voru þar með Hrafni frændur hans, Grímur og Ólafur.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.299663,
+                    63.745649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1124",
+                "name": "Veradalur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Activities: travel",
+                "text": "Nú fer Gunnlaugur af  Hlöðum  við sjöunda mann inn í  Lifangur  og þann mogun hafði Hrafn farið þaðan með fimmta mann er Gunnlaugur kom þar um kveldið. Þaðan fór Gunnlaugur í  Veradal  og kom þar að kveldi jafnan sem Hrafn hafði áður verið um nóttina. Gunnlaugur fer til þess er hann kom á efsta bæ í dalnum er á Súlu hét og hafði Hrafn þaðan farið um moguninn. Gunnlaugur dvaldi þá ekki ferðina og fór þegar um nóttina. Og um morguninn í sólarroð þá sáu hvorir aðra. Hrafn var þar kominn sem voru vötn tvö og á meðal vatnanna voru vellir sléttir. Það heita Gleipnisvellir. En fram í vatnið annað gekk nes lítið er heitir Dinganes. Þar námu þeir Hrafn við í nesinu og voru fimm saman. Þeir voru þar með Hrafni frændur hans, Grímur og Ólafur.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.677498,
+                    63.804136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1123",
+                "name": "Lifangur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Physical Landscape: built environment: buildings: communal buildings: church",
+                "text": "Síðan bjuggu þeir um dauða menn og færðu Gunnlaug á hest sinn eftir það og komust með hann allt ofan í  Lifangur . Og þar lá hann þrjár nætur og fékk alla þjónustu af presti og andaðist síðan og var þar jarðaður að kirkju.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.299663,
+                    63.745649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1123",
+                "name": "Lifangur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Events: burial ",
+                "text": "Síðan bjuggu þeir um dauða menn og færðu Gunnlaug á hest sinn eftir það og komust með hann allt ofan í  Lifangur . Og þar lá hann þrjár nætur og fékk alla þjónustu af presti og andaðist síðan og var þar jarðaður að kirkju.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.299663,
+                    63.745649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1123",
+                "name": "Lifangur",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 12",
+                "concept": "Actor: animal: mammals: horse",
+                "text": "Síðan bjuggu þeir um dauða menn og færðu Gunnlaug á hest sinn eftir það og komust með hann allt ofan í  Lifangur . Og þar lá hann þrjár nætur og fékk alla þjónustu af presti og andaðist síðan og var þar jarðaður að kirkju.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.299663,
+                    63.745649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "379",
+                "name": "Lögberg",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Community Places: shared spaces: assembly site",
+                "text": "Og um sumarið annað eftir á alþingi mælti Illugi svarti til Önundar að  Lögbergi : \"Hverju viltu bæta mér son minn,\" sagði hann, \"er Hrafn son þinn sveik hann í tryggðum?\"",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.122677,
+                    64.259847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "676",
+                "name": "Gilsbakki",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Events: hostile encounter",
+                "text": "Það var sagt um haustið að Illugi reið heiman af  Gilsbakka  með þrjá tigu manna og kom til  Mosfells  snemma morguns. Önundur komst í kirkju og synir hans en Illugi tók frændur hans tvo. Hét annar Björn en annar Þorgrímur. Hann lét drepa Björn en fóthöggva Þorgrím. Reið Illugi heim eftir það og varð þessa engi rétting af Önundi.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.98376,
+                    64.722228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2595",
+                "name": "Mosfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Events: hostile encounter",
+                "text": "Það var sagt um haustið að Illugi reið heiman af  Gilsbakka  með þrjá tigu manna og kom til  Mosfells  snemma morguns. Önundur komst í kirkju og synir hans en Illugi tók frændur hans tvo. Hét annar Björn en annar Þorgrímur. Hann lét drepa Björn en fóthöggva Þorgrím. Reið Illugi heim eftir það og varð þessa engi rétting af Önundi.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.60462,
+                    64.13402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "676",
+                "name": "Gilsbakki",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Physical Landscape: built environment: buildings: communal buildings: church",
+                "text": "Það var sagt um haustið að Illugi reið heiman af  Gilsbakka  með þrjá tigu manna og kom til  Mosfells  snemma morguns. Önundur komst í kirkju og synir hans en Illugi tók frændur hans tvo. Hét annar Björn en annar Þorgrímur. Hann lét drepa Björn en fóthöggva Þorgrím. Reið Illugi heim eftir það og varð þessa engi rétting af Önundi.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.98376,
+                    64.722228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2595",
+                "name": "Mosfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Physical Landscape: built environment: buildings: communal buildings: church",
+                "text": "Það var sagt um haustið að Illugi reið heiman af  Gilsbakka  með þrjá tigu manna og kom til  Mosfells  snemma morguns. Önundur komst í kirkju og synir hans en Illugi tók frændur hans tvo. Hét annar Björn en annar Þorgrímur. Hann lét drepa Björn en fóthöggva Þorgrím. Reið Illugi heim eftir það og varð þessa engi rétting af Önundi.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.60462,
+                    64.13402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "676",
+                "name": "Gilsbakki",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Activities: travel",
+                "text": "Það var sagt um haustið að Illugi reið heiman af  Gilsbakka  með þrjá tigu manna og kom til  Mosfells  snemma morguns. Önundur komst í kirkju og synir hans en Illugi tók frændur hans tvo. Hét annar Björn en annar Þorgrímur. Hann lét drepa Björn en fóthöggva Þorgrím. Reið Illugi heim eftir það og varð þessa engi rétting af Önundi.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.98376,
+                    64.722228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2595",
+                "name": "Mosfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Activities: travel",
+                "text": "Það var sagt um haustið að Illugi reið heiman af  Gilsbakka  með þrjá tigu manna og kom til  Mosfells  snemma morguns. Önundur komst í kirkju og synir hans en Illugi tók frændur hans tvo. Hét annar Björn en annar Þorgrímur. Hann lét drepa Björn en fóthöggva Þorgrím. Reið Illugi heim eftir það og varð þessa engi rétting af Önundi.",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.60462,
+                    64.13402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2595",
+                "name": "Mosfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Events: hostile encounter",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.60462,
+                    64.13402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "32",
+                "name": "Holtavörðuheiði",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Events: hostile encounter",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.062852,
+                    65.028171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1205",
+                "name": "Hrútafjarðará",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Events: hostile encounter",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.0662841796875,
+                    65.1264827238581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "402",
+                "name": "Borðeyri",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Events: hostile encounter",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.096312,
+                    65.208914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2595",
+                "name": "Mosfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Events: hostile encounter",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.60462,
+                    64.13402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2595",
+                "name": "Mosfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Actors: things: spear",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.60462,
+                    64.13402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "32",
+                "name": "Holtavörðuheiði",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Actors: things: spear",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.062852,
+                    65.028171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1205",
+                "name": "Hrútafjarðará",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Actors: things: spear",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.0662841796875,
+                    65.1264827238581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "402",
+                "name": "Borðeyri",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Actors: things: spear",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.096312,
+                    65.208914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2595",
+                "name": "Mosfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Actors: things: spear",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.60462,
+                    64.13402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2595",
+                "name": "Mosfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Activities: travel",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.60462,
+                    64.13402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "32",
+                "name": "Holtavörðuheiði",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Activities: travel",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.062852,
+                    65.028171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1205",
+                "name": "Hrútafjarðará",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Activities: travel",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.0662841796875,
+                    65.1264827238581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "402",
+                "name": "Borðeyri",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Activities: travel",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.096312,
+                    65.208914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2595",
+                "name": "Mosfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Activities: travel",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.60462,
+                    64.13402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2595",
+                "name": "Mosfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Actors: things: boat",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.60462,
+                    64.13402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "32",
+                "name": "Holtavörðuheiði",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Actors: things: boat",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.062852,
+                    65.028171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1205",
+                "name": "Hrútafjarðará",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Actors: things: boat",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.0662841796875,
+                    65.1264827238581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "402",
+                "name": "Borðeyri",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Actors: things: boat",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.096312,
+                    65.208914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2595",
+                "name": "Mosfell",
+                "sagaid": 19,
+                "saganame": "Gunnlaugs saga ormstungu",
+                "chapter": "Chapter 13",
+                "concept": "Actors: things: boat",
+                "text": "Maður hét Hrafn og var bróðurson Önundar að   Mosfelli . Hann var farmaður mikill og átti skip er uppi stóð í  Hrútafirði . Og um vorið reið Hermundur Illugason heiman einn samt og norður   Holtavörðuheiði  og svo til   Hrútafjarðar  og út á  Borðeyri  til skips kaupmannanna. Kaupmenn voru þá búnir mjög. Hrafn stýrimaður var á landi og mart manna hjá honum. Hermundur reið að honum og lagði í gegnum hann spjótinu og reið þegar í brott. En þeim varð öllum bilt félögum Hrafns við Hermund. Öngar komu  bætur fyri víg þetta og með þessu skilur skipti þeirra Illuga svarta og Önundar að  Mosfelli .",
+                "action_start": "990",
+                "action_end": "1010",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "Holm perg 18 4to",
+                "oldest_manuscript_start": "1300",
+                "oldest_manuscript_end": "1350",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/HolmPerg04-0018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.60462,
+                    64.13402
+                ]
+            }
+        }
+    ]
+}

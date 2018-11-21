@@ -1,0 +1,653 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "2. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Í þann tíma andaðist Haraldur konungur hárfagri og tók ríki Eiríkur blóðex. En Ögmundur vingaðist ekki við þau Eirík og Gunnhildi og býr Ögmundur  skip sitt til  Íslands . Ögmundur og Helga áttu son er Fróði hét. Þá er skip var mjög búið tók Helga sótt og andaðist og Fróði son þeirra.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "598",
+                "name": "Vatnsnes",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "3. kafli",
+                "concept": "Actors: animals: mammals: whale",
+                "text": "Það var eitt haust að hvalur kom út á  Vatnsnes  og áttu þeir bræður Döllusynir. Þorgils bauð Kormáki hvort hann vildi heldur fara á fjall eða til hvals. Hann kaus að fara á fjall með húskörlum.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.797119140625,
+                    65.6152197417694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1096",
+                "name": "Gnúpsdalur",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "3. kafli",
+                "concept": "Activities: animal husbandry: grazing/herding",
+                "text": "Maður hét Tósti. Hann var verkstjóri og skyldi skipa til um sauðaferðir og fóru þeir Kormákur báðir saman þar til er þeir komu í  Gnúpsdal  og voru þar um nóttina. Þar var mikill skáli og eldar gervir fyrir mönnum.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.785297,
+                    65.172525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1096",
+                "name": "Gnúpsdalur",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "3. kafli",
+                "concept": "Physical Landscape: built environment: building: house/hall",
+                "text": "Maður hét Tósti. Hann var verkstjóri og skyldi skipa til um sauðaferðir og fóru þeir Kormákur báðir saman þar til er þeir komu í  Gnúpsdal  og voru þar um nóttina. Þar var mikill skáli og eldar gervir fyrir mönnum.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.785297,
+                    65.172525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "632",
+                "name": "Tunga",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "4. kafli",
+                "concept": "Actors: things: food",
+                "text": "Það var eitt sinn er Kormákur kom í  Tungu . Sá hann Steingerði í soðhúsi. Narfi stóð við ketil og er lokið var að sjóða vó Narfi upp mörbjúga og brá fyrir nasar Kormáki og kvað þetta:",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.073299,
+                    65.121629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "632",
+                "name": "Tunga",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "5. kafli",
+                "concept": "Physical Landscape: built environment: building: out house",
+                "text": "Það var einhvern dag er Kormákur kom í  Tungu . Var Steingerður í stofu og sat á palli. Þórveigarsynir sátu í stofunni og voru búnir að veita Kormáki tilræði er hann gengi inn. En Þorkell hafði sett öðrumegin dyra sverð brugðið en öðrumegin setti Narfi ljá í langorfi. En þá er Kormákur kom að skáladyrum skaraði ofan ljáinn og mætti hann sverðinu og brotnaði í mikið skarð. Þá kom Þorkell að og kvað Kormák mart illt gera og var málóði, snýr inn skyndilega og kveður Steingerði af stofunni. Ganga þau út um aðrar dyr og lýkur hann hana í einu útibúri, kvað þau Kormák aldrei sjást skulu. ",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.073299,
+                    65.121629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "593",
+                "name": "Melar",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "7. kafli",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Á þeim bæ er í  Múla  heitir bjó Þórður Arndísarson. Hann átti Þórdísi, systur Barkar hins digra. Þau áttu tvo sonu. Voru þeir báðir yngri en Ásmundur Bersason.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.099335,
+                    65.117196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1205",
+                "name": "Hrútafjarðará",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "7. kafli",
+                "concept": "Actors: things: jewelry",
+                "text": "Þá er brullaupi var lokið búast þeir á brott. Steingerður hefir með sér gull og gripi, ríða síðan til  Hrútafjarðar  og heldur hóglega.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.0662841796875,
+                    65.1264827238581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1205",
+                "name": "Hrútafjarðará",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "7. kafli",
+                "concept": "Events: ",
+                "text": "Þá er brullaupi var lokið búast þeir á brott. Steingerður hefir með sér gull og gripi, ríða síðan til  Hrútafjarðar  og heldur hóglega.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.0662841796875,
+                    65.1264827238581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1205",
+                "name": "Hrútafjarðará",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "7. kafli",
+                "concept": "Actors: animals: mammals: horse",
+                "text": "Þá er brullaupi var lokið búast þeir á brott. Steingerður hefir með sér gull og gripi, ríða síðan til  Hrútafjarðar  og heldur hóglega.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.0662841796875,
+                    65.1264827238581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "633",
+                "name": "Hrútafjarðarháls",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "8. kafli",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Kormákur kvaðst fara skyldu og bíða engis manns, stígur þegar á hest sinn og hleypti allt það er hann fékk. Þorgils fær sér brátt manna. Urðu þeir saman átján. Þeir koma eftir Kormáki á  Hrútafjarðarhálsi  og hafði Kormákur þá sprengdan hest sinn, snúa fram að bæ Þórveigar. Þeir sjá þá að Bersi er kominn á skip Þórveigar.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.965443,
+                    65.208347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "633",
+                "name": "Hrútafjarðarháls",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "8. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Kormákur kvaðst fara skyldu og bíða engis manns, stígur þegar á hest sinn og hleypti allt það er hann fékk. Þorgils fær sér brátt manna. Urðu þeir saman átján. Þeir koma eftir Kormáki á  Hrútafjarðarhálsi  og hafði Kormákur þá sprengdan hest sinn, snúa fram að bæ Þórveigar. Þeir sjá þá að Bersi er kominn á skip Þórveigar.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.965443,
+                    65.208347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "633",
+                "name": "Hrútafjarðarháls",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "8. kafli",
+                "concept": "Actors: animals: mammals: horse",
+                "text": "Kormákur kvaðst fara skyldu og bíða engis manns, stígur þegar á hest sinn og hleypti allt það er hann fékk. Þorgils fær sér brátt manna. Urðu þeir saman átján. Þeir koma eftir Kormáki á  Hrútafjarðarhálsi  og hafði Kormákur þá sprengdan hest sinn, snúa fram að bæ Þórveigar. Þeir sjá þá að Bersi er kominn á skip Þórveigar.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.965443,
+                    65.208347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2168",
+                "name": "Melr",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "9. kafli",
+                "concept": "Activities: travel",
+                "text": "Kormákur reið í brott og líkaði illa, kemur heim á  Mel  og segir móður sinni að Skeggi vill eigi ljá sverðið. Skeggi veitti Döllu umsjá í sínum tillögum og var vingott með þeim.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.30772,
+                    64.31518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1352",
+                "name": "Saurbær",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "11. kafli",
+                "concept": "Activities: travel",
+                "text": "Steinar og Kormákur riðu brott frá Elliða. Þeir ríða til  Saurbæjar . Þeir sjá mannareið í móti sér. Fer þar Bersi. Hann kveður Kormák og spyr hversu sárið hafist. Kormákur kvað eigi stórra bóta ávant.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.841911,
+                    64.280667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "593",
+                "name": "Melar",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "12. kafli",
+                "concept": "Community Places: administrative unit: local assembly ",
+                "text": "Líður á vorið fram til Þórsnessþings. Þykist Bersi nú skilja að Þórdís hefir valdið því ákalli er Þórður veitti honum. Búast menn nú til þings. Var það vandi Þórðar og Bersa að ríða báðir saman til þings. Bersi ríður heiman og kemur í  Múla . Þórður var í brottu.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.099335,
+                    65.117196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3055",
+                "name": "Frakkland",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "14. kafli",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Því játtar Bersi og skal Þórdísi heiman fylgja  Brekkuland  og tekst þessi mægð með þeim. Eftir þetta lætur Bersi gera virki um bæ sinn og sat þá marga vetur í kyrrðum.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.323653,
+                    46.620842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3055",
+                "name": "Frakkland",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "14. kafli",
+                "concept": "Events: construction",
+                "text": "Því játtar Bersi og skal Þórdísi heiman fylgja  Brekkuland  og tekst þessi mægð með þeim. Eftir þetta lætur Bersi gera virki um bæ sinn og sat þá marga vetur í kyrrðum.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.323653,
+                    46.620842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "359",
+                "name": "Noregur",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "18. kafli",
+                "concept": "Activities: travel",
+                "text": "Síðan sigldu þeir á haf og komu við  Noreg . Í þann tíma réð Hákon Aðalsteinsfóstri  Noregi . Þeir bræður fóru skjótt á konungs fund. Tók konungur vel við þeim. Voru þeir þar um veturinn vel virðir.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734375,
+                    60.2398111699989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "359",
+                "name": "Noregur",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "18. kafli",
+                "concept": "Activities: travel",
+                "text": "Síðan sigldu þeir á haf og komu við  Noreg . Í þann tíma réð Hákon Aðalsteinsfóstri  Noregi . Þeir bræður fóru skjótt á konungs fund. Tók konungur vel við þeim. Voru þeir þar um veturinn vel virðir.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734375,
+                    60.2398111699989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2168",
+                "name": "Melr",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "19. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Ríður Kormákur og líkar heldur illa við Steingerði en verr við Tintein. Hann ríður heim á  Mel  og er þar um veturinn og vistar kaupmenn nær skipi.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.30772,
+                    64.31518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2168",
+                "name": "Melr",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "19. kafli",
+                "concept": "Activities: travel",
+                "text": "Ríður Kormákur og líkar heldur illa við Steingerði en verr við Tintein. Hann ríður heim á  Mel  og er þar um veturinn og vistar kaupmenn nær skipi.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.30772,
+                    64.31518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2043",
+                "name": "Fljót",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "21. kafli",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Eftir þetta sendir Þorvarður orð úr  Fljótum  að hann vill berjast við Kormák, kveður á stað og stund, kallast nú hefna vilja níðsins og annarra svívirðinga. Kormákur játtar því. Og er stefnudagur kom fór Kormákur í þann stað sem ákveðið var og var eigi Þorvarður þar kominn og engi af hans mönnum. Kormákur hittir konu eina þar á bænum. Hún heilsar honum og spyrjast þau tíðinda.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.623607,
+                    64.837766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1099",
+                "name": "Spákonufell",
+                "sagaid": 17,
+                "saganame": "Kormáks saga",
+                "chapter": "22. kafli",
+                "concept": "Actors: things: money",
+                "text": "Maður hét Þórólfur er bjó undir  Spákonufelli . Hann átti Þórdísi spákonu sem fyrr var getið. Þau voru þar á leiðinni. Þóttust margir þar traust mikið eiga er hún var. Þorvarður sækir hana að og beiðir hana liðs í móti Kormáki og gaf fé til. Býr Þórdís hann nú til hólms svo sem henni líkar.",
+                "action_start": "930",
+                "action_end": "980",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.277887,
+                    65.828622
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,2273 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2981",
+                "name": "Á",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 1",
+                "concept": "Actors: things: boat",
+                "text": "Skip kom enn eitt sumar í Eyjafjörð . Hreiðar hét stýrimaður, ættstór. Hann átti bú á Vors í Noregi , manna vaskastur og vinsælastur.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.169956,
+                    64.036517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2981",
+                "name": "Á",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 1",
+                "concept": "Activities: travel",
+                "text": "Skip kom enn eitt sumar í Eyjafjörð . Hreiðar hét stýrimaður, ættstór. Hann átti bú á Vors í Noregi , manna vaskastur og vinsælastur.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.169956,
+                    64.036517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2981",
+                "name": "Á",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 5",
+                "concept": "Actors: institution: preChristian temple",
+                "text": "Hof Freys var þar fyrir sunnan ána á Hripkelsstöðum .",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.169956,
+                    64.036517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 7",
+                "concept": "Physical landscape: built environment: field boundary: fence",
+                "text": "Nú fer Glúmur út til  Íslands  og heim til  Þverár . Og móður sína hitti hann brátt og fagnaði hún honum vel og sagði ójafnað þeirra feðga og bað hann þó hafa við þolinmæði en kvaðst til lítils um fær að ganga þeim í móti. Síðan reið hann heim að garði.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3011",
+                "name": "Þverá",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 7",
+                "concept": "Physical landscape: built environment: field boundary: fence",
+                "text": "Nú fer Glúmur út til  Íslands  og heim til  Þverár . Og móður sína hitti hann brátt og fagnaði hún honum vel og sagði ójafnað þeirra feðga og bað hann þó hafa við þolinmæði en kvaðst til lítils um fær að ganga þeim í móti. Síðan reið hann heim að garði.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.045023,
+                    64.032712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 7",
+                "concept": "Activities: travel",
+                "text": "Nú fer Glúmur út til  Íslands  og heim til  Þverár . Og móður sína hitti hann brátt og fagnaði hún honum vel og sagði ójafnað þeirra feðga og bað hann þó hafa við þolinmæði en kvaðst til lítils um fær að ganga þeim í móti. Síðan reið hann heim að garði.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3011",
+                "name": "Þverá",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 7",
+                "concept": "Activities: travel",
+                "text": "Nú fer Glúmur út til  Íslands  og heim til  Þverár . Og móður sína hitti hann brátt og fagnaði hún honum vel og sagði ójafnað þeirra feðga og bað hann þó hafa við þolinmæði en kvaðst til lítils um fær að ganga þeim í móti. Síðan reið hann heim að garði.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.045023,
+                    64.032712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "429",
+                "name": "Vitasgjafi",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 7",
+                "concept": "Physical Landscape: managed landscape area: agricultural area: field",
+                "text": "En þau gæði fylgdu mest  Þverárlandi , það var akur er kallaður var  Vitaðsgjafi  því að hann varð aldregi ófrær. En honum hafði svo skipt verið með landinu að sitt sumar höfðu hvorir.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0846118927002,
+                    65.5453945678708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2981",
+                "name": "Á",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 8",
+                "concept": "Activities: travel",
+                "text": "Fer Glúmur heim til Þverár .",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.169956,
+                    64.036517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1698",
+                "name": "Þverá",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 9",
+                "concept": "Actors: animals: mammals: oxen",
+                "text": "Og áður Þorkell fór á brott frá  Þverá  þá gekk hann til hofs Freys og leiddi þangað uxa gamlan og mælti svo: \"Freyr,\" sagði hann, \"er lengi hefir fulltrúi minn verið og margar gjafar að mér þegið og vel launað, nú gef eg þér uxa þenna til þess að Glúmur  fari eigi ónauðgari af Þverárlandi en eg fer nú. Og láttu sjá nokkurar jartegnir hvortú þiggur eða eigi.\"",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.574799,
+                    64.662779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1698",
+                "name": "Þverá",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 9",
+                "concept": "Physical Landscape: built environment: buildings: communal building: temple",
+                "text": "Og áður Þorkell fór á brott frá  Þverá  þá gekk hann til hofs Freys og leiddi þangað uxa gamlan og mælti svo: \"Freyr,\" sagði hann, \"er lengi hefir fulltrúi minn verið og margar gjafar að mér þegið og vel launað, nú gef eg þér uxa þenna til þess að Glúmur  fari eigi ónauðgari af Þverárlandi en eg fer nú. Og láttu sjá nokkurar jartegnir hvortú þiggur eða eigi.\"",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.574799,
+                    64.662779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2442",
+                "name": "Ós ",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 13",
+                "concept": "Events: meeting",
+                "text": "Það gerist eitt sumar á alþingi að í Fangabrekku gengust menn að sveitum, Norðlendingar og Vestfirðingar. Gekk Norðlendingum þyngra. Var fyrir sveit þeirra Már sonur Glúms. Kemur þar að maður einn er Ingólfur hét sonur Þorvalds. Faðir hans bjó á .",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.68706,
+                    65.73079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2981",
+                "name": "Á",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 13",
+                "concept": "Events: meeting",
+                "text": "Það gerist eitt sumar á alþingi að í Fangabrekku gengust menn að sveitum, Norðlendingar og Vestfirðingar. Gekk Norðlendingum þyngra. Var fyrir sveit þeirra Már sonur Glúms. Kemur þar að maður einn er Ingólfur hét sonur Þorvalds. Faðir hans bjó á .",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.169956,
+                    64.036517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2442",
+                "name": "Ós ",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 13",
+                "concept": "Community Places: shared space: assembly site",
+                "text": "Það gerist eitt sumar á alþingi að í Fangabrekku gengust menn að sveitum, Norðlendingar og Vestfirðingar. Gekk Norðlendingum þyngra. Var fyrir sveit þeirra Már sonur Glúms. Kemur þar að maður einn er Ingólfur hét sonur Þorvalds. Faðir hans bjó á .",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.68706,
+                    65.73079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2981",
+                "name": "Á",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 13",
+                "concept": "Community Places: shared space: assembly site",
+                "text": "Það gerist eitt sumar á alþingi að í Fangabrekku gengust menn að sveitum, Norðlendingar og Vestfirðingar. Gekk Norðlendingum þyngra. Var fyrir sveit þeirra Már sonur Glúms. Kemur þar að maður einn er Ingólfur hét sonur Þorvalds. Faðir hans bjó á .",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.169956,
+                    64.036517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "449",
+                "name": "Hegranessþing",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 14",
+                "concept": "Ideas: power: legal power",
+                "text": "Hross hans voru þar eftir. Einar Konálsson kom Ingólfi utan. En Þorvaldur bjó mál eftir Kálf til  Hegranessþings  og horfði til þess að Ingólfur mundi verða sekur. Glúmur var og þar og frændur Ingólfs nokkurir. Þeir hitta Glúm og biðja hann ásjá og kváðust til mundu leggja og bæta fyrir hann.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.462997,
+                    65.728349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "449",
+                "name": "Hegranessþing",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 14",
+                "concept": "Actors: animals: mammals: horses",
+                "text": "Hross hans voru þar eftir. Einar Konálsson kom Ingólfi utan. En Þorvaldur bjó mál eftir Kálf til  Hegranessþings  og horfði til þess að Ingólfur mundi verða sekur. Glúmur var og þar og frændur Ingólfs nokkurir. Þeir hitta Glúm og biðja hann ásjá og kváðust til mundu leggja og bæta fyrir hann.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.462997,
+                    65.728349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "450",
+                "name": "Æsustaðir",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 14",
+                "concept": "Activities: travel",
+                "text": "Og það sumar er hann fór utan kom út sá maður er Þjóðólfur hét. Móðir hans bjó á  Æsustöðum . Hann fer til Hamars og hittir Helgu. Einn dag hafði Glúmur riðið upp til  Hóla  og er hann reið ofan til  Saurbæjar  kom þar í móti honum Þjóðólfur.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.21375,
+                    65.414063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "182",
+                "name": "Hólar",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 14",
+                "concept": "Activities: travel",
+                "text": "Og það sumar er hann fór utan kom út sá maður er Þjóðólfur hét. Móðir hans bjó á  Æsustöðum . Hann fer til Hamars og hittir Helgu. Einn dag hafði Glúmur riðið upp til  Hóla  og er hann reið ofan til  Saurbæjar  kom þar í móti honum Þjóðólfur.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.421245,
+                    63.66954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1352",
+                "name": "Saurbær",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 14",
+                "concept": "Activities: travel",
+                "text": "Og það sumar er hann fór utan kom út sá maður er Þjóðólfur hét. Móðir hans bjó á  Æsustöðum . Hann fer til Hamars og hittir Helgu. Einn dag hafði Glúmur riðið upp til  Hóla  og er hann reið ofan til  Saurbæjar  kom þar í móti honum Þjóðólfur.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.841911,
+                    64.280667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3011",
+                "name": "Þverá",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 15",
+                "concept": "Activities: travel",
+                "text": "Nú kemur út Ingólfur og fer til  Þverár  og tekur Glúmur við honum og bauð með sér setugrið. Það þiggur hann.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.045023,
+                    64.032712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3011",
+                "name": "Þverá",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 16",
+                "concept": "Physical Landscape: built environment: buildings: agricultural buildings: shieling-shed",
+                "text": "Skúta segir: \"Þú skalt fara sendiför mína til Víga-Glúms og mæla þessum orðum við hann að þú þykist þurftugur að hann sé forstjórnarmaður þíns ráðs. Eg get að nú beri svo til um fund ykkarn að hann sé í þingreið. Hann er þrautgóður ef menn þurfa hans og má vera að hann mæli að þú farir til  Þverár  og bíðir hans þar. Þú skalt segja að meir sé þér þröngt og þú vildir heldur mega tala við hann einn saman. Og með því kann vera að hann leggi nokkur ráð til. Þess skaltu beiðast að hitta hann í  Miðárdal  er gengur upp frá bænum að  Þverá  og sel hans standa í. Lát þér þar líka að finna hann að á kveðnum degi.\"",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.045023,
+                    64.032712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1698",
+                "name": "Þverá",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 16",
+                "concept": "Physical Landscape: built environment: buildings: agricultural buildings: shieling-shed",
+                "text": "Skúta segir: \"Þú skalt fara sendiför mína til Víga-Glúms og mæla þessum orðum við hann að þú þykist þurftugur að hann sé forstjórnarmaður þíns ráðs. Eg get að nú beri svo til um fund ykkarn að hann sé í þingreið. Hann er þrautgóður ef menn þurfa hans og má vera að hann mæli að þú farir til  Þverár  og bíðir hans þar. Þú skalt segja að meir sé þér þröngt og þú vildir heldur mega tala við hann einn saman. Og með því kann vera að hann leggi nokkur ráð til. Þess skaltu beiðast að hitta hann í  Miðárdal  er gengur upp frá bænum að  Þverá  og sel hans standa í. Lát þér þar líka að finna hann að á kveðnum degi.\"",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.574799,
+                    64.662779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "452",
+                "name": "Vöðlaheiðr",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 16",
+                "concept": "Events: meeting",
+                "text": "Nú líða stundir og er þar kemur tíma sem Glúmur hafði heitið sendimanni að þeir mundu finnast þá býst Skúta heiman með þrjá tigu manna. Hann ríður norðan og kemur vestur yfir  Vöðlaheiði  og á hjalla þann er heitir  Rauðahjalli . Þar stíga þeir af baki.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.987433,
+                    65.707604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "453",
+                "name": "Rauðahjalli",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 16",
+                "concept": "Events: meeting",
+                "text": "Nú líða stundir og er þar kemur tíma sem Glúmur hafði heitið sendimanni að þeir mundu finnast þá býst Skúta heiman með þrjá tigu manna. Hann ríður norðan og kemur vestur yfir  Vöðlaheiði  og á hjalla þann er heitir  Rauðahjalli . Þar stíga þeir af baki.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.980747,
+                    65.642889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "452",
+                "name": "Vöðlaheiðr",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 16",
+                "concept": "Activities: travel",
+                "text": "Nú líða stundir og er þar kemur tíma sem Glúmur hafði heitið sendimanni að þeir mundu finnast þá býst Skúta heiman með þrjá tigu manna. Hann ríður norðan og kemur vestur yfir  Vöðlaheiði  og á hjalla þann er heitir  Rauðahjalli . Þar stíga þeir af baki.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.987433,
+                    65.707604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "453",
+                "name": "Rauðahjalli",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 16",
+                "concept": "Activities: travel",
+                "text": "Nú líða stundir og er þar kemur tíma sem Glúmur hafði heitið sendimanni að þeir mundu finnast þá býst Skúta heiman með þrjá tigu manna. Hann ríður norðan og kemur vestur yfir  Vöðlaheiði  og á hjalla þann er heitir  Rauðahjalli . Þar stíga þeir af baki.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.980747,
+                    65.642889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1698",
+                "name": "Þverá",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 16",
+                "concept": "Physical Landscape: built environment: buildings: agricultural buildings: shieling-shed",
+                "text": "Hann sér er hann sækir í dalinn að maður reið upp frá  Þverá , mikill og í kápu grænni, og kennir að þar ríður Glúmur. Þá steig hann af hestinum. Hann hafði vesl yfir sér tvískipt, svart og hvítt. Hann lét hestinn í rjóðrið og gengur síðan til selsins og var Glúmur þá kominn í selið. Skúta hafði sverð í hendi það er Fluga hét og hjálm á höfði, gengur að selsdyrunum og laust á vegginn og víkur síðan hjá selinu. Glúmur gengur út svo að hann hafði ekki í hendi, sér engan mann, snýr hjá selinu. Komst þá Skúta í milli hans og selsdyranna. Þá kennir Glúmur manninn og hopar undan en árgljúfrin voru nær selinu. Skúta biður hann bíða. Hann telur það jafnlegt ef þeir væru jafnbúnir við. Glúmur hopar að gljúfrunum en Skúta sækir eftir. Glúmur steypist ofan fyrir gljúfrin en Skúta leitar þar ofan er ganga mátti og sér í gljúfrunum hvar kápuna rak og hleypur til og leggur þegar til.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.574799,
+                    64.662779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1698",
+                "name": "Þverá",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 16",
+                "concept": "Clearing: Natural Landscape",
+                "text": "Hann sér er hann sækir í dalinn að maður reið upp frá  Þverá , mikill og í kápu grænni, og kennir að þar ríður Glúmur. Þá steig hann af hestinum. Hann hafði vesl yfir sér tvískipt, svart og hvítt. Hann lét hestinn í rjóðrið og gengur síðan til selsins og var Glúmur þá kominn í selið. Skúta hafði sverð í hendi það er Fluga hét og hjálm á höfði, gengur að selsdyrunum og laust á vegginn og víkur síðan hjá selinu. Glúmur gengur út svo að hann hafði ekki í hendi, sér engan mann, snýr hjá selinu. Komst þá Skúta í milli hans og selsdyranna. Þá kennir Glúmur manninn og hopar undan en árgljúfrin voru nær selinu. Skúta biður hann bíða. Hann telur það jafnlegt ef þeir væru jafnbúnir við. Glúmur hopar að gljúfrunum en Skúta sækir eftir. Glúmur steypist ofan fyrir gljúfrin en Skúta leitar þar ofan er ganga mátti og sér í gljúfrunum hvar kápuna rak og hleypur til og leggur þegar til.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.574799,
+                    64.662779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1698",
+                "name": "Þverá",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 16",
+                "concept": "Actors: animals: mammals: horse",
+                "text": "Hann sér er hann sækir í dalinn að maður reið upp frá  Þverá , mikill og í kápu grænni, og kennir að þar ríður Glúmur. Þá steig hann af hestinum. Hann hafði vesl yfir sér tvískipt, svart og hvítt. Hann lét hestinn í rjóðrið og gengur síðan til selsins og var Glúmur þá kominn í selið. Skúta hafði sverð í hendi það er Fluga hét og hjálm á höfði, gengur að selsdyrunum og laust á vegginn og víkur síðan hjá selinu. Glúmur gengur út svo að hann hafði ekki í hendi, sér engan mann, snýr hjá selinu. Komst þá Skúta í milli hans og selsdyranna. Þá kennir Glúmur manninn og hopar undan en árgljúfrin voru nær selinu. Skúta biður hann bíða. Hann telur það jafnlegt ef þeir væru jafnbúnir við. Glúmur hopar að gljúfrunum en Skúta sækir eftir. Glúmur steypist ofan fyrir gljúfrin en Skúta leitar þar ofan er ganga mátti og sér í gljúfrunum hvar kápuna rak og hleypur til og leggur þegar til.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.574799,
+                    64.662779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3011",
+                "name": "Þverá",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 16",
+                "concept": "Activities: travel",
+                "text": "Skúta ríður nú norður en Glúmur heim til  Þverár .",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.045023,
+                    64.032712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2981",
+                "name": "Á",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 19",
+                "concept": "Physical Landscape: ecological area: still water: pool",
+                "text": "Austmenn voru þar tveir á vist. Þá bað Vigfús ríða með sér og kveðst mundu ríða til laugar. Hann stefnir suður úr garði um Laugardal .",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.169956,
+                    64.036517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2981",
+                "name": "Á",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 19",
+                "concept": "Activities: travel",
+                "text": "Austmenn voru þar tveir á vist. Þá bað Vigfús ríða með sér og kveðst mundu ríða til laugar. Hann stefnir suður úr garði um Laugardal .",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.169956,
+                    64.036517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "311",
+                "name": "Grund",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 21",
+                "concept": "Physical Landscape: built environment: building ",
+                "text": "Einn dag spurði Arngrímur Steinólf ef hann vildi fara með honum á  Grund ofan til skytnings og vera þar nætur tvær eða þrjár.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.4589920043945,
+                    65.498941948408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "124",
+                "name": "Espihóll",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 21",
+                "concept": "Activities: travel",
+                "text": "Þeir Arngrímur riðu til  Espihóls  og sögðu Þórarni þessi tíðindi og báðu hann ásjá og létust hvorki til hafa vitsmuni né vinsæld að sitja fyrir Glúmi. En Þórarinn var bæði vitur og vinsæll. Hann svarar, kvaðst verkið lítast illt og lést ugga að illt mundi af standa. Þorvaldur lét ekki tjóa að sakast um verkið og lést hyggja að brátt mundi hann eiga um meiri vandræði að fæta ef hann veitti þeim enga ásjá, létu vera mega að fengjust fulltingsmenn ef hann legði sín orð til.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.129113,
+                    65.537957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "384",
+                "name": "Möðrufell",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 21",
+                "concept": "Activities: travel",
+                "text": "Þann morgun fór Már í  Möðrufell  með átjánda mann að stefna Arngrími um vígið en Glúmur var heima við sétta mann og bað þá skjótt heim koma. Jöður var heima hjá Glúmi og Eyjólfur sonur Þorleifs hins háva, Þorvaldur tasaldi systursonur Glúms og þrælar tveir.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.21002,
+                    65.5104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2981",
+                "name": "Á",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 22",
+                "concept": "Activities: travel",
+                "text": "Þorvarður hét maður Örnólfsson og sonur Yngvildar er kölluð var allrasystir. Hann bjó í Kristnesi . Guðbrandur hét sonur hans, tólf vetra gamall. Þorvarður var vitur  maður og var þá gamall, meðallagi góðgjarn. Hann var snemma á fótum þann morgun og bað sveininn taka hesta og ríða síðan til Þverár .",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.169956,
+                    64.036517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2981",
+                "name": "Á",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 22",
+                "concept": "Actors: animals: mammals: horses",
+                "text": "Þorvarður hét maður Örnólfsson og sonur Yngvildar er kölluð var allrasystir. Hann bjó í Kristnesi . Guðbrandur hét sonur hans, tólf vetra gamall. Þorvarður var vitur  maður og var þá gamall, meðallagi góðgjarn. Hann var snemma á fótum þann morgun og bað sveininn taka hesta og ríða síðan til Þverár .",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.169956,
+                    64.036517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "460",
+                "name": "Hrísateigur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 23",
+                "concept": "Activities: farming/cultivation",
+                "text": "Þá mælti Glúmur: \"Harðslægur var  Hrísateigur  nú í dag sveinar,\" segir hann.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.108128,
+                    65.540098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "460",
+                "name": "Hrísateigur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 23",
+                "concept": "Physical Landscape: managed landscape area: agricultural area: field",
+                "text": "Þá mælti Glúmur: \"Harðslægur var  Hrísateigur  nú í dag sveinar,\" segir hann.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.108128,
+                    65.540098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3011",
+                "name": "Þverá",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Physical Landscape: unmanged landscape area: moving water: river",
+                "text": "Nú býr Einar til vígsmálið af nýju til alþingis og fjölmenna hvorirtveggju. En áður Glúmur riði heiman dreymdi hann að margir menn væru komnir þar til  Þverár  að hitta Frey og þóttist hann sjá mart manna á eyrunum við ána en Freyr sat á stóli. Hann þóttist spyrja hverjir þar væru komnir.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.045023,
+                    64.032712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3011",
+                "name": "Þverá",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Actors: supernatural actors: dream figures",
+                "text": "Nú býr Einar til vígsmálið af nýju til alþingis og fjölmenna hvorirtveggju. En áður Glúmur riði heiman dreymdi hann að margir menn væru komnir þar til  Þverár  að hitta Frey og þóttist hann sjá mart manna á eyrunum við ána en Freyr sat á stóli. Hann þóttist spyrja hverjir þar væru komnir.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.045023,
+                    64.032712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3011",
+                "name": "Þverá",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Community Places: shared spaces: assembly site",
+                "text": "Nú býr Einar til vígsmálið af nýju til alþingis og fjölmenna hvorirtveggju. En áður Glúmur riði heiman dreymdi hann að margir menn væru komnir þar til  Þverár  að hitta Frey og þóttist hann sjá mart manna á eyrunum við ána en Freyr sat á stóli. Hann þóttist spyrja hverjir þar væru komnir.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.045023,
+                    64.032712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "316",
+                "name": "Hörgárdalur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Physical Landscape: managed landscape area",
+                "text": "Ríða menn til þings og verða þau málalok að Glúmur gengur við víginu. En í því áttu hlut vinir hans og frændur að heldur skyldi sættast en sekt kæmi á eða utanferð. Og sættust þeir á þingi að því að Glúmur galt  Þverárland  hálft Katli syni Þorvalds króks í föðurbætur en seldi hálft við verði og skyldi þó búa á þau misseri og varð héraðssekur og búa eigi nær en í  Hörgárdal .  Fóru síðan af þingi. Síðan keypti Einar landið sem honum var heitið.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.3197021484375,
+                    65.7114277277577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "316",
+                "name": "Hörgárdalur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Activities: exchange",
+                "text": "Ríða menn til þings og verða þau málalok að Glúmur gengur við víginu. En í því áttu hlut vinir hans og frændur að heldur skyldi sættast en sekt kæmi á eða utanferð. Og sættust þeir á þingi að því að Glúmur galt  Þverárland  hálft Katli syni Þorvalds króks í föðurbætur en seldi hálft við verði og skyldi þó búa á þau misseri og varð héraðssekur og búa eigi nær en í  Hörgárdal .  Fóru síðan af þingi. Síðan keypti Einar landið sem honum var heitið.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.3197021484375,
+                    65.7114277277577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "316",
+                "name": "Hörgárdalur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Ideas: power: legal power",
+                "text": "Ríða menn til þings og verða þau málalok að Glúmur gengur við víginu. En í því áttu hlut vinir hans og frændur að heldur skyldi sættast en sekt kæmi á eða utanferð. Og sættust þeir á þingi að því að Glúmur galt  Þverárland  hálft Katli syni Þorvalds króks í föðurbætur en seldi hálft við verði og skyldi þó búa á þau misseri og varð héraðssekur og búa eigi nær en í  Hörgárdal .  Fóru síðan af þingi. Síðan keypti Einar landið sem honum var heitið.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.3197021484375,
+                    65.7114277277577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "316",
+                "name": "Hörgárdalur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Community Places: shared spaces: assembly site",
+                "text": "Ríða menn til þings og verða þau málalok að Glúmur gengur við víginu. En í því áttu hlut vinir hans og frændur að heldur skyldi sættast en sekt kæmi á eða utanferð. Og sættust þeir á þingi að því að Glúmur galt  Þverárland  hálft Katli syni Þorvalds króks í föðurbætur en seldi hálft við verði og skyldi þó búa á þau misseri og varð héraðssekur og búa eigi nær en í  Hörgárdal .  Fóru síðan af þingi. Síðan keypti Einar landið sem honum var heitið.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.3197021484375,
+                    65.7114277277577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "316",
+                "name": "Hörgárdalur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Activities: travel",
+                "text": "Ríða menn til þings og verða þau málalok að Glúmur gengur við víginu. En í því áttu hlut vinir hans og frændur að heldur skyldi sættast en sekt kæmi á eða utanferð. Og sættust þeir á þingi að því að Glúmur galt  Þverárland  hálft Katli syni Þorvalds króks í föðurbætur en seldi hálft við verði og skyldi þó búa á þau misseri og varð héraðssekur og búa eigi nær en í  Hörgárdal .  Fóru síðan af þingi. Síðan keypti Einar landið sem honum var heitið.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.3197021484375,
+                    65.7114277277577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "316",
+                "name": "Hörgárdalur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Physical Landscape: mananged landscape area",
+                "text": "Ríða menn til þings og verða þau málalok að Glúmur gengur við víginu. En í því áttu hlut vinir hans og frændur að heldur skyldi sættast en sekt kæmi á eða utanferð. Og sættust þeir á þingi að því að Glúmur galt  Þverárland  hálft Katli syni Þorvalds króks í föðurbætur en seldi hálft við verði og skyldi þó búa á þau misseri og varð héraðssekur og búa eigi nær en í  Hörgárdal .  Fóru síðan af þingi. Síðan keypti Einar landið sem honum var heitið.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.3197021484375,
+                    65.7114277277577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3011",
+                "name": "Þverá",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Activities: land management ",
+                "text": "Hún kom til  Þverár  og kvaddi Glúm og mælti: \"Sittu heill Glúmur en ekki er hér nú lengur að vera. Komið hefi eg nú eldi á  Þverárland  og geri eg þig nú á brott með allt þitt og er helgað landið Einari syni mínum.\"",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.045023,
+                    64.032712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3106",
+                "name": "Möðruvellir",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Glúmur bjó á  Möðruvöllum  í  Hörgárdal  við Þorgrím fjúk og undi því eigi lengur en einn vetur. Þá bjó hann tvo vetur í  Myrkárdal . Þá hljóp þar skriða nær bænum svo að tók sum húsin.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.497885,
+                    64.299414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "316",
+                "name": "Hörgárdalur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Glúmur bjó á  Möðruvöllum  í  Hörgárdal  við Þorgrím fjúk og undi því eigi lengur en einn vetur. Þá bjó hann tvo vetur í  Myrkárdal . Þá hljóp þar skriða nær bænum svo að tók sum húsin.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.3197021484375,
+                    65.7114277277577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "467",
+                "name": "Myrkárdalur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Glúmur bjó á  Möðruvöllum  í  Hörgárdal  við Þorgrím fjúk og undi því eigi lengur en einn vetur. Þá bjó hann tvo vetur í  Myrkárdal . Þá hljóp þar skriða nær bænum svo að tók sum húsin.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.631828,
+                    65.628941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3106",
+                "name": "Möðruvellir",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Events: destruction",
+                "text": "Glúmur bjó á  Möðruvöllum  í  Hörgárdal  við Þorgrím fjúk og undi því eigi lengur en einn vetur. Þá bjó hann tvo vetur í  Myrkárdal . Þá hljóp þar skriða nær bænum svo að tók sum húsin.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.497885,
+                    64.299414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "316",
+                "name": "Hörgárdalur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Events: destruction",
+                "text": "Glúmur bjó á  Möðruvöllum  í  Hörgárdal  við Þorgrím fjúk og undi því eigi lengur en einn vetur. Þá bjó hann tvo vetur í  Myrkárdal . Þá hljóp þar skriða nær bænum svo að tók sum húsin.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.3197021484375,
+                    65.7114277277577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "467",
+                "name": "Myrkárdalur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Events: destruction",
+                "text": "Glúmur bjó á  Möðruvöllum  í  Hörgárdal  við Þorgrím fjúk og undi því eigi lengur en einn vetur. Þá bjó hann tvo vetur í  Myrkárdal . Þá hljóp þar skriða nær bænum svo að tók sum húsin.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.631828,
+                    65.628941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3106",
+                "name": "Möðruvellir",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Physical Processes: natural change",
+                "text": "Glúmur bjó á  Möðruvöllum  í  Hörgárdal  við Þorgrím fjúk og undi því eigi lengur en einn vetur. Þá bjó hann tvo vetur í  Myrkárdal . Þá hljóp þar skriða nær bænum svo að tók sum húsin.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.497885,
+                    64.299414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "316",
+                "name": "Hörgárdalur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Physical Processes: natural change",
+                "text": "Glúmur bjó á  Möðruvöllum  í  Hörgárdal  við Þorgrím fjúk og undi því eigi lengur en einn vetur. Þá bjó hann tvo vetur í  Myrkárdal . Þá hljóp þar skriða nær bænum svo að tók sum húsin.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.3197021484375,
+                    65.7114277277577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "467",
+                "name": "Myrkárdalur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Physical Processes: natural change",
+                "text": "Glúmur bjó á  Möðruvöllum  í  Hörgárdal  við Þorgrím fjúk og undi því eigi lengur en einn vetur. Þá bjó hann tvo vetur í  Myrkárdal . Þá hljóp þar skriða nær bænum svo að tók sum húsin.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.631828,
+                    65.628941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3106",
+                "name": "Möðruvellir",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Physical Landscape: built environment: buildings",
+                "text": "Glúmur bjó á  Möðruvöllum  í  Hörgárdal  við Þorgrím fjúk og undi því eigi lengur en einn vetur. Þá bjó hann tvo vetur í  Myrkárdal . Þá hljóp þar skriða nær bænum svo að tók sum húsin.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.497885,
+                    64.299414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "316",
+                "name": "Hörgárdalur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Physical Landscape: built environment: buildings",
+                "text": "Glúmur bjó á  Möðruvöllum  í  Hörgárdal  við Þorgrím fjúk og undi því eigi lengur en einn vetur. Þá bjó hann tvo vetur í  Myrkárdal . Þá hljóp þar skriða nær bænum svo að tók sum húsin.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.3197021484375,
+                    65.7114277277577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "467",
+                "name": "Myrkárdalur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 26",
+                "concept": "Physical Landscape: built environment: buildings",
+                "text": "Glúmur bjó á  Möðruvöllum  í  Hörgárdal  við Þorgrím fjúk og undi því eigi lengur en einn vetur. Þá bjó hann tvo vetur í  Myrkárdal . Þá hljóp þar skriða nær bænum svo að tók sum húsin.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.631828,
+                    65.628941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "296",
+                "name": "Hagi",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Ideas: resources",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.382624,
+                    65.855934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "322",
+                "name": "Hrísey",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Ideas: resources",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.3825302124023,
+                    65.9965194289924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1699",
+                "name": "Hvalseyjar",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Ideas: resources",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.514616,
+                    64.627971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "296",
+                "name": "Hagi",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Ideas: resources",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.382624,
+                    65.855934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "296",
+                "name": "Hagi",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Ideas: resources",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.382624,
+                    65.855934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "296",
+                "name": "Hagi",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Actors: animals: mammals: whale",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.382624,
+                    65.855934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "322",
+                "name": "Hrísey",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Actors: animals: mammals: whale",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.3825302124023,
+                    65.9965194289924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1699",
+                "name": "Hvalseyjar",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Actors: animals: mammals: whale",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.514616,
+                    64.627971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "296",
+                "name": "Hagi",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Actors: animals: mammals: whale",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.382624,
+                    65.855934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "296",
+                "name": "Hagi",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Actors: animals: mammals: whale",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.382624,
+                    65.855934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "296",
+                "name": "Hagi",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Activities: fishing",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.382624,
+                    65.855934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "322",
+                "name": "Hrísey",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Activities: fishing",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.3825302124023,
+                    65.9965194289924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1699",
+                "name": "Hvalseyjar",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Activities: fishing",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.514616,
+                    64.627971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "296",
+                "name": "Hagi",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Activities: fishing",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.382624,
+                    65.855934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "296",
+                "name": "Hagi",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Activities: fishing",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.382624,
+                    65.855934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "296",
+                "name": "Hagi",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Actors: things: boat",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.382624,
+                    65.855934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "322",
+                "name": "Hrísey",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Actors: things: boat",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.3825302124023,
+                    65.9965194289924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1699",
+                "name": "Hvalseyjar",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Actors: things: boat",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.514616,
+                    64.627971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "296",
+                "name": "Hagi",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Actors: things: boat",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.382624,
+                    65.855934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "296",
+                "name": "Hagi",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Actors: things: boat",
+                "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.382624,
+                    65.855934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1444",
+                "name": "Oddaeyrr",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Actors: things: boat",
+                "text": "Og svo gerðu þeir. En er eyjarmenn sáu þetta þá hljópu þeir út og til skipanna og lögðu eftir þeim. Og var Glúmur þar kominn með tvö hundruð manna og eltu þá inn allt að  Oddaeyri  og varð eigi háinn féránsdómurinn og fengu þeir af óvirðing Eyfirðingar.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.786398,
+                    58.047565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "330",
+                "name": "Kaupangur",
+                "sagaid": 8,
+                "saganame": "Víga-Glúms saga",
+                "chapter": "Chapter 27",
+                "concept": "Community Places: administrative units: local assembly ",
+                "text": "Situr Glúmur um sumarið í búi sínu. Hann átti og að helga haustþing en þingstöðin er fyrir austan fjörðinn skammt frá  Kaupangi  og fjölmenntu Eyfirðingar mjög en Glúmur hafði þrjá tigu eina manna. Margir töluðu við Glúm að hann skyldi eigi fámennur fara.",
+                "action_start": "925",
+                "action_end": "1003",
+                "composition_start": "1200",
+                "composition_end": "1280",
+                "oldest_manuscript": "AM 132 fol. ",
+                "oldest_manuscript_start": "1330",
+                "oldest_manuscript_end": "1370",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.025649,
+                    65.642753
+                ]
+            }
+        }
+    ]
+}

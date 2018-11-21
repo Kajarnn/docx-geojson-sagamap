@@ -1,0 +1,2439 @@
+[
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Noregi ",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Sygnafylki",
+                "sm_entry": {
+                    "id": "1742",
+                    "name": "Sygnafylki",
+                    "lat": "61.1220191681303",
+                    "lng": "5.965576171875",
+                    "type": "region",
+                    "info": "=Sogn",
+                    "county": "Foreign01",
+                    "c": "2",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Vík",
+                "sm_entry": {
+                    "id": "1716",
+                    "name": "Vína",
+                    "lat": "62.616343",
+                    "lng": "43.503378",
+                    "type": "river",
+                    "info": "=Dvina",
+                    "county": "Foreign01",
+                    "c": "1",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Fjölum",
+                "sm_entry": {
+                    "id": "713",
+                    "name": "Kjölur",
+                    "lat": "64.799543",
+                    "lng": "-19.527211",
+                    "type": "road",
+                    "county": "Árnes01",
+                    "c": "8",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Stafanesvogi",
+                "sm_entry": {
+                    "id": "1385",
+                    "name": "Stafanesvogur",
+                    "lat": "61.566592",
+                    "lng": "5.166848",
+                    "type": "bay",
+                    "county": "Foreign01",
+                    "c": "1",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Atlaey",
+                "sm_entry": {
+                    "id": "1386",
+                    "name": "Atlaey",
+                    "lat": "61.348913",
+                    "lng": "4.956049",
+                    "type": "island",
+                    "info": "=Atløyna",
+                    "county": "Foreign01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þá er Haraldur hinn hárfagri gekk til ríkis í  Noregi  mægðist hann við Hákon jarl Grjótgarðsson og fékk hann þá  Sygnafylki  Hákoni mági sínum en Haraldur konungur fór í  Vík  austur. En Atli jarl vildi eigi laust láta ríkið fyrr en hann fyndi Harald konung. Jarlarnir þreyttu þetta með kappi svo að hvortveggi dró lið saman. Þeir fundust á  Fjölum  í  Stafanesvogi  og fékk Hákon jarl sigur en Atli jarl varð sár og var fluttur í  Atlaey  og dó þar úr sárum."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Ingólfur gekk fyrir föður sinn og segir honum að hann vill halda í hernað og bað hann afla nokkurs. Leifur gekk og fyrir sinn föður, biðjandi hann slíks hins sama og voru þeim gefin mörg langskip. Biðja nú síðan samlags við sonu Atla jarls. Þeir voru fúsir þessa við Ingólf. Það voru lög í þann tíma að eigi skyldi yngri maður vera í herförum en tuttugu vetra en ellegar vildu þeir gjarna Leif í lög taka."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Leifur svarar: \"Ef vér komum í nokkura raun sjáum þá ef eg stend að baki öðrum. Gefist eg eigi verr en aðrir þá á eg ekki að gjalda æsku minnar.\""
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farms"
+        ],
+        "places": [],
+        "text": "Nú þrýtur veisluna og er ekki til samfara mælt af Hersteins hendi. Fóru jarlssynir heim frá veislunni og sátu í búum sínum um veturinn og svo þeir fóstbræður og er nú allt kyrrt."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farms"
+        ],
+        "places": [],
+        "text": "Um vorið vill Leifur í hernað en Ingólfur latti þess og sagði þeim vera mál að setjast um kyrrt að búum sínum \"og muntu muna heitstrengingar þær er fram fóru.\""
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hísargafl",
+                "sm_entry": {
+                    "id": "1390",
+                    "name": "Hísargafl",
+                    "lat": "60.989971",
+                    "lng": "4.962205",
+                    "type": "other",
+                    "info": "\"Leiðr.; Hísnar- öll hdrr.; Hísargafl í Landn. Hisarøy er sunnan við mynni Sogns í Noregi, en óvíst er, hvort Hísargafl var þar (sjá Rygh: Norske Gaardnavne XI, 269-70); Helland: Norges Land og Folk XII/1, 35; XII/2, 463; Namn och bygd 1938, 3\" (ÍF XIII: 236). ",
+                    "county": "Foreign01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Ingólfur kvað hann slíku mundu ráða. Skilja þeir nú við þetta. Fer Leifur í hernað og fundust þeir jarlssynir, Hersteinn og Hólmsteinn, við  Hísargafl . Þeir leggja að Leifi þegar og slær þar þegar í bardaga. Hafði Leifur þrjú skip en þeir bræður sex skip. Vinna þeir nú skjótt skip af Leifi."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Ideas: power: legal power",
+            "Actors: things: money"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Firðafylki",
+                "sm_entry": {
+                    "id": "1389",
+                    "name": "Firðafylki",
+                    "lat": "61.576548",
+                    "lng": "6.687058",
+                    "type": "region",
+                    "info": "Einnig nefnt Fjarðafylki",
+                    "county": "Foreign01",
+                    "c": "33",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Eftir þetta skildu þeir og heldur Leifur til móts við Ingólf og sagði honum allt hversu farið hafði. Ingólfur segir mikið vera að orðið og biður þá báða saman vera og svo gerðu þeir og héldu fjölmennt um veturinn. Þann sama vetur fór Hólmsteinn að þeim Ingólfi og Leifi og vildi drepa þá. En þeir fengu njósn af ferð hans og fóru í móti honum. Varð þá enn orusta mikil og féll þar Hólmsteinn. Eftir það dreif lið að þeim fóstbræðrum, vinir þeirra og frændur úr  Firðafylki . Voru þá sendir menn til Hallsteins og bjóða sættir með því móti að þeir vilja leggja undir dóm Hallsteins. Sagðist Ingólfur honum vel trúa til réttdæmis og bað hann muna heitstrenging sína."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Activities: naming",
+            "Ideas: stories: written work",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Íslands",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Ingólfshöfði",
+                "sm_entry": {
+                    "id": "225",
+                    "name": "Ingólfshöfði",
+                    "lat": "63.800279",
+                    "lng": "-16.638543",
+                    "type": "other",
+                    "county": "AusSka02",
+                    "c": "5",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Síðan bjuggust þeir bræður út til  Íslands  sem segir í Landnámabók. Við Ingólf er kenndur  Ingólfshöfði  sunnanlands. Og lýkur þar nú þeirra viðskiptum."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Íslands",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Hallsteinssund",
+                "sm_entry": {
+                    "id": "1392",
+                    "name": "Hallsteinssund",
+                    "lat": "63.830086",
+                    "lng": "-21.043554",
+                    "type": "bay",
+                    "info": "\"Hásteinssund heitir það í Landn., og er nafnið nú týnt. Flestir gizka á, að átt sé við Stjörnusteinasund austan Langarifs (Árb. Fornl. 1905, 8; Lesb. Mbl. 1942, 84; Árnesinga s. II, 44; Guðni Jónsson: Stokkseyringa s. I, 39). Kaalund (I, 178) nefnir til Músarsund vestar, Vigfús Guðmundsson (Saga Eyrarbakka I, 13), Knarrarsund (nú Knarrarós) austar. -- Sjá um örnefnið Hásteinssund Grímni 1980, 98. -- Lág sker úti fyrir Stokkseyri eru nefnd Baðstofuklettar, og fylgir sú sögn nafninu, að þar hafi bærinn á Stokkseyri fyrrum staðið (Kaalund I, 178; Árb. Fornl. 1905, 9), sbr. hins vegar gagnrýni V.G. (ív. r. I, 12, 22-23) og G. J. (ív. r. I, 18)\" (ÍF XIII: 238).  ",
+                    "county": "Árnes01",
+                    "c": "2",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Stokkseyri",
+                "sm_entry": {
+                    "id": "1391",
+                    "name": "Stokkseyri",
+                    "lat": "63.839026",
+                    "lng": "-21.070268",
+                    "type": "harbour",
+                    "county": "Árnes01",
+                    "c": "8",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Stokkseyri",
+                "sm_entry": {
+                    "id": "1391",
+                    "name": "Stokkseyri",
+                    "lat": "63.839026",
+                    "lng": "-21.070268",
+                    "type": "harbour",
+                    "county": "Árnes01",
+                    "c": "8",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Eftir fall Atla jarls mjóva safnaði liði Sigurður jarl, son Hákonar gamla, með ráði Haralds konungs hins hárfagra og vildi drepa Hallstein. Við þetta stökk Hallsteinn undan og út til  Íslands  fyrir þessum ófriði sem þá gerðu margir gildir menn, að þeir flýðu óðul sín fyrir ofríki Haralds konungs og unnu áður stórvirki nokkur. Hallsteinn skaut setstokkum fyrir borð í hafi til heilla sér eftir fornum sið. Þeim sveif á land þar sem síðan heitir Stokkseyri en skipið kom í  Hallsteinssund  fyrir austan  Stokkseyri  og braut þar. Setstokkarnir komu fyrir dyr á Stálfjöru fram frá  Stokkseyri . Víða höfðu menn þá land numið."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Activities: land management"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Stjörnusteinum",
+                "sm_entry": {
+                    "id": "1590",
+                    "name": "Stjörnusteinar",
+                    "lat": "63.825015",
+                    "lng": "-21.012586",
+                    "type": "farm",
+                    "info": "Name changed to Ölvistoptir. ",
+                    "county": "Árnes01",
+                    "c": "4",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Ölvistóftir"
+            },
+            {
+                "as_mentioned": "Rauðár",
+                "sm_entry": {
+                    "id": "1585",
+                    "name": "Rauðá",
+                    "lat": "63.865163",
+                    "lng": "-20.92489",
+                    "type": "river",
+                    "info": "=Hróarsholtslækur",
+                    "county": "Árnes01",
+                    "c": "7",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Ölfusár",
+                "sm_entry": {
+                    "id": "1586",
+                    "name": "Ölfusá",
+                    "lat": "63.930758",
+                    "lng": "-21.121758",
+                    "type": "river",
+                    "county": "Árnes01",
+                    "c": "13",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Traðarholt",
+                "sm_entry": {
+                    "id": "1591",
+                    "name": "Traðarholt",
+                    "lat": "63.841148",
+                    "lng": "-21.005036",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "17",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Baugsstaði",
+                "sm_entry": {
+                    "id": "1592",
+                    "name": "Baugsstaðir",
+                    "lat": "63.823501",
+                    "lng": "-20.953052",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "4",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Og eftir andlát hans skiptu þeir bræður með sér erfðum. Bjó Ölvir að  Stjörnusteinum . Það heita nú  Ölvistóftir . Hafði Atli í móti allt landnám milli  Rauðár  og  Ölfusár ,  Traðarholt  og  Baugsstaði ."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Things: institution: preChristian temple"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Gaulum",
+                "sm_entry": {
+                    "id": "2405",
+                    "name": "Baula",
+                    "lat": "64.84646",
+                    "lng": "-21.41451",
+                    "type": "mountain",
+                    "county": "Dalas01",
+                    "c": "2",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Íslands",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Þjórsár",
+                "sm_entry": {
+                    "id": "78",
+                    "name": "Þjórsá",
+                    "lat": "63.944279",
+                    "lng": "-20.571318",
+                    "type": "river",
+                    "info": "Fords were/are at Sóleyjarhöfði (on the old Sprengisandur route), Gaukshöfði, Hagavað, Nautavað. Also at Holtavað (now lost) and Eyjavað.",
+                    "county": "Árnes01",
+                    "c": "65",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Rauðár",
+                "sm_entry": {
+                    "id": "1585",
+                    "name": "Rauðá",
+                    "lat": "63.865163",
+                    "lng": "-20.92489",
+                    "type": "river",
+                    "info": "=Hróarsholtslækur",
+                    "county": "Árnes01",
+                    "c": "7",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Skúfslækjar",
+                "sm_entry": {
+                    "id": "1597",
+                    "name": "Skúfslækur",
+                    "lat": "63.856053",
+                    "lng": "-20.770144",
+                    "type": "river",
+                    "county": "Árnes01",
+                    "c": "3",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Breiðamýri",
+                "sm_entry": {
+                    "id": "344",
+                    "name": "Breiðamýri",
+                    "lat": "65.9694108052555",
+                    "lng": "-17.3844909667969",
+                    "type": "farm",
+                    "county": "SuðÞin01",
+                    "c": "4",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Súluholts",
+                "sm_entry": {
+                    "id": "1598",
+                    "name": "Súluholt",
+                    "lat": "63.888603",
+                    "lng": "-20.866553",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Gaulverjabæ",
+                "sm_entry": {
+                    "id": "1599",
+                    "name": "Gaulverjabær",
+                    "lat": "63.832887",
+                    "lng": "-20.890562",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "3",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Gaulum",
+                "sm_entry": {
+                    "id": "2405",
+                    "name": "Baula",
+                    "lat": "64.84646",
+                    "lng": "-21.41451",
+                    "type": "mountain",
+                    "county": "Dalas01",
+                    "c": "2",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Vörs",
+                "sm_entry": {
+                    "id": "422",
+                    "name": "Vors",
+                    "lat": "60.631086",
+                    "lng": "6.428037",
+                    "type": "region",
+                    "info": "=Voss á Hörðalandi",
+                    "county": "Foreign01",
+                    "c": "14",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Breiðamýri",
+                "sm_entry": {
+                    "id": "344",
+                    "name": "Breiðamýri",
+                    "lat": "65.9694108052555",
+                    "lng": "-17.3844909667969",
+                    "type": "farm",
+                    "county": "SuðÞin01",
+                    "c": "4",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Ossabæ",
+                "sm_entry": {
+                    "id": "129",
+                    "name": "Ossabær",
+                    "lat": "63.673913",
+                    "lng": "-20.116362",
+                    "type": "farm",
+                    "info": "=Vorsabær. See http://xn--mli-ela1f.is/leit/vörs ",
+                    "county": "Árnes01",
+                    "c": "9",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Loftur fór af  Gaulum  til  Íslands  ungur að aldri og nam land á milli  Þjórsár og  Rauðár  upp til  Skúfslækjar ,  Breiðamýri  upp til  Súluholts , og bjó í  Gaulverjabæ  og Oddný móðir hans, dóttir Þorbjarnar hins gaulverska. Loftur fór utan hið þriðja hvert sumar fyrir hönd þeirra Flosa beggja móðurbróður síns að blóta að hofi því er Þorbjörn móðurfaðir hans hafði varðveitt að  Gaulum . Frá Lofti er mart stórmenni komið. Þá kom út Þorviður bróðir hans af  Vörs . Loftur gaf honum land á  Breiðamýri  og bjó hann í  Ossabæ . Hans börn voru þau Hrafn og Hallveig. Þessir menn voru nú allir samtíða."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Activities: land management "
+        ],
+        "places": [
+            {
+                "as_mentioned": "Sogni",
+                "sm_entry": {
+                    "id": "397",
+                    "name": "Sogn",
+                    "lat": "61.1220191681303",
+                    "lng": "5.965576171875",
+                    "type": "fjord",
+                    "county": "Foreign01",
+                    "c": "40",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Upplöndum",
+                "sm_entry": {
+                    "id": "423",
+                    "name": "Upplönd",
+                    "lat": "62.225037",
+                    "lng": "8.86413",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "14",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Íslands",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Holtalönd",
+                "sm_entry": {
+                    "id": "3050",
+                    "name": "Hólmslönd",
+                    "lat": "64.799297",
+                    "lng": "-14.135344",
+                    "type": "other",
+                    "county": "Rangár01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Þjórsár",
+                "sm_entry": {
+                    "id": "78",
+                    "name": "Þjórsá",
+                    "lat": "63.944279",
+                    "lng": "-20.571318",
+                    "type": "river",
+                    "info": "Fords were/are at Sóleyjarhöfði (on the old Sprengisandur route), Gaukshöfði, Hagavað, Nautavað. Also at Holtavað (now lost) and Eyjavað.",
+                    "county": "Árnes01",
+                    "c": "65",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Hraunslækjar",
+                "sm_entry": {
+                    "id": "1601",
+                    "name": "Hraunslækur",
+                    "lat": "63.944939",
+                    "lng": "-20.815181",
+                    "type": "river",
+                    "info": "??",
+                    "county": "Árnes01",
+                    "c": "2",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Kampholti",
+                "sm_entry": {
+                    "id": "1602",
+                    "name": "Kampholt",
+                    "lat": "63.938387",
+                    "lng": "-20.715139",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "2",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Össur hét maður hinn hvíti, son Þorleifs úr  Sogni . Össur vó víg í véum á  Upplöndum  þá er hann var í brúðferð með Sigurði hrísa. Fyrir það varð hann landflótti til  Íslands  og nam fyrst öll  Holtalönd  á milli  Þjórsár  og  Hraunslækjar . Þá var hann fimmtán vetra er hann vó vígið. Hann fékk Hallveigar dóttur Þorviðar. Þeirra son var Þorgrímur kampi. Hann var faðir Össurar, föður Þorbjarnar, föður Þórarins, föður Gríms Jórusonar. Össur bjó í  Kampholti . Hann andaðist þá er Þorgrímur var ungur. Þá tók við fjárvarðveislu Hrafn móðurbróðir hans."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: woods and trees"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Böðvarsstöðum",
+                "sm_entry": {
+                    "id": "1603",
+                    "name": "Böðvarsstaðir",
+                    "lat": "63.902456",
+                    "lng": "-20.820822",
+                    "type": "farm",
+                    "info": "Placename lost. ",
+                    "county": "Árnes01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Víðiskóg",
+                "sm_entry": {
+                    "id": "1604",
+                    "name": "Víðiskógur",
+                    "lat": "63.905181",
+                    "lng": "-20.821269",
+                    "type": "wood",
+                    "info": "Placename lost. ",
+                    "county": "Árnes01",
+                    "c": "3",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Böðvar hét maður. Hann var leysingi Össurar. Hann bjó á  Böðvarsstöðum  við  Víðiskóg . Honum gaf Össur hlut nokkurn í skóginum, mælti svo fyrir að hann skildi sér skóginn ef misdauði þeirra yrði og ætti Böðvar engan erfingja eftir."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Community Places: shared spaces: assembly site",
+            "Ideas: power: legal power",
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [],
+        "text": "Erni varð vant um haustið sex tiga geldinga og hefir eigi góðan róm á Böðvari og ber á brýn honum að hann muni tekið hafa. Böðvar duldi þess og unni honum engra bóta fyrir, þóttist sitja í trausti ríkra manna er Hrafn var Þorviðarson, frændi Eyrar-Lofts. Um vorið stefnir Örn Böðvari um stuld. Þykist Böðvar sér nú eigi einhlítur um vörn málsins og sækir að Atla Hallsteinsson því að hann var honum nær en Hrafn og tjáir honum málið. Atli segir að eigi sé örvænt að menn finni gagnsakir í máli Arnar. Eftir það tók Atli við öllu fé Böðvars með handsölum. Stendur nú svo til þings. Á þingi er mál búið til sóknar á hendur Böðvari og kom málið í dóm."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: woods and trees"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Víðiskógsins"
+            }
+        ],
+        "text": "Litlu síðar andast Böðvar. Eftir andlát hans kallaði Hrafn til  Víðiskógsins fyrir hönd Þorgríms kampa og bannar Atla afneyslu skógarins og sagði honum máldaga þeirra Össurar og Böðvars og leiddi vitni um. Atli kvaðst ætla að láta eigi sitt fyrir Hrafni, kvað hann lítt minnast á það er faðir hans gaf honum sitt land. Hrafn kvað það fyrir löngu aftur bætt og kvaðst vilja hafa sitt. Atli varnaði honum skógarins og skildu að því."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: woods and trees",
+            "Actors: animals: mammals: sheep"
+        ],
+        "places": [],
+        "text": "Það er sagt að sauðamaður Hrafns hafði gengið að fé um daginn. Hann getur að líta hvar þeir eru í skóginum. Hann hleypur heim sem skjótast og segir Hrafni að Atli mun nú hafa nytjar af skóginum \"slíkar sem honum sýnist. Höggva þeir þar sem bestur er skógurinn og er það að vonum að ekki hafir þú þrek við jarlbornum mönnum.\""
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Þegar slær í bardaga með þeim og sækjast þeir Atli og Hrafn og verða þeirra viðskipti harðfeng. Leiðólfur verst og vel og vill nú launa frelsisgjöfina og um síðir vill hann flýja og féll hann þá og hafði þó mann fyrir sig. Atli drap einn húskarl Hrafns og sótti Hrafn hann þó. Tveir féllu menn Hrafns en Atli var þá særður til ólífis."
+    },
+    {
+        "chapter": "9. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: cairn",
+            "Events: hostile encounter",
+            "Activities: travel",
+            "Actors: things: spear",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Einarshöfn",
+                "sm_entry": {
+                    "id": "1580",
+                    "name": "Einarshöfn",
+                    "lat": "63.86378",
+                    "lng": "-21.164608",
+                    "type": "harbour",
+                    "county": "Árnes01",
+                    "c": "9",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Haugavaði",
+                "sm_entry": {
+                    "id": "1609",
+                    "name": "Haugavað",
+                    "lat": "63.830315",
+                    "lng": "-20.98385",
+                    "type": "ford",
+                    "info": "??",
+                    "county": "Árnes01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Traðarholti",
+                "sm_entry": {
+                    "id": "1591",
+                    "name": "Traðarholt",
+                    "lat": "63.841148",
+                    "lng": "-21.005036",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "17",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "haugur hans"
+            },
+            {
+                "as_mentioned": "Atlahaugur"
+            },
+            {
+                "as_mentioned": "Ölvishaugur",
+                "sm_entry": {
+                    "id": "2950",
+                    "name": "Hildishaugur",
+                    "lat": "63.796759",
+                    "lng": "-18.038121",
+                    "type": "burial mound",
+                    "county": "VesSka01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Hallsteinshaugur"
+            }
+        ],
+        "text": "Svo er sagt eitthvert sinn að Þórður frétti að Hrafn var riðinn út í  Einarshöfn  til skips og var einn í reið og ætlaði heim um kveldið. Hrafn var í blárri kápu og gyrður sverði og hafði spjót mikið í hendi og gullrekinn á falurinn. Þeir feðgar höfðu átt spjót það. Hann hafði eigi við bardaga búist. Þórður situr fyrir Hrafni hjá  Haugavaði  ofan frá  Traðarholti  einn samt. Hann hafði spjót í hendi og vill nú annaðhvort hefna föður síns eða fá bana. Og um kveldið er Hrafn ríður heim hljóp Þórður að honum óvörum og lagði á honum spjótinu. Hrafn féll af baki og skildi Þórður við hann dauðan og er þar  haugur hans  fyrir austan götuna en fyrir vestan er  Atlahaugur  og  Ölvishaugur  og  Hallsteinshaugur ."
+    },
+    {
+        "chapter": "9. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grímsárósi",
+                "sm_entry": {
+                    "id": "857",
+                    "name": "Grímsárós",
+                    "lat": "64.504128",
+                    "lng": "-21.094525",
+                    "type": "estuary",
+                    "county": "Borga01",
+                    "c": "5",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þórður gerðist ágætur maður. Hann fékk Þórunnar, dóttur Ásgeirs austmannaskelfis. Var hann af því svo kallaður að hann drap skipshöfn  í  Grímsárósi  fyrir það er hann var áður ræntur af þeim. Ásgeir var hið mesta mikilmenni. Þórunn var og skörungur mikill."
+    },
+    {
+        "chapter": "9. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: woods and trees"
+        ],
+        "places": [],
+        "text": ""
+    },
+    {
+        "chapter": "9. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Knarrarsundi",
+                "sm_entry": {
+                    "id": "1261",
+                    "name": "Knarrarsund",
+                    "lat": "63.821989",
+                    "lng": "-20.983898",
+                    "type": "harbour",
+                    "info": "\"Menn hyggja, að Knarrarsund hafi verið fyrir austan Stokkseyri hjá Fornu-Baugsstöðum. Þar heitir nú enn Knarrarós (Kaalund I, 178-79)\" (ÍF XI, 139-40). ",
+                    "county": "Árnes01",
+                    "c": "5",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þá er Þórður hafði tvo vetur og tuttugu þá keypti hann skip í Knarrarsundi  og vildi utan fara og heimta erfðir sínar þær er frændur hans höfðu átt í Sogni og konungur hélt og kvað Þórunni fara skyldu en hún kvaðst vilja eftir vera og kvað það ráðlegra. Þórður reiddist við þessi orð og tók mikið fé er hann átti og fal í jörðu."
+    },
+    {
+        "chapter": "10. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Knarrarsundi",
+                "sm_entry": {
+                    "id": "1261",
+                    "name": "Knarrarsund",
+                    "lat": "63.821989",
+                    "lng": "-20.983898",
+                    "type": "harbour",
+                    "info": "\"Menn hyggja, að Knarrarsund hafi verið fyrir austan Stokkseyri hjá Fornu-Baugsstöðum. Þar heitir nú enn Knarrarós (Kaalund I, 178-79)\" (ÍF XI, 139-40). ",
+                    "county": "Árnes01",
+                    "c": "5",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Mosfelli",
+                "sm_entry": {
+                    "id": "2595",
+                    "name": "Mosfell",
+                    "lat": "64.13402",
+                    "lng": "-20.60462",
+                    "type": "mountain",
+                    "county": "Árnes01",
+                    "c": "5",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Traðarholti ",
+                "sm_entry": {
+                    "id": "1591",
+                    "name": "Traðarholt",
+                    "lat": "63.841148",
+                    "lng": "-21.005036",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "17",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Þorgils hét son þeirra. Hann var tvævetur er Þórður fór utan. Það skip hvarf og spurðist ekki til síðan. Og vetri síðar kom út Þorgrímur örrabeinn í  Knarrarsundi . Hann var Þormóðarson. Hans móðir var Þuríður Ketilbjarnardóttir að  Mosfelli . Þorgrímur var hraustmenni mikið. Hann var í  Traðarholti  um veturinn með Þórunni og var henni hið mesta traust að honum og líkaði henni vel við hann og bað hann með sér dveljast og ráða sjálfan kaupi. Hann kvaðst það vilja og mælti til samfara við hana, kvaðst ellegar eigi þar vera mundu hjá henni nema hún giftist honum. Hún hugsar þetta með ráði vina sinna og frænda. Það var þrem vetrum síðar ... því að hún vildi reynast hugum við hann og skap sitt. Þá er þrír vetur voru liðnir fékk hann Þórunnar og voru samfarar góðar þeirra í milli."
+    },
+    {
+        "chapter": "10. kafli",
+        "concepts": [
+            "Actors: things: spear",
+            "Physical Landscape: built environment: buildings: shed",
+            "Actors: animals: mammals: horse/sheep/",
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [],
+        "text": "Þorgrímur var að öllu fé auðugur. Hann átti mart kvikfé bæði sauði og naut. Einn hestur hét Illingur er hann átti. Það var klár ókostigur. Og er menn voru sofnaðir um nóttina þá vakir Þorgils og íhugar sitt mál og vildi eigi oftar úr leikinum ger vera. Hann stóð upp og tekur sér beisl og gekk út síðan og sá hross hjá garði. Hann snýst þangað til og tekur hestinn Illing og leiðir til húss nokkurs. Síðan tekur hann spjót í hönd sér og gengur að hestinum og rekur spjótið í kviðinn og fellur hann dauður niður. Þorgils leggst niður síðan."
+    },
+    {
+        "chapter": "10. kafli",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Um morguninn er mönnum var til verks skipað biður Þorgrímur heim reka Illing en hann fannst eigi. Var Þorgrími sagt þetta. Hann kvað hestinn þar verið hafa um kveldið og bað enn leita. Fara þeir og finna dauðan hestinn, segja Þorgrími. Hann kvaðst eigi sjá mann til þess að girnast að eiga illt við hann."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Actors: things: jewelry",
+            "Actors: animals: fish",
+            "Activities: fishing"
+        ],
+        "places": [],
+        "text": "Það er sagt þá er Þorgils var níu vetra gamall beiddist hann að róa á sjó með húskörlum Lofts og var það eftir honum látið sem mart annað. Þorgils kastaði færi sínu fyrir borð og dró einn mikinn flatan fisk en engi annar veiddi um daginn. Og er hreggið tók að vaxa reyndist það að Þorgils hafði numið að róa þótt hann væri ungur. Síðan lögðu þeir að landi. Loftur kvað í slíku marka mega hver hann mundi verða. Ganga nú heim og dró Þorgils eftir sér fiskinn. Er hann gekk eftir götunni þá losnaði moldin þar er hann dró fiskinn og kenndi er varð fyrir nokkuð hart. Lítur hann þá til og sér að  þar liggur silfurbaugur. Nú fara þeir heim og selur Þorgils Lofti bauginn, fóstra sínum, til varðveislu."
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Actors: things: money",
+            "Physical Landscape: built environment: cairn"
+        ],
+        "places": [],
+        "text": "Vetri síðar varð sá atburður að þrælar nokkurir brutu haug til fjár sér en Þorgils kom að þeim og kvað það ekki vera þeirra fé og tók af þeim þrjár merkur en hrakti þá sjálfa. Hann fékk Lofti fé þetta og svo allt annað það er hann aflaði. Varð hann nú frægur mjög þótt hann væri ungur."
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Þorgrímur kvað þess enn eigi kost \"því ósvinnri líst mér þín fjárvarðveisla en mín.\""
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Actors: things: jewelry"
+        ],
+        "places": [],
+        "text": "Og er hann er búinn til ferðar kallaði hann til sín leiksveina og kvaðst vilja launa þeim gleði og góða fylgd \"skuluð þér hér taka þrjár merkur silfurs er eg tók af þrælunum en Loftur fóstri minn skal hafa bauginn og vingan mína.\""
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Konungi var vel til hans og gaf honum silfur á laun svo að það var góður kaupeyrir."
+    },
+    {
+        "chapter": "13. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Um vorið segir Þorgils Ólafi að hann vill fara kaupferð um sumarið og leita svo undan ójafnaði Gunnhildar. Ólafur lét vel yfir því. Var Þorgils í kaupferð um sumarið og tókst það vel. En um haustið kom hann í Vestur-Víkina og fer til konu einnar er Gyða hét. Hún var ekkja. Son átti hún er Auðunn hét. Þau veittu honum bæði af hinni mestu dyggð. Gyða var margkunnandi á fyrnsku og fróðleik. Auðunn var vel til Þorgils og mælti til vináttu er hann fór í brott."
+    },
+    {
+        "chapter": "13. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Physical Landscape: built environment: cairn",
+            "Actors: supernatural actors: ghost"
+        ],
+        "places": [],
+        "text": "Það var oft um veturinn að Þorgils heyrði lamið úti um þekjuna. Og eina nótt var það að hann stóð upp, tók öxi í hönd sér og gekk út. Hann sá draug fyrir dyrum standa, mikinn og illilegan. Þorgils færir upp öxina en þessi snýr undan og til haugsins. Og sem þeir koma þar snýr draugurinn á móti. Takast  þeir fangbrögðum því að Þorgils hafði sleppt öxinni. Var þeirra atgangur bæði harður og grimmlegur svo að upp gekk jörðin undir fótum þeim. En að lyktum varð svo, með því að Þorgilsi var lengra líf ætlað, að draugurinn fellur á bak aftur en Þorgils ofan á hann. Tekur hann þar þá hvíld og nær síðan öxi sinni. Höggur Þorgils þá af honum höfuð og mælir síðan yfir honum að hann skuli engum manni að meini verða. Varð og aldrei vart við hann síðan. Björn virti Þorgils mikils er hann hafði gert þar svo mikla híbýlabót."
+    },
+    {
+        "chapter": "13. kafli",
+        "concepts": [
+            "Actors: humans: dead human",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Síðan fer Þorgils með Auðuni að óvitanda Birni, koma til bæjar Auðunar, finna þar húsfreyju dauða, búa nú um líkið."
+    },
+    {
+        "chapter": "13. kafli",
+        "concepts": [
+            "Actors: supernatural actors: monsters"
+        ],
+        "places": [],
+        "text": "Nú er þar til að taka að Björn saknar Þorgils. Fær hann af þessu mikla ógleði og kvaðst þar misst hafa góðs manns \"og er það illa að tröll eða óvættir hafa tekið hann. Skulum vér það þó gera í heiður við hann að drekka erfi hans og uggir mig að eigi megi fagnaðaröl heita því að vér höfum nú leitað hans marga daga.\""
+    },
+    {
+        "chapter": "15. kafli",
+        "concepts": [
+            "Actors: things: money",
+            "Activities: travel",
+            "Actors: things: boats"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eyjanna",
+                "sm_entry": {
+                    "id": "1490",
+                    "name": "Eyjavað",
+                    "lat": "64.593068",
+                    "lng": "-21.630218",
+                    "type": "ford",
+                    "info": "\"Eyjavað mun vera það, sem nú heitir Hólmavað, milli Haugs og Sólheimatungu; það er einnig nefnt í Eyrb. s., 51. kap., og Laxd. s., 62. kap.\", ÍF III, p. 36. ",
+                    "county": "Borga01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Kataness",
+                "sm_entry": {
+                    "id": "1544",
+                    "name": "Katanes",
+                    "lat": "64.36442",
+                    "lng": "-21.752518",
+                    "type": "farm",
+                    "county": "Borga01",
+                    "c": "2",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú búast þeir og höfðu tvö skip og ekki mjög skipuð. En er þeir koma til  Eyjanna  beiða þeir skatta og fengu lítið af. Um haustið héldu þeir til  Kataness  og brutu skip sín en týndu fjárhlut. Menn héldust allir. Ólafur hét jarl er réð fyrir ríki því. Hann frétti til manna Hákonar jarls og bað þá til sín fara. Það þiggja þeir og voru þar um veturinn."
+    },
+    {
+        "chapter": "15. kafli",
+        "concepts": [
+            "Actors: supernatural actors: dream figure"
+        ],
+        "places": [],
+        "text": "Um nóttina eftir dreymdi Þorgils að Auðunn vin hans kæmi að honum og mælti: \"Þú sefur en jafnt mun vera sem þú vakir. Þú skalt á hólm ganga við berserk þenna því að þér unnum vér sæmdar. En Surtur þessi er bróðir minn og er hann mér þó ekki þarfur. Er hann og hið mesta illmenni. Þess spyr hann jafnan þá er hann hefur háð hólmgöngur, þann er hann skal berjast við, hvort hann hafi sverðið Blaðin en eg gaf þér það. En þú skalt fela það í sandi og seg honum að þú vitir eigi hjölt þess fyrir ofan jörð.\""
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Actors: things: money",
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Um morguninn fóru þeir Þorgils og Þorsteinn með jarli til hólmstefnu og er Þorgils búinn til hólmgöngu. Víkingurinn spurði um sverðið Blaðin. Þorgils kvaðst eigi vita hans hjölt fyrir ofan mold. Þorgils dró nú sverðið upp úr sandinum og börðust síðan. Og er þeir hafa barist um stund höggur Þorgils sporðinn af skildi Surts og undan honum fótinn. En það voru þá lög að menn vógu til arfs þess er féll á hólmi. Eftir það hjó Þorgils höfuð af Surti, tók síðan öll skip hans og fé og fékk síðan Guðrúnar systur Ólafs jarls. Skorti Þorgils nú eigi menn né peninga."
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Suðureyjum",
+                "sm_entry": {
+                    "id": "502",
+                    "name": "Suðureyjar",
+                    "lat": "58.096252",
+                    "lng": "-6.893921",
+                    "type": "island",
+                    "county": "Foreign01",
+                    "c": "31",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Um vorið segja þeir jarli að þeir vilji herja um sumarið. Nú halda þeir að  Suðureyjum  og gera þeim kost hvort þeir vilja þola hernað og manndráp eða gjalda skatt Hákoni jarli. En þeir kjöru að gjalda slíkt sem á var lagið. Síðan var allt lukt."
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Actors: supernatural actors: dream figure",
+            "Actors: things: money"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Noregs",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Eftir það fóru þeir austur til  Noregs  og hitta Hákon jarl. Fagnar hann þeim vel. Þeir greiða honum féið og gefa honum þó að auki sæmilegar gjafir. Jarl játtir Þorgilsi nú öllum eignum sínum. Voru þeir með jarli um veturinn í góðu yfirlæti. Að sumri vilja þeir í hernað en ætla til jarls að vetri."
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Actors: things: jewelry"
+        ],
+        "places": [],
+        "text": "Þorgils kvað hann víst hafa skyldu sverðið. Auðunn bað hann hafa þökk fyrir og gaf honum fingurgull. En er Þorgils vaknaði var sverðið burtu og þótti honum svipur að. Síðan herja þeir um sumarið."
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Actors: things: money",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Gyrður hét víkingur er þeir finna um sumarið undir ey einni. Um morguninn fór skúta frá skipum Gyrðs til þeirra Þorgils og kvaðst Gyrður vilja gera félag við þá. Þetta fór fram og skal Gyrður hafa jafnmörg skip og að helmingi allt hlutskipti. Herja nú um sumarið og varð þeim gott til fjár, eyddu mjög illþýði og hernaðarmönnum en létu bændur og kaupmenn fara í friði."
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Physical Landscape: built environment: buildings: house",
+            "Actors: things: jewelry ",
+            "Actors: plants: trees",
+            "Physical Landscape: unmanaged landscape area: unmanaged forest"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Írlands",
+                "sm_entry": {
+                    "id": "421",
+                    "name": "Írland",
+                    "lat": "53.142131",
+                    "lng": "-7.691925",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "41",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þeir komu til  Írlands  um sumarið. Var þar skógur fyrir er þeir komu að, gengu síðan upp í skóginn og í einum stað sáu þeir fallið lauf af tré. Þeir kippa upp eikinni og finna þar jarðhús undir. Þeir sjá menn með vopnum niðri í húsinu. Þorgils gerir sínum mönnum kost að sá skal eignast þrjá kostgripi er fyrstur gengur í húsið en allir játta því nema Gyrður. Eftir það hljóp Þorgils í húsið og varð þar engin mótstaða. Þar lá klæði blátt og á tveir gullhringar og sverð gott. Þar voru og tvær konur. Var önnur ung og fríð en önnur gömul og þó fríð. Þorgils gekk um húsið og var víða berg undir. Hann hafði í hendi eina rótakylfu og barði henni á báðar hendur og stökk flest undan. Þorsteinn fór með honum. Og er þeir gengu úr jarðhúsinu tóku þeir konu þá hina yngri og fluttu með sér til skipa og svo hina eldri. Nú sækir liðið fast eftir þeim en þeir Þorgils komast til skipa og láta þegar frá landi. Nú gekk maður úr liðinu því er eftir sótti og mælti langt erindi. Þeir skildu eigi hans mál."
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Þá mælti kvinnan á norrænu og sagði þeim að hann vildi upp gefa það er þeir höfðu fengið af fénu \"ef þér látið okkur lausar. Þessi maður er jarl og son minn en eg er víkversk að móðurkyni. Munuð þér þá og best njóta gripanna er svo er gert því að þungi fylgir sverðinu. Son minn heitir Hugi. Hann býður þér Þorgils fé heldur en þér takið mig í burtu. Er yður og ekki happ í okkur burt að taka.\""
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Actors: things: jewelry"
+        ],
+        "places": [],
+        "text": "Þorgils hlýðir þeirra ráðum og flytur þær til lands. Hugi jarl gekk með fagnaði á móti Þorgilsi og gaf honum hring einn, annan móðir hans, mærin hinn þriðja og mæltu síðan vel fyrir honum."
+    },
+    {
+        "chapter": "17. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Því játtar Gyrður. Síðan berjast þeir. Hafði Þorgils sverðið Jarðhússnaut og höggur til Gyrðs og undan honum fótinn fyrir neðan ökkla, skildu við svo búið. Lifði Gyrður síðan og var kallaður Gyrður hinn halti."
+    },
+    {
+        "chapter": "17. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Noregs",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Íslands",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Eftir það fóru þeir til  Noregs  og voru með Hákoni jarli um veturinn. Guðrún kona Þorgils fæddi þá sveinbarn. Hann var Þorleifur nefndur. En er vorar vill Þorgils út til  Íslands  til eigna sinna. Gaf Hákon jarl Þorgilsi aftur allar eignir sínar þær er hann átti í Sogni og skildu þeir jarl með vináttu. Sat hann nú að búum sínum um sumarið og svo um veturinn."
+    },
+    {
+        "chapter": "17. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Íslandi",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þorgils sagði Þorsteini að hann vill vitja eigna sinna á  Íslandi  \"því þeir varðveita er mér er ekki um. Hefi eg nú látið skip búa og flutt þangað til mikið fé en jarðir þessar er eg á hér skaltu varðveita til handa Þorleifi syni mínum. Hefi eg þig reynt góðan dreng. Mun eg nú og launa þér með einni gjöf. Skal eg gefa þér Guðrúnu konu mína því það hefi eg fundið að þú hefir lagt ástarþokka til hennar þótt þú hafir vel með því farið.\""
+    },
+    {
+        "chapter": "17. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Upplönd",
+                "sm_entry": {
+                    "id": "423",
+                    "name": "Upplönd",
+                    "lat": "62.225037",
+                    "lng": "8.86413",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "14",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Svíþjóð",
+                "sm_entry": {
+                    "id": "501",
+                    "name": "Svíþjóð",
+                    "lat": "58.323631",
+                    "lng": "16.395403",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "24",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þorgils fór kaupferð eina á  Upplönd  og  Svíþjóð  og var um veturinn hjá bónda þeim er Þrándur hét. Hann var auðigur maður og átti dóttur er Sigríður hét. Hana vildi eiga sá maður er Randviður hét. Hann var illmenni og kappi mikill. Þrándur synjaði honum ráðsins. Þá bauð Randviður Þrándi hólmgöngu þá er kölluð er kerganga. Skal þar berjast í keri og byrgja yfir ofan og hafa kefli í hendi. Þrándur vildi heldur berjast en gifta dóttur sína svo illum manni."
+    },
+    {
+        "chapter": "17. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Þrándur kvaðst það þiggja mundu. Þorgils hafði sverðið Jarðhússnaut. Randviður hafði álnarkefli og digurt mjög. Var byrgt yfir kerið. Randviður bað Þorgils leggja fyrst því að á hann var skorað. Hann gerði svo og kemur í keflið og sprakk það í sundur og hljóp sverðið í kviðinn á Randvið."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Þorgrímur örrabeinn lagði hug á Áshildi þá er Ólafur var dauður en Helgi trausti son hennar vandaði um og fór frá búi sínu til hennar og kvaðst eigi vilja fíflingar hennar og kvað óvirðing í vera bæði henni og frændum hennar. Hún bað hann sig eigi reiðan gera, kvað ekki hans færi að keppa við Þorgrím."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Actors: things: jewelry "
+        ],
+        "places": [
+            {
+                "as_mentioned": "Ólafsvöllum",
+                "sm_entry": {
+                    "id": "1612",
+                    "name": "Ólafsvellir",
+                    "lat": "64.006248",
+                    "lng": "-20.594172",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "3",
+                    "distance": 3
+                }
+            }
+        ],
+        "text": "Skilja þau nú tal sitt. Þorgrímur gistir á  Ólafsvöllum . Áshildur gerði honum góðan beina og fóru mjög saman hugir þeirra. Hún sagði Þorgrími hvert tal þeirra Helga hafði verið. Helgi ræðir og um komur Þorgríms, kvaðst illa við una, bað hann af láta. Þorgrímur kvaðst eigi hirða um hans þokka eða hót ef hennar vilji væri til. Nú leiðir hún Þorgrím á götu og gaf honum mikið fingurgull áður þau skildu. Áshildi kvaðst grunur á að þau mundu eigi oftar sjást. Þorgrímur kvaðst ætla að finna hana brátt. Hún kvað vel ef svo væri, skilja við svo búið."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Áshildarmýri",
+                "sm_entry": {
+                    "id": "1615",
+                    "name": "Áshildarmýri",
+                    "lat": "63.969474",
+                    "lng": "-20.627287",
+                    "type": "heath",
+                    "county": "Árnes01",
+                    "c": "2",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þorgrímur reið nú leið sína fyrir neðan  Áshildarmýri . Helgi sat fyrir honum hjá gatnamóti. Og er þeir fundust bað Helgi hann af láta komum og gera sér eigi skapraun í þessu. Þorgrímur kvaðst eigi hafa barna skap, kvaðst búinn að reyna alla hluti við hann."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Síðan börðust þeir snarplega og lengi. Þorgrímur var þá á hinum efra aldri og mæddist skjótt og varð sár mjög. Helgi sækir að fast er hann sér að Þorgrími latar og lýkur svo með þeim að Þorgrímur fellur fyrir Helga. Um kveldið kom Helgi heim. Spurði Áshildur hann tíðinda. Hann sagði slík sem voru."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Einarshöfn",
+                "sm_entry": {
+                    "id": "1580",
+                    "name": "Einarshöfn",
+                    "lat": "63.86378",
+                    "lng": "-21.164608",
+                    "type": "harbour",
+                    "county": "Árnes01",
+                    "c": "9",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Helgi tók sér fari í  Einarshöfn  og ætlar utan."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Höfða",
+                "sm_entry": {
+                    "id": "326",
+                    "name": "Höfði",
+                    "lat": "65.9151421690238",
+                    "lng": "-18.1625461578369",
+                    "type": "assembly site",
+                    "county": "SuðÞin01",
+                    "c": "16",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Eyrar",
+                "sm_entry": {
+                    "id": "120",
+                    "name": "Eyrar",
+                    "lat": "63.861632",
+                    "lng": "-21.142065",
+                    "type": "harbour",
+                    "info": "=Eyrarbakki. Main port for south of Iceland for many centuries.",
+                    "county": "Árnes01",
+                    "c": "28",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Einarshöfn",
+                "sm_entry": {
+                    "id": "1580",
+                    "name": "Einarshöfn",
+                    "lat": "63.86378",
+                    "lng": "-21.164608",
+                    "type": "harbour",
+                    "county": "Árnes01",
+                    "c": "9",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Mörk",
+                "sm_entry": {
+                    "id": "81",
+                    "name": "Mörk",
+                    "lat": "63.665073",
+                    "lng": "-19.899582",
+                    "type": "farm",
+                    "info": "=Stóra-Mörk",
+                    "county": "Rangár01",
+                    "c": "24",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Helgahvol",
+                "sm_entry": {
+                    "id": "1617",
+                    "name": "Helgahóll",
+                    "lat": "63.977027",
+                    "lng": "-20.608521",
+                    "type": "hill",
+                    "county": "Árnes01",
+                    "c": "2",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Eyrum",
+                "sm_entry": {
+                    "id": "120",
+                    "name": "Eyrar",
+                    "lat": "63.861632",
+                    "lng": "-21.142065",
+                    "type": "harbour",
+                    "info": "=Eyrarbakki. Main port for south of Iceland for many centuries.",
+                    "county": "Árnes01",
+                    "c": "28",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Þessi tíðindi spyrjast nú. Hæringur son Þorgríms var þá seytján vetra. Hann reið í  Höfða  til Teits Ketilbjarnarsonar frænda síns við þriðja mann. Þeir Teitur ríða þá fimmtán saman út á  Eyrar  í  Einarshöfn  og banna Helga farið. Eftir það ríða þeir í burtu. Litlu síðar fundust þeir á fórnum vegi upp frá  Mörk  við  Helgahvol . Þeir Helgi voru þrír saman komnir af  Eyrum sunnan. Og er þeir Helgi sjá reið þeirra hlaupa þeir á hólinn og vörðust drengilega. Áttu þeir harða hríð. En fyrir fjölmennis sakir féll Helgi og maður með honum og einn maður af hinna liði. Var síðan sæst á málið og féllust vígin í faðma."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eyrum",
+                "sm_entry": {
+                    "id": "120",
+                    "name": "Eyrar",
+                    "lat": "63.861632",
+                    "lng": "-21.142065",
+                    "type": "harbour",
+                    "info": "=Eyrarbakki. Main port for south of Iceland for many centuries.",
+                    "county": "Árnes01",
+                    "c": "28",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Traðarholt",
+                "sm_entry": {
+                    "id": "1591",
+                    "name": "Traðarholt",
+                    "lat": "63.841148",
+                    "lng": "-21.005036",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "17",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þorgils kom út á  Eyrum . Loftur fóstri hans sat í búi sínu. Margt hafði tíðinda orðið meðan Þorgils var utan. Þórunn móðir hans var og önduð. Þorgils fór heim í  Traðarholt . Tók bróðir hans vel við honum og búa þeir bræður nú báðir saman þessi misseri."
+    },
+    {
+        "chapter": "19. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Annan dag eftir fer Sörli samt á tal til Guðrúnar og um kveldið fer hann seint heim. Og er hann kemur skammt frá bænum sprettur Kolur upp fyrir honum. Verður ekki af kveðjum. Höggur Kolur hann banahögg, fer síðan heim og segir Guðrúnu að stöðvast muni um komur Sörla upp héðan. Hún kvaðst eigi það lasta en kvað eigi svo búið hlýða mundu því að hann var gjafvinur og þingmaður Ásgríms Elliðagrímssonar \"far nú og hitt Þorgils. Hann þykir mér líklegastur að veita þér nokkuð lið.\""
+    },
+    {
+        "chapter": "19. kafli",
+        "concepts": [
+            "Actors: animals: mammals: mouse"
+        ],
+        "places": [],
+        "text": "\"Eigi veit eg það,\" segir hún, \"en satt er hið fornkveðna að spakir menn henda á mörgu mið. Mús hljóp áðan á kinn mér en hún er mér harla óþekk.\""
+    },
+    {
+        "chapter": "19. kafli",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Kálfaholti",
+                "sm_entry": {
+                    "id": "1618",
+                    "name": "Kálfaholt",
+                    "lat": "63.962895",
+                    "lng": "-20.58925",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "5",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Um morguninn eftir fór Þorgils austur til bús Kols - hann átti bú austur hjá  Kálfaholti  - og tók upp féið allt og lét fara Guðrúnu með sér en lét eftir ómegð aðra. En er þeir voru burt farnir kom Ásgrímur og ætlar upp að taka fé Kols og hafði hann ekki. Kolur situr hjá Þorgilsi um veturinn."
+    },
+    {
+        "chapter": "19. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Ideas: power: legal power"
+        ],
+        "places": [],
+        "text": "En um vorið eftir býr Ásgrímur málið á hendur Kol. Lætur Þorgils sem hann viti eigi. Verður Kolur sekur um vígsmálið. Þorgils ríður allt að einu um  héraðið og Kolur með honum, sækja mannamót. Og gerist af því óþokki millum héraðshöfðingja. Héraðsmönnum þykir mein að og leita um sættir en Þorgils býður engar bætur fyrir Kol. Héraðsmenn leggja nú fund til og leggja allir fé til við Ásgrím og bæta víg Sörla, gefa og fé til sýknu honum og var þetta gert án ráðs Þorgils. Sýkna Kols var færð annað sumar á þingi og er þó fátt um með þeim höfðingjum."
+    },
+    {
+        "chapter": "19. kafli",
+        "concepts": [
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [],
+        "text": "Eitt sinn ríður Þorgils til hestaþings austur í hérað og Svartur verkstjóri hans með honum. Var þá góð gleði um daginn. Ásgrímur var þar og talar mart við Svart."
+    },
+    {
+        "chapter": "19. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Að kveldi ríður Þorgils heim en Svartur reið nær honum og fann Þorgils að hann vill ætíð ríða seinna. Grunar hann þá og gefur honum færi á sér. Og er Þorgils varir minnst höggur Svartur til hans en Þorgils kastar sér úr söðlinum. Þorgils þrífur Svart og spyr hverju gegnir. Hann segir að Ásgrímur bauð honum þetta. En þá er hann svipti Svarti féll fésjóður undan yfirhöfn hans. Segir hann þá að Ásgrímur hafi gefið honum fé til höfuðs Þorgilsi. Hann drepur Svart þegar í stað. Eftir það ríður Þorgils fram að sínum mönnum og segir þeim hversu farið hefði."
+    },
+    {
+        "chapter": "19. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "En hvert sumar er hann kemur á mannamót sýnir hann fésjóðinn og voru þar í þrjár merkur silfurs þess er best var og gekk engi við að ætti. Þorgils kvaðst það fé hafa mundu og hafa sitt satt við hvar Svartur hafði fengið."
+    },
+    {
+        "chapter": "20. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: standing water: pond",
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Nú kom kristni á land og tók Þorgils í fyrra lagi sið kristinn og hélt vel trú sína. Og er hann hafði við kristni tekið þá dreymdi hann einhverja nótt að Þór kæmi að honum með illilegu yfirbragði og kvað hann sér brugðist hafa \"og hefir þú illa úr ráðið, valið mér það úr þínu fé er þú áttir verst til. Þú kastaðir silfri því í fúla tjörn er eg átti og skal eg þar í móti koma.\""
+    },
+    {
+        "chapter": "20. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: building",
+            "Actors: animals: mammals: boar"
+        ],
+        "places": [],
+        "text": "Og er Þorgils vaknaði og kom út sá hann að töðugöltur hans var dauður og lét hann grafa hann hjá tóft nokkurri og vildi eigi láta af neyta."
+    },
+    {
+        "chapter": "20. kafli",
+        "concepts": [
+            "Actors: animals: mammals: boar"
+        ],
+        "places": [],
+        "text": "Enn barst Þór í draum Þorgilsi og sagði að sér yrði eigi meira fyrir að taka fyrir nasir honum en töðugelti hans."
+    },
+    {
+        "chapter": "20. kafli",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock/ox"
+        ],
+        "places": [],
+        "text": "Þór hét þá að gera honum fjárskaða. Þorgils kvaðst eigi um það hirða. Aðra nótt eftir dó uxi gamall fyrir Þorgilsi. Þá sat hann sjálfur hjá um nóttina eftir yfir nautum sínum og er hann kom heim um morguninn var hann víða blár. Hafa menn það fyrir satt að þeir Þór muni fundist hafa. Eftir það tók af fallið. Þorgils var hið mesta mikilmenni, harður maður og frækinn."
+    },
+    {
+        "chapter": "20. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Og er hann hafði búið hér þrettán vetur kom skip af hafi. Þar var á Þorleifur sonur hans og hafði góða gripi að færa honum. Þorgils tók vel við honum."
+    },
+    {
+        "chapter": "20. kafli",
+        "concepts": [
+            "Activities: exchange",
+            "Actors: things: boat",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Traðarholti",
+                "sm_entry": {
+                    "id": "1591",
+                    "name": "Traðarholt",
+                    "lat": "63.841148",
+                    "lng": "-21.005036",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "17",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Kálfaholti",
+                "sm_entry": {
+                    "id": "1618",
+                    "name": "Kálfaholt",
+                    "lat": "63.962895",
+                    "lng": "-20.58925",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "5",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þorgils fékk nú í hendur Hæringi bróður sínum fé sitt til varðveislu og svo tók hann við goðorði því er Þorgils haft hafði. Hann vill að landið í  Traðarholti  sé eign erfingja hans ef hann kemur eigi til. Þórný hét dóttir þeirra Þorgils og Þóreyjar. Var hún þá átta vetra gömul. Þessi ráðabreytni Þorgils spurðist nú víða um sveitir. Þorleifur skal fara með honum, Kolur og Starkaður bróðir hans og Guðrún systir þeirra, Snækollur og Össur þrælar hans og Þórarinn ráðsmaður. Þrælarnir voru alls tíu. Þorgils hafði nefnda menn mest fyrir því ef hann vildi bæ láta reisa á Grænlandi. Þeir voru allir öflgir menn. Þorgils hafði alls konar fé ef hann vildi þar staðfestast. Jósteinn bóndi úr  Kálfaholti  réðst og til ferðar með honum og brá búi sínu. Hann var með tólfta mann. Þorgerður fór og, kona hans, og Þórarinn son þeirra. Hann var hinn knáasti maður. Þorgils kaupir nú skip. Þórólfur hét maður er Þorgils fékk í hendur ómagabú en Hæringi bróður sínum seldi hann í hendur sex tigu hundraða þriggja álna aura annað en staðfestu."
+    },
+    {
+        "chapter": "21. kafli",
+        "concepts": [
+            "Physical Processes: weather: wind",
+            "Activities: travel",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Nú kemur byr og sigla þeir út eftir firði á haf góðan byr. Hafði Jósteinn skip fyrir framan siglu. Og er þeir koma úr landsýn þá tekur af byri alla og velkjast þeir úti lengi þar til er bæði verður átfátt og drykkfátt á skipi þeirra."
+    },
+    {
+        "chapter": "21. kafli",
+        "concepts": [
+            "Actors: animals: mammals: ox/livestock"
+        ],
+        "places": [],
+        "text": "Þorgils hrakti hann með mörgum orðum og við það fór hann á brott. Þorgils vaknar og hugsar hvað hann muni þar eiga og nú man hann að hann gaf fyrir löngu Þór kálf einn. Þorgils segir þetta Þóreyju og var þetta þá gamall uxi og kvað aldrei það skyldu innanborðs er hans kanna væri á og segir hann því þar hverfa mundu um skipið. Hún kvað það vel fundið. En er Þorgerður vissi þetta að Þorgils ætlar að kasta út uxanum þá falar hún uxann er þeim var vistafátt. Þorgils afsvaraði og vill ónýta uxann. Hún reiddist við orð hans \"og er eigi undarlegt þótt illa takist er Þór vor er svo svívirður og mikið munu nú menn verr kunna fyrir sér en þá er menn sæmdu hann í mörgum hlutum.\""
+    },
+    {
+        "chapter": "22. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Physical Landscape: unmanaged landscape area: glaciers",
+            "Events: construction",
+            "Physical Landscape: managed landscape area: beach",
+            "Actors: animals: domestic animals: livestock",
+            "Activities: fishing",
+            "Physical Landscape: built environment: building"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænlandsjöklum",
+                "sm_entry": {
+                    "id": "1620",
+                    "name": "Grænlandsjökull",
+                    "lat": "65.0350604365882",
+                    "lng": "-42.5390625",
+                    "type": "other",
+                    "county": "Foreign01",
+                    "c": "1",
+                    "distance": 3
+                }
+            }
+        ],
+        "text": "Það er sagt að þeir brutu skip sitt síð dags undir  Grænlandsjöklum  í vík nokkurri við sandmöl. Skipið tók í sundur í efra rúmi. Menn héldust allir og fé. Bátur komst og heill á land. Stafninn rak upp við hið syðra landið. Þá var  vika til vetrar. Jöklar miklir gengu fram tveim megin víkurinnar en til vesturáttar væntu þeir byggðar. Gera sér nú skála allir saman og í þverþili. Búa nú sínumegin hvorir þilsins, hafa mjöl nokkuð sér til atvinnu, henda af rekum slíkt er þeir fengu og eiga allir saman. Fé þeirra var dautt flestallt. Hirslur þeirra voru í skála þeirra. Þorgils manna hlutur var jafnan betri af veiðifangi. Varð hann um flest hlutsælli. Þorgils beiddi að menn vildu vera hljóðlátir síð á kveldum og siðsamir og héldu vel trú sína. Þóreyju húsfreyju var mikið framað og var lítt heil. Það er sagt að Jósteinn og hans menn voru löngum úti síð á kveldum og gerðu mikið um sig og höfðu náttleika."
+    },
+    {
+        "chapter": "22. kafli",
+        "concepts": [
+            "Actors: humans: dead humans"
+        ],
+        "places": [],
+        "text": "Nú kom sótt í lið Jósteins og deyja sex menn og þá tekur Jósteinn sótt hinn tólfta dag jóla en Þorgerður situr yfir honum og lýr hann sótt og deyr hann og eru þeir nú kasaðir þar í mölinni. Þorgils hélt þá sínum mönnum öllum og ræðir jafnan um við þá að þeir séu hljóðlátir og siðsamir, bað þá láta sér  annars víti að varnaði verða, minnast á guðlega hluti og fremja nú skynsemd um kristnihald sitt og söngva."
+    },
+    {
+        "chapter": "22. kafli",
+        "concepts": [
+            "Actors: supernatural actors: ghosts"
+        ],
+        "places": [],
+        "text": "Á bak jólum ganga þau öll aftur og einna mest Þorgerður. Þórarinn lést síðast af liði Jósteins. Var hann grafinn undir skipshræinu en öll voru þau dauð í miðja gói. Voru þá miklar afturgöngur og sóttu öll að Þorgilsi. Þorgils segir þá að Þorgerður hefði lið sitt allt og hún þyrfti þá ekki fleira að kalla og eftir það léttir af sóttinni. Ekki máttu þeir Þorgils í brott hefjast meðan afturgöngur voru mestar. Í þeim hluta skálans gengu þau mest aftur er þau höfðu áður átt en þó gengu þeir í hinn hlut skálans og sótti Þorgerður konur mest. Og er svo hafði fram farið um hríð þá lét Þorgils brenna þau öll á báli og var þá ekki mein að afturgöngu þeirra síðan. Þeir Þorgils höfðu skip á stokka sett og mjög gert að öðru og höfðu hvorirtveggju að skipbúnaði verið."
+    },
+    {
+        "chapter": "23. kafli",
+        "concepts": [
+            "Activities: fishing",
+            "Physical Landscape: unmanaged landscape area: glacier"
+        ],
+        "places": [],
+        "text": "Hún lá í rekkju jafnan og einhvern góðan veðurdag ræðir Þorgils um að þeir muni ganga á jökla upp og vita ef þeir sæu ísinn nokkurs staðar leysa. Þórey kveðst þess ófús að hann gengi nokkurs staðar frá henni. Hann kvaðst skammt fara mundu. Hún kvað hann ráða mundu enn sem fyrr. Þrælarnir skyldu róa að veiðifangi um daginn og Þórarinn bryti skyldi ýta þeim og vera hjá Þóreyju en Þorgils ætlaði að ganga á jökulinn. Þeir Þorleifur og Kolur og Starkaður beiddust að fara með honum en Þorgils kvað forystulaust heima ef eigi væru nokkrir þeirra hjá Þóreyju \"og trúum vér ærið vel þrælunum í þessu.\""
+    },
+    {
+        "chapter": "23. kafli",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: glacier"
+        ],
+        "places": [],
+        "text": "Þeir fóru þó allir á jöklana. Þorgils hafði bolöxi í hendi og gyrður sverðinu Jarðhússnaut. Þeir gengu til eyktar og höfðu farið árla morguns. Og er nón  var dags þá sneru þeir aftur og gerði á veður hart. Þorgils gekk fyrir þeim og hitti vel leiðina, komu að skálanum og sá eigi skipið, komu inn og voru á brott kisturnar allar og svipt fénu og mennirnir á burt."
+    },
+    {
+        "chapter": "23. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: building"
+        ],
+        "places": [],
+        "text": "Koma innar í skálann og var þar myrkt. Þeir heyra til rekkju Þóreyjar snörl og það sér Þorgils að hún er önduð en sveinninn só hana dauða. Þorgils leitar um hana og finnur einsstaðar að harðnað var holdið og ben lítið undir hendinni sem mjóvum knífsoddi hefði stungið verið. Mjög var þar allt blóðugt í rúminu. Þetta hafði svo orðið að Þorgilsi var mestur harmur. Grafa þeir hana hjá Guðrúnu. Þorleifur leggur á alla stund að gleðja föður sinn. Á burt var og sópað öllum vistum. Hurðirnar höfðu þeir og frá tekið húsunum og hvílutjaldið var í burtu."
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: supernatural actors: monsters",
+            "Acotrs: animals: mammals: whale"
+        ],
+        "places": [],
+        "text": "Um morguninn er Þorgils kom út sá hann rekald mikið í vök einni og þar hjá konur tvær í skinnkyrtlum og bundu sér byrðar ákaflega miklar. Þorgils hleypur þangað til og höggur þegar til annarrar með sverðinu Jarðhússnaut í því er hún færðist undir byrðina og rekur af henni höndina uppi við öxlina. Byrðurin féll niður en hún hljóp á burt. Þeir taka rekaldið undir sig og er þá eigi vistaskortur um veturinn."
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: glacier"
+        ],
+        "places": [],
+        "text": "Þeir fara nú á braut og hafa með sér ketilinn. Dragast nú með jöklunum fram og á ísinn að öðru hverju. Og um sumarið komust þeir suður til Seleyja á keipinum en lítið máttu þeir hafa af föngum sínum. Þar fengu þeir sela nóga og voru þar um veturinn."
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: animals: avian"
+        ],
+        "places": [],
+        "text": "Að sumarmálum fóru þeir þaðan og komu þá við ey nokkura litla. Hálfum mánuði síðar þá fundu þeir svartbaksegg. Þeir sjóða eggin og etur sveinninn Þorfinnur eitt eggið og eigi allt. Þeir spyrja hann því hann æti eigi allt."
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Þeir voru á skipi sínu á nóttum en fóru á land um daga og fá þó lítið fang. Og einn dag fundu þeir árarstúf einn og voru á rúnar þessar:"
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Physical Landscape: unmanaged landscape area: glacier"
+        ],
+        "places": [],
+        "text": "Þeir dragast nú enn fram fyrir jöklana og koma þá að björgum nokkurum bröttum og brýna þar upp skipinu og hafa þar dvöl og reisa þar tjald og höfðu nær engar vistir."
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [],
+        "text": "\"Eg þóttist vera,\" sagði hann, \"á Íslandi á alþingi og þótti mér sem við Ásgrímur toguðum eina hönk og allur lýður horfði á og hann missti hankarinnar.\""
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: animals: avian: swan"
+        ],
+        "places": [],
+        "text": "\"Eg þóttist vera,\" segir hann, \"heima í Traðarholti og var þar fjölmennt mjög og sá eg álft eina ganga eftir gólfinu og var hún blíð við aðra en mig. Þá hristi eg hana og var þá betur.\""
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: plants: flowers"
+        ],
+        "places": [],
+        "text": "\"Enn dreymdi mig,\" sagði Þorgils, \"að eg væri heima í Traðarholti. Eg sá á kné mér hinu hægra að þar voru vaxnir hálmlaukar fimm saman og þar af kvísluðust margir laukar og ofarlega yfir höfuð mér bar einn laukinn. Svo var hann hár og svo var hann fagur að hann hafði gullslit á sér.\""
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: things: food: cheese"
+        ],
+        "places": [],
+        "text": "Þorleif dreymdi enn draum og sagði föður sínum: \"Góðan draum hefir mig enn dreymt og héðan af mun batna ráð vort. Mér þótti sem Þórný systir mín gæfi mér osthleif og væru af bárurnar.\""
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: animals: mammals: bear",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Þeir ganga nú út og sjá konur tvær er tekið höfðu skipið. Þær hurfu skjótt og þá heyrðu þeir að björn einn braust um í vök einni og var brotinn á hrammurinn. Þorgils hleypur til bjarnarins og leggur til hans með sverði. Björninn deyr við það lag. Þorgils þrífur í hlustirnar og lætur eigi sökkva. Síðan drógu þeir hann á ísinn og hlóðu skipið. Dýrið var kalið á fyrra fæti og og má af slíku marka hve mikinn háska þeir Þorgils höfðu af fjúki og frosti í þessari ferð er dýrið var örkumlað af kulda."
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Róa nú fyrir fjörðinn fram og verður sein förin. Snúa nú til hafs meir og róa af margar víkur, fóru gagnleiði. Þá rýmdist ísinn og breiddust sundin. Fóru utarlega fyrir fjörðu fram, drógu skipið stundum milli vakanna. Nú koma þeir á einn mikinn fjörð, stefna fyrir utan mynnið til lægis."
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: animals: avian: bird"
+        ],
+        "places": [],
+        "text": "Og í því bili fló fugl því líkastur sem álkuungi og skrækti við illilega."
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: animals: avian: bird"
+        ],
+        "places": [],
+        "text": "Taka þeir nú vatn á ísinum og var það síð um daginn. Þá segir Þorgils að sjá mundi af hvers völdum var og er þeir voru á sjónum þá fló fuglinn í norðurátt frá skipinu og var stórum illilegur."
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Community Places: adminiatrative unit: farm",
+            "Actors: things: boat",
+            "Physical Landscape: built environment: buildings: boathouse"
+        ],
+        "places": [],
+        "text": "Tekur nú að hausta og koma á fjörð einn og inn í fjörðinn og komu að nausti. Brýna þar upp skipi sínu og ganga upp frá sjó og sjá bæ lítinn og þar var maður úti fyrir. Hann heilsar þeim og spyr hverjir þeir væru eða hvaðan þeir væru að komnir. Þeir sögðu sem farið var og spyrja hann að nafni. Hann kveðst Hrólfur heita og býður þeim þar að vera og það þiggja þeir. Konur geyma Þorfinns og var honum mjólk gefin. Hann kvað ekki þannig lita mjólk föður síns."
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Hrólfur kveðst hafa stokkið fyrir víga sakir úr byggð. Var hann hinn greiðasti við Þorgils, kvað skip farið hafa þar um sumarið og komið ekki við land en sagði leið ekki svo langa sem torsótta. Og þar eru þeir um veturinn."
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Fara nú suður fyrir landið og gefur þeim vel fararleiði og haustar fyrir þeim. Koma við vetur á Eiríks fjörð, beita fyrir landið, héldu síðan inn í fjörðinn og lögðu í lægi og tjölduðu. Og í því bili sáu þeir kaupskip er utan sigldi í fjörðinn og lögðu í lægi og höfðu eitt veður hvorirtveggju. Komu að einni höfn og lendingu."
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Fóru nú og koma að kaupskipinu og gengu út á skipið. Aftur við lyftingina sat maður í rauðum kyrtli og sprettur upp þegar og fagnar Þorleifi vel. Þar var Þorsteinn hvíti fóstri hans og stjúpfaðir. Hann spyr að Þorgilsi. Þeir segja honum að hann var þar. Þorsteinn fer þegar til fundar við hann og verður þar fagnafundur. Kveðst Þorsteinn kominn af Íslandi og kvað ráð hans standa heilt og höfðu ekki til hans spurt á fjórum vetrum. Sagði Þórnýju dóttur hans gifta Bjarna í Gröf Þorsteinssyni goða landnámamanns \"og er Þorleifur kom eigi til bjó eg skip af Noregi og fór eg út til Íslands og var eg þar tvo vetur. Og er ekki fréttist til yðvar þá fýsti mig að leita yðvar hingað. Nú er eg feginn orðinn yðrum fundi og allt mitt skal yður jafnheimult sem mér.\""
+    },
+    {
+        "chapter": "25. kafli",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock",
+            "Actors: animals: mammals: bear"
+        ],
+        "places": [],
+        "text": "Það varð þar um veturinn að bjarndýr lagðist á fé manna og gerði mikinn skaða mörgum manni. Eru þá stefnur að áttar ef það mætti af ráðast og þar kom að fé var lagt til höfuðs dýrinu og gerðu menn úr hvorritveggju byggðinni. Fátt lét Eiríkur sér til finnast."
+    },
+    {
+        "chapter": "25. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: agricultural buildings: storehouse"
+        ],
+        "places": [],
+        "text": "Og um veturinn er á líður komu menn til kaupa við þá Þorgils og Þorstein og eru menn margir í útibúri því er varningurinn var í og þar var sveinninn Þorfinnur."
+    },
+    {
+        "chapter": "25. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: animals: mammals: bear"
+        ],
+        "places": [],
+        "text": "Sveinninn hljóp þó út. Bjarndýrið var þar komið og hafði gengið af jöklum og svipti undir sig sveininum. Hann kvað við. Þorgils hljóp út þegar og hafði brugðið sverðið Jarðhússnaut. Dýrið hafði leikið við sveininn. Þorgils höggur milli hlustanna af miklu afli og reiði og klýfur allan hausinn á dýrinu og fellur það dautt niður. Þorgils tekur upp sveininn. Var hann lítt sakaður."
+    },
+    {
+        "chapter": "25. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: buildings"
+        ],
+        "places": [],
+        "text": "Frá því er sagt eitthvert sinn um veturinn að menn sátu í heimilishúsi þar í Brattahlíð og þó eigi allir senn því að sumir stóðu fram í húsin er mannmargt var. Þar var Kolur og sveitungar hans. Það er sagt frá tali þeirra að þeir fóru í mannjöfnuð og ræddu um Þorgils og Eirík. Sagði Kolur Þorgils mörg afreksverk gert hafa."
+    },
+    {
+        "chapter": "25. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Kolur svarar: \"Mæl þú manna armastur\" og leggur í gegnum hann með spjóti. Fékk hann þegar bana. Eiríkur bað menn sína upp standa og taka Kol. Kaupmenn allir hlaupa til og veita Kol."
+    },
+    {
+        "chapter": "25. kafli",
+        "concepts": [
+            "Actors: animals: mammals: bear",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Eftir það fóru þeir til skips og ætluðu að fara um hina vestri byggð því að menn höfðu eigi goldið Þorgilsi bjarngjöldin. Þorgils færir fram sýknu Hrólfs svo að hann skyldi vera friðheilagur."
+    },
+    {
+        "chapter": "25. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Þorgils kvaðst það gera mundu. Bóndi fer nú og tekur saman féið og koma eigi víkingarnir. Bóndi kemur heim."
+    },
+    {
+        "chapter": "26. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Nú býr Þorgils skip sitt og fer með þrjá tigu manna. Hann sendi orð Eiríki að hann kæmi með jafnmarga menn. Og er Eiríki komu orðin kvaðst hann mundu koma og verða ekki seinni til eyjanna en þeir. Þeir Þorgils koma nú við eyna og var Eiríkur ekki þar kominn. Þorgils gerir þá ráð við menn sína."
+    },
+    {
+        "chapter": "26. kafli",
+        "concepts": [
+            "Activities: food preparation ",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Þorgils lá í einum leynivogi og hafnleysu. Eitthvert sinn stígur Þorgils á bát og rær frá skipinu. Hann sér matsveina á landi og höfðu graut í kötlum. Þorgils hafði vond klæði er hann kom til þeirra. Þeir spurðu hver hann var."
+    },
+    {
+        "chapter": "26. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Þeir hlógu að honum enda lét hann heimsklega. Hann spyr hvar höfðingi þeirra er. Þeir sögðu hann vera á eyjunni skammt í burt og þangað von til þeirra um kveldið. Þeir færðu hann í reikuð. Fer Þorgils nú til báts síns og hvelfir honum undir sér."
+    },
+    {
+        "chapter": "26. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: hut",
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Nú fer Þorgils aftur til skips síns. Í það mund róa víkingarnir að lægi. Þorgils leggur þá að þeim. Voru víkingarnir komnir til skála. Koma þeir Þorgils þá á óvart og lætur hann þegar leggja eld í skálann. Varð lítil vörn af víkingunum. Gefa þeir sig upp og beiða griða. Þorgils kvað þess enga von fyrir mörg illvirki er þeir höfðu unnið. Var lið þeirra allt drepið utan þeir buðu formanni þeirra grið."
+    },
+    {
+        "chapter": "26. kafli",
+        "concepts": [
+            "Actors: things: money",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Hann var þá höggvinn. Þeir tóku þar fé mikið og höfðu það með sér og svo skipin Stakanhöfða og Vinagaut, fóru nú til lands. Tók Bjálfi vel við þeim. Þorgils gaf mörgum mönnum fé þeim er misst höfðu fyrir víkingunum og hefir þó mikið sjálfur. Verður hann nú vinsæll af þessum verkum. Hrólfur var þá norðan kominn og í frið tekinn. Þorgilsi líkar illa við Eirík."
+    },
+    {
+        "chapter": "26. kafli",
+        "concepts": [
+            "Actors: things: money",
+            "Activities: exchange"
+        ],
+        "places": [],
+        "text": "Þorgils spyr til Snækolls og kvaðst vilja finna hann. Þorsteinn hvíti kvað betur fallið að hann seldi Snækoll við verði en dræpi hann. Það gerði Þorgils. Þrælarnir höfðu fengið góð kvonföng. Þorgils tekur fé allt af þrælunum en seldi þá í þrældóm."
+    },
+    {
+        "chapter": "26. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Eftir þetta fór Þorgils burt með góðri sæmd og virðing, láta í haf. Ber þá að Írlandi, koma vestan að landinu, tala nú um hvort þeir skulu þar vera um veturinn eða burt halda. Þorsteinn kvað óráðlegt burt að halda er sumar var mjög áliðið. Tóku menn sér þá vistir nær skipi. Þorgils var á vist með þeim manni er Anakol hét. Var honum þar blíðlega veitt."
+    },
+    {
+        "chapter": "26. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Bóndi kvaðst ekki þræla mundu mun gera þótt þeir hnippist. Þorgils kvað eigi vel svarað. Og er boðsmenn voru brottu farnir þeir er drukkið höfðu þar efra hlut jólanna tóku þeir Þorgils Gípar og drepa hann eftir jólin. Síðan fóru þeir Þorsteinn til skips og bjuggust til varnar. Þeir sáu lið mikið fara með skjöldum, eigi færra en hundrað manns."
+    },
+    {
+        "chapter": "26. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Hugi lét bæta skip þeirra og voru þeir með honum það eftir var vetrar. Systir Huga lifði og fagnaði þeim vel. Móðir hennar var önduð. Jarl lét heimta saman fé Þorgils og til skips færa og setti málum þeirra svo að þeim hugnaði vel og gaf þeim gjafir áður þeir fóru brott."
+    },
+    {
+        "chapter": "27. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Síðan létu þeir í haf og velktust úti lengi og komu við Hálogaland um haustið og brotnaði kjölurinn undan skipinu."
+    },
+    {
+        "chapter": "27. kafli",
+        "concepts": [
+            "Actors: things: money",
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Þorgils gengur á hólm við Randvið og höggur þegar skjöld hans ónýtan. Því næst höggur hann kappann sundur í miðju en við höggið skaut Randviður sverðinu utan á kné Þorgilsi og særði hann. Það sár greri svo að fótur hans sá var skemmri síðan og varð hann aldrei óhaltur. Björn þakkar honum vel og bauð Þorgilsi fé en hann kvaðst það ekki til fjár gert hafa. Skildu þeir vinir."
+    },
+    {
+        "chapter": "28. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Physical Processes: weather: wind",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Eftir það létu þeir í haf og höfðu harða útivist þar til er þeir sáu land. Þá tók af byrina og kom á norðanveður hvasst og rak þá undan tólf daga. Síðan kom sunnanveður hvasst og sigldu tvö dægur að landinu. Þá vildi Þorgils eigi lengur sigla láta. Hann var þá tvö dægur í austri. Þá höfðu gengið átta áföll. Starkaður bauð honum að fara frá austri. Þá kom áfall hið níunda og var það mest. Það rak Þorgils af austurbitanum og sló sveininn Þorfinn úr knjám honum og utanborðs."
+    },
+    {
+        "chapter": "28. kafli",
+        "concepts": [
+            "Actors: humans: dead human",
+            "Physical Landscape: built environment: buildings: community buildings: church"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hjörleifshöfða",
+                "sm_entry": {
+                    "id": "1621",
+                    "name": "Hjörleifshöfði",
+                    "lat": "63.4304",
+                    "lng": "-18.762323",
+                    "type": "cliff",
+                    "county": "AusSka02",
+                    "c": "12",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Arnarbælisós",
+                "sm_entry": {
+                    "id": "79",
+                    "name": "Arnarbælisós",
+                    "lat": "63.538471",
+                    "lng": "-19.73762",
+                    "type": "estuary",
+                    "info": "Identification problematic. Some argue for Holtsós; others for a site to the east of Holtsós that no longer exists. See ÁFI 1972: 33, BNS 74; KKI 200-202 ofl.",
+                    "county": "Rangár01",
+                    "c": "3",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þeir gerðu svo og gátu upp ausið. Samdægris kom blóðspýja að sveininum og andaðist hann. Tveim nóttum síðar þá sáu þeir Hjörleifshöfða . Þeir komu í  Arnarbælisós . Nú vildu þeir fara með lík Þorfinns til kirkju. Þorgils kvað þá lengi fylgst hafa, sagði þá og ekki að svo búnu skilja mundu. Þorsteinn spurði Starkað hvort hann vildi heldur teygja Þorgils á land eða fara með líkið til graftrar."
+    },
+    {
+        "chapter": "29. kafli",
+        "concepts": [
+            "Events: burial"
+        ],
+        "places": [],
+        "text": "Sigmundur hét maður. Hann heimti skiptoll að Þorsteini því að hann átti land að annast þar er þeir voru komnir. Nú gerðu þeir Þorsteinn og Sigmundur það ráð að þeir hnipptust við. Þá sagði Kolur Þorgilsi að Þorsteinn þyrfti manna við. Þorgils hleypur þegar á land og beit þetta ráð. Urðu þeir Sigmundur og Þorsteinn vel sáttir. Kolur tók lík Þorfinns og gróf í kirkjugarði. Og er Þorgils verður var við hvað Kolur hafði gert varð hann reiður mjög og hét honum bana. Kolur kvað það tilvinnanda ef Þorgils raknar við þá heldur en áður og við umtölur Þorsteins sættust þeir. Fjögur dægur hafði Þorgils hvorki mat né svefn. Þorgils kvaðst mundu vorkynna konunum þótt þær ynnu brjóstbörnunum meira en öðrum mönnum."
+    },
+    {
+        "chapter": "30. kafli",
+        "concepts": [
+            "Community Places: administrative unit: local assembly"
+        ],
+        "places": [],
+        "text": "Að liðnum vetri tekur Þorgils við búi sínu og öðrum fjárhlutum. Felldu menn þegar mikla virðing til Þorgils. Hann var heldur fár við Bjarna mág sinn. Um vorið kom fjölmennt til Árnessþings. Kom þar Þorgils og Bjarni mágur hans og Þórný dóttir hans."
+    },
+    {
+        "chapter": "30. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: booth"
+        ],
+        "places": [],
+        "text": "Þorgils gekk einn morgun til búðar Bjarna og tók sverðið Jarðhússnaut í hönd sér. Og er hann kemur í búðardyrnar sér Þórný dóttir hans að hann er kominn og bað Bjarna upp standa, kvað honum eigi hlýða svo búið, sagði föður sinn reiðan."
+    },
+    {
+        "chapter": "30. kafli",
+        "concepts": [
+            "Actors: animals: mammals: cows/sheep",
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Gröf",
+                "sm_entry": {
+                    "id": "2061",
+                    "name": "Gröf",
+                    "lat": "64.749735",
+                    "lng": "-21.466993",
+                    "type": "farm",
+                    "county": "Mýras01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Bjarni bauð honum þá til heimboðs. Þorgils kvaðst fara mundu af þinginu með honum og hafa burt fé slíkt er honum líkaði. Bjarni bað hann því ráða og koma þeir í  Gröf  og leit Þorgils á féið og kvaðst burt mundu hafa tuttugu kýr og hundrað ásauðar. Þórný bað hann taka slíkt er hann vildi og sagði það mundi best gegna að hann réði fyrir."
+    },
+    {
+        "chapter": "30. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Maður hét Þórólfur. Hann hafði verið með Þórði, föður Þorgils, og náinn frændi. Hann átti fé að Þorgilsi og beiddi Þorgils að hann mundi gjalda Þórólfi fjóra tigu hundraða. Bjarni hét að hann skyldi ráða, skildu við svo búið."
+    },
+    {
+        "chapter": "30. kafli",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [],
+        "text": "Og er Þorgils kom heim kom þar Þórný dóttir hans. Þorgils spyr hvað hún vill. Hún sagðist vilja fylgja fé sínu ef honum þætti það meiri sómi að skilja með þeim Bjarna \"og ráða þess manns traust undan mér er þér er mestur bati í og þér er sjálfrátt að láta þinn hlut fyrir neinum manni ef þið eruð að einu ráði báðir.\""
+    },
+    {
+        "chapter": "30. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Þorgils svarar: \"Vel fer þér dóttir og vel fer ykkur báðum. Nú skaltu heim fara og vil eg eigi skilja ráðahag með ykkur Bjarna\" og leggur þeim nú svo peninga að þeim vel líkar."
+    },
+    {
+        "chapter": "30. kafli",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: moving water: river",
+            "Actors: animals: mammals: horses",
+            "Actors: plants: brushwood",
+            "Activities: travel",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Einarshöfn",
+                "sm_entry": {
+                    "id": "1580",
+                    "name": "Einarshöfn",
+                    "lat": "63.86378",
+                    "lng": "-21.164608",
+                    "type": "harbour",
+                    "county": "Árnes01",
+                    "c": "9",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Flóagafls",
+                "sm_entry": {
+                    "id": "1623",
+                    "name": "Flóagafl",
+                    "lat": "63.901318",
+                    "lng": "-21.168919",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "1",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Kallaðarnesi",
+                "sm_entry": {
+                    "id": "1624",
+                    "name": "Kallaðarnes",
+                    "lat": "63.927697",
+                    "lng": "-21.149386",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Og annað sumar eftir ríður Þorgils til skips í  Einarshöfn . Hann fréttir til ferða Skafta og vildi fyrir víst finna hann. Þorgils reið til  Flóagafls  við sétta mann. Þeir voru með honum bræður, Kolur og Starkaður, og Þórólfur frændi hans og tveir húskarlar. Þeir voru í hrísum nokkurum og bíða svo Skafta. Þetta var nær  Kallaðarnesi . Skafti sá frá ferjunni að hestar með söðlum gengu með ánni. Skafti sagði að þeir mundu aftur snúa, kvaðst frétt hafa að síðar mundu betri kaupin og fóru þeir heim."
+    },
+    {
+        "chapter": "30. kafli",
+        "concepts": [
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [],
+        "text": "Á þingi um sumarið var talað um gjaforð Helgu. Dregur Þóroddur fram með Þorgilsi en Skafti með Ásgrími."
+    },
+    {
+        "chapter": "30. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Þorgils ríður nú heim og sendir hann orð Skafta að þeir hittist. Er nú svo gert. Sættast nú við tilstilli Þórodds og gerðist vinátta með þeim og varð Þorgils höfðingi og virðingamaður mikill."
+    },
+    {
+        "chapter": "31. kafli",
+        "concepts": [
+            "Actors: animals: avian: hen/rooster"
+        ],
+        "places": [],
+        "text": "Frá því er sagt eitthvert sinn að þau Þorgils og Helga sátu úti og hrein hænan við hananum en haninn leggur að henni og ber hana þar til er hún mæðist."
+    },
+    {
+        "chapter": "31. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Sá maður bjó skammt frá Þorgilsi er Sámur hét. Kona hans hét Þorfinna. Sá maður var þar í sveit er Bjálfi hét, óeirðarmaður. Hann glapti konu Sáms og settist í bú hans löngum en heitaðist við bónda. Honum líkar þetta illa."
+    },
+    {
+        "chapter": "31. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Nú ganga þeir á hólm og er ekki sagt frá viðskiptum annað en Þorgils drepur Bjálfa og frelsti svo bónda \"og naustu þess að,\" segir Þorgils, \"að þú varst svo nær mér.\""
+    },
+    {
+        "chapter": "31. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Gröf",
+                "sm_entry": {
+                    "id": "2061",
+                    "name": "Gröf",
+                    "lat": "64.749735",
+                    "lng": "-21.466993",
+                    "type": "farm",
+                    "county": "Mýras01",
+                    "c": "1",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Höfða",
+                "sm_entry": {
+                    "id": "326",
+                    "name": "Höfði",
+                    "lat": "65.9151421690238",
+                    "lng": "-18.1625461578369",
+                    "type": "assembly site",
+                    "county": "SuðÞin01",
+                    "c": "16",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Ásgrímur Elliða-Grímsson var höfðingi mikill og farmaður og átti skip í förum. Hann átti tvo sonu og hét hvortveggi Þórhallur. Hinn eldri Þórhallur var þroskaður mjög þá er þetta var. Gunnvör hét dóttir Bjarna í  Gröf . Hún var eigi dóttir Þórnýjar. Gissur hvíti bjó þá í  Höfða  og átti Þórdísi dóttur Þórodds. Móðir Ásgríms var Jórunn Teitsdóttir. Þorgils átti land nær skipalægi og lá þar á hafnartollur og heimti að maður skiptollinn er á landinu bjó og galt Ásgrímur aldrei toll þeim er á landi Þorgils bjó."
+    },
+    {
+        "chapter": "32. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Eitthvert sinn hittir Þorgils Ásgrím og biður að hann minnist í nokkuru um tollinn. Ásgrímur segir að skip koma þar sem auðið verður en kvaðst eigi vanur að gjalda skiptolla sem smábændur og bað hann eigi heimta slíkt. Þorgils kvaðst það fyrir annars hönd gera en eigi fyrir sína og skilja þeir nú við svo búið."
+    },
+    {
+        "chapter": "32. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: standing water"
+        ],
+        "places": [],
+        "text": "Um vorið voru menn kvaddir af Ásgrími til skipsdráttar og kom fjöldi manns. Pyttar voru um sandana víða og voru fullir með vatni þó að fjara væri. Ásgrímur tók á festum í fremra lagi og voru þar mest konur hjá honum. Hann var í litklæðum. Tóku nú fast á. Maður reið á landinu fyrir ofan, mikill vexti og hafði bolöxi í hendi. Hann horfir á skipdráttinn. Ásgrímur eggjar nú fast að menn herði sig vel. Og er Þorgils var kominn að flæðarpyttinum sá hann að Ásgrímur hélt á strenginum. Hleypur hann þá til og höggur strenginn og verður afturhlaupið hart og hrapar Ásgrímur í pyttinn og konurnar á hann ofan. Urðu öll klæðin Ásgríms vot og þrekkótt og svo hann sjálfur. Þetta þykir honum mikil svívirðing ger til sín. Verður nú vís hver gert hefir og kvað þá Þorgils varla mega við svo búið skilja."
+    },
+    {
+        "chapter": "32. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: woods and trees"
+        ],
+        "places": [],
+        "text": "Einn dag kemur Þórný inn og segir að maður reið úr skógum neðan \"og er líkur föður mínum.\""
+    },
+    {
+        "chapter": "32. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: buildings"
+        ],
+        "places": [],
+        "text": "Ásgrímur verður óður við og vill ríða heim. Þórhallur biður hann eigi það gera og það verður að hann er þar og er heldur óglatt um boðið. Og er menn búast frá boðinu sjá menn að þeir fara húsa á milli, Ásgrímur og Kolur þræll, og töluðu."
+    },
+    {
+        "chapter": "32. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: animals: mammals: horse",
+            "Actors: things: money",
+            "Activities: exchange"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Kolslækur",
+                "sm_entry": {
+                    "id": "1625",
+                    "name": "Kolslækur",
+                    "lat": "64.026469",
+                    "lng": "-20.533631",
+                    "type": "river",
+                    "county": "Árnes01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Nú ríða menn um kveldið heim. Þorgils bóndi og þræll hans Kolur riðu síð um kveldið ofan hjá Húsatóftum. Ásgrímur hafði fengið þrælnum þrjár merkur silfurs til höfuðs Þorgilsi. Kolur hafði hest latan og hvikaði hesturinn undir honum. Þorgils laust þrælinn og féll fésjóðurinn undan yfirhöfn hans. Þorgils spyr hvaðan féið kom að. Þrællinn sagði sem var. Síðan drap hann þrælinn þar sem nú heitir  Kolslækur ."
+    },
+    {
+        "chapter": "32. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eyna",
+                "sm_entry": {
+                    "id": "1626",
+                    "name": "Eyin",
+                    "lat": "64.146055",
+                    "lng": "-20.446298",
+                    "type": "other",
+                    "county": "Árnes01",
+                    "c": "1",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Þorgils kvaðst eigi hirða um fjölmenni hans. Nú letur Gissur ferðarinnar og að bæn hans reið hann í  Eyna  og kvaddi níu búa. Eftir það fara þeir í burt og þykir sem lögfullt sé."
+    },
+    {
+        "chapter": "33. kafli",
+        "concepts": [
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [],
+        "text": "Nú koma menn til þings fjölmennt. Skafti spyr mág sinn Þorgils hvern málatilbúnað hann hefði haft. Hann kveðst níu búa kvatt hafa."
+    },
+    {
+        "chapter": "33. kafli",
+        "concepts": [
+            "Ideas: power: legal power"
+        ],
+        "places": [],
+        "text": "Skafti segir: \"Varat af vöru, sleikti um þvöru. Lát niður falla, engu er nýtt.\""
+    },
+    {
+        "chapter": "33. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Ríða menn nú af þingi og sefast Þorgils við umtölur mága sinna og vina."
+    },
+    {
+        "chapter": "33. kafli",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Einarshöfn",
+                "sm_entry": {
+                    "id": "1580",
+                    "name": "Einarshöfn",
+                    "lat": "63.86378",
+                    "lng": "-21.164608",
+                    "type": "harbour",
+                    "county": "Árnes01",
+                    "c": "9",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Þrándarholt",
+                "sm_entry": {
+                    "id": "1722",
+                    "name": "Þrándarholt",
+                    "lat": "64.61853",
+                    "lng": "-21.441091",
+                    "type": "farm",
+                    "county": "Borga01",
+                    "c": "2",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Gröf",
+                "sm_entry": {
+                    "id": "2061",
+                    "name": "Gröf",
+                    "lat": "64.749735",
+                    "lng": "-21.466993",
+                    "type": "farm",
+                    "county": "Mýras01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Helgi hét Austmaður er út kom í  Einarshöfn  og átti ferð upp í hérað og fer með varning sinn upp í  Þrándarholt . Þorgils reið að ofan úr  Gröf  og riðust á móti. Helgi reið Þorgils næsta af baki og hló að honum er hann var bjúgur á baki, kveðst eigi það mega á sjá að hann hefði verið garpur mikill."
+    },
+    {
+        "chapter": "33. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Þorgils hafði sverð sitt Jarðhússnaut og var alvopnaður sem hann var aldrei öðruvís. Þorgils hljóp þegar geystur að honum Austmanninum og höggur til hans með sverðinu Jarðhússnaut og kom sverðið á öxlina og var svo mikið sár að honum vannst það skjótt til bana. Þá var Þorgils sjötugur. Þorgils kvað þetta orðið glappaverk og bráðræði og kveðst þetta helst bæta vilja."
+    },
+    {
+        "chapter": "33. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Einarshöfn",
+                "sm_entry": {
+                    "id": "1580",
+                    "name": "Einarshöfn",
+                    "lat": "63.86378",
+                    "lng": "-21.164608",
+                    "type": "harbour",
+                    "county": "Árnes01",
+                    "c": "9",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Traðarholt",
+                "sm_entry": {
+                    "id": "1591",
+                    "name": "Traðarholt",
+                    "lat": "63.841148",
+                    "lng": "-21.005036",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "17",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Og tveim vetrum síðar komu út í  Einarshöfn  tveir bræður Helga og ætla til hefnda. Hét annar Einar en annar Sigurður og varð ekki vart við skipkomu. Þeir fóru þegar í  Traðarholt  og komu þar snemma dags og var Þorgils í hvílu  sinni en verkmenn voru á fótum og konur. Og er þeir bræður komu að bænum þá töluðust þeir við hversu með skyldi fara."
+    },
+    {
+        "chapter": "33. kafli",
+        "concepts": [
+            "Actors: things: money",
+            "Activities: exchange"
+        ],
+        "places": [],
+        "text": "Þorgils tók þessu vel og hýrðist skjótt í viðbragði og sagði svo: \"Eg er þess miklu fúsari og muntu vera góður drengur. Og þar er eg drap Helga bróður ykkarn þá vil eg það bæta og gefa vil eg þér Einar sverðið Jarðhússnaut því að þú ert verður að bera, bróður þínum fimm merkur silfurs nema þið skiptið annan veg\" og skildu þeir vel og drengilega. Fóru þeir utan eftir það."
+    },
+    {
+        "chapter": "33. kafli",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape: moving water: stream",
+            "Events: burial",
+            "Physical Landscape: built environment: buildings: community buildings: church",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Eitt sinn er þau hjón fóru til bús á Hjalla tók Þorgils þar sótt. Þá var hann hálfníræður. Hann lá viku og andaðist þar og voru þeir í eina gröf lagðir, Þóroddur og Þorgils og Bjarni hinn spaki, að þeirri kirkju er Skafti lét gera fyrir utan lækinn. En síðan voru færð beinin í þann stað sem nú er kirkjan því að Skafti hét að gera kirkju þá er Þóra kona hans braut fót sinn þá er hún var að léreftum sínum."
+    }
+]

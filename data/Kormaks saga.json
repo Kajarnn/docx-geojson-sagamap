@@ -1,0 +1,1206 @@
+[
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Eitt sumar lagðist hann í vesturvíking. Þar var fyrir sá maður er Ásmundur hét. Hann var hinn mesti garpur. Hann hafði sigrað marga víkinga og hermenn. Spyr nú hvor til annars og fara orð í milli þeirra og fundust þeir sjálfir og lögðu sér orustustað og börðust. Ásmundur hafði fleira lið og lagði eigi öllu til orustu. Þeir börðust fjóra daga. Féll mjög lið Ásmundar en hann flýði sjálfur en Ögmundur hafði sigur og kom heim með fé og frama."
+    },
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Actors: things: money",
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Fóstra Helgu var því vön að þreifa um menn áður en til vígs færu. Hún gerir svo við Ögmund áður hann fór heiman. Hún kvað hvergi stórum við hníta. Þeir fóru síðan báðir til hólms og börðust. Víkingurinn færði við síðuna og beit ekki á. Þá brá Ögmundur upp sverðinu skjótt og skipti síðan í höndunum og hjó undan Ásmundi fótinn og tók þrjár merkur gulls í hólmlausn."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Íslands",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Í þann tíma andaðist Haraldur konungur hárfagri og tók ríki Eiríkur blóðex. En Ögmundur vingaðist ekki við þau Eirík og Gunnhildi og býr Ögmundur  skip sitt til  Íslands . Ögmundur og Helga áttu son er Fróði hét. Þá er skip var mjög búið tók Helga sótt og andaðist og Fróði son þeirra."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Eftir það sigldu þeir í haf. Þá kastar Ögmundur út öndvegissúlum sínum. Þeir komu utan að Miðfirði. Þar voru áður komnar öndvegissúlur hans, köstuðu þar akkerum."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Ideas: luck",
+            "Physical Landscape: built environment: building: house"
+        ],
+        "places": [],
+        "text": "En í þann tíma réð þar fyrir Miðfjarðar-Skeggi. Hann reri til þeirra og bauð þeim inn í fjörðinn og svo landskosti. Það þá Ögmundur, mældi grundvöll undir hús. Það var þeirra átrúnaður ef málið gengi saman, þá er oftar væri reynt, að þess manns ráð mundi saman ganga ef málvöndurinn þyrri en þróast ef hann vissi til mikilleiks. En málið gekk saman og þrem sinnum reynt."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: building: house",
+            "Events: construction"
+        ],
+        "places": [],
+        "text": "Síðan lét Ögmundur gera hús þar á melnum og bjó þar síðan. Hann fékk Döllu dóttur Önundar sjóna. Þeirra synir voru þeir Þorgils og Kormákur. Hann var svartur á hár og sveipur í hárinu, hörundljós og nokkuð líkur móður sinni, mikill og sterkur, áhlaupamaður í skapi. Þorgils var hljóðlyndur og hægur."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Þá er þeir bræður voru fulltíða andaðist Ögmundur. Varðveitti Dalla bú með sonum sínum. Annaðist Þorgils um bú við umsjá Miðfjarðar-Skeggja."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: animals: mammals: whale"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vatnsnes",
+                "sm_entry": {
+                    "id": "598",
+                    "name": "Vatnsnes",
+                    "lat": "65.6152197417694",
+                    "lng": "-20.797119140625",
+                    "type": "region",
+                    "county": "AusHún01",
+                    "c": "7",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Það var eitt haust að hvalur kom út á  Vatnsnes  og áttu þeir bræður Döllusynir. Þorgils bauð Kormáki hvort hann vildi heldur fara á fjall eða til hvals. Hann kaus að fara á fjall með húskörlum."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Activities: animal husbandry: grazing/herding",
+            "Physical Landscape: built environment: building: house/hall"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Gnúpsdal",
+                "sm_entry": {
+                    "id": "1096",
+                    "name": "Gnúpsdalur",
+                    "lat": "65.172525",
+                    "lng": "-20.785297",
+                    "type": "valley",
+                    "county": "VesHún01",
+                    "c": "6",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Maður hét Tósti. Hann var verkstjóri og skyldi skipa til um sauðaferðir og fóru þeir Kormákur báðir saman þar til er þeir komu í  Gnúpsdal  og voru þar um nóttina. Þar var mikill skáli og eldar gervir fyrir mönnum."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: animals: avian: falcon"
+        ],
+        "places": [],
+        "text": "Brámáni skein brúna"
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: building: house/hall"
+        ],
+        "places": [],
+        "text": "Nú ganga þær í skálann og setjast niður."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Öl-Ságu met eg auga"
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: plants: trees"
+        ],
+        "places": [],
+        "text": "Alls met eg auðar þellu"
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: moorland"
+        ],
+        "places": [],
+        "text": "Léttfæran skaltu láta,"
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Activities: animal husbandry: butchery"
+        ],
+        "places": [],
+        "text": "Um haustið annaðist Narfi um slátrastarf."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Actors: things: food"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Tungu",
+                "sm_entry": {
+                    "id": "632",
+                    "name": "Tunga",
+                    "lat": "65.121629",
+                    "lng": "-21.073299",
+                    "type": "farm",
+                    "county": "VesHún01",
+                    "c": "2",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Það var eitt sinn er Kormákur kom í  Tungu . Sá hann Steingerði í soðhúsi. Narfi stóð við ketil og er lokið var að sjóða vó Narfi upp mörbjúga og brá fyrir nasar Kormáki og kvað þetta:"
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Actors: things: dung",
+            "Actors: animals: mammals: dog",
+            "Physical Landscape: ecological area: meadowland"
+        ],
+        "places": [],
+        "text": "Spurði frenju fæðir"
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: building: out house"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Tungu",
+                "sm_entry": {
+                    "id": "632",
+                    "name": "Tunga",
+                    "lat": "65.121629",
+                    "lng": "-21.073299",
+                    "type": "farm",
+                    "county": "VesHún01",
+                    "c": "2",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Það var einhvern dag er Kormákur kom í  Tungu . Var Steingerður í stofu og sat á palli. Þórveigarsynir sátu í stofunni og voru búnir að veita Kormáki tilræði er hann gengi inn. En Þorkell hafði sett öðrumegin dyra sverð brugðið en öðrumegin setti Narfi ljá í langorfi. En þá er Kormákur kom að skáladyrum skaraði ofan ljáinn og mætti hann sverðinu og brotnaði í mikið skarð. Þá kom Þorkell að og kvað Kormák mart illt gera og var málóði, snýr inn skyndilega og kveður Steingerði af stofunni. Ganga þau út um aðrar dyr og lýkur hann hana í einu útibúri, kvað þau Kormák aldrei sjást skulu. "
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: meadowland"
+        ],
+        "places": [],
+        "text": "Hneit við Hrungnis fóta"
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Physical Landscape: bult environment: building: house"
+        ],
+        "places": [],
+        "text": "Eftir það gekk Kormákur að húsi er Steingerður var í og braut upp húsið og talaði við Steingerði."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Actors: animals: mammals: sheep",
+            "Actors: animals: mammals: wolf",
+            "Physical Landscape: managed landscape area: agricultural landscape: field"
+        ],
+        "places": [],
+        "text": "Sitja sverð og hvetja"
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Þá hljópu Þórveigarsynir upp og sóttu að Kormáki lengi. Narfi skrjáði um hið ytra. Þorkell sér heiman að þeim sækist seint og tekur vopn sín. Í því bili kom Steingerður út og sér ætlan föður síns. Tekur hún hann höndum og kemst hann ekki til liðs með þeim bræðrum. Lauk svo því máli að Oddur féll en Guðmundur varð óvígur og dó þó síðan. Eftir þetta fór Kormákur heim en Þorkell sér fyrir þeim bræðrum."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Ideas: fate"
+        ],
+        "places": [],
+        "text": "Bróðr, mundi eg blindum,"
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Múla",
+                "sm_entry": {
+                    "id": "593",
+                    "name": "Melar",
+                    "lat": "65.117196",
+                    "lng": "-21.099335",
+                    "type": "farm",
+                    "county": "VesHún01",
+                    "c": "23",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Á þeim bæ er í  Múla  heitir bjó Þórður Arndísarson. Hann átti Þórdísi, systur Barkar hins digra. Þau áttu tvo sonu. Voru þeir báðir yngri en Ásmundur Bersason."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Maður hét Vígi, mikill maður og sterkur og fjölkunnigur. Hann var frændi Bersa. Hann fór með honum. Þótti þeim sér mikið traust að Víga. Vígi átti bú í Hólmi. Mjög voru menn valdir til þeirrar ferðar. Og er þeir komu norður til Þorkels var þegar snúið að boði svo að þar fór engi frétt af um héraðið um þetta mál. Þetta var mjög gert í móti vilja Steingerðar. Vígi hinn hamrammi skynjaði hvers manns hagi þess er kom á bæinn eða á brott færi. Hann sat ystur í stofu og hvíldi við skáladyr."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Actors: things: jewelry",
+            "Events: ",
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hrútafjarðar",
+                "sm_entry": {
+                    "id": "1205",
+                    "name": "Hrútafjarðará",
+                    "lat": "65.1264827238581",
+                    "lng": "-21.0662841796875",
+                    "type": "river",
+                    "county": "VesHún01",
+                    "c": "2",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þá er brullaupi var lokið búast þeir á brott. Steingerður hefir með sér gull og gripi, ríða síðan til  Hrútafjarðar  og heldur hóglega."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Kormákur hleypur að Narfa og lýstur á skjöldinn og er að honum ber skjöldinn skeinist hann á bringunni og féll af baki en hesturinn hljóp í brott með skjöldinn. Þorgils bróðir Kormáks kvað þetta ofgert. Kormákur kvað nær hófi. Narfi réttir við úr rotinu og talast þeir við."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Kostaðu hins að hesti"
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Kormákur tók hest sinn og vopn og söðulreiði."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Actors: things: boat",
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hrútafjarðarhálsi",
+                "sm_entry": {
+                    "id": "633",
+                    "name": "Hrútafjarðarháls",
+                    "lat": "65.208347",
+                    "lng": "-20.965443",
+                    "type": "assembly site",
+                    "county": "VesHún01",
+                    "c": "8",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Kormákur kvaðst fara skyldu og bíða engis manns, stígur þegar á hest sinn og hleypti allt það er hann fékk. Þorgils fær sér brátt manna. Urðu þeir saman átján. Þeir koma eftir Kormáki á  Hrútafjarðarhálsi  og hafði Kormákur þá sprengdan hest sinn, snúa fram að bæ Þórveigar. Þeir sjá þá að Bersi er kominn á skip Þórveigar."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Bersi þakkar henni gjöfina og skiljast þau síðan. Þórveig fær menn til að meiða öll skip þau er á landi voru því að hún vissi fyrir komu þeirra Kormáks. Eftir það koma þeir Kormákur og beiða Þórveigu skips."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Þorgils kvað hóf á ef væri fyrir tvo aura. Kormákur kvað ekki mega standa að um slíkt. Þorgils kveðst fúsari að ríða fyrir innan fjörð. Kormákur réð og fóru á skipinu. En er þeir voru skammt frá landi komnir fyllti skipið undir þeim og komust við nauð til sama lands."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Þórveig kvað þetta lítinn prett. Eftir það greiðir Þorgils henni silfrið."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Actors: animals: mammals: bat"
+        ],
+        "places": [],
+        "text": "Að em eg Yggjar götva"
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Bersi fær sér skjótt fararskjóta, ríður heimleiðis."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: animals: avian: raven/falcon"
+        ],
+        "places": [],
+        "text": "Svo kveð eg snyrti-Freyju,"
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Þeir tóku hesta sína og riðu fyrir innan fjörð og komu til Vala og spurðu að Bersa."
+    },
+    {
+        "chapter": "9. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Eftir þetta fer Kormákur að leita Steingerðar um bæinn og finnur hana, telur hana hafa brugðist sér er hún vildi öðrum manni giftast."
+    },
+    {
+        "chapter": "9. kafli",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Þú telr, ljós, of logna,"
+    },
+    {
+        "chapter": "9. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Mel",
+                "sm_entry": {
+                    "id": "2168",
+                    "name": "Melr",
+                    "lat": "64.31518",
+                    "lng": "-20.30772",
+                    "type": "other",
+                    "info": "Unclear landscape feature - most likely referring to the ridge along the valley.",
+                    "county": "Árnes01",
+                    "c": "9",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Kormákur reið í brott og líkaði illa, kemur heim á  Mel  og segir móður sinni að Skeggi vill eigi ljá sverðið. Skeggi veitti Döllu umsjá í sínum tillögum og var vingott með þeim."
+    },
+    {
+        "chapter": "10. kafli",
+        "concepts": [
+            "Actors: things: hide"
+        ],
+        "places": [],
+        "text": "Nú er tekinn feldur og breiddur undir fætur þeim."
+    },
+    {
+        "chapter": "10. kafli",
+        "concepts": [
+            "Actors: things: hide"
+        ],
+        "places": [],
+        "text": "Það voru hólmgöngulög að feldur skal vera fimm alna í skaut og lykkjur í hornum. Skyldi þar setja niður hæla þá er höfuð var á öðrum enda. Það hétu tjösnur. Sá er um bjó skyldi ganga að tjösnunum svo að sæi himin milli fóta sér og héldi í eyrasnepla með þeim formála sem síðan er eftir hafður í blóti því að kallað er tjösnublót. Þrír reitar skulu umhverfis feldinn, fets breiðir. Út frá reitum skulu vera strengir fjórir og heita það höslur. Það er völlur haslaður er svo er gert. Maður skal hafa þrjá skjöldu en er þeir eru farnir þá skal ganga á feld þó að áður hafi af hörfað. Þá skal hlífast með vopnum þaðan frá. Sá skal höggva er á er skorað. Ef annar verður sár svo að blóð komi á feld er eigi skylt að berjast lengur. Ef maður stígur öðrum fæti út um höslur fer hann á hæl en rennur ef báðum stígur. Sinn maður skal halda skildi fyrir hvorum þeim er berst. Sá skal gjalda hólmlausn er meir verður sár, þrjár merkur silfurs í hólmlausn."
+    },
+    {
+        "chapter": "10. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Þorgils hélt skildi fyrir bróður sínum en Þórður Arndísarson fyrir Bersa. Bersi hjó fyrri og klauf skjöld Kormáks. Hann hjó til Bersa með slíkum hætti. Hjó hvor þrjá skjöldu fyrir öðrum til ónýts. Þá átti Kormákur að höggva. Síðan hjó hann til Bersa. Hann brá við Hvítingi. Tók Sköfnungur af oddinn af Hvítingi fyrir framan véttrimina og hraut sverðsoddurinn á hönd Kormáki og skeindist hann á þumalfingri og klofnaði köggullinn og kom blóð á feldinn. Eftir það gengu menn á milli þeirra og vildu eigi að þeir berðust lengur."
+    },
+    {
+        "chapter": "10. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Bersi heimti hólmlausn. Kormákur kvað honum goldið mundu verða fé og skildust við þá kosti."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Þangað reið Kormákur frá hólminum að finna Steinar frænda sinn. Kormákur segir frá ferðum sínum. Steinar lét illa yfir."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Steinar segir: \"Engi ertu ofurhugi en gjaldast mun fé ef þarf.\""
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Saurbæjar",
+                "sm_entry": {
+                    "id": "1352",
+                    "name": "Saurbær",
+                    "lat": "64.280667",
+                    "lng": "-21.841911",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "7",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Steinar og Kormákur riðu brott frá Elliða. Þeir ríða til  Saurbæjar . Þeir sjá mannareið í móti sér. Fer þar Bersi. Hann kveður Kormák og spyr hversu sárið hafist. Kormákur kvað eigi stórra bóta ávant."
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Community Places: administrative unit: local assembly "
+        ],
+        "places": [
+            {
+                "as_mentioned": "Múla",
+                "sm_entry": {
+                    "id": "593",
+                    "name": "Melar",
+                    "lat": "65.117196",
+                    "lng": "-21.099335",
+                    "type": "farm",
+                    "county": "VesHún01",
+                    "c": "23",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Líður á vorið fram til Þórsnessþings. Þykist Bersi nú skilja að Þórdís hefir valdið því ákalli er Þórður veitti honum. Búast menn nú til þings. Var það vandi Þórðar og Bersa að ríða báðir saman til þings. Bersi ríður heiman og kemur í  Múla . Þórður var í brottu."
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hjarðarholti"
+            }
+        ],
+        "text": "Þar fengu þeir skip er Þórður átti, fara nú leiðar sinnar, koma til þings þá er flestir voru áður komnir, ganga til búðar Ólafs pá úr  Hjarðarholti . Bersi var hans þingmaður. Fjölmennt var í búðinni og fékkst Bersa ekki rúm. Hann var vanur að sitja hjá Þórði. Það rúm var skipað. Þar sat maður mikill og sterklegur í bjarnskinnsúlpu og gríma fyrir andliti. Bersi stóð fyrir honum og gafst eigi rúmið. Bersi spyr þenna mann að nafni. Honum er sagt að hann heitir ýmist Glúmur eða Skúma."
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Actors: animals: mammals: bear"
+        ],
+        "places": [],
+        "text": "Hver er án, bjarnar barði,"
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "\"Svo er og,\" segir hann Steinar, \"og á eg fé að gjalda þér fyrir Kormák ef þarf en fyrri skora eg þér á hólm. Kann vera að þú fáir þá tvennar merkur eða látir ella báðar.\""
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Þann dag er ákveðið var gengu út úr búð Þórður og Steinar. Kom Kormákur þá á þingið. Ólafur pái fær Bersa lið til hólms. Var Þórður Arndísarson vanur að halda skildi fyrir Bersa en nú varð það ekki. Gengur Bersi þó til hólms og er eigi nefndur skjaldsveinn hans. Kormákur skal halda skildi fyrir Steinari. Bersi hafði törguna Þórveigarnaut. Þrjá skjöldu hafði hvor. Þá hjó Bersi tvo skjöldu en Kormákur hélt á hinum þriðja. Bersi hjó til Steinars en Hvíting festi í járnrendingunni á skildi Steinars. Kormákur brá upp skildinum. Í því hjó Steinar til Bersa og kom á skjaldarröndina og hljóp af skildinum og á þjóhnappa Bersa og renndi ofan eftir lærunum í knésbætur svo að sverðið stóð í beini og féll Bersi."
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Actors: animals: mammals: wolf"
+        ],
+        "places": [],
+        "text": "Fylgduð oss, að Óðins,"
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Actors: animals: avian: raven"
+        ],
+        "places": [],
+        "text": "Mér hafa frændr að fundi,"
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: building: booth"
+        ],
+        "places": [],
+        "text": "Það mund er Bersi var til búðar borinn mælti Steinar við Kormák:"
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Actors: animals: avian: crow"
+        ],
+        "places": [],
+        "text": "Fólk-Sýrar lét eg fjóra,"
+    },
+    {
+        "chapter": "13. kafli",
+        "concepts": [
+            "Events: meeting"
+        ],
+        "places": [],
+        "text": "Það var eitt sinn að margir menn komu til að rætt var um fundinn hvernig tekist hafði."
+    },
+    {
+        "chapter": "13. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Steingerður fer norður til frænda sinna, hittir Þorkel bróður sinn, biður hann heimta fé sín að Bersa, mund og heimanfylgju, og kveðst eigi vilja eiga Bersa örkumlaðan. Þorkell lastar það ekki og heitir för sinni. Líður veturinn og frestast för Þorkels."
+    },
+    {
+        "chapter": "14. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Bersi kvað sinn hlut mundu sýnast þungan þó að hvorirtveggju kenndu nokkurs af \"og mun eigi féið greiðast.\""
+    },
+    {
+        "chapter": "14. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Þeir komu til hólms og tókst hólmgangan. Hélt Þórður Arndísarson skildi fyrir Bersa en Vali fyrir Þorkeli. Og þá er tveir skildir voru farnir bauð Bersi Þorkeli að taka hinn þriðja. Þorkell vildi það eigi. Bersi hafði skjöld og sverð langt og biturt."
+    },
+    {
+        "chapter": "14. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Events: construction"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Brekkuland",
+                "sm_entry": {
+                    "id": "3055",
+                    "name": "Frakkland",
+                    "lat": "46.620842",
+                    "lng": "2.323653",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "1",
+                    "distance": 3
+                }
+            }
+        ],
+        "text": "Því játtar Bersi og skal Þórdísi heiman fylgja  Brekkuland  og tekst þessi mægð með þeim. Eftir þetta lætur Bersi gera virki um bæ sinn og sat þá marga vetur í kyrrðum."
+    },
+    {
+        "chapter": "15. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Actors: things: spear"
+        ],
+        "places": [],
+        "text": "Þegar Oddur er í brottu býst Bersi heiman, ríður við alvæpni og gyrður Hvítingi og hefir þrjú spjót, kemur í Þambardal mjög að áliðnum degi þá er konur gengu úr dyngju. Steinvör sér Bersa og snýr til móts við hann og segir honum til sinna vandræða."
+    },
+    {
+        "chapter": "15. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Bersi kveðst eigi erindlaust fara vilja í Þambardal, snýr að dyrum er menn sátu við langelda. Lýstur Bersi á dyr og gengur þar út maður. Sá nefndist Þorleifur. Þórarinn kenndi mál Bersa og hleypur út með tálguhníf mikinn og leggur til Bersa. Þetta sér Bersi og bregður Hvítingi og höggur hann þegar banahögg."
+    },
+    {
+        "chapter": "15. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: woods and trees",
+            "Actors: animals: mammals: horse",
+            "Actors: things: spear"
+        ],
+        "places": [],
+        "text": "Eftir þetta hleypur Bersi á bak og setur Steinvöru í kné sér og tekur spjót sín er Steinvör hafði varðveitt, ríður í skóg nokkurn og í leyni einu lét hann hestinn og Steinvöru og bað hana sín bíða. Síðan gekk hann til klifs þess er þjóðgata lá yfir og býst þar fyrir."
+    },
+    {
+        "chapter": "15. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: things: spear"
+        ],
+        "places": [],
+        "text": "Í Þambardal var eigi allt kyrrt. Þorleifur hleypur og segir sonum Þórarins að hann lá dauður í dyrunum. Þeir spurðu hver því voldi. Þorleifur segir. Síðan fóru þeir eftir Bersa og stefndu hið gegnsta til klifsins og ætluðu að komast fyrir Bersa. En nú er hann fyrir í klifinu. En er þeir komu nær að honum skaut Bersi spjóti til Álfs og í gegnum hann. Þá skaut Loftur til Bersa. Hann brá við törgunni og hraut af. Síðan skaut Bersi Loft til bana og svo Skofta. Þá er þetta var gert komu heimamenn þeirra bræðra. Veik Þorleifur aftur móti þeim og fóru heim allir saman."
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Fer hann til móts við Ólaf og býður honum barnfóstur. Þetta tekur Ólafur með þökkum og flytur hann Halldór heim með sér og fær Steinvöru til fósturs. Þetta líkar Þórdísi illa og skýtur undan peningunum. Bersi tekur nú mjög að eldast."
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Actors: things: food"
+        ],
+        "places": [],
+        "text": "Það var enn einn tíma að þingmenn komu til Bersa. Hann sat einn saman og kom fyrr matur hans en annarra manna. Bersi hafði graut en aðrir menn ost og skyr."
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Activities: animal husbandry: grazing"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Brekkulandi"
+            }
+        ],
+        "text": "Þórdís leyfði Vala bróður sínum nytjar í  Brekkulandi . Bersi lét húskarla sína vinna heima og skipta engu við Vala. Halldóri þótti illa er Bersi réð eigi fé sínu."
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Activities: animal husbandry: grazing"
+        ],
+        "places": [],
+        "text": "Veit eg að Vali beitir"
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Events: burial",
+            "Activities: travel",
+            "Actors: things: spear",
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Þá er Vali vill aftur hverfa koma þeir Halldór og Bersi í mót honum. Bersi hafði höggspjót í hendi og staf í annarri en Halldór Hvíting. Þegar Vali sér  þá snýr hann í mót þeim og höggur til Bersa. Halldór komst á bak Vala og beitir á hásinar honum Hvítingi. Þá bregður Vali hart við og snýr í mót Halldóri. Þá setti Bersi spjótið milli herðanna. Var það hans banasár. Síðan setja þeir upp skjöld hans að fótum honum en sverð að höfði og breiða á hann vararfeld hans. Og eftir það stíga þeir á bak og ríða um fimm bæi og lýsa víginu á hendur sér og ríða heim síðan. Fara menn og búa um Vala og heitir þar síðan Valafall er hann var drepinn. Halldór var nú tólf vetra gamall er þessi atburður gerðist."
+    },
+    {
+        "chapter": "17. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Þorvaldur tinteinn bað Steingerðar og að frænda ráði var hún honum gefin og ekki með hennar mótmæli. Þetta var samsumars og Steingerður gekk frá Bersa. Þessi tíðindi fréttir Kormákur og lætur sem hann viti eigi. Litlu áður hafði Kormákur flutt varnað sinn til skips og ætlaði utan og báðir þeir bræður."
+    },
+    {
+        "chapter": "17. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Einn morgun snemma ríður Kormákur frá skipi, fer að finna Steingerði og talar við hana, biður hana gera sér skyrtu. Hún kvað enga þörf komu hans, kvað Þorvald eigi mundu þola hefndalaust eða frændur hans."
+    },
+    {
+        "chapter": "17. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Eftir þetta skilja þau með engri blíðu og fór Kormákur til skips."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Actors: animals: mammals: walrus",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Þá er þeir bræður létu úr læginu kom upp hjá skipinu hrosshvalur. Kormákur skaut til hans pálstaf og kom á hvalinn og sökktist. Þóttust menn þar kenna augu Þórveigar. Þessi hvalur kom ekki upp þaðan í frá en til Þórveigar spurðist það að hún lá hætt og er það sögn manna að hún hafi af því dáið."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Noreg",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Noregi",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Síðan sigldu þeir á haf og komu við  Noreg . Í þann tíma réð Hákon Aðalsteinsfóstri  Noregi . Þeir bræður fóru skjótt á konungs fund. Tók konungur vel við þeim. Voru þeir þar um veturinn vel virðir."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Einn dag er þeir voru á land upp gengnir komu að þeim bræðrum ellefu menn og sóttu að þeim. Lauk svo þeirra viðskiptum að þeir bræður tveir sigruðu hina ellefu. Eftir það fóru þeir til skipa. Þóttust víkingarnir mundu hafa látið þessa menn en fagna nú því er þeir komu aftur með sigri og fé. Í þessi ferð fengu þeir bræður mikla frægð."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Nú sigldu þeir að hömrum nokkurum, hlóðu seglum við mikinn háska."
+    },
+    {
+        "chapter": "19. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Þessi orusta var mikil. Fékk Haraldur konungur ágætan sigur. Hans menn ráku flótta. Þeir bræður voru staddir báðir saman. Snerust þá í mót níu menn. Þeir börðust um hríð."
+    },
+    {
+        "chapter": "19. kafli",
+        "concepts": [
+            "Actors: thigns: boat"
+        ],
+        "places": [],
+        "text": "Þegar konungur verður vís farfýsi Kormáks þá kallar konungur Kormák til sín og segir hann óviturlega gera og letur hann ferðarinnar og tjáir það ekki. Réðst hann til skips. Í útláti fengu þeir veður hvasst og áföll stór og brotnaði ráin."
+    },
+    {
+        "chapter": "19. kafli",
+        "concepts": [
+            "Actors: animals: mammals: horse",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Þeir sjá á land upp hvar kona ríður. Kormákur kennir Steingerði og lét skjóta báti og rær til lands, gengur skjótt frá skipi og fær sér hest, ríður til móts við Steingerði. Og þegar er þau finnast hleypur Kormákur af baki og tekur hana ofan og setur niður hjá sér. Hrossin ganga frá þeim og líður á daginn og kemur að myrkri."
+    },
+    {
+        "chapter": "19. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [],
+        "text": "Kormákur kvað lítils mundu við þurfa og litast hann um og sér hvergi hrossin en þau höfðu vafist í einu lækjarfari skammt frá því er þau sátu. Nú fer nótt að hendi. Taka þau á sig göngu og komu til lítils bæjar og var við þeim tekið og veittur beini slíkur sem þau þurftu. Um nóttina hvíldi sínum megin bríkar hvort þeirra."
+    },
+    {
+        "chapter": "19. kafli",
+        "concepts": [
+            "Actors: animals: avian: hawk"
+        ],
+        "places": [],
+        "text": "Svo ber mér í mína,"
+    },
+    {
+        "chapter": "19. kafli",
+        "concepts": [
+            "Actors: things: jewelry"
+        ],
+        "places": [],
+        "text": "Um morguninn býst Kormákur í brott, finnur Steingerði, tók af hendi sér fingurgull og vill gefa henni."
+    },
+    {
+        "chapter": "19. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Mel",
+                "sm_entry": {
+                    "id": "2168",
+                    "name": "Melr",
+                    "lat": "64.31518",
+                    "lng": "-20.30772",
+                    "type": "other",
+                    "info": "Unclear landscape feature - most likely referring to the ridge along the valley.",
+                    "county": "Árnes01",
+                    "c": "9",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Ríður Kormákur og líkar heldur illa við Steingerði en verr við Tintein. Hann ríður heim á  Mel  og er þar um veturinn og vistar kaupmenn nær skipi."
+    },
+    {
+        "chapter": "20. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Kormákur ríður í brott og leitar þessa stráks og finnur og nú verður hann að segja hið sanna. Kormákur verður reiður mjög og hleypur að Narfa og vegur hann. Slíka för ætlar hann Þorvaldi en hann skaust í skugga og skammaðist sín og komust menn í milli þeirra og skildu þá."
+    },
+    {
+        "chapter": "21. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Fljótum",
+                "sm_entry": {
+                    "id": "2043",
+                    "name": "Fljót",
+                    "lat": "64.837766",
+                    "lng": "-20.623607",
+                    "type": "river",
+                    "info": "=Norðlingafljót",
+                    "county": "Mýras01",
+                    "c": "3",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Eftir þetta sendir Þorvarður orð úr  Fljótum  að hann vill berjast við Kormák, kveður á stað og stund, kallast nú hefna vilja níðsins og annarra svívirðinga. Kormákur játtar því. Og er stefnudagur kom fór Kormákur í þann stað sem ákveðið var og var eigi Þorvarður þar kominn og engi af hans mönnum. Kormákur hittir konu eina þar á bænum. Hún heilsar honum og spyrjast þau tíðinda."
+    },
+    {
+        "chapter": "21. kafli",
+        "concepts": [
+            "Events: meeting"
+        ],
+        "places": [],
+        "text": "Eitt sinn er þeir fundust, Þorvarður og Kormákur, þá mælti Þorvarður: \"Mikinn fjandskap eigum vér þér að gjalda margs háttar og fyrir það sama býð eg þér hólmgöngu hér á leiðinni.\""
+    },
+    {
+        "chapter": "22. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Spákonufelli",
+                "sm_entry": {
+                    "id": "1099",
+                    "name": "Spákonufell",
+                    "lat": "65.828622",
+                    "lng": "-20.277887",
+                    "type": "farm",
+                    "county": "VesHún01",
+                    "c": "7",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Maður hét Þórólfur er bjó undir  Spákonufelli . Hann átti Þórdísi spákonu sem fyrr var getið. Þau voru þar á leiðinni. Þóttust margir þar traust mikið eiga er hún var. Þorvarður sækir hana að og beiðir hana liðs í móti Kormáki og gaf fé til. Býr Þórdís hann nú til hólms svo sem henni líkar."
+    },
+    {
+        "chapter": "22. kafli",
+        "concepts": [
+            "Actors: animals: avian: goose"
+        ],
+        "places": [],
+        "text": "Þá er hann vaknaði fann hann að þreifað var undir ábreiðuna að höfði honum. Hann spyr hver þar sé. Sá snýr í brott og til útidyra en Kormákur eftir og sér að þar er Þórdís og er hún þá komin í þann stað sem þeir skyldu berjast og hefir gás undir. Kormákur spyr hvað skuli."
+    },
+    {
+        "chapter": "22. kafli",
+        "concepts": [
+            "Actors: animals: avian: goose"
+        ],
+        "places": [],
+        "text": "Hið þriðja sinn er Kormákur kemur út hefir hún skorið tvær gæs og látið renna saman blóðið í bolla. Þá hafði hún tekið hina þriðju gásina og ætlar að skera."
+    },
+    {
+        "chapter": "22. kafli",
+        "concepts": [
+            "Actors: animals: avian: goose"
+        ],
+        "places": [],
+        "text": "Þórdís mælti: \"Það mun þó sannast Kormákur að þér mun í síðra lagi mega að duga. Hafði eg nú ætlað að fyrirkoma þeim ósköpum er Þórveig hafði á lagt ykkur Steingerði og mættuð nú njótast ef eg skæri hina þriðju gásina svo að engi vissi.\""
+    },
+    {
+        "chapter": "22. kafli",
+        "concepts": [
+            "Actors: animals: avian: goose"
+        ],
+        "places": [],
+        "text": "Aura gaf eg á eyri,"
+    },
+    {
+        "chapter": "22. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Þeir fóru til hólms. Þorvarður gaf spákonu meira fé og þá hann blótið."
+    },
+    {
+        "chapter": "22. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Síðan börðust þeir. Sverð Kormáks beit ekki. Þeir áttust lengi höggva viðskipti við og beit hvorki sverðið. Að lyktum hjó Kormákur á síðu Þorvarði. Varð það mikið högg svo að lúðist undir og brotnuðu rifin í Þorvarði og varð hann óvígur og skildu við þetta."
+    },
+    {
+        "chapter": "22. kafli",
+        "concepts": [
+            "Actors: animals: mammals: bull"
+        ],
+        "places": [],
+        "text": "Kormákur sá hvar naut stóð og hjó það. Honum var orðið varmt og tók hann af höfði sér hjálminn."
+    },
+    {
+        "chapter": "22. kafli",
+        "concepts": [
+            "Actors: animals: mammals: bull",
+            "Actors: supernatural actors: elves"
+        ],
+        "places": [],
+        "text": "Hún segir: \"Hóll einn er héðan skammt í brott er álfar búa í. Graðung þann er Kormákur drap skaltu fá og rjóða blóð graðungsins á hólinn utan en gera álfum veislu af slátrinu og mun þér batna.\""
+    },
+    {
+        "chapter": "22. kafli",
+        "concepts": [
+            "Activities: exchange",
+            "Actors: things: jewelry",
+            "Actors: animals: mammals: bull"
+        ],
+        "places": [],
+        "text": "Eftir þetta senda þeir Kormáki orð að þeir vilja kaupa graðunginn. Hann kvaðst eigi vilja varna þeim kaups en hafa fyrir baug þann er Steingerður átti. Þeir vitja graðungsins en selja Kormáki bauginn og fara með sem Þórdís sagði fyrir."
+    },
+    {
+        "chapter": "22. kafli",
+        "concepts": [
+            "Actors: things: jewerly"
+        ],
+        "places": [],
+        "text": "Hins mun hör-Gefn spyrja"
+    },
+    {
+        "chapter": "23. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Eftir þetta batnar Þorvarði skjótt. Þá er hann þóttist afturbati ríður hann á  Mel  og býður Kormáki hólmgöngu."
+    },
+    {
+        "chapter": "23. kafli",
+        "concepts": [
+            "Actors: things: jewelry",
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Nú fara þeir til hólms. Finnur Þórdís Þorvarð nú sem fyrr. Kormákur sækir ekki hennar traust. Hún deyfði fyrir Kormáki sverðið svo að ekki beit en þó hjó Kormákur svo mikið högg á öxl Þorvarði að axlarbeinið brotnaði og varð höndin þegar ónýt. Varð hann af þessum lemstrum óvígur og hlaut að gjalda annan baug í hólmlausn."
+    },
+    {
+        "chapter": "23. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Þá hljóp að Þórólfur undan  Spákonufelli  og hjó til Kormáks."
+    },
+    {
+        "chapter": "23. kafli",
+        "concepts": [
+            "Actors: animals: mammals: bull"
+        ],
+        "places": [],
+        "text": "Kormákur hjó blótnaut eftir siðvenju og mælti: \"Illa erum vér við komnir að þola ágang yðvarn en fjölkynngi Þórdísar\" og kvað vísu:"
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Skip þeirra bræðra stóð uppi í  Hrútafirði  um veturinn. Um vorið halda kaupmenn til skips. Þeir bræður ætla og að fylgja skipi sínu."
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: things: jewelry"
+        ],
+        "places": [],
+        "text": "Þorvaldur segir: \"Bauga þeirra tveggja er eg hefi misst fyrri.\""
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Og er Kormákur var til skips farinn þá kvað hann vísu :"
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Nú fer Kormákur utan og með honum Þorgils bróðir hans og komu til hirðar konungs. Var þar við þeim vel tekið."
+    },
+    {
+        "chapter": "24. kafli",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Þess er getið að Steingerður biður Þorvald tintein að þau skyldu utan. Hann kvað það eigi ráðlegt en má þó eigi synja henni. Ráðast þau til ferðar og komu um haf og settu víkingar að þeim og vildu ræna þau og taka í brott Steingerði. Þess verður Kormákur vís og fer til og veitir þeim lið svo að þau héldu öllu fé sínu. Komu þau síðan til konungshirðar."
+    },
+    {
+        "chapter": "25. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Eftir um vorið byrjar Haraldur konungur ferð sína til  Bjarmalands  með miklu liði. Kormákur var skipstjórnarmaður í þeirri ferð og á öðru skipi var Þorvaldur. Eigi eru fleiri nefndir skipstjórnarmenn."
+    },
+    {
+        "chapter": "25. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Skipinu hvelfir undir Kormáki og hans mönnum. Varð skjótt borgið er mart var manna við. Þorvaldur rétti við og snúa áleiðis ferðinni. Býður konungur sína gerð á málinu og því játtu þeir báðir. Konungur lét jafnt högg Þorvalds og hrakning Kormáks."
+    },
+    {
+        "chapter": "25. kafli",
+        "concepts": [
+            "Actors: things: spear"
+        ],
+        "places": [],
+        "text": "Kormákur spratt upp og hljóp eftir manninum með spjót það er hann kallaði Vigur og skaut eftir honum og missti og kvað vísu:"
+    },
+    {
+        "chapter": "26. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Þorvaldur tinteinn býr skip sitt til  Danmerkur  og Steingerður með honum. Litlu síðar fara þeir bræður hina sömu leið og komu við  Brenneyjar síð um kveld. Þar sáu þeir fljóta fyrir skip Þorvalds. Var hann þar sjálfur og nokkurir menn með honum. Þeir voru ræntir fé öllu en Steingerður brott tekin af víkingum. Þar var fyrir víkingum Þorsteinn son Ásmundar eskisíðu er barðist við Ögmund föður Kormáks og Þorgils."
+    },
+    {
+        "chapter": "26. kafli",
+        "concepts": [
+            "Actors: animals: fish: eels",
+            "Events: hostile encounter",
+            "Activities: travel",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Um nóttina gengu þeir bræður á bát og reru til víkingaskips, gengu upp á skip Þorsteins. Steingerður var í lyftingu og gift manni en flest lið var á landi við baksturelda. Kormákur heimti sögur af matsveinum og sögðu þeir honum allt það er þeir vildu bræður. Þeir gengu á skip að skutbryggju. Þorgils kippti brúðguma á borð út en Kormákur drap hann við borðinu. Þorgils hljóp á kaf með Steingerði og svamm til lands. Þá er Kormákur var nær landi lögðust að honum álar yfir hendur honum og fætur svo að hann dregur niður."
+    },
+    {
+        "chapter": "27. kafli",
+        "concepts": [
+            "Events: construction"
+        ],
+        "places": [],
+        "text": "Síðan sneru þeir aftur bræður og til  Noregs  en Þorvaldur tinteinn fór til  Íslands . En þeir bræður herjuðu um  Írland ,  Bretland ,  England ,  Skotland  og þóttu hinir ágætustu menn. Þeir settu fyrst virki það er heitir  Skarðaborg . Þeir runnu upp á  Skotland  og unnu mörg stórvirki og höfðu mikið lið. Í þeim her var engi slíkur sem Kormákur um afl og áræði."
+    },
+    {
+        "chapter": "27. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Eitt sinn er þeir höfðu herjað rak Kormákur flótta en liðið var til skips farið. Þá kom að Kormáki úr skógi blótrisi Skota og tókst þar atgangur harður. Kormákur var ósterkari en risinn tröllauknari. Kormákur leit til sverðs síns og var rennt úr slíðrum. Kormákur seildist til og hjó risann banahögg. Risinn lagði þó svo fast hendur að síðum Kormáki að rifin brotnuðu og féll Kormákur og risinn dauður ofan á hann og komst Kormákur eigi upp. Í annan stað fara menn að leita hans og finna og fluttu hann til skipa."
+    },
+    {
+        "chapter": "27. kafli",
+        "concepts": [
+            "Actors: animals: avian: raven"
+        ],
+        "places": [],
+        "text": "Varat með mér í morgun"
+    }
+]

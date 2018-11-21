@@ -1,0 +1,1841 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "1. kafli",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Á dögum Hákonar konungs Aðalsteinsfóstra bjó út á  Íslandi  í  Breiðafirði  á bæ þeim er að  Kvennabrekku  heitir maður sá er Steinn hét. Kona hans hét Þorgerður. Hún var Oddleifsdóttir, systir Gests af  Barðaströnd . Steinn var auðigur maður og hinn besti bóndi og þá gamall mjög.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "344",
+                "name": "Breiðamýri",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "1. kafli",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Á dögum Hákonar konungs Aðalsteinsfóstra bjó út á  Íslandi  í  Breiðafirði  á bæ þeim er að  Kvennabrekku  heitir maður sá er Steinn hét. Kona hans hét Þorgerður. Hún var Oddleifsdóttir, systir Gests af  Barðaströnd . Steinn var auðigur maður og hinn besti bóndi og þá gamall mjög.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3844909667969,
+                    65.9694108052555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2580",
+                "name": "Kvennabrekka",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "1. kafli",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Á dögum Hákonar konungs Aðalsteinsfóstra bjó út á  Íslandi  í  Breiðafirði  á bæ þeim er að  Kvennabrekku  heitir maður sá er Steinn hét. Kona hans hét Þorgerður. Hún var Oddleifsdóttir, systir Gests af  Barðaströnd . Steinn var auðigur maður og hinn besti bóndi og þá gamall mjög.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.63841,
+                    65.03053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "151",
+                "name": "Barðaströnd",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "1. kafli",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Á dögum Hákonar konungs Aðalsteinsfóstra bjó út á  Íslandi  í  Breiðafirði  á bæ þeim er að  Kvennabrekku  heitir maður sá er Steinn hét. Kona hans hét Þorgerður. Hún var Oddleifsdóttir, systir Gests af  Barðaströnd . Steinn var auðigur maður og hinn besti bóndi og þá gamall mjög.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.575003,
+                    65.462938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "805",
+                "name": "Sauðafell",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "1. kafli",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Rannveig hét kona hans. Hún var heimsk og harðráð og það var kallað að Þorbjörn mundi hafa unnið nokkurum óhöppum færra ef hún hefði hann eigi fram æstan. Þorbjörn hafði nú keypt land það er að  Sauðafelli  heitir. Margir menn kvíddu mjög við komu hans, þeir er áður höfðu spurt til Þorbjarnar.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.684987,
+                    65.041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "805",
+                "name": "Sauðafell",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "1. kafli",
+                "concept": "Actors: animals: domestic animals: livestock",
+                "text": "Rannveig hét kona hans. Hún var heimsk og harðráð og það var kallað að Þorbjörn mundi hafa unnið nokkurum óhöppum færra ef hún hefði hann eigi fram æstan. Þorbjörn hafði nú keypt land það er að  Sauðafelli  heitir. Margir menn kvíddu mjög við komu hans, þeir er áður höfðu spurt til Þorbjarnar.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.684987,
+                    65.041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "805",
+                "name": "Sauðafell",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "1. kafli",
+                "concept": "Activities: exchange",
+                "text": "Rannveig hét kona hans. Hún var heimsk og harðráð og það var kallað að Þorbjörn mundi hafa unnið nokkurum óhöppum færra ef hún hefði hann eigi fram æstan. Þorbjörn hafði nú keypt land það er að  Sauðafelli  heitir. Margir menn kvíddu mjög við komu hans, þeir er áður höfðu spurt til Þorbjarnar.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.684987,
+                    65.041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "805",
+                "name": "Sauðafell",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "1. kafli",
+                "concept": "Physical Landscape:: unmanaged landscape area: moving water: river",
+                "text": "Rannveig hét kona hans. Hún var heimsk og harðráð og það var kallað að Þorbjörn mundi hafa unnið nokkurum óhöppum færra ef hún hefði hann eigi fram æstan. Þorbjörn hafði nú keypt land það er að  Sauðafelli  heitir. Margir menn kvíddu mjög við komu hans, þeir er áður höfðu spurt til Þorbjarnar.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.684987,
+                    65.041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "151",
+                "name": "Barðaströnd",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "2. kafli",
+                "concept": "Activities: land management ",
+                "text": "Hann mælti þá við Þorgerði konu sína: \"Það vildi eg að þú seldir land þitt eftir dauða minn og færir vestur á  Barðaströnd  til Gests bróður þíns. Segir mér svo hugur um að Þorbjörn muni ekki rór í byggðinni við þig þó að vel haf fallið á með okkur. Varir mig að honum þyki nú dælla land þitt til beitingar en þá er eg var við.\"",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.575003,
+                    65.462938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "296",
+                "name": "Hagi",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "4. kafli",
+                "concept": "Activities: travel",
+                "text": "Refur fer nú leið sína og léttir eigi fyrr en hann kemur í  Haga . Fékk Refur þar góðar viðtökur. Og er þeir frændur tókust orðum spyr Gestur ef hann segði nokkur tíðindi. Refur lést engi segja.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.382624,
+                    65.855934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "780",
+                "name": "Grænland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "6. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Refur segir: \"Eg ætla að halda skipi mínu til  Grænlands .\"",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.107285,
+                    65.497644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "780",
+                "name": "Grænland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "6. kafli",
+                "concept": "Physical Landscape: unmanaged landscape area: glacier",
+                "text": "Nú skiljast þeir og lætur Refur í haf. Þeim ferst vel þar til er þeir fá sýn af  Grænlandi  og síðan velkir þá lengi og hefur þá norður með landinu. Um síðir koma þeir á fjörð einn norðarlega í óbyggð. Jöklar ganga allt til suðurs í  sjá út. Og með því að þeir voru hafvelktir þá voru þeir landfúsir. Þeir lögðust um akkeri.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.107285,
+                    65.497644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "780",
+                "name": "Grænland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "6. kafli",
+                "concept": "Activities: travel",
+                "text": "Nú skiljast þeir og lætur Refur í haf. Þeim ferst vel þar til er þeir fá sýn af  Grænlandi  og síðan velkir þá lengi og hefur þá norður með landinu. Um síðir koma þeir á fjörð einn norðarlega í óbyggð. Jöklar ganga allt til suðurs í  sjá út. Og með því að þeir voru hafvelktir þá voru þeir landfúsir. Þeir lögðust um akkeri.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.107285,
+                    65.497644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "780",
+                "name": "Grænland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "6. kafli",
+                "concept": "Phyiscal Landscape: built environment: buildings: boatshed",
+                "text": "Refur bjó átta vetur á  Grænlandi  á sama bólstað. Á þeim vetri hafði hann skip í smíð, mikla ferju, en hrófið var út við nes það er fram gekk milli  Víkur og Hlíðar. Hann gekk snemma til en síð frá. Hann læsti þar í hrófinu smíðaröxi sína um nætur en gekk slyppur heim.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.107285,
+                    65.497644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3400",
+                "name": "Vigur",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "6. kafli",
+                "concept": "Phyiscal Landscape: built environment: buildings: boatshed",
+                "text": "Refur bjó átta vetur á  Grænlandi  á sama bólstað. Á þeim vetri hafði hann skip í smíð, mikla ferju, en hrófið var út við nes það er fram gekk milli  Víkur og Hlíðar. Hann gekk snemma til en síð frá. Hann læsti þar í hrófinu smíðaröxi sína um nætur en gekk slyppur heim.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.8288889070973,
+                    66.0532904339497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "780",
+                "name": "Grænland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "6. kafli",
+                "concept": "Actors: things: boats",
+                "text": "Refur bjó átta vetur á  Grænlandi  á sama bólstað. Á þeim vetri hafði hann skip í smíð, mikla ferju, en hrófið var út við nes það er fram gekk milli  Víkur og Hlíðar. Hann gekk snemma til en síð frá. Hann læsti þar í hrófinu smíðaröxi sína um nætur en gekk slyppur heim.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.107285,
+                    65.497644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3400",
+                "name": "Vigur",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "6. kafli",
+                "concept": "Actors: things: boats",
+                "text": "Refur bjó átta vetur á  Grænlandi  á sama bólstað. Á þeim vetri hafði hann skip í smíð, mikla ferju, en hrófið var út við nes það er fram gekk milli  Víkur og Hlíðar. Hann gekk snemma til en síð frá. Hann læsti þar í hrófinu smíðaröxi sína um nætur en gekk slyppur heim.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.8288889070973,
+                    66.0532904339497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "780",
+                "name": "Grænland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "7. kafli",
+                "concept": "Phyiscal Landscape: built environment: buildings: boatshed",
+                "text": "Þengill mælti: \"Búið var við að vér mundum lítið fá af veiðiskap þessum ef ekki hefði Refur hinn ragi sýnt sinn drengskap. Hygg eg það að aldrei hafi dáðlausara höfuð komið til  Grænlands  en hann ber því að mannsspor liggja frá hrófinu og hafði horfið aftur og var hland drifið í sporunum.\"",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.107285,
+                    65.497644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "7. kafli",
+                "concept": "Activities: exchange",
+                "text": "Nú skilja þeir sitt tal. Er nú farið eftir bjarnarslátrinu. En hvar sem þeir Þorgilssynir komu þá bera þeir upp þetta illmæli og kveikja það í öllu að Refur hafi fyrir regi sakir ger verið af  Íslandi  og verið í burt keyptur nokkuru fé. Þeir færðu þetta hróp á vöxtu og svo fer þetta í fjölmæli að Refur verður þessa áheyrsla. Ekki lætur hann sem hann viti. En skip það sem hann hefir í smíð býr hann að öllu sem best. Hann lætur slátrast mjög um haustið en sumt fé sitt selur hann til grænlensks varnings. Refur hefir haustboð mikið og býður til sín vinum sínum en í hljóði seldi hann land sitt við lausafé. Hann skilur og það til að hann skal þá á misserum land laust láta og gera hinum orð um. Hann hefir með sér margt röskra manna, ekki færri en tólf. Refur var orðinn stórauðigur. Þetta var að tvímánuði.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "7. kafli",
+                "concept": "Activities: animal husbandry: butchery",
+                "text": "Nú skilja þeir sitt tal. Er nú farið eftir bjarnarslátrinu. En hvar sem þeir Þorgilssynir komu þá bera þeir upp þetta illmæli og kveikja það í öllu að Refur hafi fyrir regi sakir ger verið af  Íslandi  og verið í burt keyptur nokkuru fé. Þeir færðu þetta hróp á vöxtu og svo fer þetta í fjölmæli að Refur verður þessa áheyrsla. Ekki lætur hann sem hann viti. En skip það sem hann hefir í smíð býr hann að öllu sem best. Hann lætur slátrast mjög um haustið en sumt fé sitt selur hann til grænlensks varnings. Refur hefir haustboð mikið og býður til sín vinum sínum en í hljóði seldi hann land sitt við lausafé. Hann skilur og það til að hann skal þá á misserum land laust láta og gera hinum orð um. Hann hefir með sér margt röskra manna, ekki færri en tólf. Refur var orðinn stórauðigur. Þetta var að tvímánuði.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "7. kafli",
+                "concept": "Actors: animals: domestic animals: livestock",
+                "text": "Nú skilja þeir sitt tal. Er nú farið eftir bjarnarslátrinu. En hvar sem þeir Þorgilssynir komu þá bera þeir upp þetta illmæli og kveikja það í öllu að Refur hafi fyrir regi sakir ger verið af  Íslandi  og verið í burt keyptur nokkuru fé. Þeir færðu þetta hróp á vöxtu og svo fer þetta í fjölmæli að Refur verður þessa áheyrsla. Ekki lætur hann sem hann viti. En skip það sem hann hefir í smíð býr hann að öllu sem best. Hann lætur slátrast mjög um haustið en sumt fé sitt selur hann til grænlensks varnings. Refur hefir haustboð mikið og býður til sín vinum sínum en í hljóði seldi hann land sitt við lausafé. Hann skilur og það til að hann skal þá á misserum land laust láta og gera hinum orð um. Hann hefir með sér margt röskra manna, ekki færri en tólf. Refur var orðinn stórauðigur. Þetta var að tvímánuði.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "7. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Nú skilja þeir sitt tal. Er nú farið eftir bjarnarslátrinu. En hvar sem þeir Þorgilssynir komu þá bera þeir upp þetta illmæli og kveikja það í öllu að Refur hafi fyrir regi sakir ger verið af  Íslandi  og verið í burt keyptur nokkuru fé. Þeir færðu þetta hróp á vöxtu og svo fer þetta í fjölmæli að Refur verður þessa áheyrsla. Ekki lætur hann sem hann viti. En skip það sem hann hefir í smíð býr hann að öllu sem best. Hann lætur slátrast mjög um haustið en sumt fé sitt selur hann til grænlensks varnings. Refur hefir haustboð mikið og býður til sín vinum sínum en í hljóði seldi hann land sitt við lausafé. Hann skilur og það til að hann skal þá á misserum land laust láta og gera hinum orð um. Hann hefir með sér margt röskra manna, ekki færri en tólf. Refur var orðinn stórauðigur. Þetta var að tvímánuði.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "7. kafli",
+                "concept": "Actors: things: money",
+                "text": "Nú skilja þeir sitt tal. Er nú farið eftir bjarnarslátrinu. En hvar sem þeir Þorgilssynir komu þá bera þeir upp þetta illmæli og kveikja það í öllu að Refur hafi fyrir regi sakir ger verið af  Íslandi  og verið í burt keyptur nokkuru fé. Þeir færðu þetta hróp á vöxtu og svo fer þetta í fjölmæli að Refur verður þessa áheyrsla. Ekki lætur hann sem hann viti. En skip það sem hann hefir í smíð býr hann að öllu sem best. Hann lætur slátrast mjög um haustið en sumt fé sitt selur hann til grænlensks varnings. Refur hefir haustboð mikið og býður til sín vinum sínum en í hljóði seldi hann land sitt við lausafé. Hann skilur og það til að hann skal þá á misserum land laust láta og gera hinum orð um. Hann hefir með sér margt röskra manna, ekki færri en tólf. Refur var orðinn stórauðigur. Þetta var að tvímánuði.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "7. kafli",
+                "concept": "Actors: animals: mammals: polar bear",
+                "text": "Nú skilja þeir sitt tal. Er nú farið eftir bjarnarslátrinu. En hvar sem þeir Þorgilssynir komu þá bera þeir upp þetta illmæli og kveikja það í öllu að Refur hafi fyrir regi sakir ger verið af  Íslandi  og verið í burt keyptur nokkuru fé. Þeir færðu þetta hróp á vöxtu og svo fer þetta í fjölmæli að Refur verður þessa áheyrsla. Ekki lætur hann sem hann viti. En skip það sem hann hefir í smíð býr hann að öllu sem best. Hann lætur slátrast mjög um haustið en sumt fé sitt selur hann til grænlensks varnings. Refur hefir haustboð mikið og býður til sín vinum sínum en í hljóði seldi hann land sitt við lausafé. Hann skilur og það til að hann skal þá á misserum land laust láta og gera hinum orð um. Hann hefir með sér margt röskra manna, ekki færri en tólf. Refur var orðinn stórauðigur. Þetta var að tvímánuði.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1177",
+                "name": "Vestribyggð",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "9. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Gunnar mágur Þorgils spyr nú þessi tíðindi og lætur hann setja vörðu á hvert annes um byggðir báðar ef Ref kynni nokkur að að bera um haustið. En eignir mátti ekki upp taka er allar voru seldar. Gunnar var fyrir mönnum í  Vestribyggð . Hvergi spyrst til Refs. Um vorið sendir Gunnar menn norður í óbyggðir að leita Refs og finnst hann ekki og engi maður spyr til hans. Gunnar leggur nú á það hug að Refur muni látist hafa er hann hafði á skip gengið með sex einum mönnum og þó öllum óknálegum. Nú líða svo fjórir vetur og spyrst hvergi til Refs og leggst nú niður þessi umgröftur um Ref. Þykjast menn nú vita að hann mun týnst hafa eða rekið skip hans til óbyggða.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.483475,
+                    64.600971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "10. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Með hirð konungs var sá maður er Bárður hét. Hann var konungi handgenginn. Hann var á sumrum í kaupferðum til ýmissa landa,  Íslands eða  Vesturlanda , og fór hann nú þetta sumar er nú segjum vér frá. Býr hann skip sitt og ætlar út til  Íslands . Konungur lætur kalla Bárð til sín og spyr hvert hann ætlar halda skipi sínu.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1642",
+                "name": "Vesturlönd",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "10. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Með hirð konungs var sá maður er Bárður hét. Hann var konungi handgenginn. Hann var á sumrum í kaupferðum til ýmissa landa,  Íslands eða  Vesturlanda , og fór hann nú þetta sumar er nú segjum vér frá. Býr hann skip sitt og ætlar út til  Íslands . Konungur lætur kalla Bárð til sín og spyr hvert hann ætlar halda skipi sínu.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.128934,
+                    56.394168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "10. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Með hirð konungs var sá maður er Bárður hét. Hann var konungi handgenginn. Hann var á sumrum í kaupferðum til ýmissa landa,  Íslands eða  Vesturlanda , og fór hann nú þetta sumar er nú segjum vér frá. Býr hann skip sitt og ætlar út til  Íslands . Konungur lætur kalla Bárð til sín og spyr hvert hann ætlar halda skipi sínu.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "780",
+                "name": "Grænland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "10. kafli",
+                "concept": "Activities: travel",
+                "text": "Eftir það sigldi Bárður á haf og tókst honum hið greiðasta. Kom hann við  Grænland  og fór til vistar um veturinn með Gunnari. Og er hann hafði þar verið um hríð þá vekur Bárður til við Gunnar og spyr hvað satt væri í því er hann heyrði sagt að einn íslenskur maður hefði vegið fimm feðga á einu kveldi og hefnt svo þess illmælis er þeir höfðu kveikt um hann. Gunnar lét haft til þessa nokkuð. Bárður spurði hvað af þessum manni er orðið.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.107285,
+                    65.497644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1177",
+                "name": "Vestribyggð",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "11. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Eftir það snúa þeir Bárður og Gunnar til skips síns með sínum mönnum og halda til byggða. Komu þeir um haustið í  Vestribyggð  og er Bárður með Gunnari annan vetur.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.483475,
+                    64.600971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "359",
+                "name": "Noregur",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "11. kafli",
+                "concept": "Actors: things: bone",
+                "text": "Eftir um sumarið bjó Bárður skip sitt til  Noregs  og gefur Gunnar honum gjafir. Gunnar sendir Haraldi konungi þrjá gripi. Það var hvítabjörn fulltíði og vandur ágæta vel. Annar gripur var tanntafl og gert með miklum hagleik. Þriðji gripur var rostungshaus með öllum tönnum sínum. Hann var grafinn allur og víða rennt í gulli. Tennurnar voru fastar í hausinum. Var það allt hin mesta gersemi.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734375,
+                    60.2398111699989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "359",
+                "name": "Noregur",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "11. kafli",
+                "concept": "Actors: animals: mammals: walrus",
+                "text": "Eftir um sumarið bjó Bárður skip sitt til  Noregs  og gefur Gunnar honum gjafir. Gunnar sendir Haraldi konungi þrjá gripi. Það var hvítabjörn fulltíði og vandur ágæta vel. Annar gripur var tanntafl og gert með miklum hagleik. Þriðji gripur var rostungshaus með öllum tönnum sínum. Hann var grafinn allur og víða rennt í gulli. Tennurnar voru fastar í hausinum. Var það allt hin mesta gersemi.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734375,
+                    60.2398111699989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "359",
+                "name": "Noregur",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "11. kafli",
+                "concept": "Actors: animals: mammals: polar bear",
+                "text": "Eftir um sumarið bjó Bárður skip sitt til  Noregs  og gefur Gunnar honum gjafir. Gunnar sendir Haraldi konungi þrjá gripi. Það var hvítabjörn fulltíði og vandur ágæta vel. Annar gripur var tanntafl og gert með miklum hagleik. Þriðji gripur var rostungshaus með öllum tönnum sínum. Hann var grafinn allur og víða rennt í gulli. Tennurnar voru fastar í hausinum. Var það allt hin mesta gersemi.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734375,
+                    60.2398111699989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "12. kafli",
+                "concept": "Actor: thing: boat",
+                "text": "Konungur mælti: \"Mun þetta sá Refur er kaupskipið gerði á  Íslandi  og hafði aldrei áður kaupskip séð og á því skipi fór hann til  Grænlands  og er hann hafði búið þar nokkura vetur var kveikt um hann illmæli mikið og hefndi hann þess svo rösklega að hann einn vó þá fimm á einu kveldi?\"",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "780",
+                "name": "Grænland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "12. kafli",
+                "concept": "Actor: thing: boat",
+                "text": "Konungur mælti: \"Mun þetta sá Refur er kaupskipið gerði á  Íslandi  og hafði aldrei áður kaupskip séð og á því skipi fór hann til  Grænlands  og er hann hafði búið þar nokkura vetur var kveikt um hann illmæli mikið og hefndi hann þess svo rösklega að hann einn vó þá fimm á einu kveldi?\"",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.107285,
+                    65.497644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "780",
+                "name": "Grænland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "13. kafli",
+                "concept": "Physical Landscape: unmanaged landscape area: glacier/lake",
+                "text": "\"Þess get eg þá,\" sagði konungur, \"að í þeim litla dal er þar gengur upp að jöklunum muni vatn vera. Mun Refur hafa veitt vatnið og mun hann hafa felldan stokk í stokk þar til að vatnið kemur að virkishorninu neðsta. Þar ætla eg gerva tvo stokka og mun úr einum renna í hina báða stokkana og fylla svo hvorntveggja hlut virkisins. En virkið allt mun gert stokkum holum og mun hver stokkur lúta eftir öðrum og hver mun upp frá öðrum og mun svo fylla virkið uppi og niðri af vatninu. Á þá leið hygg eg þar umbúð veitta. En þar sem yður þótti ekki verða mót á viðinum er vatn féll út alls staðar umhverfis virkið, þar hygg eg hann munu borað hafa langar borur svo mjóvar að ekki mátti koma nema því tré er þynnst verður telgt og ætla eg hann þau tré hafa sett alls staðar í virkisstokkana. En í þeim bleðgum ætla eg vera skaup og mun hann þeim þá munað hafa lítt að er hann vildi að vatnið rynni úr virkinu. Alla þessa bleðga mun hann sett hafa af smíði og mun eins konar tré verið hafa í bleðgunum og í stokkunum. Nú er það mitt ráð við Gunnar að þér farið norður í vor á tveim skipum, tólf á hvoru. Aðrir tólf skulu skurð grafa fyrir norðan virkið jafnlangan, stundar nær svo djúpan að taki manni undir hendur, og munu þeir finna umbúð lækjarins. Og ef svo er þá stemmi þeir lækinn að hann beri ekki vatnið í virkið. En aðrir tólf beri við að virkinu. Síðan þætti mér von að þér megið brenna virkið fyrir vatns sökum. Nú hefi eg til lagt þau ráð að eg heit því Gunnari að annaðhvort mun vera, að Refur mun flýja virkið og  Grænland eða mun Gunnar fá handtekið hann. En ósýnt mundi mér þykja hverninn sá maður mundi á brott komast er svo væri við kominn nema hann hafi mikinn viturleik sér í brjósti. En ekki vildi eg að þú færir sjálfur Bárður því að eg veit ei hvað þú sækir að Ref.\"",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.107285,
+                    65.497644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "780",
+                "name": "Grænland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "13. kafli",
+                "concept": "Actors: things: boat",
+                "text": "\"Þess get eg þá,\" sagði konungur, \"að í þeim litla dal er þar gengur upp að jöklunum muni vatn vera. Mun Refur hafa veitt vatnið og mun hann hafa felldan stokk í stokk þar til að vatnið kemur að virkishorninu neðsta. Þar ætla eg gerva tvo stokka og mun úr einum renna í hina báða stokkana og fylla svo hvorntveggja hlut virkisins. En virkið allt mun gert stokkum holum og mun hver stokkur lúta eftir öðrum og hver mun upp frá öðrum og mun svo fylla virkið uppi og niðri af vatninu. Á þá leið hygg eg þar umbúð veitta. En þar sem yður þótti ekki verða mót á viðinum er vatn féll út alls staðar umhverfis virkið, þar hygg eg hann munu borað hafa langar borur svo mjóvar að ekki mátti koma nema því tré er þynnst verður telgt og ætla eg hann þau tré hafa sett alls staðar í virkisstokkana. En í þeim bleðgum ætla eg vera skaup og mun hann þeim þá munað hafa lítt að er hann vildi að vatnið rynni úr virkinu. Alla þessa bleðga mun hann sett hafa af smíði og mun eins konar tré verið hafa í bleðgunum og í stokkunum. Nú er það mitt ráð við Gunnar að þér farið norður í vor á tveim skipum, tólf á hvoru. Aðrir tólf skulu skurð grafa fyrir norðan virkið jafnlangan, stundar nær svo djúpan að taki manni undir hendur, og munu þeir finna umbúð lækjarins. Og ef svo er þá stemmi þeir lækinn að hann beri ekki vatnið í virkið. En aðrir tólf beri við að virkinu. Síðan þætti mér von að þér megið brenna virkið fyrir vatns sökum. Nú hefi eg til lagt þau ráð að eg heit því Gunnari að annaðhvort mun vera, að Refur mun flýja virkið og  Grænland eða mun Gunnar fá handtekið hann. En ósýnt mundi mér þykja hverninn sá maður mundi á brott komast er svo væri við kominn nema hann hafi mikinn viturleik sér í brjósti. En ekki vildi eg að þú færir sjálfur Bárður því að eg veit ei hvað þú sækir að Ref.\"",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.107285,
+                    65.497644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "780",
+                "name": "Grænland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "13. kafli",
+                "concept": "Actors: things: wood (timber)",
+                "text": "\"Þess get eg þá,\" sagði konungur, \"að í þeim litla dal er þar gengur upp að jöklunum muni vatn vera. Mun Refur hafa veitt vatnið og mun hann hafa felldan stokk í stokk þar til að vatnið kemur að virkishorninu neðsta. Þar ætla eg gerva tvo stokka og mun úr einum renna í hina báða stokkana og fylla svo hvorntveggja hlut virkisins. En virkið allt mun gert stokkum holum og mun hver stokkur lúta eftir öðrum og hver mun upp frá öðrum og mun svo fylla virkið uppi og niðri af vatninu. Á þá leið hygg eg þar umbúð veitta. En þar sem yður þótti ekki verða mót á viðinum er vatn féll út alls staðar umhverfis virkið, þar hygg eg hann munu borað hafa langar borur svo mjóvar að ekki mátti koma nema því tré er þynnst verður telgt og ætla eg hann þau tré hafa sett alls staðar í virkisstokkana. En í þeim bleðgum ætla eg vera skaup og mun hann þeim þá munað hafa lítt að er hann vildi að vatnið rynni úr virkinu. Alla þessa bleðga mun hann sett hafa af smíði og mun eins konar tré verið hafa í bleðgunum og í stokkunum. Nú er það mitt ráð við Gunnar að þér farið norður í vor á tveim skipum, tólf á hvoru. Aðrir tólf skulu skurð grafa fyrir norðan virkið jafnlangan, stundar nær svo djúpan að taki manni undir hendur, og munu þeir finna umbúð lækjarins. Og ef svo er þá stemmi þeir lækinn að hann beri ekki vatnið í virkið. En aðrir tólf beri við að virkinu. Síðan þætti mér von að þér megið brenna virkið fyrir vatns sökum. Nú hefi eg til lagt þau ráð að eg heit því Gunnari að annaðhvort mun vera, að Refur mun flýja virkið og  Grænland eða mun Gunnar fá handtekið hann. En ósýnt mundi mér þykja hverninn sá maður mundi á brott komast er svo væri við kominn nema hann hafi mikinn viturleik sér í brjósti. En ekki vildi eg að þú færir sjálfur Bárður því að eg veit ei hvað þú sækir að Ref.\"",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.107285,
+                    65.497644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "780",
+                "name": "Grænland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "13. kafli",
+                "concept": "Phyiscal Landscape: built environment: building",
+                "text": "\"Þess get eg þá,\" sagði konungur, \"að í þeim litla dal er þar gengur upp að jöklunum muni vatn vera. Mun Refur hafa veitt vatnið og mun hann hafa felldan stokk í stokk þar til að vatnið kemur að virkishorninu neðsta. Þar ætla eg gerva tvo stokka og mun úr einum renna í hina báða stokkana og fylla svo hvorntveggja hlut virkisins. En virkið allt mun gert stokkum holum og mun hver stokkur lúta eftir öðrum og hver mun upp frá öðrum og mun svo fylla virkið uppi og niðri af vatninu. Á þá leið hygg eg þar umbúð veitta. En þar sem yður þótti ekki verða mót á viðinum er vatn féll út alls staðar umhverfis virkið, þar hygg eg hann munu borað hafa langar borur svo mjóvar að ekki mátti koma nema því tré er þynnst verður telgt og ætla eg hann þau tré hafa sett alls staðar í virkisstokkana. En í þeim bleðgum ætla eg vera skaup og mun hann þeim þá munað hafa lítt að er hann vildi að vatnið rynni úr virkinu. Alla þessa bleðga mun hann sett hafa af smíði og mun eins konar tré verið hafa í bleðgunum og í stokkunum. Nú er það mitt ráð við Gunnar að þér farið norður í vor á tveim skipum, tólf á hvoru. Aðrir tólf skulu skurð grafa fyrir norðan virkið jafnlangan, stundar nær svo djúpan að taki manni undir hendur, og munu þeir finna umbúð lækjarins. Og ef svo er þá stemmi þeir lækinn að hann beri ekki vatnið í virkið. En aðrir tólf beri við að virkinu. Síðan þætti mér von að þér megið brenna virkið fyrir vatns sökum. Nú hefi eg til lagt þau ráð að eg heit því Gunnari að annaðhvort mun vera, að Refur mun flýja virkið og  Grænland eða mun Gunnar fá handtekið hann. En ósýnt mundi mér þykja hverninn sá maður mundi á brott komast er svo væri við kominn nema hann hafi mikinn viturleik sér í brjósti. En ekki vildi eg að þú færir sjálfur Bárður því að eg veit ei hvað þú sækir að Ref.\"",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.107285,
+                    65.497644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "14. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Nú er þar til máls að taka að Refur situr í óbyggðum. Synir hans gerast hinir gildustu menn. Þetta sama vor sendir Refur þá suður til byggðar til móts við þá menn er heitið höfðu Ref liðveislu sinni eftir því sem fyrr segir. Þeir  bræður fóru leynilega og fékk Gunnar önga njósn af ferð þeirra. Og þegar þeir vissu orðsendingar Refs þá urðu þeir vel við og fara þegar til móts við hann. Refur fór þá til og lét fram setja skipið það sem hann hafði haft af  Íslandi . Hafði það haldið hrófi og bráði svo að það var þétt sem bytta. Refur lét þá ferma skipið af grænlenskum varningi, svörð og tönn og skinnavöru. Og þegar skipið var búið halda þeir því norður í þann fjörð er þar er næstur og lögðu þar skipinu í einn leynivog. Þar var á Helga kona hans og Þormóður fóstri hennar og Þormóður son þeirra og þeir tólf menn er úr byggð komu. Refur sagði þá feðga enn skyldu byggja virkið um stund.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "14. kafli",
+                "concept": "Physical Landscape: built environment: buildings: boatshed /building ",
+                "text": "Nú er þar til máls að taka að Refur situr í óbyggðum. Synir hans gerast hinir gildustu menn. Þetta sama vor sendir Refur þá suður til byggðar til móts við þá menn er heitið höfðu Ref liðveislu sinni eftir því sem fyrr segir. Þeir  bræður fóru leynilega og fékk Gunnar önga njósn af ferð þeirra. Og þegar þeir vissu orðsendingar Refs þá urðu þeir vel við og fara þegar til móts við hann. Refur fór þá til og lét fram setja skipið það sem hann hafði haft af  Íslandi . Hafði það haldið hrófi og bráði svo að það var þétt sem bytta. Refur lét þá ferma skipið af grænlenskum varningi, svörð og tönn og skinnavöru. Og þegar skipið var búið halda þeir því norður í þann fjörð er þar er næstur og lögðu þar skipinu í einn leynivog. Þar var á Helga kona hans og Þormóður fóstri hennar og Þormóður son þeirra og þeir tólf menn er úr byggð komu. Refur sagði þá feðga enn skyldu byggja virkið um stund.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "258",
+                "name": "Ísland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "14. kafli",
+                "concept": "Actors: animals: mammals: walrus",
+                "text": "Nú er þar til máls að taka að Refur situr í óbyggðum. Synir hans gerast hinir gildustu menn. Þetta sama vor sendir Refur þá suður til byggðar til móts við þá menn er heitið höfðu Ref liðveislu sinni eftir því sem fyrr segir. Þeir  bræður fóru leynilega og fékk Gunnar önga njósn af ferð þeirra. Og þegar þeir vissu orðsendingar Refs þá urðu þeir vel við og fara þegar til móts við hann. Refur fór þá til og lét fram setja skipið það sem hann hafði haft af  Íslandi . Hafði það haldið hrófi og bráði svo að það var þétt sem bytta. Refur lét þá ferma skipið af grænlenskum varningi, svörð og tönn og skinnavöru. Og þegar skipið var búið halda þeir því norður í þann fjörð er þar er næstur og lögðu þar skipinu í einn leynivog. Þar var á Helga kona hans og Þormóður fóstri hennar og Þormóður son þeirra og þeir tólf menn er úr byggð komu. Refur sagði þá feðga enn skyldu byggja virkið um stund.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6767578125,
+                    64.8115572502203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "359",
+                "name": "Noregur",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "15. kafli",
+                "concept": "Activities: travel",
+                "text": "Hásetar þeir er verið höfðu með Bárði gerðu skjótt varningsskipti. Sigldu þeir í  Noreg  um haustið og er þess ekki getið að Gunnar sendi Haraldi konungi neinar gersemar. Sögðu þeir konungi lát Bárðar og um skipti þeirra Refs. Konungi þótti farið hafa ekki fjarri getu sinni.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734375,
+                    60.2398111699989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "359",
+                "name": "Noregur",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "16. kafli",
+                "concept": "Activities: travel",
+                "text": "Refur og synir hans sneru þá til skips síns og urðu þar hvorir öðrum fegnir. Bjuggust þeir síðan til hafs og þegar þeir voru búnir sigldu þeir á haf. Þeir höfðu útivist langa og hæga. Þeir tóku  Noreg  um haustið og komu þar fyrst  við land sem heitir  Æðey . Landsmenn spurðu hver skipi því stýrði. Hann nefndist Narfi og lést vera íslenskur maður. Narfi spurði eftir hvar konungur væri í landinu. Landsmenn sögðu hann vera í  Þrándheimi .  Æðey er hálfa tylft suður frá  Þrándheimi . Narfi sigldi þaðan inn til meginlands, leggur þar skipi sínu í einn leynivog, lætur þar eftir föruneyti sitt en leigir sér sexæring einn og leiðsögumann. Synir hans fara með honum og kona hans. Menn hans skulu gæta þar skips.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734375,
+                    60.2398111699989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "900",
+                "name": "Æðey",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "16. kafli",
+                "concept": "Activities: travel",
+                "text": "Refur og synir hans sneru þá til skips síns og urðu þar hvorir öðrum fegnir. Bjuggust þeir síðan til hafs og þegar þeir voru búnir sigldu þeir á haf. Þeir höfðu útivist langa og hæga. Þeir tóku  Noreg  um haustið og komu þar fyrst  við land sem heitir  Æðey . Landsmenn spurðu hver skipi því stýrði. Hann nefndist Narfi og lést vera íslenskur maður. Narfi spurði eftir hvar konungur væri í landinu. Landsmenn sögðu hann vera í  Þrándheimi .  Æðey er hálfa tylft suður frá  Þrándheimi . Narfi sigldi þaðan inn til meginlands, leggur þar skipi sínu í einn leynivog, lætur þar eftir föruneyti sitt en leigir sér sexæring einn og leiðsögumann. Synir hans fara með honum og kona hans. Menn hans skulu gæta þar skips.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.6605677604675,
+                    66.0998507317427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "369",
+                "name": "Þrándheimur",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "16. kafli",
+                "concept": "Activities: travel",
+                "text": "Refur og synir hans sneru þá til skips síns og urðu þar hvorir öðrum fegnir. Bjuggust þeir síðan til hafs og þegar þeir voru búnir sigldu þeir á haf. Þeir höfðu útivist langa og hæga. Þeir tóku  Noreg  um haustið og komu þar fyrst  við land sem heitir  Æðey . Landsmenn spurðu hver skipi því stýrði. Hann nefndist Narfi og lést vera íslenskur maður. Narfi spurði eftir hvar konungur væri í landinu. Landsmenn sögðu hann vera í  Þrándheimi .  Æðey er hálfa tylft suður frá  Þrándheimi . Narfi sigldi þaðan inn til meginlands, leggur þar skipi sínu í einn leynivog, lætur þar eftir föruneyti sitt en leigir sér sexæring einn og leiðsögumann. Synir hans fara með honum og kona hans. Menn hans skulu gæta þar skips.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37109375,
+                    63.4062799937642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "900",
+                "name": "Æðey",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "16. kafli",
+                "concept": "Activities: travel",
+                "text": "Refur og synir hans sneru þá til skips síns og urðu þar hvorir öðrum fegnir. Bjuggust þeir síðan til hafs og þegar þeir voru búnir sigldu þeir á haf. Þeir höfðu útivist langa og hæga. Þeir tóku  Noreg  um haustið og komu þar fyrst  við land sem heitir  Æðey . Landsmenn spurðu hver skipi því stýrði. Hann nefndist Narfi og lést vera íslenskur maður. Narfi spurði eftir hvar konungur væri í landinu. Landsmenn sögðu hann vera í  Þrándheimi .  Æðey er hálfa tylft suður frá  Þrándheimi . Narfi sigldi þaðan inn til meginlands, leggur þar skipi sínu í einn leynivog, lætur þar eftir föruneyti sitt en leigir sér sexæring einn og leiðsögumann. Synir hans fara með honum og kona hans. Menn hans skulu gæta þar skips.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.6605677604675,
+                    66.0998507317427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "369",
+                "name": "Þrándheimur",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "16. kafli",
+                "concept": "Activities: travel",
+                "text": "Refur og synir hans sneru þá til skips síns og urðu þar hvorir öðrum fegnir. Bjuggust þeir síðan til hafs og þegar þeir voru búnir sigldu þeir á haf. Þeir höfðu útivist langa og hæga. Þeir tóku  Noreg  um haustið og komu þar fyrst  við land sem heitir  Æðey . Landsmenn spurðu hver skipi því stýrði. Hann nefndist Narfi og lést vera íslenskur maður. Narfi spurði eftir hvar konungur væri í landinu. Landsmenn sögðu hann vera í  Þrándheimi .  Æðey er hálfa tylft suður frá  Þrándheimi . Narfi sigldi þaðan inn til meginlands, leggur þar skipi sínu í einn leynivog, lætur þar eftir föruneyti sitt en leigir sér sexæring einn og leiðsögumann. Synir hans fara með honum og kona hans. Menn hans skulu gæta þar skips.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37109375,
+                    63.4062799937642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "359",
+                "name": "Noregur",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "16. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Refur og synir hans sneru þá til skips síns og urðu þar hvorir öðrum fegnir. Bjuggust þeir síðan til hafs og þegar þeir voru búnir sigldu þeir á haf. Þeir höfðu útivist langa og hæga. Þeir tóku  Noreg  um haustið og komu þar fyrst  við land sem heitir  Æðey . Landsmenn spurðu hver skipi því stýrði. Hann nefndist Narfi og lést vera íslenskur maður. Narfi spurði eftir hvar konungur væri í landinu. Landsmenn sögðu hann vera í  Þrándheimi .  Æðey er hálfa tylft suður frá  Þrándheimi . Narfi sigldi þaðan inn til meginlands, leggur þar skipi sínu í einn leynivog, lætur þar eftir föruneyti sitt en leigir sér sexæring einn og leiðsögumann. Synir hans fara með honum og kona hans. Menn hans skulu gæta þar skips.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734375,
+                    60.2398111699989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "900",
+                "name": "Æðey",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "16. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Refur og synir hans sneru þá til skips síns og urðu þar hvorir öðrum fegnir. Bjuggust þeir síðan til hafs og þegar þeir voru búnir sigldu þeir á haf. Þeir höfðu útivist langa og hæga. Þeir tóku  Noreg  um haustið og komu þar fyrst  við land sem heitir  Æðey . Landsmenn spurðu hver skipi því stýrði. Hann nefndist Narfi og lést vera íslenskur maður. Narfi spurði eftir hvar konungur væri í landinu. Landsmenn sögðu hann vera í  Þrándheimi .  Æðey er hálfa tylft suður frá  Þrándheimi . Narfi sigldi þaðan inn til meginlands, leggur þar skipi sínu í einn leynivog, lætur þar eftir föruneyti sitt en leigir sér sexæring einn og leiðsögumann. Synir hans fara með honum og kona hans. Menn hans skulu gæta þar skips.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.6605677604675,
+                    66.0998507317427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "369",
+                "name": "Þrándheimur",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "16. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Refur og synir hans sneru þá til skips síns og urðu þar hvorir öðrum fegnir. Bjuggust þeir síðan til hafs og þegar þeir voru búnir sigldu þeir á haf. Þeir höfðu útivist langa og hæga. Þeir tóku  Noreg  um haustið og komu þar fyrst  við land sem heitir  Æðey . Landsmenn spurðu hver skipi því stýrði. Hann nefndist Narfi og lést vera íslenskur maður. Narfi spurði eftir hvar konungur væri í landinu. Landsmenn sögðu hann vera í  Þrándheimi .  Æðey er hálfa tylft suður frá  Þrándheimi . Narfi sigldi þaðan inn til meginlands, leggur þar skipi sínu í einn leynivog, lætur þar eftir föruneyti sitt en leigir sér sexæring einn og leiðsögumann. Synir hans fara með honum og kona hans. Menn hans skulu gæta þar skips.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37109375,
+                    63.4062799937642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "900",
+                "name": "Æðey",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "16. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Refur og synir hans sneru þá til skips síns og urðu þar hvorir öðrum fegnir. Bjuggust þeir síðan til hafs og þegar þeir voru búnir sigldu þeir á haf. Þeir höfðu útivist langa og hæga. Þeir tóku  Noreg  um haustið og komu þar fyrst  við land sem heitir  Æðey . Landsmenn spurðu hver skipi því stýrði. Hann nefndist Narfi og lést vera íslenskur maður. Narfi spurði eftir hvar konungur væri í landinu. Landsmenn sögðu hann vera í  Þrándheimi .  Æðey er hálfa tylft suður frá  Þrándheimi . Narfi sigldi þaðan inn til meginlands, leggur þar skipi sínu í einn leynivog, lætur þar eftir föruneyti sitt en leigir sér sexæring einn og leiðsögumann. Synir hans fara með honum og kona hans. Menn hans skulu gæta þar skips.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.6605677604675,
+                    66.0998507317427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "369",
+                "name": "Þrándheimur",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "16. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Refur og synir hans sneru þá til skips síns og urðu þar hvorir öðrum fegnir. Bjuggust þeir síðan til hafs og þegar þeir voru búnir sigldu þeir á haf. Þeir höfðu útivist langa og hæga. Þeir tóku  Noreg  um haustið og komu þar fyrst  við land sem heitir  Æðey . Landsmenn spurðu hver skipi því stýrði. Hann nefndist Narfi og lést vera íslenskur maður. Narfi spurði eftir hvar konungur væri í landinu. Landsmenn sögðu hann vera í  Þrándheimi .  Æðey er hálfa tylft suður frá  Þrándheimi . Narfi sigldi þaðan inn til meginlands, leggur þar skipi sínu í einn leynivog, lætur þar eftir föruneyti sitt en leigir sér sexæring einn og leiðsögumann. Synir hans fara með honum og kona hans. Menn hans skulu gæta þar skips.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.37109375,
+                    63.4062799937642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "515",
+                "name": "Niðarós",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "16. kafli",
+                "concept": "Actor: thing: spear",
+                "text": "Ekki er getið um ferð Narfa fyrr en hann kemur til kaupbæjar í  Niðarósi og leigði sér þar skemmu eina. Þau dvöldust þar nokkrar nætur. Narfi bauð þeim á varygð mikla að þeir gangi aldrei svo frá skemmunni að Helga væri þar ein eftir. Hann lét gera sér kufl bláan. Hafði hann og jafnan svarðreip um sig. Skegg hafði hann og látið binda sér hvítt og lést hann vera gamall kaupmaður, gekk nú jafnan svo búinn um torg. Spjót hafði hann í hendi á lágu skafti og járni vafið skaftið.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.394988,
+                    63.430534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "515",
+                "name": "Niðarós",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "16. kafli",
+                "concept": "Physical Landscape: built environment: building: hut",
+                "text": "Ekki er getið um ferð Narfa fyrr en hann kemur til kaupbæjar í  Niðarósi og leigði sér þar skemmu eina. Þau dvöldust þar nokkrar nætur. Narfi bauð þeim á varygð mikla að þeir gangi aldrei svo frá skemmunni að Helga væri þar ein eftir. Hann lét gera sér kufl bláan. Hafði hann og jafnan svarðreip um sig. Skegg hafði hann og látið binda sér hvítt og lést hann vera gamall kaupmaður, gekk nú jafnan svo búinn um torg. Spjót hafði hann í hendi á lágu skafti og járni vafið skaftið.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.394988,
+                    63.430534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18",
+                "name": "Danmörk",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "18. kafli",
+                "concept": "Actors: animals: avian: falcons",
+                "text": "Fóru þeir Refur þá til skips síns. Kom það upp að þeir hefðu of fjár í svörð og tannvöru og skinnavöru og mörgum þeim hlutum er fásénir voru  í  Danmörk  af grænlenskum varningi. Þeir höfðu fimm hvítabjörnu og fimm tigu fálka og fimmtán hvíta.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.805019,
+                    56.002194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18",
+                "name": "Danmörk",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "18. kafli",
+                "concept": "Actors: animals: mammals: polar bears",
+                "text": "Fóru þeir Refur þá til skips síns. Kom það upp að þeir hefðu of fjár í svörð og tannvöru og skinnavöru og mörgum þeim hlutum er fásénir voru  í  Danmörk  af grænlenskum varningi. Þeir höfðu fimm hvítabjörnu og fimm tigu fálka og fimmtán hvíta.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.805019,
+                    56.002194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18",
+                "name": "Danmörk",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "18. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Fóru þeir Refur þá til skips síns. Kom það upp að þeir hefðu of fjár í svörð og tannvöru og skinnavöru og mörgum þeim hlutum er fásénir voru  í  Danmörk  af grænlenskum varningi. Þeir höfðu fimm hvítabjörnu og fimm tigu fálka og fimmtán hvíta.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.805019,
+                    56.002194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "780",
+                "name": "Grænland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "19. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Þar er nú til að taka að skip það kom þetta haust af  Grænlandi  er Bárður hafði stýrt. Spyr konungur nú víg Bárðar og alla atburði þá sem þar höfðu orðið.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.107285,
+                    65.497644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18",
+                "name": "Danmörk",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "20. kafli",
+                "concept": "Activities: travel",
+                "text": "Eiríkur býr nú ferð sína og þeir menn sem honum skyldu fylgja. Léttu þeir ekki sinni ferð fyrr en þeir komu til  Danmerkur  og lágu við  Jótland  í góðri höfn nokkura daga.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.805019,
+                    56.002194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1733",
+                "name": "Jótland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "20. kafli",
+                "concept": "Activities: travel",
+                "text": "Eiríkur býr nú ferð sína og þeir menn sem honum skyldu fylgja. Léttu þeir ekki sinni ferð fyrr en þeir komu til  Danmerkur  og lágu við  Jótland  í góðri höfn nokkura daga.",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.200996,
+                    55.629695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "359",
+                "name": "Noregur",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "20. kafli",
+                "concept": "Actors: things: boat",
+                "text": "Sigtryggur mælti: \"Ekki mun eg þetta til matar eins gera, að segja yður til Refs, því að eg veit af umræðu manna að þér munuð sitja um líf hans. Nú mun eg gera yður þann kost að fylgja yður þar til þér sjáið Ref og sonu hans og þá tólf menn sem honum hafa fylgt í sumar enda skal eg eignast eyri silfurs af hverjum yðrum og einn kostgrip af skipi yðru enda skuluð þér skyldir að flytja mig til  Noregs , ef eg vil, á yðrum kosti. Skuluð þér og mig láta ráða fyrir ferð vorri þar til er vér finnum Ref.\"",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734375,
+                    60.2398111699989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "359",
+                "name": "Noregur",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "20. kafli",
+                "concept": "Activiteis: exchange",
+                "text": "Sigtryggur mælti: \"Ekki mun eg þetta til matar eins gera, að segja yður til Refs, því að eg veit af umræðu manna að þér munuð sitja um líf hans. Nú mun eg gera yður þann kost að fylgja yður þar til þér sjáið Ref og sonu hans og þá tólf menn sem honum hafa fylgt í sumar enda skal eg eignast eyri silfurs af hverjum yðrum og einn kostgrip af skipi yðru enda skuluð þér skyldir að flytja mig til  Noregs , ef eg vil, á yðrum kosti. Skuluð þér og mig láta ráða fyrir ferð vorri þar til er vér finnum Ref.\"",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734375,
+                    60.2398111699989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "359",
+                "name": "Noregur",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "20. kafli",
+                "concept": "Actors: things: money",
+                "text": "Sigtryggur mælti: \"Ekki mun eg þetta til matar eins gera, að segja yður til Refs, því að eg veit af umræðu manna að þér munuð sitja um líf hans. Nú mun eg gera yður þann kost að fylgja yður þar til þér sjáið Ref og sonu hans og þá tólf menn sem honum hafa fylgt í sumar enda skal eg eignast eyri silfurs af hverjum yðrum og einn kostgrip af skipi yðru enda skuluð þér skyldir að flytja mig til  Noregs , ef eg vil, á yðrum kosti. Skuluð þér og mig láta ráða fyrir ferð vorri þar til er vér finnum Ref.\"",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734375,
+                    60.2398111699989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3054",
+                "name": "Vendil",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "20. kafli",
+                "concept": "Community Places: administrative units: farms",
+                "text": "Lofaði konungur mjög tiltæki Refs, kvað þau vera bæði harðmannleg og drengileg \"skaltu nú og þetta nafn hafa,\" sagði Sveinn konungur, \"hér í voru ríki, að heita Sigtryggur, því að hitt er hér fánefnt. En að nafnfesti viljum vér gefa þér gullhring þenna er stendur mörk. Þar með skaltu þiggja af oss tólf bú vestur á  Vendli , þau er þú kýst, af því að eg skil að þú munt vera stórvitur maður.\"",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.097412,
+                    57.450187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3054",
+                "name": "Vendil",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "20. kafli",
+                "concept": "Actors: things: jewelry",
+                "text": "Lofaði konungur mjög tiltæki Refs, kvað þau vera bæði harðmannleg og drengileg \"skaltu nú og þetta nafn hafa,\" sagði Sveinn konungur, \"hér í voru ríki, að heita Sigtryggur, því að hitt er hér fánefnt. En að nafnfesti viljum vér gefa þér gullhring þenna er stendur mörk. Þar með skaltu þiggja af oss tólf bú vestur á  Vendli , þau er þú kýst, af því að eg skil að þú munt vera stórvitur maður.\"",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.097412,
+                    57.450187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "874",
+                "name": "Rómaborg",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "20. kafli",
+                "concept": "Activities: travel",
+                "text": "Og er hann hafði þar setið nokkura vetur bjó hann ferð sína út í  Rómaborg  og sótti heim hinn helga Pétur postula. Og í þeirri ferð fékk Sigtryggur sótt þá er hann leiddi til bana og er hann jarðaður á ríku munkaklaustri út í  Frakklandi .",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.453508,
+                    41.902083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3055",
+                "name": "Frakkland",
+                "sagaid": 47,
+                "saganame": "Króka-Refs saga",
+                "chapter": "20. kafli",
+                "concept": "Activities: travel",
+                "text": "Og er hann hafði þar setið nokkura vetur bjó hann ferð sína út í  Rómaborg  og sótti heim hinn helga Pétur postula. Og í þeirri ferð fékk Sigtryggur sótt þá er hann leiddi til bana og er hann jarðaður á ríku munkaklaustri út í  Frakklandi .",
+                "action_start": "950",
+                "action_end": "1050",
+                "composition_start": "1300",
+                "composition_end": "1450",
+                "oldest_manuscript": "AM 471 4to",
+                "oldest_manuscript_start": "1450",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.323653,
+                    46.620842
+                ]
+            }
+        }
+    ]
+}

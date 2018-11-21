@@ -1,0 +1,2562 @@
+[
+    {
+        "chapter": "Chapter 1",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Skip kom enn eitt sumar í"
+            },
+            {
+                "as_mentioned": ". Hreiðar hét stýrimaður, ættstór. Hann átti bú á"
+            },
+            {
+                "as_mentioned": "í",
+                "sm_entry": {
+                    "id": "2981",
+                    "name": "Á",
+                    "lat": "64.036517",
+                    "lng": "-20.169956",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "1",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": ", manna vaskastur og vinsælastur."
+            }
+        ],
+        "text": "Skip kom enn eitt sumar í Eyjafjörð . Hreiðar hét stýrimaður, ættstór. Hann átti bú á Vors í Noregi , manna vaskastur og vinsælastur."
+    },
+    {
+        "chapter": "Chapter 1",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": ""
+    },
+    {
+        "chapter": "Chapter 1",
+        "concepts": [
+            "Ideas: power: obligation: social obligation"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þá segir Eyjólfur: \"Eigi er enn við honum tekið utan þitt ráð. En það er og bæði að eg hefi lítt til ráða hlutast og vilt þú að eg ráði litlu ef sá maður skal hér eigi vist hafa er eg hefi hingað boðið.\""
+            }
+        ],
+        "text": "Þá segir Eyjólfur: \"Eigi er enn við honum tekið utan þitt ráð. En það er og bæði að eg hefi lítt til ráða hlutast og vilt þú að eg ráði litlu ef sá maður skal hér eigi vist hafa er eg hefi hingað boðið.\""
+    },
+    {
+        "chapter": "Chapter 1",
+        "concepts": [
+            "Physical landscape: built environment: buildings: agricultural buildings: outhouse"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Einn dag kallar Hreiðar Ingjald í útibúr þar sem varningur hans var inni og hann gerir svo. Þá mælti Hreiðar og bað hann velja af varninginum það er hann vildi. Ingjaldur lést engis girnast fjár hans en kallar honum vel fara."
+            }
+        ],
+        "text": "Einn dag kallar Hreiðar Ingjald í útibúr þar sem varningur hans var inni og hann gerir svo. Þá mælti Hreiðar og bað hann velja af varninginum það er hann vildi. Ingjaldur lést engis girnast fjár hans en kallar honum vel fara."
+    },
+    {
+        "chapter": "Chapter 1",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hreiðar svarar: \"Eg hefi þó hugleitt nokkuð hvað þú þarft af oss að þiggja. Eg hefi komið á nokkura bæi hér í"
+            },
+            {
+                "as_mentioned": "þá er bestir eru og sé eg engi herbergi slík sem hér. En skálabúnað hefir þú eigi svo góðan að eigi sé þvílíkur á öðrum bæjum.\""
+            }
+        ],
+        "text": "Hreiðar svarar: \"Eg hefi þó hugleitt nokkuð hvað þú þarft af oss að þiggja. Eg hefi komið á nokkura bæi hér í Eyjafirði þá er bestir eru og sé eg engi herbergi slík sem hér. En skálabúnað hefir þú eigi svo góðan að eigi sé þvílíkur á öðrum bæjum.\""
+    },
+    {
+        "chapter": "Chapter 2",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Síðan fóru þeir utan og komu við"
+            },
+            {
+                "as_mentioned": ". Hreiðar bauð Eyjólfi marga kosti um vistartekjur en hann vildi eigi þiggja það er hann bauð."
+            }
+        ],
+        "text": "Síðan fóru þeir utan og komu við Noreg . Hreiðar bauð Eyjólfi marga kosti um vistartekjur en hann vildi eigi þiggja það er hann bauð."
+    },
+    {
+        "chapter": "Chapter 3",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "\"Þess get eg,\" kvað Ívar, \"að eigi sé óhapplaust hér á bæ ef íslenskur maður skal hér vera.\""
+            }
+        ],
+        "text": "\"Þess get eg,\" kvað Ívar, \"að eigi sé óhapplaust hér á bæ ef íslenskur maður skal hér vera.\""
+    },
+    {
+        "chapter": "Chapter 3",
+        "concepts": [
+            "Actors: things: wood",
+            "Physical Landscapes: ecological area: woods and trees"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Og um morguninn mælti Ívar við Eyjólf: \"Viltu fara í skóg með oss og skemmta þér?\""
+            }
+        ],
+        "text": "Og um morguninn mælti Ívar við Eyjólf: \"Viltu fara í skóg með oss og skemmta þér?\""
+    },
+    {
+        "chapter": "Chapter 3",
+        "concepts": [
+            "Physical Processes: weather: snow",
+            "Events: destruction",
+            "Actors: animals: mammals: bears"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Síðan fer sinn veg hver um skóginn og fór Eyjólfur einn sér. Þá fer hann af loðkápunni og lagði á ofan sverð sitt er hann hafði í hendi. En hann gekk í skóginn og skemmti sér og hafði öxi og hjó tréin þau sem honum sýndist. En er á leið daginn tók að drífa og vill hann þá heim og kom þar er loðkápan hafði legið og var hún á brottu en sverðið var eftir. Hann sér sópað snjánum sem kápan hefði dragnað. En viðbjörn hafði komið og dregið kápuna, hafði varla aflið til haft upp að halda er björninn var ungur og nýkominn úr híðinu og eigi mannsbani orðinn. Síðan fór hann og sá að björninn sat fyrir honum. Brá hann sverði og hjó af trýnið við augun uppi af dýrinu og hafði það í hendi sér heim."
+            }
+        ],
+        "text": "Síðan fer sinn veg hver um skóginn og fór Eyjólfur einn sér. Þá fer hann af loðkápunni og lagði á ofan sverð sitt er hann hafði í hendi. En hann gekk í skóginn og skemmti sér og hafði öxi og hjó tréin þau sem honum sýndist. En er á leið daginn tók að drífa og vill hann þá heim og kom þar er loðkápan hafði legið og var hún á brottu en sverðið var eftir. Hann sér sópað snjánum sem kápan hefði dragnað. En viðbjörn hafði komið og dregið kápuna, hafði varla aflið til haft upp að halda er björninn var ungur og nýkominn úr híðinu og eigi mannsbani orðinn. Síðan fór hann og sá að björninn sat fyrir honum. Brá hann sverði og hjó af trýnið við augun uppi af dýrinu og hafði það í hendi sér heim."
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hann sagði til vandræða sinna að berserkur sá er Ásgautur hét hafði skorað á hann til hólmgöngu fyrir þá sök að hann synjaði honum systur sinnar og bað þá fjölmenna sig til hólms að eigi gengi sjá víkingur á efni hans, sagði hann þó fellt hafa marga menn sína, sagði að hann mundi láta systur sína ef þeir vildu hann eigi efla, \"em eg ekki traustur til hólmgöngu nema eg njóti yðvarrar gæfu við.\""
+            }
+        ],
+        "text": "Hann sagði til vandræða sinna að berserkur sá er Ásgautur hét hafði skorað á hann til hólmgöngu fyrir þá sök að hann synjaði honum systur sinnar og bað þá fjölmenna sig til hólms að eigi gengi sjá víkingur á efni hans, sagði hann þó fellt hafa marga menn sína, sagði að hann mundi láta systur sína ef þeir vildu hann eigi efla, \"em eg ekki traustur til hólmgöngu nema eg njóti yðvarrar gæfu við.\""
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Community Place: dueling site?"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þeir nenntu eigi að synja honum fararinnar. Nú fóru þeir með honum á Upplönd og höfðu þrjá tigu manna með sér og koma í þann stað er þeir skulu finnast. Þá leita þeir við menn sína hver það vildi vinna sér til konu að ganga á hólm við Ásgaut. En þótt konan þætti fýsileg þá varð þó engi búinn að vinna þetta til. Þá beiddu þeir bræður að Eyjólfur mundi halda skildi fyrir hann."
+            }
+        ],
+        "text": "Þeir nenntu eigi að synja honum fararinnar. Nú fóru þeir með honum á Upplönd og höfðu þrjá tigu manna með sér og koma í þann stað er þeir skulu finnast. Þá leita þeir við menn sína hver það vildi vinna sér til konu að ganga á hólm við Ásgaut. En þótt konan þætti fýsileg þá varð þó engi búinn að vinna þetta til. Þá beiddu þeir bræður að Eyjólfur mundi halda skildi fyrir hann."
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Community Places: dueling site?"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Gengur á hólm síðan."
+            }
+        ],
+        "text": "Gengur á hólm síðan."
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Activities: exchange",
+            "Actors: things: money",
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eyjólfur átti fyrr að höggva og hjó það hið fyrsta að sverðið kom á skjaldarsporðinn og gekk af sporðurinn og fóturinn af berserknum. Eyjólfur fékk af þessu verki mikið ágæti og fór heim síðan með þeim bræðrum. Nú var honum boðið fé mikið að þiggja en hann lést þetta ekki til fjár hafa gert né til konu heldur af vinfengi við þá bræður. Ásgautur leysti sig af hólmi og lifði við örkuml."
+            }
+        ],
+        "text": "Eyjólfur átti fyrr að höggva og hjó það hið fyrsta að sverðið kom á skjaldarsporðinn og gekk af sporðurinn og fóturinn af berserknum. Eyjólfur fékk af þessu verki mikið ágæti og fór heim síðan með þeim bræðrum. Nú var honum boðið fé mikið að þiggja en hann lést þetta ekki til fjár hafa gert né til konu heldur af vinfengi við þá bræður. Ásgautur leysti sig af hólmi og lifði við örkuml."
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Actors: things: money",
+            "Ideas: power: legal power"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Síðan bað Eyjólfur Ástríðar Vigfúsdóttur. Nú eru til að flytja málið Ívar og Hreiðar, segja hann ættstóran mann og eiga göfugt ráð á"
+            },
+            {
+                "as_mentioned": "og mikinn frændaafla og kölluðu líklegt að mikið yrði hans forlag."
+            }
+        ],
+        "text": "Síðan bað Eyjólfur Ástríðar Vigfúsdóttur. Nú eru til að flytja málið Ívar og Hreiðar, segja hann ættstóran mann og eiga göfugt ráð á Íslandi og mikinn frændaafla og kölluðu líklegt að mikið yrði hans forlag."
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hún var honum gefin og fór út til"
+            },
+            {
+                "as_mentioned": "með honum."
+            }
+        ],
+        "text": "Hún var honum gefin og fór út til Íslands með honum."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Community Places: administrative units: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þá er þau Eyjólfur og Ástríður komu út til"
+            },
+            {
+                "as_mentioned": ", var Ingjaldur þá andaður. Þá tók Eyjólfur við búi og goðorði. Úlfeiður hét dóttir Ingjalds. Hana átti Hríseyjar-Narfi."
+            }
+        ],
+        "text": "Þá er þau Eyjólfur og Ástríður komu út til Íslands , var Ingjaldur þá andaður. Þá tók Eyjólfur við búi og goðorði. Úlfeiður hét dóttir Ingjalds. Hana átti Hríseyjar-Narfi."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Phyiscal Landscapes: built environment: buildings: house",
+            "Activities: land management"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Síðan tóku þeir Þorkell og Sigmundur að óhægja Ástríði byggðina og var skipt landinu í helminga og hlutu þau Glúmur og Ástríður þann hluta landsins er ekki var húsaður og gerðu þau bú á"
+            },
+            {
+                "as_mentioned": ". En Glúmur skipti sér ekki af um búsýslu, þótti heldur óbráðger í uppruna. Hann var fámálugur og fálátur jafnan, hár maður vexti og nokkuð skolbrúnn, hvítur á hár og rétthár, kraklegur og þótti heldur seinlegur maðurinn, fór ekki til mannamóta."
+            }
+        ],
+        "text": "Síðan tóku þeir Þorkell og Sigmundur að óhægja Ástríði byggðina og var skipt landinu í helminga og hlutu þau Glúmur og Ástríður þann hluta landsins er ekki var húsaður og gerðu þau bú á Borgarhóli . En Glúmur skipti sér ekki af um búsýslu, þótti heldur óbráðger í uppruna. Hann var fámálugur og fálátur jafnan, hár maður vexti og nokkuð skolbrúnn, hvítur á hár og rétthár, kraklegur og þótti heldur seinlegur maðurinn, fór ekki til mannamóta."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Actors: institution: preChristian temple"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hof Freys var þar fyrir sunnan ána á"
+            },
+            {
+                "as_mentioned": ".",
+                "sm_entry": {
+                    "id": "2981",
+                    "name": "Á",
+                    "lat": "64.036517",
+                    "lng": "-20.169956",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Hof Freys var þar fyrir sunnan ána á Hripkelsstöðum ."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Physical Landscape: managed landscape area"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Glúmur segir móður sinni að hann vill utan ráðast: \"Sé eg að þroski minn vill engi verða en það má vera að eg hljóti gæfu af göfgum frændum mínum en eg nenni eigi að þola ágang Sigmundi en eg sé mig enn vanfæran í mót honum. En lógaðu eigi landinu þó að þröngt verði kosti þínum.\""
+            }
+        ],
+        "text": "Glúmur segir móður sinni að hann vill utan ráðast: \"Sé eg að þroski minn vill engi verða en það má vera að eg hljóti gæfu af göfgum frændum mínum en eg nenni eigi að þola ágang Sigmundi en eg sé mig enn vanfæran í mót honum. En lógaðu eigi landinu þó að þröngt verði kosti þínum.\""
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Actors: things: spear",
+            "Activities: socializing",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Nú er að segja frá utanferð Glúms. Þegar er hann kom við land fór hann upp á"
+            },
+            {
+                "as_mentioned": "til Vigfúss. Og er hann kom að bænum þá sá hann þar mikið fjölmenni og margs konar skemmtan og leika. Og það þóttist hann sjá að þar mundi á öllum hlutum stórmennska vera. En þar sem hann sá marga menn merkilega þá vissi hann eigi hvar Vigfús mundi vera frændi hans. Það mark hafði hann til hans að hann sá mann mikinn og veglegan í öndvegi í skautfeldi blám og lék sér að spjóti gullreknu, gekk síðan að honum og kvaddi hann en hann tók vel kveðju hans. Vigfús spurði hvað manna hann væri en hann kvaðst vera íslenskur og eyfirskur. Þá spurði Vigfús að Eyjólfi mági sínum og Ástríði dóttur sinni."
+            }
+        ],
+        "text": "Nú er að segja frá utanferð Glúms. Þegar er hann kom við land fór hann upp á Vors til Vigfúss. Og er hann kom að bænum þá sá hann þar mikið fjölmenni og margs konar skemmtan og leika. Og það þóttist hann sjá að þar mundi á öllum hlutum stórmennska vera. En þar sem hann sá marga menn merkilega þá vissi hann eigi hvar Vigfús mundi vera frændi hans. Það mark hafði hann til hans að hann sá mann mikinn og veglegan í öndvegi í skautfeldi blám og lék sér að spjóti gullreknu, gekk síðan að honum og kvaddi hann en hann tók vel kveðju hans. Vigfús spurði hvað manna hann væri en hann kvaðst vera íslenskur og eyfirskur. Þá spurði Vigfús að Eyjólfi mági sínum og Ástríði dóttur sinni."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Activities: socializing"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þar var veisla búin að veturnóttum og gert dísablót og allir skulu þessa minning gera. Glúmur situr í rúmi sínu og gengur eigi til. Og er á leið kveldið er menn voru komnir þá var eigi svo mikil gleði sem líklegt mundi þykja fyrir fagnaðar sakir og vina fundar er þar voru margir saman komnir. Og þann dag er menn höfðu komið til boðsins hafði Glúmur eigi út gengið í móti mönnum og bauð engum að sitja hjá sér eða í hans rúmi."
+            }
+        ],
+        "text": "Þar var veisla búin að veturnóttum og gert dísablót og allir skulu þessa minning gera. Glúmur situr í rúmi sínu og gengur eigi til. Og er á leið kveldið er menn voru komnir þá var eigi svo mikil gleði sem líklegt mundi þykja fyrir fagnaðar sakir og vina fundar er þar voru margir saman komnir. Og þann dag er menn höfðu komið til boðsins hafði Glúmur eigi út gengið í móti mönnum og bauð engum að sitja hjá sér eða í hans rúmi."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Events: hostile encounter",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Og er menn voru komnir undir borð þá var sagt að sá maður var kominn að bænum með tólfta mann er Björn hét og kallaður járnhaus. Hann var berserkur mikill og var því vanur að koma til mannboða fjölmennra og leitaði þar orða við menn ef nokkur vildi það mæla er hann mætti á þiggja og skoraði á menn til hólmgöngu."
+            }
+        ],
+        "text": "Og er menn voru komnir undir borð þá var sagt að sá maður var kominn að bænum með tólfta mann er Björn hét og kallaður járnhaus. Hann var berserkur mikill og var því vanur að koma til mannboða fjölmennra og leitaði þar orða við menn ef nokkur vildi það mæla er hann mætti á þiggja og skoraði á menn til hólmgöngu."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: hall"
+        ],
+        "places": [
+            {
+                "as_mentioned": "En Björn gekk í skálann inn og leitaði orðheilla við menn og spurði á hinn æðra bekk hinn ysta mann hvort hann væri jafnsnjallur honum en hann kvað fjarri það fara. Síðan spurði hann hvern að öðrum þar til að hann kom fyrir öndvegið. Ýmissa orða leituðu menn sér en þar kom niður að engi kvaðst jafnsnjallur honum. En er hann kom fyrir Vigfús þá spurði hann hvar Vigfús vissi slíkra garpa vonir en hann lést eigi vita hans jafningja."
+            }
+        ],
+        "text": "En Björn gekk í skálann inn og leitaði orðheilla við menn og spurði á hinn æðra bekk hinn ysta mann hvort hann væri jafnsnjallur honum en hann kvað fjarri það fara. Síðan spurði hann hvern að öðrum þar til að hann kom fyrir öndvegið. Ýmissa orða leituðu menn sér en þar kom niður að engi kvaðst jafnsnjallur honum. En er hann kom fyrir Vigfús þá spurði hann hvar Vigfús vissi slíkra garpa vonir en hann lést eigi vita hans jafningja."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: things: wood"
+        ],
+        "places": [
+            {
+                "as_mentioned": "En Glúmur kvað hann ekki þurfa að eiga við sig og kvaðst eigi vita um snilli hans \"og vil eg af því engu við þig jafnast að út á"
+            },
+            {
+                "as_mentioned": "mundi sá maður kallaður fól er þann veg léti sem þú lætur. En hér hefi eg vitað alla best orðum stilla,\" hleypur upp síðan og að honum, þrífur af honum hjálminn. Síðan hnykkir hann upp eldistokki og keyrir á milli herða honum og lýtur kappinn við og þegar annað og hvert að öðru svo að "
+            },
+            {
+                "as_mentioned": "hann féll. Og þá er hann vildi á fætur færast þá laust hann í höfuð honum og lét svo þar til að hann kom út fyrir dyr."
+            }
+        ],
+        "text": "En Glúmur kvað hann ekki þurfa að eiga við sig og kvaðst eigi vita um snilli hans \"og vil eg af því engu við þig jafnast að út á Íslandi mundi sá maður kallaður fól er þann veg léti sem þú lætur. En hér hefi eg vitað alla best orðum stilla,\" hleypur upp síðan og að honum, þrífur af honum hjálminn. Síðan hnykkir hann upp eldistokki og keyrir á milli herða honum og lýtur kappinn við og þegar annað og hvert að öðru svo að  hann féll. Og þá er hann vildi á fætur færast þá laust hann í höfuð honum og lét svo þar til að hann kom út fyrir dyr."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Actors: things: spear",
+            "Actors: things: money",
+            "Activities: travel",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Að sumri lætur Vigfús búa skip til handa Glúmi og gefur honum farminn á og mikið fé í gulli og silfri og mælti: \"Svo segir mér hugur um að við sjáumst eigi síðan en einkagripi vil eg þér gefa, feld og spjót og sverð er vér höfum mikinn trúnað á haft frændur. Og meðan þú átt gripina vænti eg að þú týnir eigi virðingu en þá em eg hræddur um ef þú lógar þeim.\""
+            }
+        ],
+        "text": "Að sumri lætur Vigfús búa skip til handa Glúmi og gefur honum farminn á og mikið fé í gulli og silfri og mælti: \"Svo segir mér hugur um að við sjáumst eigi síðan en einkagripi vil eg þér gefa, feld og spjót og sverð er vér höfum mikinn trúnað á haft frændur. Og meðan þú átt gripina vænti eg að þú týnir eigi virðingu en þá em eg hræddur um ef þú lógar þeim.\""
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Physical landscape: built environment: field boundary: fence",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Íslands",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Þverár",
+                "sm_entry": {
+                    "id": "3011",
+                    "name": "Þverá",
+                    "lat": "64.032712",
+                    "lng": "-21.045023",
+                    "type": "river",
+                    "county": "Árnes01",
+                    "c": "2",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú fer Glúmur út til  Íslands  og heim til  Þverár . Og móður sína hitti hann brátt og fagnaði hún honum vel og sagði ójafnað þeirra feðga og bað hann þó hafa við þolinmæði en kvaðst til lítils um fær að ganga þeim í móti. Síðan reið hann heim að garði."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Physical landscape: built environment: field boundary: fence"
+        ],
+        "places": [],
+        "text": "Nær gengr mér og mínum,"
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Actors: animals: mammals: cows"
+        ],
+        "places": [],
+        "text": "Um haustið varð vant kvígna tveggja, er Glúmur hafði utan verið, þeim Þorkatli og Sigmundi og hugðu það að stolið mundi vera og létu líklegasta til þræla er Ástríður átti og segja þá einætum etið hafa og stefndu þeim um vorið um stuld. En þessir þrælar voru miklu hollastir Ástríði fyrir umsjá og verknað."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Actors: things: money",
+            "Activities: land management",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Hún þóttist varla mega búi sínu halda ef þeir færu frá og fer á fund Þorsteins sonar síns og segir honum hvern ágang þeir veita, biður hann svara fyrir þrælana: \"Vil eg heldur fé bæta fyrir þá en þeir verði sekir um álygi ef eigi er betri föng á og þætti mér þú nú eiga að vera brjóst fyrir oss og segjast svo í góða ætt.\""
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Þorsteinn lést það ætla að mál muni svo upp borið af þeirra hendi að þeir munu ætla að fylgja með afla mága sinna: \"Sýnist mér það ráð ef þessir menn halda upp ráði þínu að vér eigum hlut í fébótum að þeim komi við.\""
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Physical Landscape: managed landscape area: agricultural area: field"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þverárlandi"
+            },
+            {
+                "as_mentioned": "Vitaðsgjafi",
+                "sm_entry": {
+                    "id": "429",
+                    "name": "Vitasgjafi",
+                    "lat": "65.5453945678708",
+                    "lng": "-18.0846118927002",
+                    "type": "field",
+                    "info": "\"Nafnið Vitazgjafi hefur verið skýrt: sá, sem gefur ákveðna uppskeru (vitaðr: ákveðinn). Í fornum máldaga (Dipl. Isl. IV, 234) er nefndur Vitazgjafahólmr í Hornafirði (önnur hdr.: Unazgjafahólmr, en hitt mun rétt nafnmynd, sjá Einar Ól. Sveinsson: Landnám í Skaftafellsþingi126), og svipuð nöfn koma fyrir í Noregi. Örnefnið er nú týnt, en akurinn hefur verið á Hripkelsstöðum eða þar í grennd, því að sagt er, að Glúmur riði þangað frá Borgarhóli \"suðr yfir ána\", þ.e. Þverá; ef til vill hefur frjósemi akursins verið þökkuð Frey, sem átti hof sitt á Hripkelsstöðum, og akurinn jafnvel helgaður goðinu, eins og örnefni sýna, að gert hefur verið í Noregi og Svíþjóð\" (ÍF IX, p. 22). ",
+                    "county": "Eyjafj02",
+                    "c": "6",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "En þau gæði fylgdu mest  Þverárlandi , það var akur er kallaður var  Vitaðsgjafi  því að hann varð aldregi ófrær. En honum hafði svo skipt verið með landinu að sitt sumar höfðu hvorir."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Activities: land management "
+        ],
+        "places": [],
+        "text": "Nú segir Ástríður þeim feðgum að \"mér líst að þið viljið mjög fyrirkoma mínu ráði og sjáið það að hér þrýtur forystu. En heldur en þrælar séu upp gefnir vil eg þetta mál leggja á ykkarn dóm.\""
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Physical Landscape: managed landscape area: agricultural area: field"
+        ],
+        "places": [],
+        "text": "Þeir kváðu það viturlegra ráð. Gera þeir nú ráð sitt. En sú var ráðagerð þeirra að hafa sjálfdæmi fyrir þrælana eða sekja þá. En Þorsteinn fylgdi eigi betur málinu en þeir höfðu sjálfdæmi og gerðu til handa sér akurinn að þeir skyldu hann einir eiga og ætla svo að komast að landinu öllu að kippa undan þeirri stoð er áður hélt mest upp ráði hennar."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Physical Landscape: managed landscape area: agricultural area: field",
+            "Actors: animals: livestock",
+            "Actors: animals: mammals: cow",
+            "Activities: exchange",
+            "Actors: things: money",
+            "Physical Processes: landscape change: natural change",
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [],
+        "text": "Og það sumar er þá fór í hönd átti hún að hafa akurinn ef að réttu færi. En um sumarið er menn fóru til þings, er þessu máli var sett, þá fór nautamaður um haga og fann kvígurnar í einu jarðfalli og hafði fokið yfir öndverðan vetur og varð nú bert illmælið við þrælana."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Activities: cultivation/farming",
+            "Actors: animals: domestic animals: livestock",
+            "Physical Landscape: managed landscape area: agricultural area: field",
+            "Physical Landscape: managed landscape area: agricultural area: field",
+            "Actors: animals: domestic animals: livestock",
+            "Activities: land management",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Og litlu síðar sumars kom Glúmur út og er litla hríð við skip, fer til bús síns með auð fjár. En hið sama skaplyndi hafði hann sem fyrr, var fálátur og lét sem hann heyrði eigi það er gerst hafði út hér meðan. Hvern morgun svaf hann til dagmála og annaðist ekki um bú. Það sumar áttu þau Glúmur akurinn að hafa ef að réttu færi. Fé Sigmundar gekk þeim að meini mjög og var hvern morgun í túni þeirra."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Actors: plants: crops/hay",
+            "Activities: cultivation/farming ",
+            "Physical Landscape: managed landscape area: agricultural area: homefield ",
+            "Actors: animals: domestic animals: livestock",
+            "Actors: things: wood",
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Sprettur hann upp og tekur hest sinn og í hönd sér trélurk og keyrði nautin knálega og barði þau mjög þar til er þau koma í tún Þorkels og Sigmundar, lætur þau þar spilla sem þau vildu. Þorkell gætti heima andvirkis um morgna en Sigmundur fylgdi húskörlum."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock "
+        ],
+        "places": [],
+        "text": "Þorkell mælti við Glúm: \"Þess áttu von að menn munu það eigi sitja þér ef þú meiðir fé manna þóttú þykist hafa framið þig utanlendis.\""
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Activities: cultivation/farming",
+            "Activities: land management"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Það er sagt þá er á leið á haustið að Ástríður kom enn að máli við Glúm einn morgun og vakti hann og bað hann skipa til verks, kvað nú heyverkum lokið verða í dag ef svo væri til skipað sem hæfði. Lokið höfðu þeir Sigmundur heyverkum fyrir stundu."
+            }
+        ],
+        "text": "Það er sagt þá er á leið á haustið að Ástríður kom enn að máli við Glúm einn morgun og vakti hann og bað hann skipa til verks, kvað nú heyverkum lokið verða í dag ef svo væri til skipað sem hæfði. Lokið höfðu þeir Sigmundur heyverkum fyrir stundu."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Phyiscal Landscapes: managed landscape area: agricultural area: field",
+            "Actors: things: spear"
+        ],
+        "places": [
+            {
+                "as_mentioned": "\"Og fóru þau Sigmundur og Vigdís snemma í morgun til akurs"
+            },
+            {
+                "as_mentioned": "og munu þau vel hyggja er þau hafa akurinn er vér ættum ef að réttu færi.\""
+            }
+        ],
+        "text": "\"Og fóru þau Sigmundur og Vigdís snemma í morgun til akurs Vitaðsgjafa og munu þau vel hyggja er þau hafa akurinn er vér ættum ef að réttu færi.\""
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þá stóð Glúmur upp og varð þó eigi fyrr búinn en að dagmálum. "
+            },
+            {
+                "as_mentioned": "Hann tók þá feldinn blá og spjótið gullrekna í hönd sér, lét söðla hest sinn."
+            }
+        ],
+        "text": "Þá stóð Glúmur upp og varð þó eigi fyrr búinn en að dagmálum.  Hann tók þá feldinn blá og spjótið gullrekna í hönd sér, lét söðla hest sinn."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Activities: travel",
+            "Physical Landscapes: unmanaged landscape area: moving water: river",
+            "Phyiscal Landscapes: managed landscape area: agricultural area: field"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Síðan reið hann suður yfir ána. En þá er hann kom til akursins þá tók hann dálkinn úr feldinum. En þau voru í akri Vigdís og Sigmundur."
+            }
+        ],
+        "text": "Síðan reið hann suður yfir ána. En þá er hann kom til akursins þá tók hann dálkinn úr feldinum. En þau voru í akri Vigdís og Sigmundur."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Phyiscal Landscapes: managed landscape area: agricultural area: field",
+            "Events: hostile encounter",
+            "Actors: things: spear"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Glúmur leit yfir akurinn og mælti: \"Eigi brást hann"
+            },
+            {
+                "as_mentioned": "enn.\""
+            }
+        ],
+        "text": "Glúmur leit yfir akurinn og mælti: \"Eigi brást hann Vitaðsgjafi enn.\""
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Activities: travel",
+            "Actors: things: spear"
+        ],
+        "places": [
+            {
+                "as_mentioned": "En Glúmur reið upp til"
+            },
+            {
+                "as_mentioned": "og segir bróður sínum engi tíðindi. En er Þorsteinn sá gerðar hans er hann hafði bæði feld og spjót þá fann hann blóð í málunum og spyr ef hann hefði höggvið með því fyrir skömmu."
+            }
+        ],
+        "text": "En Glúmur reið upp til Hóla og segir bróður sínum engi tíðindi. En er Þorsteinn sá gerðar hans er hann hafði bæði feld og spjót þá fann hann blóð í málunum og spyr ef hann hefði höggvið með því fyrir skömmu."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Glúmur segir þess eigi þurfa: \"Gættu bús þíns. Eg mun ríða rétta leið mína til"
+            },
+            {
+                "as_mentioned": ". Munu þeir ekki svo mjög eftir þessu ganga.\""
+            }
+        ],
+        "text": "Glúmur segir þess eigi þurfa: \"Gættu bús þíns. Eg mun ríða rétta leið mína til Þverár . Munu þeir ekki svo mjög eftir þessu ganga.\""
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Fer Glúmur heim til"
+            },
+            {
+                "as_mentioned": ".",
+                "sm_entry": {
+                    "id": "2981",
+                    "name": "Á",
+                    "lat": "64.036517",
+                    "lng": "-20.169956",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Fer Glúmur heim til Þverár ."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Events: meeting"
+        ],
+        "places": [
+            {
+                "as_mentioned": "En er tíðindi þessi spyrjast fer Þorkell á fund Þórarins og leitar þangað ráða og meðferðar."
+            }
+        ],
+        "text": "En er tíðindi þessi spyrjast fer Þorkell á fund Þórarins og leitar þangað ráða og meðferðar."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Actors: supernatural actors: dream figure",
+            "Fjord: Marine",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Það er sagt að Glúm dreymdi eina nótt. Hann þóttist vera úti staddur á bæ sínum og sjá út til fjarðarins. Hann þóttist sjá konu eina ganga utan eftir héraðinu og stefndi þangað til Þverár. En hún var svo mikil að axlirnar tóku út fjöllin tveggja vegna. En hann þóttist ganga úr garði á mót henni og bauð henni til sín og síðan vaknaði hann."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Ideas: power: legal power"
+        ],
+        "places": [],
+        "text": "Um vorið hitti Þorkell Þorvald krók og aðra sonu Þóris, leitar eftir að þeir muni fylgja þessu máli. En hann taldi til skyldu við dóttur sína og marga aðra vináttu er hann hefir þeim gert og Sigmundur sonur hans. Þorvaldur hittir Þórarin, segir að ámælissamt mun verða nema þeir fylgi máli mágs síns."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Ideas: power: legal power",
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [
+            {
+                "as_mentioned": "alþingis"
+            }
+        ],
+        "text": "En með áeggjun þá bjó Þórarinn Þórisson mál til  alþingis  á hendur Glúmi um víg Sigmundar en Glúmur bjó mál til á hendur Þorkatli hinum háva um illmæli við þrælana og annað bjó hann á hönd Sigmundi og stefndi honum um stuld og kvaðst hann drepið hafa á eign sinni og stefnir honum til óhelgi er hann féll á hans eign og gróf Sigmund upp."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [],
+        "text": "Síðan fóru mál til alþingis við svo búið og sótti Glúmur þá frændur sína að liðveislu, Gissur hvíta og Teit son Ketilbjarnar frá Mosfelli og Ásgrím Elliða-Grímsson og segir  þeim allan málavöxt og ágang þeirra feðga og ranglæti og marga svívirðing. Kvaðst hann þar vætta eflingar til réttra laga er þeir voru en hann væri sjálfur fyrir. Þeir kváðust allir þess skyldir að hans hlutur lægi eigi í óvina hendi, kváðust fegnir því verða ef hans uppreist yrði í þeirri ætt."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Ideas: power: legal power"
+        ],
+        "places": [],
+        "text": "Og er til varna var boðið, Glúmur segir: \"Á þá leið er að það má mörgum kunnigt vera að þér hafið málið meir til búið með óskapi en eigi séu spjöllin á því að Sigmund drap eg á mínu fé og áður eg riði til þings stefndi eg honum til óhelgi.\""
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Physical Landscape: managed landscape area"
+        ],
+        "places": [],
+        "text": "Og nú áttu hlut í vinir Þorkels að hann sættist og tók Þorkell það ráð sem honum hæfði, sættist á mál og seldi Glúmi landið, skyldi búa þau misseri og voru þá sáttir að kalla og undu Esphælingar illa við málalok. Og héðan frá greri aldregi um heilt með þeim Glúmi og Esphælingum."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Actors: animals: mammals: oxen",
+            "Physical Landscape: built environment: buildings: communal building: temple"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þverá",
+                "sm_entry": {
+                    "id": "1698",
+                    "name": "Þverá",
+                    "lat": "64.662779",
+                    "lng": "-21.574799",
+                    "type": "river",
+                    "county": "Borga01",
+                    "c": "9",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Og áður Þorkell fór á brott frá  Þverá  þá gekk hann til hofs Freys og leiddi þangað uxa gamlan og mælti svo: \"Freyr,\" sagði hann, \"er lengi hefir fulltrúi minn verið og margar gjafar að mér þegið og vel launað, nú gef eg þér uxa þenna til þess að Glúmur  fari eigi ónauðgari af Þverárlandi en eg fer nú. Og láttu sjá nokkurar jartegnir hvortú þiggur eða eigi.\""
+    },
+    {
+        "chapter": "Chapter 11",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Glúmur segir: \"Óvænt þykir mér það horfa því að mér þykir ykkar engi munur. En Þorgrímur á bústað góðan og auð fjár, frændaafla mikinn en þú átt engan bústað og ónóg fé. En eg vil eigi ójafnað bjóða Gissuri svo að eigi ráði hann fyrir dóttur sinni sem hann vill því að Gissur er góðs verður frá mér.\""
+            }
+        ],
+        "text": "Glúmur segir: \"Óvænt þykir mér það horfa því að mér þykir ykkar engi munur. En Þorgrímur á bústað góðan og auð fjár, frændaafla mikinn en þú átt engan bústað og ónóg fé. En eg vil eigi ójafnað bjóða Gissuri svo að eigi ráði hann fyrir dóttur sinni sem hann vill því að Gissur er góðs verður frá mér.\""
+    },
+    {
+        "chapter": "Chapter 11",
+        "concepts": [
+            "Actors: plants: crop (malt)",
+            "Physical Landscape: ecological area: standing water (hot springs)",
+            "Physical Landscape: unmanaged landscape area: moving water: river"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Arnór átti malt út að"
+            },
+            {
+                "as_mentioned": "og skyldi hann sjálfur sækja og húskarl einn með honum. En Þorgrímur Þórisson fór þann dag til laugar er þeirra var utan von með maltið og voru að"
+            },
+            {
+                "as_mentioned": "og sex húskarlar hans með honum."
+            }
+        ],
+        "text": "Arnór átti malt út að Gásum og skyldi hann sjálfur sækja og húskarl einn með honum. En Þorgrímur Þórisson fór þann dag til laugar er þeirra var utan von með maltið og voru að Hrafnagilslaugu og sex húskarlar hans með honum."
+    },
+    {
+        "chapter": "Chapter 11",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: moving water: river",
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Gengu þeir Þorgrímur í móti þeim með brugðin sverð. Og er þeir Arnór sáu það hver liðsmunur var þá hleypti hann á kaf og svo yfir ána en klyfjahestarnir voru fyrir vestan ána."
+            }
+        ],
+        "text": "Gengu þeir Þorgrímur í móti þeim með brugðin sverð. Og er þeir Arnór sáu það hver liðsmunur var þá hleypti hann á kaf og svo yfir ána en klyfjahestarnir voru fyrir vestan ána."
+    },
+    {
+        "chapter": "Chapter 11",
+        "concepts": [
+            "Ideas: luck"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þá mælti Þorgrímur: \"Eigi berum vér til alls ógiftu. Ölið skulum vér drekka en þeir munu ráða kosti konunnar.\""
+            }
+        ],
+        "text": "Þá mælti Þorgrímur: \"Eigi berum vér til alls ógiftu. Ölið skulum vér drekka en þeir munu ráða kosti konunnar.\""
+    },
+    {
+        "chapter": "Chapter 11",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þorgrímur ríður til"
+            },
+            {
+                "as_mentioned": ". Þórir var þá sjónlaus. En þeir förunautar Þorgríms voru allkátir og hlógu mjög og spyr Þórir hvað þeim þætti svo hlæglegt."
+            }
+        ],
+        "text": "Þorgrímur ríður til Espihóls hins syðra . Þórir var þá sjónlaus. En þeir förunautar Þorgríms voru allkátir og hlógu mjög og spyr Þórir hvað þeim þætti svo hlæglegt."
+    },
+    {
+        "chapter": "Chapter 11",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape are: moving water: river"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þar var þá vað á ánni er nú er ekki. Þeir söfnuðu nú að sér átta tigum vígra manna um nóttina og bjuggust við á hólinum framanverðum því að þar var vaðið á ánni við hólinn sjálfan."
+            }
+        ],
+        "text": "Þar var þá vað á ánni er nú er ekki. Þeir söfnuðu nú að sér átta tigum vígra manna um nóttina og bjuggust við á hólinum framanverðum því að þar var vaðið á ánni við hólinn sjálfan."
+    },
+    {
+        "chapter": "Chapter 11",
+        "concepts": [
+            "Events: hostile encounter",
+            "Physical Landscape: unmanaged landscape area: moving water: river"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Og er ljóst var um morguninn þá kom Glúmur að ánni með sex tigu manna og vildi ríða yfir ána. En þeir grýttu á þá Esphælingar og gekk eigi fram reiðin og hvarf Glúmur aftur og börðust yfir ána með grjóti og skotum og urðu þar margir sárir en engir eru nefndir. Og er héraðsmenn urðu varir við þá drifu þeir til um daginn og gengu í milli og var á komið sættum og leitað hvað Esphælingar vilja bjóða fyrir ósæmdarhlut þann er þeir höfðu gert Arnóri. En þau komu svör í móti að ekki mundu bætur fyrir það koma þó að Arnór hleypti frá maltklyfjum sínum. Þá var leitað að Glúmur mundi eiga hlut í að biðja Herþrúðar Gissurardóttur til handa Þorgrími og skyldu því að eins ráð takast með þeim Arnóri og Þórdísi nema Glúmur gæti konu þessa til handa Þorgrími og þótti sú betur gefin er Þorgrímur ætti."
+            }
+        ],
+        "text": "Og er ljóst var um morguninn þá kom Glúmur að ánni með sex tigu manna og vildi ríða yfir ána. En þeir grýttu á þá Esphælingar og gekk eigi fram reiðin og hvarf Glúmur aftur og börðust yfir ána með grjóti og skotum og urðu þar margir sárir en engir eru nefndir. Og er héraðsmenn urðu varir við þá drifu þeir til um daginn og gengu í milli og var á komið sættum og leitað hvað Esphælingar vilja bjóða fyrir ósæmdarhlut þann er þeir höfðu gert Arnóri. En þau komu svör í móti að ekki mundu bætur fyrir það koma þó að Arnór hleypti frá maltklyfjum sínum. Þá var leitað að Glúmur mundi eiga hlut í að biðja Herþrúðar Gissurardóttur til handa Þorgrími og skyldu því að eins ráð takast með þeim Arnóri og Þórdísi nema Glúmur gæti konu þessa til handa Þorgrími og þótti sú betur gefin er Þorgrímur ætti."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Events: meeting",
+            "Community Places: shared space: assembly site"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Það gerist eitt sumar á"
+            },
+            {
+                "as_mentioned": "að í",
+                "sm_entry": {
+                    "id": "2442",
+                    "name": "Ós ",
+                    "lat": "65.73079",
+                    "lng": "-21.68706",
+                    "type": "farm",
+                    "county": "Strand01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "gengust menn að sveitum, Norðlendingar og Vestfirðingar. Gekk Norðlendingum þyngra. Var fyrir sveit þeirra Már sonur Glúms. Kemur þar að maður einn er Ingólfur hét sonur Þorvalds. Faðir hans bjó á"
+            },
+            {
+                "as_mentioned": ".",
+                "sm_entry": {
+                    "id": "2981",
+                    "name": "Á",
+                    "lat": "64.036517",
+                    "lng": "-20.169956",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Það gerist eitt sumar á alþingi að í Fangabrekku gengust menn að sveitum, Norðlendingar og Vestfirðingar. Gekk Norðlendingum þyngra. Var fyrir sveit þeirra Már sonur Glúms. Kemur þar að maður einn er Ingólfur hét sonur Þorvalds. Faðir hans bjó á ."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Ingólfur átti stóðhross góð og kallaði hestinn Snækoll. Hann fór norður af þingi til"
+            },
+            {
+                "as_mentioned": ", var þar um stund."
+            }
+        ],
+        "text": "Ingólfur átti stóðhross góð og kallaði hestinn Snækoll. Hann fór norður af þingi til Þverár , var þar um stund."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Physical Landscapes: mananged landscape area: agricultural landscape: pasture",
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Ingólfur svarar: \"Til þessar vistar væri eg fúsastur en það hefir orðið stundum að mein hefir þótt að hrossum mínum í búfjárhögum.\""
+            }
+        ],
+        "text": "Ingólfur svarar: \"Til þessar vistar væri eg fúsastur en það hefir orðið stundum að mein hefir þótt að hrossum mínum í búfjárhögum.\""
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Ingólfur tekur nú til umsýslu og líkar Glúmi vel."
+            }
+        ],
+        "text": "Ingólfur tekur nú til umsýslu og líkar Glúmi vel."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hann segir: \"Því munuð þér eigi vilja að engi hugur mun í vera. Kann vera að sanni hið fornkveðna, að fé sé drottni líkt.\""
+            }
+        ],
+        "text": "Hann segir: \"Því munuð þér eigi vilja að engi hugur mun í vera. Kann vera að sanni hið fornkveðna, að fé sé drottni líkt.\""
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Activities: travel",
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Voru hestar fram leiddir og bitust vel og þótti öllum hestur Ingólfs betur ganga og vill Glúmur þá skilja, ríða heim. Er Ingólfur þar þau misseri og hugnar Glúmi vel við hann."
+            }
+        ],
+        "text": "Voru hestar fram leiddir og bitust vel og þótti öllum hestur Ingólfs betur ganga og vill Glúmur þá skilja, ríða heim. Er Ingólfur þar þau misseri og hugnar Glúmi vel við hann."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Actors: animals: mammals: horses",
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Samkoma var við"
+            },
+            {
+                "as_mentioned": ". Þar kemur Glúmur og Ingólfur með hest sinn. Kálfur kemur þar. Hann var vinur Esphælinga. Þar var hestur hans og býður að nú skulu þeir til þrautar leggja hestaatið. Glúmur kveður Ingólf ráða skulu. Hann lést ófús vera en nennti eigi undan að ganga. Eru hestar fram leiddir. Keyrir Kálfur hest sinn. Gengur hestur Ingólfs betur í öllum lotum. Þá keyrir Kálfur stafinn við eyra hesti Ingólfs svo að hann svimrar og þegar eftir réð hann á. Glúmur gekk þá að og náist jafnaður og lýkur svo að hestur Kálfs gekk út. Varð þá óp mikið. Og að skilnaði laust Kálfur Ingólf með stafnum. Standa menn nú á milli."
+            }
+        ],
+        "text": "Samkoma var við Djúpadalsá . Þar kemur Glúmur og Ingólfur með hest sinn. Kálfur kemur þar. Hann var vinur Esphælinga. Þar var hestur hans og býður að nú skulu þeir til þrautar leggja hestaatið. Glúmur kveður Ingólf ráða skulu. Hann lést ófús vera en nennti eigi undan að ganga. Eru hestar fram leiddir. Keyrir Kálfur hest sinn. Gengur hestur Ingólfs betur í öllum lotum. Þá keyrir Kálfur stafinn við eyra hesti Ingólfs svo að hann svimrar og þegar eftir réð hann á. Glúmur gekk þá að og náist jafnaður og lýkur svo að hestur Kálfs gekk út. Varð þá óp mikið. Og að skilnaði laust Kálfur Ingólf með stafnum. Standa menn nú á milli."
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Physical Landscape: built environment: building: house"
+        ],
+        "places": [],
+        "text": "Már ræddi um við hann um sinn: \"Nú finn eg að föður mínum mislíkar er þú gengur frá húsi.\""
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Log storehouse: Manmade Structures"
+        ],
+        "places": [],
+        "text": "Þá mælti Glúmur: \"Nú skulum vér taka oss fulltrúa og skemmtum oss. Mun eg kjósa fyrst og eru þrír mínir fulltrúar, einn er fésjóður minn, annar öx mín, þriðji stokkabúr.\""
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: moving water: river",
+            "Actor: animal: mammal: cow (calf)",
+            "Physical Landscape: built environment: building: agricultural building: barn"
+        ],
+        "places": [],
+        "text": "Og nú gengu þeir báðir saman og nú víkur hann Glúmur í hlöðu og sá þar kálf einn og höggur í höfuðið og fær honum sverðið blóðugt: \"Gakk nú suður yfir ána og seg að þú væntir þar að eins trausts og sýn honum blóðugt sverðið að jartegnir séu skýrar.\""
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Physical Landscape: builg environment: building: agricultural building: store house"
+        ],
+        "places": [],
+        "text": "Glúmur segir: \"Reyn þú nú minn fulltrúa þá\" og fylgdi honum í stokkabúr út, \"vandhæfur muntu verða ef hann er drepinn Hlöðu-Kálfur.\""
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hegranessþings",
+                "sm_entry": {
+                    "id": "449",
+                    "name": "Hegranessþing",
+                    "lat": "65.728349",
+                    "lng": "-19.462997",
+                    "type": "assembly site",
+                    "county": "VesHún01",
+                    "c": "6",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Hross hans voru þar eftir. Einar Konálsson kom Ingólfi utan. En Þorvaldur bjó mál eftir Kálf til  Hegranessþings  og horfði til þess að Ingólfur mundi verða sekur. Glúmur var og þar og frændur Ingólfs nokkurir. Þeir hitta Glúm og biðja hann ásjá og kváðust til mundu leggja og bæta fyrir hann."
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Ideas: power: legal power"
+        ],
+        "places": [],
+        "text": "Þá er dómur fór út og til varna var boðið þá sagði Glúmur að ónýtt var málið: \"Hafið þér öðrum manni á hendur búið málið en vegið hefir, en víginu veld eg.\""
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Actors: animals: mammals: cow (calf)"
+        ],
+        "places": [],
+        "text": "Síðan nefnir hann votta að ónýtt er málið \"en þó að Ingólfur dræpi hlöðukálf gaf eg honum enga sök á því. Nú mun eg bjóða sætt, meir eftir því sem maður var verður en eftir ofsa yðrum Esphælinga.\""
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [],
+        "text": "Fóru menn heim af þingi."
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Ingólfur var utan þann vetur og undi því eigi lengur. Ver fé sínu og kaupir góða gripi og tjöld þau er góðir gripir voru. Glúmur hafði gefið honum feld góðan. Þann skipti hann í skarlatskyrtil."
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Æsustöðum",
+                "sm_entry": {
+                    "id": "450",
+                    "name": "Æsustaðir",
+                    "lat": "65.414063",
+                    "lng": "-18.21375",
+                    "type": "farm",
+                    "county": "Eyjafj02",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Hóla",
+                "sm_entry": {
+                    "id": "182",
+                    "name": "Hólar",
+                    "lat": "63.66954",
+                    "lng": "-20.421245",
+                    "type": "farm",
+                    "info": "=Álfhólar",
+                    "county": "Rangár01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Saurbæjar",
+                "sm_entry": {
+                    "id": "1352",
+                    "name": "Saurbær",
+                    "lat": "64.280667",
+                    "lng": "-21.841911",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "7",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Og það sumar er hann fór utan kom út sá maður er Þjóðólfur hét. Móðir hans bjó á  Æsustöðum . Hann fer til Hamars og hittir Helgu. Einn dag hafði Glúmur riðið upp til  Hóla  og er hann reið ofan til  Saurbæjar  kom þar í móti honum Þjóðólfur."
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þverár",
+                "sm_entry": {
+                    "id": "3011",
+                    "name": "Þverá",
+                    "lat": "64.032712",
+                    "lng": "-21.045023",
+                    "type": "river",
+                    "county": "Árnes01",
+                    "c": "2",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú kemur út Ingólfur og fer til  Þverár  og tekur Glúmur við honum og bauð með sér setugrið. Það þiggur hann."
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Einn dag mælti Ingólfur: \"Nú vil eg Glúmur að þú sjáir yfir varning minn.\""
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [],
+        "text": "Ingólfur svarar: \"Það er í hugnum að skiljast eigi við þig ef þess er kostur. Stóðhross mín vil eg þér gefa.\""
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Activities: exchange",
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Þá mælti Glúmur: \"Þú hefir gert sakar við Ingólf en nú máttu bæta það með þeim hætti að gifta honum dóttur þína. Er hann þess ráðs maklegur en eg mun fé til leggja með honum og eg hefi hann reynt að góðum dreng. En ef þú gerir eigi svo muntu missmíði á sjá.\""
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: agricultural buildings: shieling-shed"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þverár",
+                "sm_entry": {
+                    "id": "3011",
+                    "name": "Þverá",
+                    "lat": "64.032712",
+                    "lng": "-21.045023",
+                    "type": "river",
+                    "county": "Árnes01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Miðárdal"
+            },
+            {
+                "as_mentioned": "Þverá",
+                "sm_entry": {
+                    "id": "1698",
+                    "name": "Þverá",
+                    "lat": "64.662779",
+                    "lng": "-21.574799",
+                    "type": "river",
+                    "county": "Borga01",
+                    "c": "9",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Skúta segir: \"Þú skalt fara sendiför mína til Víga-Glúms og mæla þessum orðum við hann að þú þykist þurftugur að hann sé forstjórnarmaður þíns ráðs. Eg get að nú beri svo til um fund ykkarn að hann sé í þingreið. Hann er þrautgóður ef menn þurfa hans og má vera að hann mæli að þú farir til  Þverár  og bíðir hans þar. Þú skalt segja að meir sé þér þröngt og þú vildir heldur mega tala við hann einn saman. Og með því kann vera að hann leggi nokkur ráð til. Þess skaltu beiðast að hitta hann í  Miðárdal  er gengur upp frá bænum að  Þverá  og sel hans standa í. Lát þér þar líka að finna hann að á kveðnum degi.\""
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Events: meeting",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vöðlaheiði",
+                "sm_entry": {
+                    "id": "452",
+                    "name": "Vöðlaheiðr",
+                    "lat": "65.707604",
+                    "lng": "-17.987433",
+                    "type": "region",
+                    "info": "=Vaðlaheiði",
+                    "county": "Eyjafj02",
+                    "c": "1",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Rauðahjalli",
+                "sm_entry": {
+                    "id": "453",
+                    "name": "Rauðahjalli",
+                    "lat": "65.642889",
+                    "lng": "-17.980747",
+                    "type": "other",
+                    "county": "Eyjafj02",
+                    "c": "2",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Nú líða stundir og er þar kemur tíma sem Glúmur hafði heitið sendimanni að þeir mundu finnast þá býst Skúta heiman með þrjá tigu manna. Hann ríður norðan og kemur vestur yfir  Vöðlaheiði  og á hjalla þann er heitir  Rauðahjalli . Þar stíga þeir af baki."
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: agricultural buildings: shieling-shed",
+            "Clearing: Natural Landscape",
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þverá",
+                "sm_entry": {
+                    "id": "1698",
+                    "name": "Þverá",
+                    "lat": "64.662779",
+                    "lng": "-21.574799",
+                    "type": "river",
+                    "county": "Borga01",
+                    "c": "9",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Hann sér er hann sækir í dalinn að maður reið upp frá  Þverá , mikill og í kápu grænni, og kennir að þar ríður Glúmur. Þá steig hann af hestinum. Hann hafði vesl yfir sér tvískipt, svart og hvítt. Hann lét hestinn í rjóðrið og gengur síðan til selsins og var Glúmur þá kominn í selið. Skúta hafði sverð í hendi það er Fluga hét og hjálm á höfði, gengur að selsdyrunum og laust á vegginn og víkur síðan hjá selinu. Glúmur gengur út svo að hann hafði ekki í hendi, sér engan mann, snýr hjá selinu. Komst þá Skúta í milli hans og selsdyranna. Þá kennir Glúmur manninn og hopar undan en árgljúfrin voru nær selinu. Skúta biður hann bíða. Hann telur það jafnlegt ef þeir væru jafnbúnir við. Glúmur hopar að gljúfrunum en Skúta sækir eftir. Glúmur steypist ofan fyrir gljúfrin en Skúta leitar þar ofan er ganga mátti og sér í gljúfrunum hvar kápuna rak og hleypur til og leggur þegar til."
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Physical Landscape: ecological area: wood and trees",
+            "Actors: plants: bush",
+            "Physical Landscape: unmanaged landscape area: moving water: river"
+        ],
+        "places": [],
+        "text": "Hálfs eyris met eg hvern"
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Actors: things: spear",
+            "Activities: travel",
+            "Actors: animals: mammals: sheep",
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Þar skilur með þeim því sinni. Fer Glúmur heim og safnar sér liði og segir hvert vélræði fyrir hann var sett, lést og vilja að brátt gyldist. Hann fær á skammri stundu  sex tigu manna, ríða upp í dalinn. Skúta gekk til hests síns þá er þeir Glúmur skildu og reið með hlíðinni og sér nú mannareiðina og veit að það má honum eigi endast að finna þá, leitar sér ráðs, brýtur spjótið af skafti og hefir fyrir staf, tekur af söðulinn og ríður berbakt, snýr veslinu, ríður að sauðum og æpir hátt. Þeir koma eftir og spyrja ef hann sæi nokkurn mann ríða um leitið fram með vopnum, skörulegan. Hann kveðst séð hafa."
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þverár",
+                "sm_entry": {
+                    "id": "3011",
+                    "name": "Þverá",
+                    "lat": "64.032712",
+                    "lng": "-21.045023",
+                    "type": "river",
+                    "county": "Árnes01",
+                    "c": "2",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Skúta ríður nú norður en Glúmur heim til  Þverár ."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þá er Þórir andaðist gerði Þórarinn bú fyrir norðan"
+            },
+            {
+                "as_mentioned": "og bjó þar."
+            }
+        ],
+        "text": "Þá er Þórir andaðist gerði Þórarinn bú fyrir norðan Espihól og bjó þar."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Actors: things: money",
+            "Physical Landscape: managed landscape area: agricultural area: pasture"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Sá maður var með Glúmi er Hallvarður hét, lausingi hans og fóstri Vigfúss. Hann rakaði fé saman, refjusamur í fjárreiðum. Hann handsalaði Vigfúsi fé sitt. Ekki var hann orðsæll. Hann gerði bú á bæ þeim er að"
+            },
+            {
+                "as_mentioned": "heitir uppi í"
+            },
+            {
+                "as_mentioned": ", og bötnuðu ekki vinsældir hans við það, og var svo mjög hendisamur í afréttum. En Vigfús var farmaður mikill."
+            }
+        ],
+        "text": "Sá maður var með Glúmi er Hallvarður hét, lausingi hans og fóstri Vigfúss. Hann rakaði fé saman, refjusamur í fjárreiðum. Hann handsalaði Vigfúsi fé sitt. Ekki var hann orðsæll. Hann gerði bú á bæ þeim er að Tjörn heitir uppi í Eyjafjarðardal , og bötnuðu ekki vinsældir hans við það, og var svo mjög hendisamur í afréttum. En Vigfús var farmaður mikill."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Actors: animals: mammals: sheep",
+            "Physical Landscape: managed landscape area: agricultural area: pasture"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Haust eitt hurfu Halla hinum hvíta úr afrétt tíu eða tólf geldingar og fundust eigi. Og er þeir Bárður feðgar fundust spurði Halli hvað hann ætlaði af geldingum hans orðið."
+            }
+        ],
+        "text": "Haust eitt hurfu Halla hinum hvíta úr afrétt tíu eða tólf geldingar og fundust eigi. Og er þeir Bárður feðgar fundust spurði Halli hvað hann ætlaði af geldingum hans orðið."
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Glúmur svarar: \"Betra þykir mér að gjalda fyrir hann og fari hann hingað og bregði búi heldur en leggja fyrir slíkan mann virðing mína.\""
+            }
+        ],
+        "text": "Glúmur svarar: \"Betra þykir mér að gjalda fyrir hann og fari hann hingað og bregði búi heldur en leggja fyrir slíkan mann virðing mína.\""
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Nú koma menn til þings og málið í dóm og á Glúmur að bera tólftarkvið. Þá varð Vigfús var við að hann ætlaði á að bera kviðinn og gekk að dóminum og kveðst vilja mundu, ef fóstri hans yrði sekur, að Glúmi þætti það alkeypt. Og varð svo að Glúmur ónýtti málið og ber af honum kviðinn og fékk af óvirðing."
+            }
+        ],
+        "text": "Nú koma menn til þings og málið í dóm og á Glúmur að bera tólftarkvið. Þá varð Vigfús var við að hann ætlaði á að bera kviðinn og gekk að dóminum og kveðst vilja mundu, ef fóstri hans yrði sekur, að Glúmi þætti það alkeypt. Og varð svo að Glúmur ónýtti málið og ber af honum kviðinn og fékk af óvirðing."
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Actors: animals: mammals: boar"
+        ],
+        "places": [
+            {
+                "as_mentioned": "En er þaðan leið vetur eða tveir þá hvarf Halla túngöltur svo feitur að trautt mátti rísa. Þá kom Bárður um dag og spurði ef galti væri drepinn. Halli sagði horfinn vera."
+            }
+        ],
+        "text": "En er þaðan leið vetur eða tveir þá hvarf Halla túngöltur svo feitur að trautt mátti rísa. Þá kom Bárður um dag og spurði ef galti væri drepinn. Halli sagði horfinn vera."
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Actors: animals: mammals: sheep"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Bárður svarar: \"Hann mun farinn að leita sauða þeirra er stolið var hið fyrra haust.\""
+            }
+        ],
+        "text": "Bárður svarar: \"Hann mun farinn að leita sauða þeirra er stolið var hið fyrra haust.\""
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Actors: things: money",
+            "Activities: exchange",
+            "Actors: animals: mammals: boar",
+            "Actors: animals: mammals: sheep"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Bárður tekur málið og fer í stefnuför. Og er hann finnur Hallvarð hefir hann skjót málalok, höggur af honum höfuð, sagði síðan föður sínum. Hann lét illa yfir og fer þegar á fund Glúms og sagði honum atburðinn og býður honum eindæmi. Glúmur þiggur það, gerir lítið fé en lét gjalda fyrir göltinn og sauðina og mælist það vel fyrir. En er Vigfús kom út varð hann illa við dráp Hallvarðs."
+            }
+        ],
+        "text": "Bárður tekur málið og fer í stefnuför. Og er hann finnur Hallvarð hefir hann skjót málalok, höggur af honum höfuð, sagði síðan föður sínum. Hann lét illa yfir og fer þegar á fund Glúms og sagði honum atburðinn og býður honum eindæmi. Glúmur þiggur það, gerir lítið fé en lét gjalda fyrir göltinn og sauðina og mælist það vel fyrir. En er Vigfús kom út varð hann illa við dráp Hallvarðs."
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Annað sumar var stofnað hestaþing það er öllum hestum skal etja þeim er til voru í héraðinu og skyldu þeir í mót úr hinum efra hrepp og hinum neðra og skyldu sinn mann hvorir til taka og kveða að hvorir betur hefðu og skulu þeirra atkvæði standa er til voru kosnir. Ofan úr hrepp var Bárður til kosinn en úr neðra hrepp Vigfús Glúmsson. Var þar fjöldi hesta og góð skemmtan og mjög jafnvígi og voru mörg hestavíg senn um daginn. En svo lauk að jafnmargir höfðu vel bitist og jafnmargir runnið og urðu þeir á það sáttir að jafnvígi væri."
+            }
+        ],
+        "text": "Annað sumar var stofnað hestaþing það er öllum hestum skal etja þeim er til voru í héraðinu og skyldu þeir í mót úr hinum efra hrepp og hinum neðra og skyldu sinn mann hvorir til taka og kveða að hvorir betur hefðu og skulu þeirra atkvæði standa er til voru kosnir. Ofan úr hrepp var Bárður til kosinn en úr neðra hrepp Vigfús Glúmsson. Var þar fjöldi hesta og góð skemmtan og mjög jafnvígi og voru mörg hestavíg senn um daginn. En svo lauk að jafnmargir höfðu vel bitist og jafnmargir runnið og urðu þeir á það sáttir að jafnvígi væri."
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [
+            {
+                "as_mentioned": "En þá lést Vigfús eiga hest er eigi var att \"og er sá bestur þeirra er hér hafa í dag komið. Leiðið þér þar í mót nokkurn.\""
+            }
+        ],
+        "text": "En þá lést Vigfús eiga hest er eigi var att \"og er sá bestur þeirra er hér hafa í dag komið. Leiðið þér þar í mót nokkurn.\""
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [
+            {
+                "as_mentioned": "\"Vel hefir þú einurð haldið hér til en nú skýjar á heldur og finnst nú það á að þú munt oftar hafa staðið nær búrhillum og ráðið um matargerð með móður þinni en gengið að hestavígum og er þann veg litt skegg þitt eigi síður.\""
+            }
+        ],
+        "text": "\"Vel hefir þú einurð haldið hér til en nú skýjar á heldur og finnst nú það á að þú munt oftar hafa staðið nær búrhillum og ráðið um matargerð með móður þinni en gengið að hestavígum og er þann veg litt skegg þitt eigi síður.\""
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Actors: things: wood"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Finnast þeir feðgar Halli og Bárður og spyr Halli hví honum yrði það fyrir að mæla svo ferlegt \"og uggir mig að dragi til mikillar ógiftu. Mun það eitt ráð að þú farir utan og sækir þér húsavið og ver utan þrjá vetur ella muntu feigur.\""
+            }
+        ],
+        "text": "Finnast þeir feðgar Halli og Bárður og spyr Halli hví honum yrði það fyrir að mæla svo ferlegt \"og uggir mig að dragi til mikillar ógiftu. Mun það eitt ráð að þú farir utan og sækir þér húsavið og ver utan þrjá vetur ella muntu feigur.\""
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hann gerir eftir ráðum föður síns og fer utan."
+            }
+        ],
+        "text": "Hann gerir eftir ráðum föður síns og fer utan."
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hann gerði sem Halli bað. Þetta bragð var til þess gert að frændur Bárðar sætu í friði fyrir hans sakar. "
+            },
+            {
+                "as_mentioned": "Bárður var einn vetur utan og kom þá út til bús síns."
+            }
+        ],
+        "text": "Hann gerði sem Halli bað. Þetta bragð var til þess gert að frændur Bárðar sætu í friði fyrir hans sakar.  Bárður var einn vetur utan og kom þá út til bús síns."
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Actors: animals: mammals: horse",
+            "Physical Landscape: ecological area: woods and trees",
+            "Actors: things: wood",
+            "Activities: land management "
+        ],
+        "places": [
+            {
+                "as_mentioned": "Halli hafði varðveitt bú Bárðar meðan hann var utan og hafði látið höggva í skógi timbur í"
+            },
+            {
+                "as_mentioned": "er Bárður átti. Hann hafði og út mikla viðu. Hann var stundum að búi sínu, stundum með föður sínum. Bárður segir að hann vill sækja timbur sitt."
+            }
+        ],
+        "text": "Halli hafði varðveitt bú Bárðar meðan hann var utan og hafði látið höggva í skógi timbur í Miðárdal er Bárður átti. Hann hafði og út mikla viðu. Hann var stundum að búi sínu, stundum með föður sínum. Bárður segir að hann vill sækja timbur sitt."
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Actors: human: dead human"
+        ],
+        "places": [
+            {
+                "as_mentioned": "\"Eg sá dauða menn ganga á mót honum Bárði og mun hann feigur vera og munum við eigi sjást síðan.\""
+            }
+        ],
+        "text": "\"Eg sá dauða menn ganga á mót honum Bárði og mun hann feigur vera og munum við eigi sjást síðan.\""
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Actors: animals: mammals: horses",
+            "Physical Landscape: ecological area: trees and wood"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Nú fara þeir Bárður og leggur þoku yfir er þeir koma í skóginn og binda þeir drögur og hefta hross."
+            }
+        ],
+        "text": "Nú fara þeir Bárður og leggur þoku yfir er þeir koma í skóginn og binda þeir drögur og hefta hross."
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Physical Landscape: ecological area: trees and wood",
+            "Actors: animals: mammals: horses",
+            "Actors: animals: mammals: sheep",
+            "Physical Processes: weather: fog"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Það var oft að Vigfús hitti smalamann og spurði tíðinda og svo var þenna morgun og mælti: \"Undarlegt er það að þú finnur jafnan fé í slíku myrkri. Aldrei mundi eg fé finna í slíkum myrkva.\""
+            }
+        ],
+        "text": "Það var oft að Vigfús hitti smalamann og spurði tíðinda og svo var þenna morgun og mælti: \"Undarlegt er það að þú finnur jafnan fé í slíku myrkri. Aldrei mundi eg fé finna í slíkum myrkva.\""
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Actors: things: wood"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hann kveðst ætla að Bárður væri \"því að hann á skóginn er þeir voru í.\""
+            }
+        ],
+        "text": "Hann kveðst ætla að Bárður væri \"því að hann á skóginn er þeir voru í.\""
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vigfús mælti: \"Sæk þú hesta mína þrjá.\""
+            }
+        ],
+        "text": "Vigfús mælti: \"Sæk þú hesta mína þrjá.\""
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Physical Landscape: ecological area: still water: pool",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Austmenn voru þar tveir á vist. Þá bað Vigfús ríða með sér og kveðst mundu ríða til laugar. Hann stefnir suður úr garði um"
+            },
+            {
+                "as_mentioned": ".",
+                "sm_entry": {
+                    "id": "2981",
+                    "name": "Á",
+                    "lat": "64.036517",
+                    "lng": "-20.169956",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Austmenn voru þar tveir á vist. Þá bað Vigfús ríða með sér og kveðst mundu ríða til laugar. Hann stefnir suður úr garði um Laugardal ."
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Actors: animals: mammals: horses",
+            "Physical Landscape: ecological area: trees and woods",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hann svarar: \"Ríða að erindum mínum fyrst\" og reið sýnu fyrr en þeir og fóru fyrir ofan bæi suður þar til er þeir sáu Bárð fara úr skóginum með dragnahrossin."
+            }
+        ],
+        "text": "Hann svarar: \"Ríða að erindum mínum fyrst\" og reið sýnu fyrr en þeir og fóru fyrir ofan bæi suður þar til er þeir sáu Bárð fara úr skóginum með dragnahrossin."
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hann svarar: \"Fúsari em eg að fara með hestana en þú ríðir í"
+            },
+            {
+                "as_mentioned": ". Er það eigi ámælisvert er þú ríður þangað er þú átt erindi enda veistu eigi víst þeirra erindi er eftir ríða en Hlenni mælti að þú skyldir eigi trúa þeim.\""
+            }
+        ],
+        "text": "Hann svarar: \"Fúsari em eg að fara með hestana en þú ríðir í Víðines . Er það eigi ámælisvert er þú ríður þangað er þú átt erindi enda veistu eigi víst þeirra erindi er eftir ríða en Hlenni mælti að þú skyldir eigi trúa þeim.\""
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Activities: travel",
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þá mæltu Austmenn að þeir mundu heima hafa setið ef þeir vissu erindið en létust þó ekki lið veita mega ef menn kæmu til fulltings við Bárð er förunautur hans hleypti í brott. Vigfús bað þá sjá fyrst hversu færi. Síðan börðust þeir langa hríð og varð hvorgi sár en Vigfúsi horfði því óvænna að hann varð að hopa í hverju sinni áður hann næði höggfæri. Bárður hafði sverð og varði sig ágæta vel og varð ekki sár. Austmönnum sýnist ófarnaður mikill ef Vigfús er að jörðu lagður en þeir standi hjá en menn komi til fulltings við Bárð. Þá hlaupa þeir að Bárði og drepa hann og var hann örendur er þeir Hlenni komu."
+            }
+        ],
+        "text": "Þá mæltu Austmenn að þeir mundu heima hafa setið ef þeir vissu erindið en létust þó ekki lið veita mega ef menn kæmu til fulltings við Bárð er förunautur hans hleypti í brott. Vigfús bað þá sjá fyrst hversu færi. Síðan börðust þeir langa hríð og varð hvorgi sár en Vigfúsi horfði því óvænna að hann varð að hopa í hverju sinni áður hann næði höggfæri. Bárður hafði sverð og varði sig ágæta vel og varð ekki sár. Austmönnum sýnist ófarnaður mikill ef Vigfús er að jörðu lagður en þeir standi hjá en menn komi til fulltings við Bárð. Þá hlaupa þeir að Bárði og drepa hann og var hann örendur er þeir Hlenni komu."
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "En þeir Vigfús riðu heim og lét Glúmur illa yfir verkinu og kveður mikinn vanda hafa aukist í héraðinu. Halli fer á fund fóstra síns Einars í"
+            },
+            {
+                "as_mentioned": "og biður hann taka við málinu. Hann lést þess skyldur að mæla eftir frænda sinn og fóstbróður sinn, ríða síðan á fund Þórarins og biðja hann liðveislu. Þórarinn segir að hann veit eigi vonir þess manns að hann vilji heldur við eiga og bundu sitt vinfengi með særum, þetta mál og hvert annað."
+            }
+        ],
+        "text": "En þeir Vigfús riðu heim og lét Glúmur illa yfir verkinu og kveður mikinn vanda hafa aukist í héraðinu. Halli fer á fund fóstra síns Einars í Saurbæ og biður hann taka við málinu. Hann lést þess skyldur að mæla eftir frænda sinn og fóstbróður sinn, ríða síðan á fund Þórarins og biðja hann liðveislu. Þórarinn segir að hann veit eigi vonir þess manns að hann vilji heldur við eiga og bundu sitt vinfengi með særum, þetta mál og hvert annað."
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Actors: things: money",
+            "Community Places: shared spaces: Assembly site"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Fóru mál til þings og var leitað um sættir. En þar var svo þungt fyrir að engi voru völ á því, því að í móti voru lögvitrir menn og hugdjarfir, Möðruvellingar og Esphælingar. Lauk þessu máli svo að Austmenn urðu sekir og var gefið fé til farningar Vigfúsi og skyldi þrjú sumur leita við utanför og hafa þrjú heimili á hverjum misserum og var hann þá fjörbaugsmaður. En hann mátti eigi heima vera fyrir helgi staðarins og var hann að"
+            },
+            {
+                "as_mentioned": "löngum og ætluðu að hann mundi vera í öðrum fjórðungum landsins og vildi hann eigi utan fara á því méli. Varð hann þá alsekur og hélt Glúmur hann á laun."
+            }
+        ],
+        "text": "Fóru mál til þings og var leitað um sættir. En þar var svo þungt fyrir að engi voru völ á því, því að í móti voru lögvitrir menn og hugdjarfir, Möðruvellingar og Esphælingar. Lauk þessu máli svo að Austmenn urðu sekir og var gefið fé til farningar Vigfúsi og skyldi þrjú sumur leita við utanför og hafa þrjú heimili á hverjum misserum og var hann þá fjörbaugsmaður. En hann mátti eigi heima vera fyrir helgi staðarins og var hann að Uppsölum löngum og ætluðu að hann mundi vera í öðrum fjórðungum landsins og vildi hann eigi utan fara á því méli. Varð hann þá alsekur og hélt Glúmur hann á laun."
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Actors: institution: preChristian temple"
+        ],
+        "places": [
+            {
+                "as_mentioned": "En því skyldu eigi sekir menn þar vera að Freyr leyfði eigi er hof það átti er þar var. Fór því fram sex vetur."
+            }
+        ],
+        "text": "En því skyldu eigi sekir menn þar vera að Freyr leyfði eigi er hof það átti er þar var. Fór því fram sex vetur."
+    },
+    {
+        "chapter": "Chapter 21",
+        "concepts": [
+            "Physical Landscape: built environment: building "
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grund",
+                "sm_entry": {
+                    "id": "311",
+                    "name": "Grund",
+                    "lat": "65.498941948408",
+                    "lng": "-17.4589920043945",
+                    "type": "farm",
+                    "county": "SuðÞin01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Einn dag spurði Arngrímur Steinólf ef hann vildi fara með honum á  Grund ofan til skytnings og vera þar nætur tvær eða þrjár."
+    },
+    {
+        "chapter": "Chapter 21",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "En um morguninn sat Steinólfur við eld og hafði smíð nokkura fyrir hendi. Var það buðkur nokkur er húsfreyja átti. Í það mund kom Arngrímur heim og Þorvaldur krókur með honum. Og er þeir komu í eldahúsið laut Steinólfur niður. Þá höggur Arngrímur til hans í höfuðið svo að hann fékk bana þegar."
+    },
+    {
+        "chapter": "Chapter 21",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Fer hún nú til Arnórs kerlingarnefs og kom aldrei í sama sæng Arngrími og mælti áður hún reið á brott: \"Það mun til bóta að þú munt Arngrímur fá lífdaga eiga því að þeir munu verri er síðar koma yfir þig.\""
+    },
+    {
+        "chapter": "Chapter 21",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Espihóls",
+                "sm_entry": {
+                    "id": "124",
+                    "name": "Espihóll",
+                    "lat": "65.537957",
+                    "lng": "-18.129113",
+                    "type": "farm",
+                    "county": "Eyjafj02",
+                    "c": "19",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þeir Arngrímur riðu til  Espihóls  og sögðu Þórarni þessi tíðindi og báðu hann ásjá og létust hvorki til hafa vitsmuni né vinsæld að sitja fyrir Glúmi. En Þórarinn var bæði vitur og vinsæll. Hann svarar, kvaðst verkið lítast illt og lést ugga að illt mundi af standa. Þorvaldur lét ekki tjóa að sakast um verkið og lést hyggja að brátt mundi hann eiga um meiri vandræði að fæta ef hann veitti þeim enga ásjá, létu vera mega að fengjust fulltingsmenn ef hann legði sín orð til."
+    },
+    {
+        "chapter": "Chapter 21",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Möðrufell",
+                "sm_entry": {
+                    "id": "384",
+                    "name": "Möðrufell",
+                    "lat": "65.5104",
+                    "lng": "-18.21002",
+                    "type": "farm",
+                    "county": "Eyjafj02",
+                    "c": "17",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þann morgun fór Már í  Möðrufell  með átjánda mann að stefna Arngrími um vígið en Glúmur var heima við sétta mann og bað þá skjótt heim koma. Jöður var heima hjá Glúmi og Eyjólfur sonur Þorleifs hins háva, Þorvaldur tasaldi systursonur Glúms og þrælar tveir."
+    },
+    {
+        "chapter": "Chapter 22",
+        "concepts": [
+            "Activities: travel",
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þorvarður hét maður Örnólfsson og sonur Yngvildar er kölluð var allrasystir. Hann bjó í"
+            },
+            {
+                "as_mentioned": ". Guðbrandur hét sonur hans, tólf vetra gamall. Þorvarður var vitur "
+            },
+            {
+                "as_mentioned": "maður og var þá gamall, meðallagi góðgjarn. Hann var snemma á fótum þann morgun og bað sveininn taka hesta og ríða síðan til"
+            },
+            {
+                "as_mentioned": ".",
+                "sm_entry": {
+                    "id": "2981",
+                    "name": "Á",
+                    "lat": "64.036517",
+                    "lng": "-20.169956",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þorvarður hét maður Örnólfsson og sonur Yngvildar er kölluð var allrasystir. Hann bjó í Kristnesi . Guðbrandur hét sonur hans, tólf vetra gamall. Þorvarður var vitur  maður og var þá gamall, meðallagi góðgjarn. Hann var snemma á fótum þann morgun og bað sveininn taka hesta og ríða síðan til Þverár ."
+    },
+    {
+        "chapter": "Chapter 22",
+        "concepts": [
+            "Physical Processes: weather: fog"
+        ],
+        "places": [
+            {
+                "as_mentioned": "\"Slíkur dagur væri vel til fallinn. Þoka er mikil og mun eigi verða vart við ef menn fara hljóðlega.\""
+            }
+        ],
+        "text": "\"Slíkur dagur væri vel til fallinn. Þoka er mikil og mun eigi verða vart við ef menn fara hljóðlega.\""
+    },
+    {
+        "chapter": "Chapter 22",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Nú ríður Þorvarður til"
+            },
+            {
+                "as_mentioned": "og voru menn eigi upp risnir er þeir komu þar."
+            }
+        ],
+        "text": "Nú ríður Þorvarður til Espihóls og voru menn eigi upp risnir er þeir komu þar."
+    },
+    {
+        "chapter": "Chapter 22",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Nú fóru þeir til"
+            },
+            {
+                "as_mentioned": "en Þorvarður fór á"
+            },
+            {
+                "as_mentioned": ", þar bjó góður búandi, Halli hinn digri, en sendi son sinn til"
+            },
+            {
+                "as_mentioned": "og bað segja Glúmi fyrirætlan þeirra Esphælinga \"en ríð til móts við mig síðan hvatlega.\""
+            }
+        ],
+        "text": "Nú fóru þeir til Uppsala en Þorvarður fór á Öngulsstaði , þar bjó góður búandi, Halli hinn digri, en sendi son sinn til Þverár og bað segja Glúmi fyrirætlan þeirra Esphælinga \"en ríð til móts við mig síðan hvatlega.\""
+    },
+    {
+        "chapter": "Chapter 22",
+        "concepts": [
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hann tók sveininn af baki og fjötraði hest hans."
+            }
+        ],
+        "text": "Hann tók sveininn af baki og fjötraði hest hans."
+    },
+    {
+        "chapter": "Chapter 22",
+        "concepts": [
+            "Activities: travel",
+            "Physical Landscape: unmanaged landscape area: moving water: river"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Esphælingar riðu yfir ána, sá Glúmur för þeirra, og ætluðu yfir að"
+            },
+            {
+                "as_mentioned": ". Þá mælti Glúmur að Már væri heldur til seinn. Síðan rann Glúmur úr garði eftir þeim og þeir með honum sem til voru, sex karlar með Guðbrandi. Glúmur hafði skjöld sinn og höggspjót, gyrður sverði, rennur á leiðina fyrir þá og menn hans eftir honum."
+            }
+        ],
+        "text": "Esphælingar riðu yfir ána, sá Glúmur för þeirra, og ætluðu yfir að Knarrarvaði . Þá mælti Glúmur að Már væri heldur til seinn. Síðan rann Glúmur úr garði eftir þeim og þeir með honum sem til voru, sex karlar með Guðbrandi. Glúmur hafði skjöld sinn og höggspjót, gyrður sverði, rennur á leiðina fyrir þá og menn hans eftir honum."
+    },
+    {
+        "chapter": "Chapter 22",
+        "concepts": [
+            "Actors: things: spear",
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Glúmur komst hjá þeim fram og talar svo við þá en þeir riðu og dvaldi svo. En er hann sá að ekki mátti dvelja þá en veit von sinna manna þá skaut hann spjóti til Arngríms og kom í gegnum báða söðulbogana og lærið og var Arngrímur illa vígur um daginn. Síðan hljóp Eysteinn fyrstur manna að Glúmi en Þorvaldur tasaldi í mót honum og lékust þeir tveir við og þóttust þeir best hafa er firrst voru þeirra samgangi og var hvortveggi þeirra fullhugi og rammur að afli. Veitti stór högg og mörg hvor þeirra öðrum. Þorvaldur krókur sótti fast að Glúmi og margir með honum en Glúmur hopaði undan og þeir menn er honum fylgdu og hlífðu sér. En Þórarinn steig eigi af baki og þótti honum þó ærið margir um einn."
+            }
+        ],
+        "text": "Glúmur komst hjá þeim fram og talar svo við þá en þeir riðu og dvaldi svo. En er hann sá að ekki mátti dvelja þá en veit von sinna manna þá skaut hann spjóti til Arngríms og kom í gegnum báða söðulbogana og lærið og var Arngrímur illa vígur um daginn. Síðan hljóp Eysteinn fyrstur manna að Glúmi en Þorvaldur tasaldi í mót honum og lékust þeir tveir við og þóttust þeir best hafa er firrst voru þeirra samgangi og var hvortveggi þeirra fullhugi og rammur að afli. Veitti stór högg og mörg hvor þeirra öðrum. Þorvaldur krókur sótti fast að Glúmi og margir með honum en Glúmur hopaði undan og þeir menn er honum fylgdu og hlífðu sér. En Þórarinn steig eigi af baki og þótti honum þó ærið margir um einn."
+    },
+    {
+        "chapter": "Chapter 23",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: things: skin"
+        ],
+        "places": [],
+        "text": "Sá maður kom að hlaupandi þar er þeir börðust er var í skinnkufli og hafði sverð í hendi. Hann kom að þar er Þorvaldur tasaldi féll fyrir Eysteini og þegar hleypur hann að Eysteini og höggur hann banahögg."
+    },
+    {
+        "chapter": "Chapter 23",
+        "concepts": [
+            "Activities: exchange"
+        ],
+        "places": [],
+        "text": "Síðan fór hann í lið með Glúmi og þá mælti Glúmur þetta: \"Kom heill þú Þundarbenda. Gott kaup var það er eg keypti þig. Þú munt nú vel gjalda verð þitt í dag.\""
+    },
+    {
+        "chapter": "Chapter 23",
+        "concepts": [
+            "Actors: things: spear",
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Svo bar að er Glúmur hopaði að hann lá fallinn en þrælar hans báðir lögðust á hann ofan og voru þar stangaðir spjótum til bana. En þá kom Már að í því með sína menn. Þá fór Þórarinn af baki og börðust þeir Már svo að öngvir áttu hlut í með þeim. En Glúmur spratt upp og barðist þá frýjulaust og var þá liðsmunur engi."
+    },
+    {
+        "chapter": "Chapter 23",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: things: wood"
+        ],
+        "places": [],
+        "text": "Eiríkur hét húskarl Þórarins. Hann var að verki sínu um morguninn. Hann hafði enga hlíf né vopn. Hann fær sér trélurk í hönd og fór til fulltings við Þórarin og varð Glúmi hið mesta ólið að honum því að menn og hlífar meiddust fyrir tré því er hann hafði að vega með."
+    },
+    {
+        "chapter": "Chapter 23",
+        "concepts": [
+            "Actors: humans: dead humans",
+            "Physical Landscape: built environment: building: agricultural building: outhouse"
+        ],
+        "places": [],
+        "text": "Þórarinn fór heim með förunautum sínum. Glúmur fór og heim með sína menn og lét færa hina dauðu í úthýsi eitt og var búið um Þorvald virðulegast því að klæði voru borin undir hann og var hann rifaður í húð."
+    },
+    {
+        "chapter": "Chapter 23",
+        "concepts": [
+            "Activities: farming/cultivation",
+            "Physical Landscape: managed landscape area: agricultural area: field"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hrísateigur",
+                "sm_entry": {
+                    "id": "460",
+                    "name": "Hrísateigur",
+                    "lat": "65.540098",
+                    "lng": "-18.108128",
+                    "type": "field",
+                    "county": "Eyjafj02",
+                    "c": "3",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þá mælti Glúmur: \"Harðslægur var  Hrísateigur  nú í dag sveinar,\" segir hann."
+    },
+    {
+        "chapter": "Chapter 23",
+        "concepts": [
+            "Activities: farming/cultivation"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þverárland"
+            }
+        ],
+        "text": "Már segir: \"Fyrir það mun þér ganga sem harðslægur hafi verið því að nú muntu  Þverárland  hafa slegið úr hendi þér.\""
+    },
+    {
+        "chapter": "Chapter 23",
+        "concepts": [
+            "Community Places: administrative unit: local assembly ",
+            "Ideas: power: legal power"
+        ],
+        "places": [],
+        "text": "Tók nú Einar málið til meðferðar á þingi um sumarið og sótti Glúm. Þórarinn lá í sárum allt sumarið og svo Þorvaldur tasaldi og urðu báðir græddir. Glúmur hafði mikinn liðsafla á þinginu og svo hvorirtveggju. Var nú leitað um sættir af göfgum frændum hvorratveggju og varð það að sættum að bæta skyldi víg Steinólfs svo að fram væri færð sýkna Vigfúss Glúmssonar. En Guðbrandur var sekur um víg Þorvalds og kom Glúmur honum utan. Og fóru við svo búið heim og undu þeir Þorvarður og Þórarinn illa við og þóttist Þórarinn enga sæmd hafa fyrir víg Þorvalds bróður síns. Sat nú Glúmur í virðingu."
+    },
+    {
+        "chapter": "Chapter 24",
+        "concepts": [
+            "Events: meeting",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hann reið nú á fund Þórarins og mælti: \"Hugleitt hefi eg nokkuð og sýnist mér sem eigi muni hið sanna uppi um víg Þorvalds króks því að hittast mun í kveðskap Glúms að nokkuð þykir honum vantalið vera um vígin.\""
+            }
+        ],
+        "text": "Hann reið nú á fund Þórarins og mælti: \"Hugleitt hefi eg nokkuð og sýnist mér sem eigi muni hið sanna uppi um víg Þorvalds króks því að hittast mun í kveðskap Glúms að nokkuð þykir honum vantalið vera um vígin.\""
+    },
+    {
+        "chapter": "Chapter 24",
+        "concepts": [
+            "Physical Processes: weather: snow",
+            "Community Places: administrative unit: local assembly ",
+            "Activities: travel",
+            "Physical Landscape: unmanaged landscape area: moorland",
+            "Actors: animals: mammals: horses",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Nú vorar illa og verður torsótt allt að fá. Um vorið bjó Þórarinn mál á hönd Glúmi til"
+            },
+            {
+                "as_mentioned": "því að allir samþingisgoðar þeir er því þingi áttu að halda voru bundnir í nauðleytum við Þórarin. En hestum mátti trautt koma yfir heiðar fyrir snjó. "
+            },
+            {
+                "as_mentioned": "Glúmur tók það til ráðs að hann fékk byrðing einn mikinn í hönd Þorsteini bróður sínum og skal hann halda vestur fyrir og koma til þings með herklæði og vistir. En er þeir koma fyrir"
+            },
+            {
+                "as_mentioned": "þá brutu þeir skipið í spón og týndist þar allt saman, menn og fjárhlutur. Glúmur gekk til þings með hundrað manna og náði eigi nær að tjalda en í fjörbaugsgarði. Þar var kominn Einar Eyjólfsson með þeim Esphælingum. Voru Glúmi send orð að hann skyldi til fara og færa fram lögvörn fyrir sig. Nú gengur Glúmur en eigi var meira rúm gefið en einn maður mátti ganga en þar var fylkt liði "
+            },
+            {
+                "as_mentioned": "tveim megin hjá en Glúmi var boðið að ganga í kvíarnar ef hann vildi til dómsins."
+            }
+        ],
+        "text": "Nú vorar illa og verður torsótt allt að fá. Um vorið bjó Þórarinn mál á hönd Glúmi til Hegranessþings því að allir samþingisgoðar þeir er því þingi áttu að halda voru bundnir í nauðleytum við Þórarin. En hestum mátti trautt koma yfir heiðar fyrir snjó.  Glúmur tók það til ráðs að hann fékk byrðing einn mikinn í hönd Þorsteini bróður sínum og skal hann halda vestur fyrir og koma til þings með herklæði og vistir. En er þeir koma fyrir Úlfsdali þá brutu þeir skipið í spón og týndist þar allt saman, menn og fjárhlutur. Glúmur gekk til þings með hundrað manna og náði eigi nær að tjalda en í fjörbaugsgarði. Þar var kominn Einar Eyjólfsson með þeim Esphælingum. Voru Glúmi send orð að hann skyldi til fara og færa fram lögvörn fyrir sig. Nú gengur Glúmur en eigi var meira rúm gefið en einn maður mátti ganga en þar var fylkt liði  tveim megin hjá en Glúmi var boðið að ganga í kvíarnar ef hann vildi til dómsins."
+    },
+    {
+        "chapter": "Chapter 24",
+        "concepts": [
+            "Actors: things: spear"
+        ],
+        "places": [
+            {
+                "as_mentioned": "En það sýndist honum óráðlegt og mælti til sinna manna: \"Auðsætt er nú það að þeir þykjast í hendi hafa vort ráð. Má og vera að svo sé. Nú vil eg þó að þér snúið eigi aftur. Mun eg ganga fyrstur en þá tveir næst mér jafnfram en þeim fjórir jafnfram og skulum vér renna að og hafa spjótin fyrir oss og mun klambrarveggurinn ganga ef fast er fylgt.\""
+            }
+        ],
+        "text": "En það sýndist honum óráðlegt og mælti til sinna manna: \"Auðsætt er nú það að þeir þykjast í hendi hafa vort ráð. Má og vera að svo sé. Nú vil eg þó að þér snúið eigi aftur. Mun eg ganga fyrstur en þá tveir næst mér jafnfram en þeim fjórir jafnfram og skulum vér renna að og hafa spjótin fyrir oss og mun klambrarveggurinn ganga ef fast er fylgt.\""
+    },
+    {
+        "chapter": "Chapter 24",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þeir gerðu svo og runnu að í einu skeiði í dómhringinn og var lengi nætur áður þeim varð bægt frá í brott og gerðist þar svo mikil þröng og föst og varð það um síðir að dómurinn var settur í annað sinn. Og er þeir tóku að reifa málið þá gengur Glúmur í þingbrekku og nefnir votta að sól væri þá komin á þingvöll. Síðan varði hann mönnum í dóm lýriti að dæma um sakarnar og varð þar niður að falla hvert mál sem þá var komið. Ríða menn í brott og undu Esphælingar stórilla við. Kallar Þórarinn hann hraklegt gert hafa fyrir þeim."
+            }
+        ],
+        "text": "Þeir gerðu svo og runnu að í einu skeiði í dómhringinn og var lengi nætur áður þeim varð bægt frá í brott og gerðist þar svo mikil þröng og föst og varð það um síðir að dómurinn var settur í annað sinn. Og er þeir tóku að reifa málið þá gengur Glúmur í þingbrekku og nefnir votta að sól væri þá komin á þingvöll. Síðan varði hann mönnum í dóm lýriti að dæma um sakarnar og varð þar niður að falla hvert mál sem þá var komið. Ríða menn í brott og undu Esphælingar stórilla við. Kallar Þórarinn hann hraklegt gert hafa fyrir þeim."
+    },
+    {
+        "chapter": "Chapter 24",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Activities: travel",
+            "Community Places: shared space: assembly site"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Síðan ríða þeir til"
+            },
+            {
+                "as_mentioned": "Esphælingar með Einari og margir vinir þeirra er þeim höfðu heitið liðveislu í móti Glúmi. Frændur Glúms veita honum að málum til réttra laga og er það af gert með vitra manna ráði ef Glúmur vill vinna eið fyrir málið að "
+            },
+            {
+                "as_mentioned": "eigi vægi hann Þorvald krók. Og er margir áttu hlut í þá sættust þeir að því að Glúmur skyldi vinna eið að hann hefði eigi vegið Þorvald krók og var á kveðið nær eiðurinn skyldi unninn vera, um haustið að fimm vikum. Og er nú svo ríkt fylgt málinu að þeir skuli fram hafa málið eða hann vinni eiða í þremur hofum í"
+            },
+            {
+                "as_mentioned": "og eiðfall ef þá kemur eigi fram. Margrætt var um þetta mál hversu eiðar Glúms mundu vera eða fram fara."
+            }
+        ],
+        "text": "Síðan ríða þeir til alþingis Esphælingar með Einari og margir vinir þeirra er þeim höfðu heitið liðveislu í móti Glúmi. Frændur Glúms veita honum að málum til réttra laga og er það af gert með vitra manna ráði ef Glúmur vill vinna eið fyrir málið að  eigi vægi hann Þorvald krók. Og er margir áttu hlut í þá sættust þeir að því að Glúmur skyldi vinna eið að hann hefði eigi vegið Þorvald krók og var á kveðið nær eiðurinn skyldi unninn vera, um haustið að fimm vikum. Og er nú svo ríkt fylgt málinu að þeir skuli fram hafa málið eða hann vinni eiða í þremur hofum í Eyjafirði og eiðfall ef þá kemur eigi fram. Margrætt var um þetta mál hversu eiðar Glúms mundu vera eða fram fara."
+    },
+    {
+        "chapter": "Chapter 25",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Activities: travel",
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Nú ríða menn heim af"
+            },
+            {
+                "as_mentioned": "og er Glúmur heima um sumarið og er kyrrt allt í héraðinu. Líður til leiðar og ríða menn til leiðar en af leið hvarf Glúmur svo að ekki spurðist til hans. Már sat heima í búinu. En um haustið að fimm vikum þá bauð Már mönnum og var þar stofnað brullaup og komu þar eigi færri menn til boðs en hundrað. Öllum þótti kynlegt boð þetta því að þeir voru lítils verðir er í hlut áttu."
+            }
+        ],
+        "text": "Nú ríða menn heim af þingi og er Glúmur heima um sumarið og er kyrrt allt í héraðinu. Líður til leiðar og ríða menn til leiðar en af leið hvarf Glúmur svo að ekki spurðist til hans. Már sat heima í búinu. En um haustið að fimm vikum þá bauð Már mönnum og var þar stofnað brullaup og komu þar eigi færri menn til boðs en hundrað. Öllum þótti kynlegt boð þetta því að þeir voru lítils verðir er í hlut áttu."
+    },
+    {
+        "chapter": "Chapter 25",
+        "concepts": [
+            "Actors: things: money",
+            "Actors: animals: domestic animals: livestock",
+            "Actors: institution: preChristian temple"
+        ],
+        "places": [
+            {
+                "as_mentioned": "En um morguninn eftir sendi Glúmur eftir Þórarni og bað hann koma í"
+            },
+            {
+                "as_mentioned": "eigi síðar en að miðjum morgni að heyra eiðana. Þórarinn veikst við og fékk hundrað manna. "
+            },
+            {
+                "as_mentioned": "En er þeir komu til hofsins þá gengu sex menn í hofið, með Glúmi Gissur og Ásgrímur en með Þórarni Einar og Hlenni hinn gamli. Sá maður er hofseið skyldi vinna tók silfurbaug í hönd sér þann er roðinn var í nautsblóði þess er til blóta væri haft og skyldi eigi minna standa en þrjá aura."
+            }
+        ],
+        "text": "En um morguninn eftir sendi Glúmur eftir Þórarni og bað hann koma í Djúpadal eigi síðar en að miðjum morgni að heyra eiðana. Þórarinn veikst við og fékk hundrað manna.  En er þeir komu til hofsins þá gengu sex menn í hofið, með Glúmi Gissur og Ásgrímur en með Þórarni Einar og Hlenni hinn gamli. Sá maður er hofseið skyldi vinna tók silfurbaug í hönd sér þann er roðinn var í nautsblóði þess er til blóta væri haft og skyldi eigi minna standa en þrjá aura."
+    },
+    {
+        "chapter": "Chapter 25",
+        "concepts": [
+            "Actors: things: spear"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þeir Þórarinn urðu eigi búnir að lasta en kváðust eigi fyrri þann veg heyrt hafa að orði kveðið. Með slíku móti voru eiðar unnir í"
+            },
+            {
+                "as_mentioned": "og svo að"
+            },
+            {
+                "as_mentioned": ". Þeir Gissur "
+            },
+            {
+                "as_mentioned": "og Ásgrímur voru nokkurar nætur að"
+            },
+            {
+                "as_mentioned": "og að skilnaði gaf Glúmur Gissuri feldinn blá en Ásgrími spjótið gullrekna og skildust vinir."
+            }
+        ],
+        "text": "Þeir Þórarinn urðu eigi búnir að lasta en kváðust eigi fyrri þann veg heyrt hafa að orði kveðið. Með slíku móti voru eiðar unnir í Gnúpafelli og svo að Þverá . Þeir Gissur  og Ásgrímur voru nokkurar nætur að Þverá og að skilnaði gaf Glúmur Gissuri feldinn blá en Ásgrími spjótið gullrekna og skildust vinir."
+    },
+    {
+        "chapter": "Chapter 25",
+        "concepts": [
+            "Events: meeting"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Um veturinn hittust þeir Þorvarður og Þórarinn og spurði Þorvarður: \"Vann Glúmur vel eiðinn?\""
+            }
+        ],
+        "text": "Um veturinn hittust þeir Þorvarður og Þórarinn og spurði Þorvarður: \"Vann Glúmur vel eiðinn?\""
+    },
+    {
+        "chapter": "Chapter 25",
+        "concepts": [
+            "Physical Landscape: managed landscape area"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eftir þetta hittast þeir Einar og bera ráð sín saman og mælti Þórarinn: \"Ef þú vilt fyrir málinu vera munu margir þér veita. Munum vér það og til vinna að kaupa þér landið eigi meira verði en Glúmur keypti að Þorkatli háva.\""
+            }
+        ],
+        "text": "Eftir þetta hittast þeir Einar og bera ráð sín saman og mælti Þórarinn: \"Ef þú vilt fyrir málinu vera munu margir þér veita. Munum vér það og til vinna að kaupa þér landið eigi meira verði en Glúmur keypti að Þorkatli háva.\""
+    },
+    {
+        "chapter": "Chapter 25",
+        "concepts": [
+            "Actors: things: spear"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Einar svarar: \"Glúmur hefir nú lógað þeim hlutum, feldi og spjóti, er Vigfús móðurfaðir hans gaf honum og bað hann eiga ef hann vildi halda virðingu sinni en kvað þaðan frá þverra mundu. Nú mun eg taka við málinu og fylgja.\""
+            }
+        ],
+        "text": "Einar svarar: \"Glúmur hefir nú lógað þeim hlutum, feldi og spjóti, er Vigfús móðurfaðir hans gaf honum og bað hann eiga ef hann vildi halda virðingu sinni en kvað þaðan frá þverra mundu. Nú mun eg taka við málinu og fylgja.\""
+    },
+    {
+        "chapter": "Chapter 26",
+        "concepts": [
+            "Physical Landscape: unmanged landscape area: moving water: river",
+            "Actors: supernatural actors: dream figures",
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þverár",
+                "sm_entry": {
+                    "id": "3011",
+                    "name": "Þverá",
+                    "lat": "64.032712",
+                    "lng": "-21.045023",
+                    "type": "river",
+                    "county": "Árnes01",
+                    "c": "2",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú býr Einar til vígsmálið af nýju til alþingis og fjölmenna hvorirtveggju. En áður Glúmur riði heiman dreymdi hann að margir menn væru komnir þar til  Þverár  að hitta Frey og þóttist hann sjá mart manna á eyrunum við ána en Freyr sat á stóli. Hann þóttist spyrja hverjir þar væru komnir."
+    },
+    {
+        "chapter": "Chapter 26",
+        "concepts": [
+            "Actors: animals: mammals: ox"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þverárlandi"
+            }
+        ],
+        "text": "Þeir segja: \"Þetta eru frændur þínir framliðnir og biðjum vér nú Frey að þú sért eigi á brott færður af  Þverárlandi  og tjóar ekki og svarar Freyr stutt og reiðulega og minnist nú á uxagjöf Þorkels hins háva.\""
+    },
+    {
+        "chapter": "Chapter 26",
+        "concepts": [
+            "Physical Landscape: managed landscape area",
+            "Activities: exchange",
+            "Ideas: power: legal power",
+            "Community Places: shared spaces: assembly site",
+            "Activities: travel",
+            "Physical Landscape: mananged landscape area"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þverárland"
+            },
+            {
+                "as_mentioned": "Hörgárdal",
+                "sm_entry": {
+                    "id": "316",
+                    "name": "Hörgárdalur",
+                    "lat": "65.7114277277577",
+                    "lng": "-18.3197021484375",
+                    "type": "valley",
+                    "county": "Eyjafj02",
+                    "c": "19",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Ríða menn til þings og verða þau málalok að Glúmur gengur við víginu. En í því áttu hlut vinir hans og frændur að heldur skyldi sættast en sekt kæmi á eða utanferð. Og sættust þeir á þingi að því að Glúmur galt  Þverárland  hálft Katli syni Þorvalds króks í föðurbætur en seldi hálft við verði og skyldi þó búa á þau misseri og varð héraðssekur og búa eigi nær en í  Hörgárdal .  Fóru síðan af þingi. Síðan keypti Einar landið sem honum var heitið."
+    },
+    {
+        "chapter": "Chapter 26",
+        "concepts": [
+            "Activities: land management"
+        ],
+        "places": [],
+        "text": "Menn Einars komu þangað um vorið að vinna landið og mælti Einar að þeir skyldu segja honum hvert orð það er Glúmur mælti."
+    },
+    {
+        "chapter": "Chapter 26",
+        "concepts": [
+            "Physical Landscape: build environment: building: house/hall",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Einar færði þangað bú sitt um vorið en Glúmur sat þar til hins efsta fardags. En er menn voru í brott búnir þá settist Glúmur í öndvegi og gerði eigi á brott ganga þótt  að honum væri kallað. Hann lætur tjalda skálann og vill eigi svo skiljast við landið sem kotkarlar."
+    },
+    {
+        "chapter": "Chapter 26",
+        "concepts": [
+            "Activities: land management "
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þverár",
+                "sm_entry": {
+                    "id": "3011",
+                    "name": "Þverá",
+                    "lat": "64.032712",
+                    "lng": "-21.045023",
+                    "type": "river",
+                    "county": "Árnes01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Þverárland"
+            }
+        ],
+        "text": "Hún kom til  Þverár  og kvaddi Glúm og mælti: \"Sittu heill Glúmur en ekki er hér nú lengur að vera. Komið hefi eg nú eldi á  Þverárland  og geri eg þig nú á brott með allt þitt og er helgað landið Einari syni mínum.\""
+    },
+    {
+        "chapter": "Chapter 26",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Glúmur reis upp þá og mælti að hún skyldi gleipa kerlinga örmust. En þó reið Glúmur þá í brott og varð litið um öxl til bæjarins og kvað vísu:"
+    },
+    {
+        "chapter": "Chapter 26",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Events: destruction",
+            "Physical Processes: natural change",
+            "Physical Landscape: built environment: buildings"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Möðruvöllum",
+                "sm_entry": {
+                    "id": "3106",
+                    "name": "Möðruvellir",
+                    "lat": "64.299414",
+                    "lng": "-21.497885",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Hörgárdal",
+                "sm_entry": {
+                    "id": "316",
+                    "name": "Hörgárdalur",
+                    "lat": "65.7114277277577",
+                    "lng": "-18.3197021484375",
+                    "type": "valley",
+                    "county": "Eyjafj02",
+                    "c": "19",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Myrkárdal",
+                "sm_entry": {
+                    "id": "467",
+                    "name": "Myrkárdalur",
+                    "lat": "65.628941",
+                    "lng": "-18.631828",
+                    "type": "valley",
+                    "county": "Eyjafj02",
+                    "c": "1",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Glúmur bjó á  Möðruvöllum  í  Hörgárdal  við Þorgrím fjúk og undi því eigi lengur en einn vetur. Þá bjó hann tvo vetur í  Myrkárdal . Þá hljóp þar skriða nær bænum svo að tók sum húsin."
+    },
+    {
+        "chapter": "Chapter 27",
+        "concepts": [
+            "Ideas: resources",
+            "Actors: animals: mammals: whale",
+            "Activities: fishing",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Haga",
+                "sm_entry": {
+                    "id": "296",
+                    "name": "Hagi",
+                    "lat": "65.855934",
+                    "lng": "-17.382624",
+                    "type": "farm",
+                    "info": "Hagi heitir nú Vestur-Hagi (ÍF X, 3)",
+                    "county": "NorÞin01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Hrísey",
+                "sm_entry": {
+                    "id": "322",
+                    "name": "Hrísey",
+                    "lat": "65.9965194289924",
+                    "lng": "-18.3825302124023",
+                    "type": "island",
+                    "county": "Eyjafj02",
+                    "c": "14",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Hríseyjar",
+                "sm_entry": {
+                    "id": "1699",
+                    "name": "Hvalseyjar",
+                    "lat": "64.627971",
+                    "lng": "-22.514616",
+                    "type": "island",
+                    "county": "Mýras01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Haga",
+                "sm_entry": {
+                    "id": "296",
+                    "name": "Hagi",
+                    "lat": "65.855934",
+                    "lng": "-17.382624",
+                    "type": "farm",
+                    "info": "Hagi heitir nú Vestur-Hagi (ÍF X, 3)",
+                    "county": "NorÞin01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Haga",
+                "sm_entry": {
+                    "id": "296",
+                    "name": "Hagi",
+                    "lat": "65.855934",
+                    "lng": "-17.382624",
+                    "type": "farm",
+                    "info": "Hagi heitir nú Vestur-Hagi (ÍF X, 3)",
+                    "county": "NorÞin01",
+                    "c": "2",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Eitt vor kom Þorvaldur úr  Haga  við  Hrísey  á byrðingi og ætlaði að halda til fengjar. Og er Klængur varð var við réðst hann til ferðar með honum. En er þeir komu út úr firðinum fundu þeir reyði nýdauða, keyrðu í festar og sigldu með inn eftir firðinum um daginn. Vildi Klængur flytja til  Hríseyjar  því að það var skemmra en í  Haga  en Þorvaldur vildi til  Haga  flytja og lét það jafnrétt. Klængur segir að eigi séu það lög að flytja eigi þangað er næst eiga flutningarmenn land."
+    },
+    {
+        "chapter": "Chapter 27",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Ideas: resources"
+        ],
+        "places": [],
+        "text": "Þorvaldur kveðst hafa rétt að mæla og lét þá frændur Glúms ekki þurfa að ganga á réttan hlut við þá \"og hvað sem lög eru þá munu hinir ríkari nú ráða.\""
+    },
+    {
+        "chapter": "Chapter 27",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: agricultural buildings",
+            "Physical Landscape: managed landscape area: field",
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [],
+        "text": "Þá mælti Klængur: \"Ráðs skulum vér nú leita. Hér eru naut hjá garði og skulum vér þau reka á húsin þar sem Þorvaldur hvílir undir og teygjum hann svo út.\""
+    },
+    {
+        "chapter": "Chapter 27",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Þeir gerðu svo og vaknar Þorvaldur, hleypur út. Klængur hleypur að honum og veitti honum banasár, fór brátt síðan og treystist eigi þar að lýsa víginu því að þar var fyrir mannmart, fór heim út til eyjar og lýsti þar víginu."
+    },
+    {
+        "chapter": "Chapter 27",
+        "concepts": [
+            "Activities: travel",
+            "Community Places: shared spaces: assembly site",
+            "Actors: things: boats"
+        ],
+        "places": [],
+        "text": "Mál fóru fram á þingi. En eftir þingið búast þeir til féránsdóms og höfðu fjögur skip og þrjá tigu manna á hverju og réðu þeir Einar og Þórarinn og Þórður fyrir skipunum og komu innan að eyjunni í næturelding og sáu reyk yfir húsunum og spurði Einar hvort þeim sýndist svo sem honum að reykurinn væri eigi allblár. Þeir sögðu að þeim sýndist svo."
+    },
+    {
+        "chapter": "Chapter 27",
+        "concepts": [
+            "Physical Landscape: built environment: buildings"
+        ],
+        "places": [],
+        "text": "Einar sagði: \"Svo líst mér á reykinn sem fjölmennt muni vera í húsunum og mun af mönnum leggja reykinn. En ef það er þá munum vér gera raun til og róa undan eyjunni þjóðsýnilega og munum vér þá vísir verða ef fjölmenni er í eyjunni.\""
+    },
+    {
+        "chapter": "Chapter 27",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Oddaeyri",
+                "sm_entry": {
+                    "id": "1444",
+                    "name": "Oddaeyrr",
+                    "lat": "58.047565",
+                    "lng": "7.786398",
+                    "type": "peninsula",
+                    "info": "Uncertain location. ",
+                    "county": "Foreign01",
+                    "c": "2",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Og svo gerðu þeir. En er eyjarmenn sáu þetta þá hljópu þeir út og til skipanna og lögðu eftir þeim. Og var Glúmur þar kominn með tvö hundruð manna og eltu þá inn allt að  Oddaeyri  og varð eigi háinn féránsdómurinn og fengu þeir af óvirðing Eyfirðingar."
+    },
+    {
+        "chapter": "Chapter 27",
+        "concepts": [
+            "Community Places: administrative units: local assembly "
+        ],
+        "places": [
+            {
+                "as_mentioned": "Kaupangi",
+                "sm_entry": {
+                    "id": "330",
+                    "name": "Kaupangur",
+                    "lat": "65.642753",
+                    "lng": "-18.025649",
+                    "type": "farm",
+                    "county": "Eyjafj02",
+                    "c": "9",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Situr Glúmur um sumarið í búi sínu. Hann átti og að helga haustþing en þingstöðin er fyrir austan fjörðinn skammt frá  Kaupangi  og fjölmenntu Eyfirðingar mjög en Glúmur hafði þrjá tigu eina manna. Margir töluðu við Glúm að hann skyldi eigi fámennur fara."
+    },
+    {
+        "chapter": "Chapter 27",
+        "concepts": [
+            "Actors: things: spear",
+            "Activities: travel",
+            "Events: hostile encounter",
+            "Physical Landscapes: built environment: building: booth",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Glúmur fór á skipi inn eftir firði og gekk á land og til búða. En þar eru melar brattir og lausgrýttir á milli fjarðarins og búðanna. En er Glúmur kom gagnvert búð þeirri er Einar átti þá hlupu menn frá búðunum og báru skjöldu að þeim og hrundu þeim af melunum og féll Glúmur og veltist með skjöld sinn á eyrina ofan og varð ekki sár en þrjú spjót hafði fest í skildi hans. Þorvaldur tasaldi var þá kominn að landi og sá að Glúmi horfði þá óvænt og hljóp svo á land að hann tók ár í hönd sér og rann í melinn upp og skaut árinni til Guðmundar ríka og kom á skjöldinn og gekk hann í sundur og kom árarhluturinn fyrir brjóst honum og féll hann í óvit og var borinn í fjórum skautum til búðar. Síðan eggjuðu hvorir aðra atgöngu og skutust á og börðust grjóti og varð hörð hríð og urðu margir sárir. Og allir sögðu á eina lund að eigi mættu fáir menn vasklegar verjast en þeir Glúmur. Þeir Einar sóttu að fast. Þá gengu menn í milli og lauk svo að tveir menn féllu af Glúmi, Klængur Narfason og Grímur eyrarleggur bróðir Halldóru konu Glúms."
+    },
+    {
+        "chapter": "Chapter 28",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Það var eitt sumar er þeir riðu af þingi bræður, Guðmundur og Einar, að Glúmur bauð mönnum til sín og sendi menn upp til"
+            },
+            {
+                "as_mentioned": "að bjóða þeim bræðrum heim og lést vilja að nú sættust þeir heilum sáttum \"því að eg em nú fyrir elli sökum til engis fær og mun eg þeim eigi til matar eins bjóða.\""
+            }
+        ],
+        "text": "Það var eitt sumar er þeir riðu af þingi bræður, Guðmundur og Einar, að Glúmur bauð mönnum til sín og sendi menn upp til Öxnadalsheiðar að bjóða þeim bræðrum heim og lést vilja að nú sættust þeir heilum sáttum \"því að eg em nú fyrir elli sökum til engis fær og mun eg þeim eigi til matar eins bjóða.\""
+    },
+    {
+        "chapter": "Chapter 28",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: moving water: river"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Glúmur var þá sjónlaus. Hann lét vörð halda á um ferð þeirra. Guðmundur vildi þiggja boðið en Einar vildi eigi og reið sínum megin ár hvor þeirra. Var Glúmi sagt að annar flokkurinn reið þangað."
+            }
+        ],
+        "text": "Glúmur var þá sjónlaus. Hann lét vörð halda á um ferð þeirra. Guðmundur vildi þiggja boðið en Einar vildi eigi og reið sínum megin ár hvor þeirra. Var Glúmi sagt að annar flokkurinn reið þangað."
+    },
+    {
+        "chapter": "Chapter 28",
+        "concepts": [
+            "Events: construction ",
+            "Physical Landsacpe: built environment: buildings: communal building: church"
+        ],
+        "places": [
+            {
+                "as_mentioned": "En þá er kristni kom út hingað tók Glúmur skírn og lifði þrjá vetur síðan og var biskupaður í banasótt af Kol biskupi og andaðist í hvítavoðum."
+            },
+            {
+                "as_mentioned": " Þá bjó Már Glúmsson í"
+            },
+            {
+                "as_mentioned": "og hafði þar látið kirkju gera og var Glúmur þar jarðaður og svo Már þá er hann andaðist og mart annarra manna því að langa hríð var engi kirkja í"
+            },
+            {
+                "as_mentioned": "nema sú ein."
+            }
+        ],
+        "text": "En þá er kristni kom út hingað tók Glúmur skírn og lifði þrjá vetur síðan og var biskupaður í banasótt af Kol biskupi og andaðist í hvítavoðum.  Þá bjó Már Glúmsson í Fornhaga og hafði þar látið kirkju gera og var Glúmur þar jarðaður og svo Már þá er hann andaðist og mart annarra manna því að langa hríð var engi kirkja í Hörgárdal nema sú ein."
+    }
+]

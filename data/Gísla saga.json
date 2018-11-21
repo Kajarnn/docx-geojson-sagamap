@@ -1,0 +1,2876 @@
+[
+    {
+        "chapter": "Chapter 1",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Nú líður til hólmstefnu framan. Þá berjast þeir og lýkur svo að Ari fellur og lætur líf sitt. Þykist Björn hafa vegið til landa og konu. Gísli segir að hann vill heldur láta líf sitt en þetta gangi fram, vill hann ganga á hólm við Björn."
+    },
+    {
+        "chapter": "Chapter 1",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Gísli bjóst til hólmgöngu og berjast þeir og lýkur svo að Björn fellur. Gísli þóttist nú hafa unnið mikinn sigur og það er sagt að hann biður Ingibjargar og vildi eigi láta góða konu úr ætt ganga og fær hennar. Nú tekur hann allan fjárhlut og gerist mikill maður fyrir sér. Því næst andast faðir hans og tekur Gísli allan fjárhlut eftir hann. Hann lét drepa þá alla sem með Birni höfðu fylgt."
+    },
+    {
+        "chapter": "Chapter 1",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Þrællinn heimti sverð sitt og vill Gísli eigi laust láta og býður hann fé fyrir. En þrællinn vill ekki annað en sverð sitt og fær ekki að heldur. Þetta líkar þrælnum illa og veitir Gísla tilræði; var það mikið sár. Gísli heggur í móti með Grásíðu í höfuð þrælnum svo fast að sverðið brotnaði en hausinn lamdist og fær hvortveggji bana."
+    },
+    {
+        "chapter": "Chapter 2",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grannaskeiðs",
+                "sm_entry": {
+                    "id": "783",
+                    "name": "Grannaskeið",
+                    "lat": "62.972854",
+                    "lng": "8.724935",
+                    "type": "farm",
+                    "info": "=Skei í Surnedal í Noregi.",
+                    "county": "Foreign01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Það er sagt einn tíma að Gísli ræðst í ferð með þeim Bárði og Þorkatli. Hann fór á miðja vega til  Grannaskeiðs , svo heitir þar er Bárður bjó, og þá er minnst von var heggur Gísli Bárð banahögg. Þorkell reiddist og kvað Gísla illa gert hafa en Gísli bað bróður sinn sefast, \"og skiptum við sverðum og haf þú það sem betur bítur;\" hann brá á glens við hann."
+    },
+    {
+        "chapter": "Chapter 2",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Nú fara þeir til Stokka, tuttugu saman, og er þeir komu á bæinn mælir Skeggi til mægða við Þorbjörn, \"en til samfara við Þórdísi, dóttur þína.\""
+    },
+    {
+        "chapter": "Chapter 2",
+        "concepts": [
+            "Physical Landscape: ecological area: woods and trees"
+        ],
+        "places": [],
+        "text": "Nú heyrði Gísli í skóginn og svarar: \"Annað munu húskarlar þínir vinna þarfara og máttu hér þann sjá er þorir að berjast við þig.\""
+    },
+    {
+        "chapter": "Chapter 2",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Og ganga þeir á hólm og berjast og heldur skildi hvor fyrir sig. Skeggi hefur sverð það er Gunnlogi hét og heggur með því til Gísla og gall við hátt. Þá mælti Skeggi:"
+    },
+    {
+        "chapter": "Chapter 3",
+        "concepts": [
+            "Actors: things: skin",
+            "Physical Landscape: built environment: buildings; house",
+            "Actors: plants: crops",
+            "Physical Landscape: built environment: buildings",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Fara þeir nú þaðan sex tugir manna og koma á Stokka um nótt og bera eld að húsum. En þau voru öll í svefni í skemmu einni, Þorbjörn og synir hans og Þórdís. Þar voru inni sýruker tvö í því húsi. Nú taka þeir Gísli hafurstökur tvær og drepa þeim í sýrukerin og verjast svo eldinum og slökkva svo þrisvar þar fyrir þeim eldinn og þá eftir fengu þeir Gísli brotið vegginn og komast svo á brott, tíu saman, og fylgdu reyk til fjalls og komust svo brott úr hunda hljóðum; en tólf menn brunnu þar inni. En þeir þykjast öll þau inni hafa brennt er til komu."
+    },
+    {
+        "chapter": "Chapter 3",
+        "concepts": [
+            "Activities: travel",
+            "Actors: things: boat",
+            "Activities: exchange"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Friðarey",
+                "sm_entry": {
+                    "id": "644",
+                    "name": "Friðarey",
+                    "lat": "59.541667",
+                    "lng": "-1.6225",
+                    "type": "island",
+                    "info": "Frei í Kristiansund í Noregi.",
+                    "county": "Foreign01",
+                    "c": "2",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Æsundir",
+                "sm_entry": {
+                    "id": "784",
+                    "name": "Æsundir",
+                    "lat": "63.047021",
+                    "lng": "8.048817",
+                    "type": "island",
+                    "info": "=Åsen í Norður-Þrændalögum.",
+                    "county": "Foreign01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "En þau Gísli fara uns þau koma í Friðarey til Styrkárs og eflast þaðan að liði og fá fjóra tugi manna og koma á óvart til Kolbjarnar og brenna hann inni við tólfta mann; selja nú lönd sín og kaupa sér skip og voru á sex tugir manna og fara á brott með allt sitt og koma við eyjar þær er Æsundir heita og liggja þar til hafs."
+    },
+    {
+        "chapter": "Chapter 3",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [],
+        "text": "Nú fara þeir þaðan á tveimur bátum fjórir tugir manna og koma norður til Flyðruness. Þeir bræður, Skeggjasynir, voru þá á leið komnir við níunda mann að heimta landskyldir sínar. Þeir Gísli snúa til móts við þá og drepa þá alla; Gísli vó þrjá menn en Þorkell tvo. Eftir það ganga þeir til bæjar og taka þaðan á brott mikið fé. Gísli hjó þá höfuð af Hólmgöngu-Skeggja því að hann var þá þar hjá sonum sínum."
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Dýrafjörð",
+                "sm_entry": {
+                    "id": "645",
+                    "name": "Dýrafjörður",
+                    "lat": "65.894847",
+                    "lng": "-23.600081",
+                    "type": "fjord",
+                    "county": "VesÍsa01",
+                    "c": "20",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Haukadalsós",
+                "sm_entry": {
+                    "id": "646",
+                    "name": "Haukadalsós",
+                    "lat": "65.880683",
+                    "lng": "-23.61892",
+                    "type": "estuary",
+                    "county": "VesÍsa01",
+                    "c": "3",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Síðan fara þeir til skips og láta í haf og eru úti aukið hundrað dægra og koma að hafi vestur í Dýrafjörð á syðri strönd í ós þann er Haukadalsós heitir."
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Actors: plants: crops",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Saurum",
+                "sm_entry": {
+                    "id": "2792",
+                    "name": "Sauðá",
+                    "lat": "65.705369",
+                    "lng": "-19.664539",
+                    "type": "river",
+                    "county": "Skagaf01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Keldudal",
+                "sm_entry": {
+                    "id": "648",
+                    "name": "Keldudalur",
+                    "lat": "65.883395",
+                    "lng": "-23.725689",
+                    "type": "valley",
+                    "county": "VesÍsa01",
+                    "c": "1",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Alviðru",
+                "sm_entry": {
+                    "id": "649",
+                    "name": "Alviðra",
+                    "lat": "65.931218",
+                    "lng": "-23.603855",
+                    "type": "farm",
+                    "county": "VesÍsa01",
+                    "c": "3",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Sæbóli",
+                "sm_entry": {
+                    "id": "650",
+                    "name": "Sæból",
+                    "lat": "65.879222",
+                    "lng": "-23.624867",
+                    "type": "farm",
+                    "county": "VesÍsa01",
+                    "c": "19",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Haukadal",
+                "sm_entry": {
+                    "id": "2579",
+                    "name": "Haukadalsá",
+                    "lat": "65.04618",
+                    "lng": "-21.72263",
+                    "type": "river",
+                    "county": "Dalas01",
+                    "c": "3",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Tveir menn eru nefndir og bjó á sinni ströndinni hvor, Þorkatlar tveir. Annar bjó á Saurum í Keldudal á hinni syðri strönd, þar var Þorkell Eiríksson, en annar bjó á nyrðri strönd í Alviðru , hann var kallaður Þorkell auðgi. Þorkell fór fyrstur virðingarmanna til skips og hitti Þorbjörn súr því að hann var svo kallaður síðan hann varðist með sýrunni. Öll lönd voru þá ónumin á hvorritveggja strönd. Nú keypti Þorbjörn súr land á hinni syðri strönd, á Sæbóli í Haukadal . Þar gerði Gísli bæ og búa þar síðan."
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Physical Landscape: built environment: cairn"
+        ],
+        "places": [],
+        "text": "Nú eftir þetta andast Þorbjörn súr og Þóra kona hans. Nú tekur Gísli og Þorkell bróðir hans við búinu en þau Þorbjörn og Þóra voru í haug lögð."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Activities: farming/cultivation"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Tálknafirði"
+            },
+            {
+                "as_mentioned": "Kvígandafelli",
+                "sm_entry": {
+                    "id": "707",
+                    "name": "Kvígindafell",
+                    "lat": "65.668635",
+                    "lng": "-23.955112",
+                    "type": "farm",
+                    "info": "=Kvígindisfell",
+                    "county": "VesBar01",
+                    "c": "1",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Haukadal",
+                "sm_entry": {
+                    "id": "2579",
+                    "name": "Haukadalsá",
+                    "lat": "65.04618",
+                    "lng": "-21.72263",
+                    "type": "river",
+                    "county": "Dalas01",
+                    "c": "3",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Þorbjörn hét maður og var kallaður selagnúpur; hann bjó í Tálknafirði að Kvígandafelli ; Þórdís hét kona hans en Ásgerður dóttir. Þessarar konu biður Þorkell Súrsson og getur hana að eiga en Gísli Súrsson bað systur Vésteins, Auðar Vésteinsdóttur, og fékk hana; búa nú báðir saman í Haukadal ."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Community Places: administrative unit: local assembly ",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þórsnessþings",
+                "sm_entry": {
+                    "id": "686",
+                    "name": "Þórsnessþing",
+                    "lat": "65.028925",
+                    "lng": "-22.750292",
+                    "type": "assembly site",
+                    "info": "Vorþing á Ísl. að fornu, haldið að Þórsnesi í Helgafellssveit á Snæfellsnesi; eitt elsta þing á Ísl., komið á fót á landnámsöld af Þórólfi mostrarskegg.",
+                    "county": "Snæfe02",
+                    "c": "40",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Þórsnesi",
+                "sm_entry": {
+                    "id": "687",
+                    "name": "Þórsnes",
+                    "lat": "65.028821",
+                    "lng": "-22.754741",
+                    "type": "farm",
+                    "county": "Snæfe02",
+                    "c": "22",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Eitthvert vor átti Þorkell hinn auðgi Þórðarson, Víkingssonar, för suður til Þórsnessþings og fylgdu honum Súrssynir. Í Þórsnesi bjó þá Þorsteinn þorskabítur, Þórólfsson Mostraskeggs; hann átti Þóru Ólafsdóttur, Þorsteinssonar, börn þeirra voru þau Þórdís og Þorgrímur og Börkur hinn digri. Þorkell lauk málum sínum á þinginu."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hvolseyrarþings",
+                "sm_entry": {
+                    "id": "708",
+                    "name": "Hvolseyrarþing",
+                    "lat": "65.847934",
+                    "lng": "-23.258991",
+                    "type": "assembly site",
+                    "county": "VesÍsa01",
+                    "c": "2",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "En eftir þingið bauð Þorsteinn heim Þorkatli auðga og Súrssonum og gaf þeim góðar gjafir að skilnaði en þeir buðu heim Þorsteinssonum vestur þangað annað vor til þings. Og nú fara þeir heim. En að öðru vori fara þeir vestur þangað, Þorsteinssynir, tólf saman, til Hvolseyrarþings og hittast þeir þar, Súrssynir. Bjóða þeir þá Þorsteinssonum heim af þinginu en áður skyldu þeir vera að heimboði hjá Þorkatli auðga, eftir það fara þeir til Súrssona og þiggja þar veislu góða."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Physical Landscape: built environment: field boundary: fence"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Sæból",
+                "sm_entry": {
+                    "id": "650",
+                    "name": "Sæból",
+                    "lat": "65.879222",
+                    "lng": "-23.624867",
+                    "type": "farm",
+                    "county": "VesÍsa01",
+                    "c": "19",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Þórsnesi",
+                "sm_entry": {
+                    "id": "687",
+                    "name": "Þórsnes",
+                    "lat": "65.028821",
+                    "lng": "-22.754741",
+                    "type": "farm",
+                    "county": "Snæfe02",
+                    "c": "22",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þorgrími líst systir þeirra bræðra væn og biður hennar og því næst er hún honum föstnuð og er þá þegar gert brúðkaupið og fylgir henni heiman Sæból og réðst Þorgrímur vestur þangað en Börkur er eftir í Þórsnesi og hjá honum systursynir hans, Saka-Steinn og Þóroddur."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Community Places: administrative unit: local assembly "
+        ],
+        "places": [],
+        "text": "Þeir fara nú til vorþings eitt vor með fjóra tugi manna og voru allir í litklæðum. Þar var í för Vésteinn, mágur Gísla, og allir Sýrdælir."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: booth",
+            "Community Places: administrative unit: local assembly"
+        ],
+        "places": [],
+        "text": "Gestur hét maður og var Oddleifsson; hann var kominn til þings og var í búð hjá Þorkatli auðga. Nú sitja þeir við drykkju, Sýrdælir, en aðrir menn voru að dómum því að sóknarþing var."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Ideas: power: legal power"
+        ],
+        "places": [],
+        "text": "Ganga þeir nú til dóma og spyr Þorgrímur ef nokkrir væru þeir menn er þyrftu þeirra liðveislu; \"og skal ekki eftir liggja það sem vér megum þeim veita meðan vér erum uppi sem vér heitum voru liði.\""
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: booth"
+        ],
+        "places": [],
+        "text": "En Arnór var hjá þessu þeirra tali og hleypur inn í búð þeirra Haukdæla og segir þeim þessi orð."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Activities: cuiltivation/farming",
+            "Actors: things: spear"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eyrarhvolsodda"
+            }
+        ],
+        "text": "En þeim sýndist þetta ráðlegt. Ganga nú út í Eyrarhvolsodda og rista þar upp úr jörðu jarðarmen svo að báðir endar voru fastir í jörðu og settu þar undir málaspjót, það er maður mátti taka hendi sinni til geirnagla. Þeir skyldu þar fjórir undir ganga , Þorgrímur, Gísli, Þorkell og Vésteinn. Og nú vekja þeir sér blóð og láta renna saman dreyra sinn í þeirri moldu er upp var skorin undan jarðarmeninu og hræra saman allt moldina og blóðið; en síðan féllu þeir allir á kné og sverja þann eið að hver skal annars hefna sem bróður síns og nefna öll goðin í vitni."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Fara nú menn heim af þinginu."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Actors: things: wood",
+            "Actors: things: money",
+            "Activities: exchange",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Dýrafirði"
+            },
+            {
+                "as_mentioned": "Sandaósi",
+                "sm_entry": {
+                    "id": "709",
+                    "name": "Sandaós",
+                    "lat": "65.876291",
+                    "lng": "-23.547505",
+                    "type": "estuary",
+                    "county": "VesÍsa01",
+                    "c": "4",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Það bar til tíðinda um sumarið að skip kom út í Dýrafirði og áttu bræður tveir, norrænir menn; hét annar Þórir en annar Þórarinn og voru víkverskir menn að kyni. Þorgrímur reið til skips og keypti fjögur hundruð viðar og gaf sumt verðið þegar í hönd en sumt á frest. Nú setja kaupmenn upp skip sitt í Sandaósi og taka sér síðan vistir."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eyri",
+                "sm_entry": {
+                    "id": "120",
+                    "name": "Eyrar",
+                    "lat": "63.861632",
+                    "lng": "-21.142065",
+                    "type": "harbour",
+                    "info": "=Eyrarbakki. Main port for south of Iceland for many centuries.",
+                    "county": "Árnes01",
+                    "c": "28",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Skutulsfirði"
+            }
+        ],
+        "text": "Oddur er maður nefndur og var Örlygsson; hann bjó á Eyri í Skutulsfirði ; hann tók við stýrimönnum. Nú sendir Þorgrímur Þórodd son sinn að bera saman við sinn og telja því að hann ætlaði heim að flytja bráðlega. Og kemur hann til og tekur viðinn og ber saman og þykir þó nokkuð annan veg um kaup þeirra en Þorgrímur hafði frá sagt. Mælti hann þá illa við Austmennina en þeir stóðust það eigi og vinna að honum og vega hann."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Activities: travel",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Dýrafjörð",
+                "sm_entry": {
+                    "id": "645",
+                    "name": "Dýrafjörður",
+                    "lat": "65.894847",
+                    "lng": "-23.600081",
+                    "type": "fjord",
+                    "county": "VesÍsa01",
+                    "c": "20",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Skutilsfirði"
+            }
+        ],
+        "text": "Síðan fara Austmenn frá skipi eftir verk þetta. Þeir fara um Dýrafjörð og fá sér hesta og vilja ná til vistar sinnar. Þeir fara dag þann og um nóttina uns þeir koma í dal þann er gengur upp af Skutilsfirði og eta þar dögurð og fara að sofa síðan."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: things: spear",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Dögurðardalur",
+                "sm_entry": {
+                    "id": "712",
+                    "name": "Dögurðardalur",
+                    "lat": "66.038398",
+                    "lng": "-23.210593",
+                    "type": "valley",
+                    "info": "=Dagverðardalur",
+                    "county": "NorÍsa01",
+                    "c": "1",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Austmannafall",
+                "sm_entry": {
+                    "id": "733",
+                    "name": "Austmannafall",
+                    "lat": "66.042003",
+                    "lng": "-23.267727",
+                    "type": "mountain",
+                    "info": "Hið efra Austmannafall er líklega það sem hér er átt við.",
+                    "county": "NorÍsa01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Nú eru Þorgrími sögð tíðindi þessi og býst hann þegar heiman og lætur flytja sig yfir fjörð og fer eftir þeim einn saman. Hann kemur að þeim þar sem þeir lágu og vekur Þórarin, stingur á honum spjótskafti sínu. En hann hleypur upp við og vill taka til sverðs síns því að hann kenndi Þorgrím. En Þorgrímur leggur á honum með spjóti og vegur hann. Nú vaknar Þórir og vill hefna félaga síns. En Þorgrímur leggur hann spjóti í gegnum. Þar heitir nú Dögurðardalur og Austmannafall . Eftir þetta fer Þorgrímur heim og verður nú frægur af ferð þessari. Situr hann nú í búi sínu um veturinn."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Activities: travel",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Noregi",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Skeljavík",
+                "sm_entry": {
+                    "id": "734",
+                    "name": "Skeljavík",
+                    "lat": "65.700653",
+                    "lng": "-21.725557",
+                    "type": "farm",
+                    "county": "Strand01",
+                    "c": "2",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Steingrímsfirði"
+            },
+            {
+                "as_mentioned": "Meðaldal",
+                "sm_entry": {
+                    "id": "735",
+                    "name": "Meðaldalur",
+                    "lat": "65.870258",
+                    "lng": "-23.591226",
+                    "type": "farm",
+                    "county": "VesÍsa01",
+                    "c": "4",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Sæbóli",
+                "sm_entry": {
+                    "id": "650",
+                    "name": "Sæból",
+                    "lat": "65.879222",
+                    "lng": "-23.624867",
+                    "type": "farm",
+                    "county": "VesÍsa01",
+                    "c": "19",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "En um vorið búa þeir mágar, Þorgrímur og Þorkell, skip þar er Austmennirnir höfðu átt. Austmenn þessir voru óeirðarmenn miklir í Noregi og höfðu átt þar óvært. Nú búa þeir skip þetta og fara utan. Það sumar fara og utan Vésteinn og Gísli í Skeljavík í Steingrímsfirði . Og láta hvorirtveggja í haf. Önundur úr Meðaldal ræður fyrir búi þeirra Þorkels og Gísla en Saka-Steinn fyrir með Þórdísi á Sæbóli ."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hörðalandi",
+                "sm_entry": {
+                    "id": "15",
+                    "name": "Hörðaland",
+                    "lat": "60.434988",
+                    "lng": "6.007361",
+                    "type": "region",
+                    "info": "Hörðaland district in Norway",
+                    "county": "Foreign01",
+                    "c": "33",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þeir Gísli og Vésteinn voru úti meir en hundruð dægra og sigla um veturnáttaskeið að Hörðalandi í miklu fjúki og ofviðri um nótt, brjóta skipið í spón en halda fé sínu og mönnum."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Activities: travel",
+            "Actors: things: boat",
+            "Activities: exchange"
+        ],
+        "places": [],
+        "text": "Maður hét Skegg-Bjálfi og átti skip í förum. Hann ætlaði til  Danmerkur suður. Þeir fala að honum skipið hálft en hann kveðst spurt hafa að þeir voru góðir drengir og gaf þeim hálft skipið og launa þeir þegar meir en fullu."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Events: production"
+        ],
+        "places": [],
+        "text": "Og einn morgun rís Gísli upp og gengur að smiðju; hann var allra manna hagastur og ger að sér um alla hluti. Hann gerði pening, þann er eigi stóð minna en eyri og hnitar saman peninginn og eru tuttugu naddar á, tíu á hvorum hlutnum, og þykir sem heill sé ef saman er lagður og má þó taka í sundur í tvo hluti."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: exchange",
+            "Actors: things: money",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Nú fer Vésteinn vestur til  Englands  en þeir Gísli og Bjálfi til Noregs og út um sumarið til  Íslands  og varð gott til fjár og góðrar sæmdar og skildu vel sitt félag og kaupir nú Bjálfi skip hálft að Gísla."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Actors: boat",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": ""
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Nú búa þeir skip sitt í öðrum stað, Þorgrímur og Þorkell, og koma út hingað í  Haukadalsárós  í  Dýrafjörð  þann sama dag sem Gísli hafði áður inn siglt byrðingnum. Nú hittast þeir brátt og verður þar fagnafundur og fara nú hvorirtveggja til eigna sinna. Hefur þeim og gott til fjár orðið, Þorgrími og Þorkatli."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Events: production",
+            "Community Places: Administrative Units: Farm",
+            "Activities: farming/cultivation"
+        ],
+        "places": [],
+        "text": "Það var einn góðan veðurdag að Gísli lét alla menn vinna heyverk nema Þorkell, hann var einn heima karla á bænum og hafði lagst niður í eldhúsi eftir dögurð sinn. Eldhúsið var tírætt að lengd en tíu faðma breitt en utan og sunnan undir eldhúsinu stóð dyngja þeirra Auðar og Ásgerðar og sátu þær þar og saumuðu. En er Þorkell vaknar gengur hann til dyngjunnar því að hann heyrði þangað mannamál og leggst þar niður hjá dyngjunni."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Ideas: fate"
+        ],
+        "places": [],
+        "text": "\"Eigi sé eg hér ráð til,\" sagði hann, \"það sem duga mun. En þó mun eg ekki kunna þig um þetta því að mæla verður einnhver skapanna málum og það mun fram koma sem auðið verður.\""
+    },
+    {
+        "chapter": "Chapter 10",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Þorkell mælti: \"Ekki er undir hvað um er talað, skipta skal fénu að vísu; og fyrir því að eg beiði skiptis þá skaltu hafa bólstað og föðurleifð okkar en eg skal hafa lausafé.\""
+    },
+    {
+        "chapter": "Chapter 10",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Actors: things: money",
+            "Activities: land management"
+        ],
+        "places": [],
+        "text": "Svo lauk að Gísli skipti en Þorkell kaus lausafé en Gísli hefur land. Þeir skiptu og ómegð; það voru börn tvö; hét sveinninn Geirmundur en  Guðríður mærin og var hún með Gísla en Geirmundur með Þorkatli. Fer Þorkell til Þorgríms mágs síns og býr við hann; en Gísli hafði bú eftir og saknar einskis í að nú sé búið verra en áður. Og líður nú svo sumarið og kemur að veturnóttum."
+    },
+    {
+        "chapter": "Chapter 10",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Gísli mælti: \"Annan veg er mér þetta gefið því eg vildi gjarna gefa til að hann kæmi hér nú eigi.\""
+    },
+    {
+        "chapter": "Chapter 11",
+        "concepts": [
+            "Actors: supernatural actors: sorcerer"
+        ],
+        "places": [],
+        "text": "Maður hét Þorgrímur og var kallaður nef. Hann bjó á  Nefsstöðum  fyrir innan  Haukadalsá . Hann var fullur af gerningum og fjölkynngi og var seiðskratti sem mestur mátti verða. Honum bjóða þeir Þorgrímur og Þorkell til sín því að þeir höfðu þar og boð inni. Þorgrímur var hagur á járn og er þess við getið að þeir ganga til smiðju, báðir Þorgrímarnir og Þorkell, og síðan byrgja þeir smiðjuna. Nú eru tekin Grásíðubrot er Þorkell hafði hlotið úr skiptinu þeirra bræðra og gerir Þorgrímur þar af spjót og var það algert að kveldi; mál voru í og fært í hefti spannar langt. Nú verður þar að hvílast."
+    },
+    {
+        "chapter": "Chapter 11",
+        "concepts": [
+            "Actors: animals: mammals: horses",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Síðan fara þeir og hafa skip úr  Haukadal  og róa til  Lækjaróss  og ganga þar á land og til bónda þess er þar bjó á  Bessastöðum , hann hét og Bessi. Þeir bera honum orð Gísla að hann léði þeim hesta tvo er hann átti og hétu Bandvettir er skjótastir voru í fjörðum. Hann ljær þeim hestana og ríða þeir uns þeir komu á  Mosvöllu  og þaðan inn undir  Hest ."
+    },
+    {
+        "chapter": "Chapter 12",
+        "concepts": [
+            "Activities: travel",
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Holti",
+                "sm_entry": {
+                    "id": "82",
+                    "name": "Holt",
+                    "lat": "63.55091",
+                    "lng": "-19.792196",
+                    "type": "farm",
+                    "county": "Rangár01",
+                    "c": "14",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Dýrafjarðar",
+                "sm_entry": {
+                    "id": "645",
+                    "name": "Dýrafjörður",
+                    "lat": "65.894847",
+                    "lng": "-23.600081",
+                    "type": "fjord",
+                    "county": "VesÍsa01",
+                    "c": "20",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Þorvarður hét maður er bjó í Holti . Húskarlar hans deildu um verk og hjuggust með ljáum og varð hvorttveggja sár. Kemur Vésteinn til og sættir þá og gerir svo að hvorumtveggja hugnar vel; ríður nú út til Dýrafjarðar og Austmenn, þrír saman."
+    },
+    {
+        "chapter": "Chapter 12",
+        "concepts": [
+            "Activities: travel",
+            "Actors: animals: mammals: horses",
+            "Physical Landscape: unmanaged landscape area: moving water: streams"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hest",
+                "sm_entry": {
+                    "id": "82",
+                    "name": "Holt",
+                    "lat": "63.55091",
+                    "lng": "-19.792196",
+                    "type": "farm",
+                    "county": "Rangár01",
+                    "c": "14",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Mosvalla",
+                "sm_entry": {
+                    "id": "2595",
+                    "name": "Mosfell",
+                    "lat": "64.13402",
+                    "lng": "-20.60462",
+                    "type": "mountain",
+                    "county": "Árnes01",
+                    "c": "5",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Bjarnardal",
+                "sm_entry": {
+                    "id": "743",
+                    "name": "Bjarnardalur",
+                    "lat": "65.985292",
+                    "lng": "-23.432584",
+                    "type": "valley",
+                    "info": "=Bjarnadalur.",
+                    "county": "VesBar01",
+                    "c": "1",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Arnkelsbrekku",
+                "sm_entry": {
+                    "id": "744",
+                    "name": "Arnkelsbrekka",
+                    "lat": "65.97153",
+                    "lng": "-23.446628",
+                    "type": "assembly site",
+                    "county": "VesÍsa01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Gemlufallsheiði",
+                "sm_entry": {
+                    "id": "745",
+                    "name": "Gemlufallsheiði",
+                    "lat": "65.936388",
+                    "lng": "-23.431457",
+                    "type": "heath",
+                    "county": "VesÍsa01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "En þeir koma undir Hest , Hallvarður og Hávarður, og fregna nú hið sanna um ferð Vésteins, riðu nú aftur sem þeir mega. Og er þeir koma til Mosvalla þá sáu þeir mannareið í miðjum dal og var þá leiti í millum þeirra; ríða nú í Bjarnardal og koma til Arnkelsbrekku ; þar springa báðir hestarnir. Þeir renna þá af hestunum og kalla. Heyra þeir Vésteinn nú og voru þá komnir á Gemlufallsheiði og bíða nú og hittast þeir og bera upp erindi sín, bera nú fram peninginn, þann er Gísli sendi honum."
+    },
+    {
+        "chapter": "Chapter 12",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Þeir fara heim og segja Gísla. Hann svarar. \"Svo verður nú að vera.\""
+    },
+    {
+        "chapter": "Chapter 12",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Gemlufalls",
+                "sm_entry": {
+                    "id": "746",
+                    "name": "Gemlufall",
+                    "lat": "65.894534",
+                    "lng": "-23.461881",
+                    "type": "farm",
+                    "county": "VesÍsa01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Vésteinn fer til Gemlufalls til Lútu frændkonu sinnar og lætur hún flytja hann yfir fjörðinn og mælti við hann: \"Vésteinn,\" sagði hún, \"vertu var um þig; þurfa muntu þess.\""
+    },
+    {
+        "chapter": "Chapter 12",
+        "concepts": [
+            "Actors: animals: mammals: horse",
+            "Physical Landscape: built environment: buildings: house"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þingeyrar",
+                "sm_entry": {
+                    "id": "1802",
+                    "name": "Þingeyrar",
+                    "lat": "65.552653",
+                    "lng": "-20.404125",
+                    "type": "farm",
+                    "county": "AusHún01",
+                    "c": "3",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Sandaóss",
+                "sm_entry": {
+                    "id": "709",
+                    "name": "Sandaós",
+                    "lat": "65.876291",
+                    "lng": "-23.547505",
+                    "type": "estuary",
+                    "county": "VesÍsa01",
+                    "c": "4",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Hann er fluttur til Þingeyrar , þar bjó þá maður er Þorvaldur gneisti hét. Vésteinn gengur þar til húss og lét Þorvaldur honum heimilan hest sinn; ríður hann nú við hrynjandi og hefur sitt söðulreiði. Hann fylgir honum til Sandaóss og bauð að fylgja honum allt til Gísla. Hann kvað eigi þess þurfa."
+    },
+    {
+        "chapter": "Chapter 12",
+        "concepts": [
+            "Activities: animal husbandry: herding",
+            "Actors: animals: domestic animals: livestock",
+            "Physical Landscape: Managed landscape area: agricultural landscape: field",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Haukadal",
+                "sm_entry": {
+                    "id": "2579",
+                    "name": "Haukadalsá",
+                    "lat": "65.04618",
+                    "lng": "-21.72263",
+                    "type": "river",
+                    "county": "Dalas01",
+                    "c": "3",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "\"Margt hefur skipast í Haukadal ,\" sagði hann, \"og vertu var um þig.\""
+    },
+    {
+        "chapter": "Chapter 12",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: agricultural building: byre",
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Sæból",
+                "sm_entry": {
+                    "id": "650",
+                    "name": "Sæból",
+                    "lat": "65.879222",
+                    "lng": "-23.624867",
+                    "type": "farm",
+                    "county": "VesÍsa01",
+                    "c": "19",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "\"Kom þú ekki hér á Sæból og far til Gísla og ver var um þig.\""
+    },
+    {
+        "chapter": "Chapter 12",
+        "concepts": [
+            "Actors: things: spear"
+        ],
+        "places": [],
+        "text": "\"Eg þóttist kenna að Vésteinn var hér kominn,\" sagði Rannveig, \"og var í blárri kápu og spjót í hendi og reið við hrynjandi.\""
+    },
+    {
+        "chapter": "Chapter 12",
+        "concepts": [
+            "Actors: things: spear"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Meðaldal",
+                "sm_entry": {
+                    "id": "735",
+                    "name": "Meðaldalur",
+                    "lat": "65.870258",
+                    "lng": "-23.591226",
+                    "type": "farm",
+                    "county": "VesÍsa01",
+                    "c": "4",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "\"Ógerla sá eg til en húskarl ætla eg Önundar úr Meðaldal og var í kápu Gísla en söðulreiði Önundar og í hendi fiskistöng og veðrar af upp."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Physical Process: weather: wind/ rain",
+            "Physical Landscape: built environment: building: house"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hóli",
+                "sm_entry": {
+                    "id": "1839",
+                    "name": "Sóli",
+                    "lat": "58.888529",
+                    "lng": "5.652754",
+                    "type": "farm",
+                    "county": "Foreign01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú bar það til nýlundu á Hóli að Gísli lætur illa í svefni tvær nætur í samt og spyrja menn hvað hann dreymdi . Hann vill eigi segja drauma sína."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Actors: things: crops"
+        ],
+        "places": [],
+        "text": "Gísli spratt upp skjótt og heitir á menn sína að skýli. En þræll einn var með Gísla sá er Þórður hét og kallaður hinn huglausi. Þrællinn var heima en Gísli fór og nær allir mennirnir með honum til heyjanna að duga þeim við. Vésteinn bauð að fara með þeim en Gísli vill eigi það. Og nú er mest tóku að drjúpa húsin þá snúa þau systkin rekkjum sínum um endilangt húsið; en allir menn aðrir voru brott flýðir úr húsinu nema þau tvö ein."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: things: spear"
+        ],
+        "places": [],
+        "text": "Nú er gengið inn nokkuð fyrir lýsing, hljóðlega, og þangað að sem Vésteinn hvílir. Hann var þá vaknaður. Eigi finnur hann fyrr en hann er lagður spjóti fyrir brjóstið svo að stóð í gegnum hann ."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Actors: humans: dead "
+        ],
+        "places": [],
+        "text": "Og því næst gekk maðurinn út. En Vésteinn vildi upp standa; í því fellur hann niður fyrir stokkinn, dauður. Auður vaknar við og kallar á Þórð hinn huglausa og biður hann taka vopnið úr undinni. Það var þá mælt að sá væri skyldur að hefna er vopni kippti úr sári; en það voru kölluð launvíg  en eigi morð ef menn létu vopn eftir í beninni standa. Þórður var svo líkblauður maður að hann þorði hvergi í nánd að koma."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Actors: things: spear"
+        ],
+        "places": [],
+        "text": "Gísli kom þá inn og sá hver efni í voru og bað Þórð vera kyrran. Hann tók sjálfur spjótið úr sárinu og kastaði alblóðugu í örk eina og lét engan mann sjá og settist á stokkinn. Síðan lét hann búa um lík Vésteins eftir þeirri siðvenju er þá var í þann tíma. Vésteinn var mjög harmdauða bæði Gísla og öðrum mönnum."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Sæból",
+                "sm_entry": {
+                    "id": "650",
+                    "name": "Sæból",
+                    "lat": "65.879222",
+                    "lng": "-23.624867",
+                    "type": "farm",
+                    "county": "VesÍsa01",
+                    "c": "19",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Hún fer og kemur á Sæból . Þeir voru upp risnir og sátu með vopnum, Þorgrímar tveir og Þorkell. Og er hún kom inn var henni heilsað óbrátt því að fólk var flest fámálugt. Þó spyr Þorgrímur hana tíðinda. Hún sagði víg Vésteins eða morð."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Hún fer heim og segir Gísla að Þorgrímur sat með hjálm og sverð og öllum herbúnaði en Þorgrímur nef hafði bolöxi í hendi en Þorkell hafði sverð og brugðið af handfang, \"allir menn voru þar upp risnir, sumir með vopnum.\""
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Events: burial",
+            "Events: construction"
+        ],
+        "places": [],
+        "text": "Gísli býst nú til að heygja Véstein með allt lið sitt í sandmel þeim er á stenst og  Seftjörn , fyrir neðan  Sæból . Og er Gísli var á leið kominn þá fara þeir Þorgrímur með marga menn til haugsgerðarinnar."
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Physical Landscapes: built environment: cairn"
+        ],
+        "places": [],
+        "text": "Eftir þetta setjast þeir niður fyrir utan hauginn og talast við og láta allólíklega að nokkur viti hver þennan glæp hefur gert."
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Actors: animals: snake/wolf"
+        ],
+        "places": [],
+        "text": "\"Vita muntu það þykjast,\" segir Gísli; \"hún berst af lítt og þykir mikið. Draum dreymdi mig,\" segir Gísli, \"í fyrri nótt og svo í nótt en þó vil eg eigi á kveða hver vígið hefur unnið en á hitt horfir um draumana. Það dreymdi mig hina fyrri nótt að af einum bæ hrökktist höggormur og hyggi Véstein til bana. En hina síðari nótt dreymdi mig að vargur rynni af sama bæ og biti Véstein til bana. Og sagði eg því hvorugan drauminn fyrr en nú að eg vildi að hvorugur réðist.\""
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Activities: socializing "
+        ],
+        "places": [
+            {
+                "as_mentioned": "Seftjörn",
+                "sm_entry": {
+                    "id": "748",
+                    "name": "Seftjörn",
+                    "lat": "65.8803634577317",
+                    "lng": "-23.6226761341095",
+                    "type": "other",
+                    "county": "VesÍsa01",
+                    "c": "3",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Tókust nú upp leikar sem ekki hefði í orðið. Eiga þeir mágar oftast leik saman, Gísli og Þorgrímur, og verða menn eigi á sáttir hvor sterkari er en þó ætla flestir Gísla aflameiri. Þeir leika knattleika á tjörn þeirri er  Seftjörn heitir; þar var jafnan fjölmennt."
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Activities: socializing"
+        ],
+        "places": [],
+        "text": "Nú leika þeir og hefur Þorgrímur ekki við, felldi Gísli hann og bar út knöttinn. Þá vill Gísli taka knöttinn en Þorgrímur heldur honum og lætur hann eigi því ná. Þá fellir Gísli svo hart Þorgrím svo að hann hafði ekki  við og af gekk skinnið af hnúunum en blóð stökk úr nösunum; af gekk og kjötið af knjánum ."
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Physical Landscape: built environment: cairn"
+        ],
+        "places": [],
+        "text": "Þorgrímur stóð seint upp; hann leit til haugsins Vésteins og mælti :"
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Gísli tók knöttinn á skeiði og rekur á milli herða Þorgrími svo að hann steypist áfram og mælti:"
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "\"Nú skal fara,\" sagði hann, \"þó að nú sé verra; en vit það fyrir víst að hafa skal eg vilja til að fá þér fylu er þú færð mér fola og er þó eigi varlaunað.\""
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Gísli mælti við Auði, konu sína: \"Eg hef ekki gefið hesti Þorkels hins auðga og gakk þú með mér og lát loku fyrir hurð og vaki á meðan eg geng í brott og lát frá loku er eg kem aftur.\""
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: house",
+            "Actors: animals: mammals: cows",
+            "Physical Landscape: built environment: buildings: agriciultural buildings: byre",
+            "Physical Landscape: built environment: buildings",
+            "Community Places: administrative unit: farm",
+            "Physical Landscape: unmanaged landscape area: moving water: stream",
+            "Actors: things: spear"
+        ],
+        "places": [
+            {
+                "as_mentioned": "lækjar",
+                "sm_entry": {
+                    "id": "2643",
+                    "name": "Giljar",
+                    "lat": "64.671681",
+                    "lng": "-21.071434",
+                    "type": "farm",
+                    "county": "Mýras01",
+                    "c": "2",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Sæbóli",
+                "sm_entry": {
+                    "id": "650",
+                    "name": "Sæból",
+                    "lat": "65.879222",
+                    "lng": "-23.624867",
+                    "type": "farm",
+                    "county": "VesÍsa01",
+                    "c": "19",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Hann tekur spjótið Grásíðu úr örkinni og er í kápu blárri og skyrtu og í línbrókum og gengur hann síðan til lækjar þess er fellur á milli bæjanna og tekið var neytingarvatn af hvorumtveggja bænum. Hann gengur götu til lækjarins en veður síðan lækinn til götu þeirrar er lát til hins bæjarins. Gísla var kunnug húsaskipan á Sæbóli því að hann hafði gert þar bæinn. Þar var innangengt í fjós. Þangað gengur hann. Þar stóðu þrír tugir kúa hvorum megin; hann hnýtir saman halana á nautunum og lýkur aftur fjósinu og býr svo um að eigi má upp lúka þó að innan sé til komið. Síðan fer hann til mannhúsanna og hafði Geirmundur geymt hlutverka sinna því að loka var engin fyrir hurðum. Gengur hann hús inn og lýkur aftur hurðunni sem um aftaninn hafði verið um búið. Nú fer hann að öllu tómlega. Eftir það stendur hann og hlýðist um hvort nokkrir vektu og verður hann þess var að allir menn sofa."
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Hún hugði að hann legði höndina fyrir hana. Gísli bíður þá enn um stund og vermir höndina á serk sér en þau sofna bæði. Nú tekur hann á Þorgrími kyrrt svo að hann vaknaði. Hann hugði að hún Þórdís vekti hann og snerist þá að henni. Gísli tekur þá klæðin af þeim annarri hendi en með annarri leggur hann í gegnum Þorgrím með Grásíðu svo að í beðnum nam stað."
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: agricultural buildings: byre"
+        ],
+        "places": [],
+        "text": "Gísli snýr í brott skyndilega til fjóssins, gengur þar út sem hann hafði ætlað og lýkur aftur eftir sér rammlega, snýr heim síðan hina sömu leið og má hvergi sjá spor hans. Auður lætur lok frá hurðu er hann kom heim og fer hann í sæng sína og lætur sem ekki sé í orðið eða hann eigi um ekki að vera."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Actors: humans: dead human",
+            "Actors: things: spear"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hól",
+                "sm_entry": {
+                    "id": "309",
+                    "name": "Hóll",
+                    "lat": "65.7215935565506",
+                    "lng": "-18.1892395019531",
+                    "type": "farm",
+                    "info": "Sennilega Brennihóll",
+                    "county": "Eyjafj02",
+                    "c": "4",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Og svo var gert. Þykir mönnum, er eigi verður við vegandann vart, sem sá muni þar nokkur inni vera er verkið hefur unnið. Líður nú til þess er dagur kemur. Er þá tekið lík Þorgríms og brott kippt spjótinu og til graftar búið og er þar að sex tugir manna, fara nú á  Hól  til Gísla. Þórður hinn huglausi var úti og er hann sér liðið hleypur hann inn og segir að her manns fer að bænum og var hann allmjög flaumósi."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Community Places: Administrative Units: farm"
+        ],
+        "places": [],
+        "text": ""
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Physical Landscape: built environment: cairn",
+            "Events: burial",
+            "Actors: boats",
+            "Events: construction",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Sæból",
+                "sm_entry": {
+                    "id": "650",
+                    "name": "Sæból",
+                    "lat": "65.879222",
+                    "lng": "-23.624867",
+                    "type": "farm",
+                    "county": "VesÍsa01",
+                    "c": "19",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Þetta þiggja þeir og fara allir saman á  Sæból  til haugsgerðar og leggja Þorgrím í skip. Nú verpa þeir hauginn eftir fornum sið."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Actors: things: boat",
+            "Physical Landscape: built environment: cairn"
+        ],
+        "places": [
+            {
+                "as_mentioned": "óssins",
+                "sm_entry": {
+                    "id": "2327",
+                    "name": "Bossons",
+                    "lat": "45.900895",
+                    "lng": "6.850043",
+                    "type": "mountain",
+                    "county": "Foreign01",
+                    "c": "1",
+                    "distance": 3
+                }
+            }
+        ],
+        "text": "Og er búið er að lykja hauginn þá gengur Gísli til  óssins  og tekur upp stein einn, svo mikinn sem bjarg væri, og leggur í skipið svo að nær þótti hvert tré hrökkva fyrir en brakaði mjög í skipinu og mælti: \"Eigi kann eg skip að festa ef þetta tekur veður upp.\""
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Nú búast þeir heim frá haugnum. Þá mælti Gísli við Þorkel, bróður sinn: \"Það þykist eg að þér eiga, bróðir, að nú sé okkar vinfengi sem þá er best hefur verið og tökum nú upp leika.\""
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Actors: animals: mammals: ox"
+        ],
+        "places": [],
+        "text": "Það er næst til tíðinda að Börkur kaupir að Þorgrími nef að hann seiddi seið að þeim manni yrði ekki að björg er Þorgrím hefði vegið þó að menn vildu duga honum. Uxi, níu vetra gamall, var honum gefinn til þess. Nú flytur Þorgrímur fram seiðinn og veitir sér umbúð eftir venju sinni og gerir sér hjall og fremur hann þetta fjölkynngilega með allri ergi og skelmiskap."
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Physical Process: weather: snow",
+            "Physical Landscape: built environment: cairn"
+        ],
+        "places": [],
+        "text": "Varð og sá hlutur einn er nýnæmum þótti gegna að aldrei festi snæ utan og sunnan á haugi Þorgríms og eigi fraus; og gátu menn þess til að hann myndi frey svo ávarður fyrir blótin að hann myndi eigi vilja að freri á milli þeirra."
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Activities: socializing",
+            "Physical Landscape: built environment: cairn"
+        ],
+        "places": [],
+        "text": "Einhvern dag kom þar fjöldi manna að sjá leikinn því að mörgum var mikil forvitni á að sjá leikinn og vita hver sterkastur væri eða leikmaður bestur. En þar var sem víða annars staðar að mönnum er þess meira kapp á er fleiri koma til leikanna. Þess er getið að Börkur hefði ekki við Þorsteini um daginn og að lyktum reiddist Börkur og braut í sundur knatttré Þorsteins en Þorsteinn felldi hann og rak við svellinu niður."
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: moving water: river"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Orrastöðum",
+                "sm_entry": {
+                    "id": "752",
+                    "name": "Orrastaðir",
+                    "lat": "65.866466",
+                    "lng": "-23.642379",
+                    "type": "farm",
+                    "county": "VesÍsa01",
+                    "c": "1",
+                    "distance": 3
+                }
+            }
+        ],
+        "text": "Maður hét Þorgeir og var kallaður orri; hann bjó á  Orrastöðum . Bergur hét maður og var kallaður skammfótur; hann bjó á Skammfótarmýri fyrir austan ána."
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Event: hostile encounter"
+        ],
+        "places": [],
+        "text": "Og nú er menn fara heim ræða þeir um leikinn, Þorsteinn og Bergur, og deila að lyktum, er Bergur með berki en Þorsteinn mælir í móti og lýstur Bergur Þorstein öxar hamarshögg; en Þorgeir stendur á milli og fær Þorsteinn eigi hefnt sín, fer heim til móður sinnar, Auðbjargar, bindur hún um sár hans og lætur eigi vel yfir hans ferð."
+    },
+    {
+        "chapter": "Chapter 18",
+        "concepts": [
+            "Physical Process: landscape change: natural change",
+            "Physical Processes: weather: snow/flood",
+            "Physical Landscape: built environment: buildings: house"
+        ],
+        "places": [],
+        "text": "Kerling fær ekki sofnað um nóttina, svo var henni bimbult. Veður var kalt úti og logn og heiðríkt. Hún gengur nokkrum sinnum andsælis um húsin  og viðrar í allar ættir og setur upp nasirnar. En við þessa hennar meðferð þá tók veðrið að skipast og gerir á fjúk mikið og eftir það þey og brestur flóð í hlíðinni og hleypur snæskriða á bæ Bergs og fá þar tólf menn bana og sér enn merki jarðfallsins í dag."
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Events: hostile encounter",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Borgarfjörð",
+                "sm_entry": {
+                    "id": "28",
+                    "name": "Borgarfjörður",
+                    "lat": "64.441961",
+                    "lng": "-22.083246",
+                    "type": "fjord",
+                    "county": "Borga01",
+                    "c": "122",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Annmarkastaði",
+                "sm_entry": {
+                    "id": "751",
+                    "name": "Annmarkastaðir",
+                    "lat": "65.831149",
+                    "lng": "-23.653691",
+                    "type": "farm",
+                    "info": "Fyrir neðan Kolturshornið eru tóftir. Þar heitir Sel og er talið að bær Auðbjargar hinna göldróttu, Annmarkastaðir.",
+                    "county": "VesÍsa01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Saltnes",
+                "sm_entry": {
+                    "id": "1651",
+                    "name": "Sandnes",
+                    "lat": "66.019087",
+                    "lng": "12.617897",
+                    "type": "farm",
+                    "county": "Foreign01",
+                    "c": "18",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Nefsstaði",
+                "sm_entry": {
+                    "id": "750",
+                    "name": "Nefsstaðir",
+                    "lat": "65.877348",
+                    "lng": "-23.620799",
+                    "type": "farm",
+                    "info": "Nefsstaða-rúst, að austanverðu við Haukadalsá, nokkru ofar en Gíslahóll. ",
+                    "county": "VesÍsa01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Saltnes",
+                "sm_entry": {
+                    "id": "1651",
+                    "name": "Sandnes",
+                    "lat": "66.019087",
+                    "lng": "12.617897",
+                    "type": "farm",
+                    "county": "Foreign01",
+                    "c": "18",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Haukadals ",
+                "sm_entry": {
+                    "id": "2579",
+                    "name": "Haukadalsá",
+                    "lat": "65.04618",
+                    "lng": "-21.72263",
+                    "type": "river",
+                    "county": "Dalas01",
+                    "c": "3",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Meðaldals",
+                "sm_entry": {
+                    "id": "735",
+                    "name": "Meðaldalur",
+                    "lat": "65.870258",
+                    "lng": "-23.591226",
+                    "type": "farm",
+                    "county": "VesÍsa01",
+                    "c": "4",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Nú fer Þorsteinn á fund Gísla og skýtur hann skjóli yfir hann og fer hann suður í  Borgarfjörð  og þar utan. En er Börkur fréttir þessi fákynstur þá fer hann upp á  Annmarkastaði  og lætur taka Auðbjörgu og fer með hana út á  Saltnes  og ber hana grjóti í hel. Og er þetta er liðið fer Gísli heiman og kemur á  Nefsstaði  og tekur Þorgrím nef höndum og færir á  Saltnes  og er dreginn belgur á höfuð honum og er barður grjóti til bana og er kasaður hjá systur sinni, á hryggnum milli  Haukadals  og  Meðaldals ."
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Physical Landscape: built environment: cairn"
+        ],
+        "places": [],
+        "text": "Þau eru nú og komin að hauginum Þorgríms er þau ræða þetta. Þá stingur hún við fótum og kveðst eigi fara lengra; segir hún nú hvað Gísli hafi kveðið þá er hann leit hauginn Þorgríms og kveður fyrir honum vísuna. \"Og nú ætla eg,\" segir hún, \"að þú þurfir eigi annan veg eftir að leita um víg Þorgríms og munu rétt búin málin honum á hendur.\""
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Sandaleið",
+                "sm_entry": {
+                    "id": "754",
+                    "name": "Sandaleið",
+                    "lat": "65.868476",
+                    "lng": "-23.522201",
+                    "type": "road",
+                    "info": "Vegurinn úr Haukadal inn með firðinum.",
+                    "county": "VesÍsa01",
+                    "c": "1",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Sandaós",
+                "sm_entry": {
+                    "id": "709",
+                    "name": "Sandaós",
+                    "lat": "65.876291",
+                    "lng": "-23.547505",
+                    "type": "estuary",
+                    "county": "VesÍsa01",
+                    "c": "4",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Og ríða þeir  Sandaleið , svo getur Þorkell um talið, þar til er þeir koma að  Sandaós ; þá stíga þeir af baki og æja. Börkur var fámálugur en Þorkell sagði að hann vildi hitta Önund, vin sinn. Hann ríður þegar svo hart að brátt felur sýn. Hann snýr þá leið sinni út á Hól og segir nú Gísla hvað  títt er að Þórdís hefur nú upp rofið málið og rannsakað vísuna, \"máttu nú og svo við búast að upp er komið máli.\""
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Activities: exchange",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þórsness",
+                "sm_entry": {
+                    "id": "687",
+                    "name": "Þórsnes",
+                    "lat": "65.028821",
+                    "lng": "-22.754741",
+                    "type": "farm",
+                    "county": "Snæfe02",
+                    "c": "22",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Barðaströnd",
+                "sm_entry": {
+                    "id": "151",
+                    "name": "Barðaströnd",
+                    "lat": "65.462938",
+                    "lng": "-23.575003",
+                    "type": "bay",
+                    "county": "VesBar01",
+                    "c": "31",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Hvammi",
+                "sm_entry": {
+                    "id": "2955",
+                    "name": "Hvammur",
+                    "lat": "63.45967",
+                    "lng": "-19.065571",
+                    "type": "farm",
+                    "county": "VesSka01",
+                    "c": "1",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Nú skilja þeir. Fer Þorkell til móts við Börk og fara þeir suður til  Þórsness og skipar Börkur til bús síns; en Þorkell kaupir land á  Barðaströnd , það er í  Hvammi  hét."
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Community Places: shared spaces: local assembly"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þórsnessþings",
+                "sm_entry": {
+                    "id": "686",
+                    "name": "Þórsnessþing",
+                    "lat": "65.028925",
+                    "lng": "-22.750292",
+                    "type": "assembly site",
+                    "info": "Vorþing á Ísl. að fornu, haldið að Þórsnesi í Helgafellssveit á Snæfellsnesi; eitt elsta þing á Ísl., komið á fót á landnámsöld af Þórólfi mostrarskegg.",
+                    "county": "Snæfe02",
+                    "c": "40",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Sandaóss",
+                "sm_entry": {
+                    "id": "709",
+                    "name": "Sandaós",
+                    "lat": "65.876291",
+                    "lng": "-23.547505",
+                    "type": "estuary",
+                    "county": "VesÍsa01",
+                    "c": "4",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú kemur að stefnudögum og fer Börkur vestur með fjóra tugi manna og ætlar að stefna Gísla til  Þórsnessþings  og er Þorkell Súrsson þar í för og systursynir Barkar, Þóroddur og Saka-Steinn; þar var og í för Austmaður einn er Þorgrímur hét. Þeir ríða nú til  Sandaóss ."
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Actors: animals: mammals: horses",
+            "Activities: travel",
+            "Events: meeting"
+        ],
+        "places": [],
+        "text": "Nú ríður Þorkell fyrir og er hann kom þar sem hann hafði á kveðið þá biður hann húsfreyju að hún skipti hestum við sig og láti þennan sama  standa fyrir dyrum, \"og kasta vaðmáli yfir söðulinn og er förunautar mínir koma eftir þá seg þú að eg sitji inni í stofu og telji eg silfur.\""
+    },
+    {
+        "chapter": "Chapter 19",
+        "concepts": [
+            "Physical Landscape: ecological area: woods and trees"
+        ],
+        "places": [],
+        "text": "Nú fær hún honum hest annan og ríður hann nú skyndilega og kemur í skóga og hittir Gísla og segir honum hvað vera er að Börkur er vestan kominn."
+    },
+    {
+        "chapter": "Chapter 20",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Þorkell ríður nú á brott og víkur svo reið sinni að hann kemst á bak þeim Berki og seinkar nú ferðina þeirra heldur."
+    },
+    {
+        "chapter": "Chapter 20",
+        "concepts": [
+            "Physical Landscape: ecological area: trees and woods",
+            "Animals: actors: mammals: oxen"
+        ],
+        "places": [],
+        "text": "Gísli tekur nú eyki tvo og ekur til skógar með fjárhlut sinn og með honum þræll hans, Þórður hinn huglausi."
+    },
+    {
+        "chapter": "Chapter 20",
+        "concepts": [
+            "Actors: animals: mammals: oxen"
+        ],
+        "places": [],
+        "text": "Þá mælti Gísli: \"Oft hefur þú mér hlýðinn verið og minn vilja gert og á eg þér góðu að launa.\" Það var vandi Gísla að hann var í kápu blárri og vel búinn; hann varpar þá af sér kápunni og mælti: \"Kápu þessa vil eg gefa þér, vinur, og vil eg að þú njótir nú þegar og farir í kápuna og sit síðan í sleðanum, þeim er síðar fer, en eg mun leiða eykina og vera í kufli þínum.\""
+    },
+    {
+        "chapter": "Chapter 20",
+        "concepts": [
+            "Actor: thing: spear",
+            "Events: hostile encounter",
+            "Physical Landscape: ecological area: woods and trees",
+            "Actors: animals: mammals: oxen"
+        ],
+        "places": [],
+        "text": "Gísli leiðir nú eykina. Þórður var mikill maður vexti og bar hann hátt í sleðanum; hrósaði hann sér og heldur og þóttist veglega búinn. Nú sjá þeir Börkur för þeirra er þeir fara til skógarins og hleypa eftir hvatlega. En er Þórður sér það þá hleypur hann úr sleðanum sem hann má harðast og til skógarins. Þeir hyggja Gísla þar fara og halda eftir sem ákafast og kalla á hann sem þeir geta. En hann þegir við og hleypur sem hann má. Þorgrímur Austmaður skýtur eftir honum spjóti og kemur  milli herða honum svo hart að hann fellur við áfram og var það hans banasár."
+    },
+    {
+        "chapter": "Chapter 20",
+        "concepts": [
+            "Physical Landscape: ecological area: woods and trees",
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Þeir bræður ræddu sín á milli að þeir mundu fara eftir þrælnum og vita ef nokkur hugur er í honum; þeir snúa nú til skógarins."
+    },
+    {
+        "chapter": "Chapter 20",
+        "concepts": [
+            "Actors: things: spear"
+        ],
+        "places": [],
+        "text": "Það er nú sagt að þeir bræður koma að skóginum en Gísli er kominn í skóginn og sér hann þá svo þeir hann. Þá skýtur annar þeirra spjóti til hans en Gísli tík það á lofti og skaut aftur og kemur á Þórodd miðjan og fló gegnum hann. Nú snýr Steinn í móti félögum sínum og segir heldur ógreiðfært um skóginn. Börkur vill þó þangað að leita og svo gera þeir. Og er þeir koma að skóginum þá sér Þorgrímur Austmaður hvar limið hrærist í einum stað og skýtur spjóti á gegngert og kemur í kálfann á Gísla. Hann sendir aftur spjótið og rekur gegnum Þorgrím og lætur hann líf sitt."
+    },
+    {
+        "chapter": "Chapter 20",
+        "concepts": [
+            "Activities: travel",
+            "Actors: things: boat",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Húsaness",
+                "sm_entry": {
+                    "id": "756",
+                    "name": "Húsanes",
+                    "lat": "64.827865",
+                    "lng": "-23.527772",
+                    "type": "farm",
+                    "county": "Snæfe02",
+                    "c": "1",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Arnarfjörð",
+                "sm_entry": {
+                    "id": "652",
+                    "name": "Arnarfjörður",
+                    "lat": "65.740739",
+                    "lng": "-23.604786",
+                    "type": "fjord",
+                    "county": "VesÍsa01",
+                    "c": "21",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Arnarfirði",
+                "sm_entry": {
+                    "id": "914",
+                    "name": "Arnareyri",
+                    "lat": "66.149389",
+                    "lng": "-18.083492",
+                    "type": "farm",
+                    "county": "SuðÞin01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Geirþjófsfjörður",
+                "sm_entry": {
+                    "id": "757",
+                    "name": "Geirþjófsfjörður",
+                    "lat": "65.669539",
+                    "lng": "-23.326955",
+                    "type": "fjord",
+                    "county": "VesBar01",
+                    "c": "20",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Gísli fer nú á fjallið að húsbaki og bindur sár sitt meðan þeir Börkur voru á bænum. Og er þeir voru á brottu fór Gísli heim og býr þegar ferð sína og fær sér skip og flytur þangað á mikinn fjárhlut og fer Auður, kona hans, með honum og Guðríður, fóstra hans, og út til Húsaness og koma þar við land. Gísli gengur þar upp til bæjarins og hittir þar mann og spyr sá hver hann væri en Gísli sagði til slíkt er honum sýndist en ekki það sem var. Gísli tekur upp stein einn og kastar út í hólm þann er þar var fyrir landi og bað þar bóndason eftir gera þá er hann kæmi heim og kvað hann þá vita mundu hver maðurinn þar hefði komið. En það var einskis manns að inna og koma þar þá enn það fram að Gísli var betur að íþróttum búinn en flestir menn aðrir. Eftir það gengur hann á bátinn og rær út yfir nesið og yfir Arnarfjörð og yfir fjörð þann er gengur inn af Arnarfirði er heitir Geirþjófsfjörður og býst hann þar um og gerir þar alhýsi og er þar um veturinn."
+    },
+    {
+        "chapter": "Chapter 21",
+        "concepts": [
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [],
+        "text": "Það er nú þessu næst að Gísli gerir orð mágum sínum, Helga og Sigurði og Vestgeiri, að þeir fari til þings og bjóði sætt fyrir hann að hann  yrði eigi sekur. Og fara þeir til þings, Bjartmarssynir, og koma engu áleiðis um sættina og kalla menn að þeir hafi illa borið sig svo að þeim hafi næsta í allt skap komið áður en létti. Þeir segja Þorkatli auðga hvað títt er og kváðust eigi þora að segja Gísla sekt sína. Urðu þar engin önnur tíðindi á þinginu en Gísli verður sekur. Þorkell auðgi fer þá til fundar við Gísla og sagði honum sekt sína."
+    },
+    {
+        "chapter": "Chapter 21",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Nú spyr Gísli hvers hann skal von eiga hjá þeim. Þeir segjast, hafnar báðir, munu skjóta skjóli yfir hann með þeim hætti að þeir létu eigi fé sitt fyrir þá sök. Fer Þorkell heim eftir þetta."
+    },
+    {
+        "chapter": "Chapter 21",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: moving water: river",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Geirþjófsfirði"
+            },
+            {
+                "as_mentioned": "Geirþjófsfirði"
+            }
+        ],
+        "text": "Svo er sagt að Gísli var þrjá vetur í  Geirþjófsfirði  en stundum með Þorkatli Eiríkssyni en aðra þrjá vetur fer hann um allt Ísland og hittir höfðingja og biður sér liðs. En sakir þess tröll skapar er Þorgrímur nef hafði haft í seiðnum og atkvæða, þá verður þess eigi auðið að höfðingjar tækju við honum og þó að stundum þætti þeim eigi svo ólíklega horfa þá bar þó alls staðar nokkuð við. Hann var þó löngum með Þorkatli Eiríkssyni og hefur hann nú sex vetur verið í sektinni. Eftir þetta er hann stundum í  Geirþjófsfirði  á bæ Auðar en stundum í fylgsnum fyrir norðan ána er hann hafði gert sér; annað fylgsni átti hann við kleifarnar suður frá garði og var hann ýmist."
+    },
+    {
+        "chapter": "Chapter 22",
+        "concepts": [
+            "Activities: exchange",
+            "Actors: things: money",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Arnarfirði",
+                "sm_entry": {
+                    "id": "914",
+                    "name": "Arnareyri",
+                    "lat": "66.149389",
+                    "lng": "-18.083492",
+                    "type": "farm",
+                    "county": "SuðÞin01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Otradal",
+                "sm_entry": {
+                    "id": "210",
+                    "name": "Otradalur",
+                    "lat": "65.66359",
+                    "lng": "-23.565273",
+                    "type": "farm",
+                    "county": "VesBar01",
+                    "c": "15",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Nú er Börkur spyr þetta þá býr hann heiman för sína og hittir Eyjólf hinn gráa er þá bjó í  Arnarfirði  í  Otradal  og beiðir hann að hann leiti eftir Gísla og drepi hann sektinni og kveðst mundu gefa honum til þrjú hundruð silfurs, þess að allgott sé, að hann leggi á alla stund að leita eftir honum. Hann tekur við fénu og heitir sinni umsýslu."
+    },
+    {
+        "chapter": "Chapter 22",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: house"
+        ],
+        "places": [],
+        "text": "Hann svarar: \"Eg á draumkonur tvær,\" sagði hann, \"og er önnur vel við mig en önnur segir mér það nokkuð jafnan er mér þykir verr en áður og spáir mér illt eina. En það dreymdi mig nú að eg þóttist ganga að húsi einu eða skála og inn þóttist eg ganga í húsið og þar kenndi eg marga inni, frændur mína og vini. Þeir sátu við elda og drukku og voru sjö eldarnir, sumir voru mjög brunnir en sumir sem bjartastir. Þá kom inn draumkona mín hin betri og sagði að það merkti aldur minn hvað eg ætti eftir ólifað og hún réð mér það meðan eg lifði að láta leiðast fornan sið  og nema enga galdra né forneskju og vera vel við daufan og haltan og fátæka og fáráða. Eigi var draumurinn lengri.\""
+    },
+    {
+        "chapter": "Chapter 23",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Geirþjófsfirði"
+            },
+            {
+                "as_mentioned": "Geirþjófsfjarðar",
+                "sm_entry": {
+                    "id": "757",
+                    "name": "Geirþjófsfjörður",
+                    "lat": "65.669539",
+                    "lng": "-23.326955",
+                    "type": "fjord",
+                    "county": "VesBar01",
+                    "c": "20",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Nú er frá því að segja að Börkur þrýstir að Eyjólfi fast og þykir eigi svo fylgt sem hann vildi og þykir eigi mikið koma fyrir féð, það er hann fékk honum í hendur og kveðst þess vís vera orðinn að Gísli væri í Geirþjófsfirði og segir það mönnum Eyjólfs er á milli fara að hann leiti eftir Gísla ellegar hann kveðst sjálfur mundu fara. Eyjólfur vaknar við skjótt og sendir enn Njósnar-Helga til Geirþjófsfjarðar og hefur hann nú vistir með sér og er á brott viku og situr nú um að hann yrði var við Gísla. Sér nú einn dag að hann gengur frá leynum sínum og kennir Gísla. Lætur hann nú verða við brugðið og fer á brott og segir Eyjólfi hvers hann er vís orðinn."
+    },
+    {
+        "chapter": "Chapter 23",
+        "concepts": [
+            "Actors: things: money",
+            "Physical Landscape: ecological area: woods and trees",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Geirþjófsfjarðar",
+                "sm_entry": {
+                    "id": "757",
+                    "name": "Geirþjófsfjörður",
+                    "lat": "65.669539",
+                    "lng": "-23.326955",
+                    "type": "fjord",
+                    "county": "VesBar01",
+                    "c": "20",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Eyjólfur býr nú ferð sína heiman með níunda mann og fer til Geirþjófsfjarðar og hittir á bæ Auðar. Þeir finna eigi Gísla þar og fara nú um alla skóga að leita Gísla og finna hann eigi, koma aftur til bæjar Auðar og býður Eyjólfur henni mikið fé til að segja til Gísla. En það fer fjarri að hún vilji það. Þá heitast þeir að meiða hana að nokkru og tjáir það alls ekki og verður við það heim að fara. Þykir þessi för hin hæðilegasta og er Eyjólfur heima um haustið."
+    },
+    {
+        "chapter": "Chapter 23",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Þorkell svarar hinu sama og kveðst enga björg munu veita honum, þá er hann megi sakir á gefa en kveðst mundu fá honum silfur eða fjararskjóta ef hann þyrfti eða aðra hluti þá sem fyrr var sagt."
+    },
+    {
+        "chapter": "Chapter 23",
+        "concepts": [
+            "Activities: exchange",
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "\"Sé eg nú,\" sagði Gísli, \"að þú vilt mér ekki lið veita. Fá mér nú þrjú hundruð vaðmála og huggast svo að eg mun sjaldan krefja þig héðan frá liðs.\""
+    },
+    {
+        "chapter": "Chapter 23",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: moving water: river"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vaðil",
+                "sm_entry": {
+                    "id": "758",
+                    "name": "Vaðill",
+                    "lat": "65.511524",
+                    "lng": "-23.369598",
+                    "type": "farm",
+                    "county": "VesBar01",
+                    "c": "4",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Gísla þykir fyrir er þeir skiljast. Hann fer nú út í Vaðil til móður Gests Oddleifssonar og kemur þar fyrir dag og drepur á dyr. Gengur húsfreyja til dyra. Hún var oft vön að taka við skógarmönnum og átti hún jarðhús; var annar jarðhússendinn við ána en annar við eldahúsið hennar og sér enn þess merki."
+    },
+    {
+        "chapter": "Chapter 24",
+        "concepts": [
+            "Actors: things: wood"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Geirþjófsfjörð",
+                "sm_entry": {
+                    "id": "757",
+                    "name": "Geirþjófsfjörður",
+                    "lat": "65.669539",
+                    "lng": "-23.326955",
+                    "type": "fjord",
+                    "county": "VesBar01",
+                    "c": "20",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Og eru nú kyrr tíðindi. Fer Gísli nú til Þorgerðar og er með henni annan vetur. En um sumarið eftir fer hann í  Geirþjófsfjörð  og er þar uns haustar. Þá fer hann enn til Þorkels, bróður síns, og drepur þar á dyr. Þorkell vill ekki út ganga og tekur Gísli kefli og ristir á rúnir og kastar inn. Það sér Þorkell og tekur upp og lítur á og stendur upp síðan, gengur út og heilsar gísla og spyr tíðinda."
+    },
+    {
+        "chapter": "Chapter 24",
+        "concepts": [
+            "Actors: animals: mammals; horse",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Þorkell svarar enn hinu sama og fyrr, býður honum hross eða skip en skerst undan allri liðveislu. Gísli þiggur skip og biður Þorkel segja fram með sér skipið. Hann gerir svo og fær honum sex vættir matar og hundrað vaðmála. Og er Gísli er á skip kominn stendur Þorkell á landi."
+    },
+    {
+        "chapter": "Chapter 24",
+        "concepts": [
+            "Activities: travel",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hergilseyjar",
+                "sm_entry": {
+                    "id": "759",
+                    "name": "Hergilsey",
+                    "lat": "65.433931",
+                    "lng": "-23.021519",
+                    "type": "island",
+                    "county": "AusBar01",
+                    "c": "7",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Breiðafjörð",
+                "sm_entry": {
+                    "id": "38",
+                    "name": "Breiðafjörður",
+                    "lat": "65.244388",
+                    "lng": "-23.317122",
+                    "type": "fjord",
+                    "county": "Dalas01",
+                    "c": "107",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Nesjum",
+                "sm_entry": {
+                    "id": "1442",
+                    "name": "Nesjar",
+                    "lat": "58.978937",
+                    "lng": "9.94964",
+                    "type": "peninsula",
+                    "info": "Brunlanes on Oslo Fjord. ",
+                    "county": "Foreign01",
+                    "c": "1",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Fer Gísli inn til  Hergilseyjar  á  Breiðafjörð . Þá tekur hann úr skipinu þiljur og þóftur, árar og allt það sem laust var innbyrðis og hvelfir skipinu og lætur reka inn að  Nesjum . Og nú geta menn þess til er sjá skipið að Gísli muni drukknaður vera er skipið er brotið og rekið á land og muni tekið hafa frá Þorkatli bróður sínum."
+    },
+    {
+        "chapter": "Chapter 24",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: house"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hergilsey",
+                "sm_entry": {
+                    "id": "759",
+                    "name": "Hergilsey",
+                    "lat": "65.433931",
+                    "lng": "-23.021519",
+                    "type": "island",
+                    "county": "AusBar01",
+                    "c": "7",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Íslands",
+                "sm_entry": {
+                    "id": "258",
+                    "name": "Ísland",
+                    "lat": "64.8115572502203",
+                    "lng": "-18.6767578125",
+                    "type": "country",
+                    "c": "387",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú gengur Gísli í  Hergilsey  til húss. Þar býr sá maður er Ingjaldur hét; kona hans hét Þorgerður; Ingjaldur var systrungur Gísla að frændsemi og hafði með honum farið út hingað til  Íslands . Og er þeir hittast býður hann Gísla allan greiða og alla björg þá er hann mátti honum veita og það þiggur Gísli og er þar síðan um kyrrt nokkra stund."
+    },
+    {
+        "chapter": "Chapter 25",
+        "concepts": [
+            "Actors: plants: grasses"
+        ],
+        "places": [],
+        "text": "Með Ingjaldi var þræll og ambátt; þrællinn hét Svartur en ambáttin hét Bóthildur. Helgi hét sonur Ingjalds og var afglapi sem mestur mátti vera og fífl; honum var sú umbúð veitt að raufarsteinn var bundinn við hálsinn og beit hann gras úti sem fénaður og er kallaður Ingjaldsfífl; hann var mikill vexti, nær sem tröll."
+    },
+    {
+        "chapter": "Chapter 25",
+        "concepts": [
+            "Actors: things: boat",
+            "Events: construction"
+        ],
+        "places": [],
+        "text": "Gísli er þar þann vetur og smíðar skip Ingjaldi og marga hluti aðra. En allt það sem hann smíðaði þá var það auðkennt því að hann var hagari en flestir menn aðrir. Menn undruðust hví það var svo vel smíðað margt sem Ingjaldur átti því hann var ekki hagur."
+    },
+    {
+        "chapter": "Chapter 25",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Geirþjófsfirði"
+            }
+        ],
+        "text": "Gísli er ávallt á sumrum í Geirþjófsfirði ; fer nú svo fram þrjá vetur frá því er hann hafði dreymt og verður honum þetta að mestu trausti er Ingjaldur veitir honum. Þykir mönnun nú grunsamlegt um þetta allt jafnsaman og hyggja nú að Gísli muni lifa og hafa verið með Ingjaldi en eigi drukknaður sem sagt hafði verði. Leggja menn nú ræðu á. Ingjaldur á nú þrjú skip og öll vel ger."
+    },
+    {
+        "chapter": "Chapter 25",
+        "concepts": [
+            "Activities: fishing"
+        ],
+        "places": [],
+        "text": "Ingjaldur var iðjumaður mikill; hann reri á sjó hvern dag er sjófært var. Og um morguninn er hann var búinn til útróðrar spyr hann hvort Helga er ekki ákaft um ferðina eða hví hann liggur. Hann kvað sér vera ekki einkar skjallt og blés við og strauk höfuðbeinin. Ingjaldur bað hann þá liggja sem kyrrastan og fer hann til sjávar en Helgi tekur að stynja fast."
+    },
+    {
+        "chapter": "Chapter 25",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Flateyjar",
+                "sm_entry": {
+                    "id": "2416",
+                    "name": "Flatey 2",
+                    "lat": "66.16464",
+                    "lng": "-17.86475",
+                    "type": "island",
+                    "county": "SuðÞin01",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Þórsness",
+                "sm_entry": {
+                    "id": "687",
+                    "name": "Þórsnes",
+                    "lat": "65.028821",
+                    "lng": "-22.754741",
+                    "type": "farm",
+                    "county": "Snæfe02",
+                    "c": "22",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Ingjaldur kemur heim um kveldið og fer til rekkju Helga og spyr hvort honum létti nokkuð. Hann kvaðst áleiðist snúast og beiðir sér farnings um morguninn úr eynni og er hann fluttur suður til Flateyjar og fer síðan suður til Þórsness ; segir nú að hann er orðinn var við að Gísli er með Ingjaldi."
+    },
+    {
+        "chapter": "Chapter 25",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Breiðafjörð",
+                "sm_entry": {
+                    "id": "38",
+                    "name": "Breiðafjörður",
+                    "lat": "65.244388",
+                    "lng": "-23.317122",
+                    "type": "fjord",
+                    "county": "Dalas01",
+                    "c": "107",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Síðan býst Börkur heiman og eru saman fimmtán, fara á skip og sigla sunnan yfir Breiðafjörð ."
+    },
+    {
+        "chapter": "Chapter 26",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Nú sér Ingjaldur að skipið siglir sunnan og mælti: \"Skip siglir þarna og hygg eg að þar muni vera Börkur hinn digri.\""
+    },
+    {
+        "chapter": "Chapter 26",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "nesið",
+                "sm_entry": {
+                    "id": "1413",
+                    "name": "Nesið",
+                    "lat": "64.918651",
+                    "lng": "-23.807243",
+                    "type": "peninsula",
+                    "info": "=Rifshöfuð.",
+                    "county": "Snæfe02",
+                    "c": "3",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "\"Nú fór sem mig varði,\" sagði Gísli, \"að þú myndir hitta það ráðið að þú mættir drengurinn af verða sem bestur; en verri laun sel eg þér þá fyrir liðveisluna en eg hafði ætlað ef þú skalt fyrir mínar sakir lífið láta. Nú skal það vera aldrei og skal annað ráð taka. Þú skalt róa að eynni og þrællinn og ganga upp á bergið og búist að verjast og munu þeir ætla  mig annan manninn er sigla sunnan fyrir  nesið . En eg mun skipta klæðum við þrælinn sem eitt sinn fyrr og mun eg fara á bátinn með Bóthildi.\""
+    },
+    {
+        "chapter": "Chapter 26",
+        "concepts": [
+            "Activities: travel",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Nú róa þau suður í móti þeim Berki og láta sem ekki væri til vandræða."
+    },
+    {
+        "chapter": "Chapter 26",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vaðsteinabergi",
+                "sm_entry": {
+                    "id": "763",
+                    "name": "Vaðsteinaberg",
+                    "lat": "65.428977",
+                    "lng": "-23.027232",
+                    "type": "skerry",
+                    "info": "=Vaðsteinabjarg.",
+                    "county": "AusBar01",
+                    "c": "2",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Skiljast þau nú og róa þeir til eyjarinnar og ganga á land og sjá nú mennina á  Vaðsteinabergi  og snúa þangað og hyggja allgott til sín.; en þeir eru uppi á berginu, Ingjaldur og þrællinn."
+    },
+    {
+        "chapter": "Chapter 27",
+        "concepts": [
+            "Actors: plants: grasses",
+            "Community Places: Administrative Unit: farm"
+        ],
+        "places": [],
+        "text": "Berki þykir eigi það til liggja að veita Ingjaldi aðgöngu, landseta sínum; hverfa þeir nú frá til bæjar og leita þar Gísla og finna hann eigi sem von var. Þeir fara nú um eyja og koma þar að í einum stað er fíflið lá og beit gras í dalverpi einu og bundinn steinn við hálsinn."
+    },
+    {
+        "chapter": "Chapter 27",
+        "concepts": [
+            "Activities: travel",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Síðan hlaupa þeir á skip og róa eftir þeim og falla fast við árar. Þeir geta að líta að þau eru komin langt inn á sund og sækja nú hvorirtveggja fast róðurinn. Rennir það skipið meira sem mennirnir voru fleiri á og leggst svo nærri um síðir að þá er Börkur kominn í skotfæri er þau eru komin að landi."
+    },
+    {
+        "chapter": "Chapter 27",
+        "concepts": [
+            "Actors: things: boat",
+            "Events: hostile encounter",
+            "Actors: things: spear",
+            "Activities: travel",
+            "Physical Landscape: ecological area: trees and woods"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hjarðarnesi",
+                "sm_entry": {
+                    "id": "765",
+                    "name": "Hjarðarnes",
+                    "lat": "65.576428",
+                    "lng": "-23.053663",
+                    "type": "region",
+                    "county": "VesBar01",
+                    "c": "3",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú skilja þau og hleypur Gísli á land og í hamraskarð nokkuð er það er á Hjarðarnesi . Ambáttin reri í brott, alsveitt af mæði og rauk af henni."
+    },
+    {
+        "chapter": "Chapter 28",
+        "concepts": [
+            "Community Places: administrative unit: local assembly ",
+            "Actors: thing: boat",
+            "Activities: travels"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þorskafjarðarþings",
+                "sm_entry": {
+                    "id": "774",
+                    "name": "Þorskafjarðarþing",
+                    "lat": "65.601547",
+                    "lng": "-22.08474",
+                    "type": "assembly site",
+                    "county": "AusBar01",
+                    "c": "4",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Barðaströnd",
+                "sm_entry": {
+                    "id": "151",
+                    "name": "Barðaströnd",
+                    "lat": "65.462938",
+                    "lng": "-23.575003",
+                    "type": "bay",
+                    "county": "VesBar01",
+                    "c": "31",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Nú er þar til máls að taka um vorið að Börkur fer til Þorskafjarðarþings með fjölmenni og ætlar að hitta vini sína. Gestur fer vestan af Barðaströnd og Þorkell Súrsson og fer á sínu skipi hvor þeirra."
+    },
+    {
+        "chapter": "Chapter 28",
+        "concepts": [
+            "Community Places: administrative unit: local assembly ",
+            "Physical Landscape: built enivornment: buildings: booth"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þorskafjarðarþings",
+                "sm_entry": {
+                    "id": "774",
+                    "name": "Þorskafjarðarþing",
+                    "lat": "65.601547",
+                    "lng": "-22.08474",
+                    "type": "assembly site",
+                    "county": "AusBar01",
+                    "c": "4",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þeir fara nú með honum til þingsins. Þar ganga þeir á land og fara sem leiðir liggja fyrir þeim til þess er þeir koma til Þorskafjarðarþings ."
+    },
+    {
+        "chapter": "Chapter 28",
+        "concepts": [
+            "Actors: things: boat",
+            "Physical Landscape: managed landscape area: beach"
+        ],
+        "places": [],
+        "text": "Hallbjörn kveðst mundu fara ofan til strandar og sagðist mundu kenna hvert skip skjótlega sem kæmi og segja þeim til. Þeir biðja hann hafa þökk fyrir léttlæti sitt. Fara nú ofan til strandar og svo til sjávarins, sjá nú að skipin sigla að landi."
+    },
+    {
+        "chapter": "Chapter 28",
+        "concepts": [
+            "Actors: things: boat",
+            "Physical Landscape: unmanaged landscape area: moving water: creek/stream"
+        ],
+        "places": [],
+        "text": "\"En hverjir sigla þar næst og leggja skip sitt við fjarðarhornið?\""
+    },
+    {
+        "chapter": "Chapter 28",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: booth"
+        ],
+        "places": [],
+        "text": "Þeir sjá nú að Þorkell gengur á land og sest niður einhvers staðar meðan þeir flytja varnað þeirra af skipinu svo sem sjórinn félli á land. En Börkur tjaldar búð þeirra. Þorkell hafði gerskan hatt á höfði og feld gráan og gulldálk um öxl en sverð í hendi. Síðan gengur Hallbjörn og sveinarnir með honum þangað að sem Þorkell situr ."
+    },
+    {
+        "chapter": "Chapter 28",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "\"Þar spurði eg þig ekki að leyfis,\" sagði sveinninn og reiðir upp sverðið og rekur á hálsinn Þorkatli svo að af tók höfuðið."
+    },
+    {
+        "chapter": "Chapter 28",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: booth"
+        ],
+        "places": [],
+        "text": "En þegar þessi tíðindi eru orðin þá hleypur upp Hallbjörn göngumaður en sveinninn kastar niður sverðinu alblóðugu og grípur upp staf sinn og hlaupa þeir með þeim Hallbirni og urðu göngumenn næsta að gjalti. Þeir hlaupa upp hjá búðinni er Börkur tjaldaði. Menn drífa þá að Þorkatli og þykjast eigi vita hver verkið hefur unnið. Börkur spyr hverju gegndi þys sjá eða kliður er var hjá Þorkatli."
+    },
+    {
+        "chapter": "Chapter 29",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: booth"
+        ],
+        "places": [],
+        "text": "Menn hlaupa nú til búðar Hallbjarnar og spyrja hve gegndi. En þeir göngumennirnir segja að sveinar tveir ungir höfðu komið í flokk þeirra  og segja að þeim kom þetta mjög að óvörum og kváðust engin deili á þeim vita. Þeir segja þó frá yfirlitum þeirra og viðurtal þeirra, hvílíkt verið hafði. Börkur þykist nú vita af orðum þeim er Helgi hafði mælt að synir Vésteins muni verið hafa. Og eftir þetta gengur hann til fundar við Gest og ræðst um við hann hversu með skal fara."
+    },
+    {
+        "chapter": "Chapter 29",
+        "concepts": [
+            "Events: burial"
+        ],
+        "places": [],
+        "text": "Það hafa menn fyrir satt að Gestur hafi verið í ráðum með sveinunum því hann var skyldur þeim að frændsemi. Nú hætta þeir og falla niður málin. En Þorkell er heygður að fornum sið og fara menn heim af þinginu og gerist ekki fleira til tíðinda á því þingi."
+    },
+    {
+        "chapter": "Chapter 29",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Geirþjófsfjörð",
+                "sm_entry": {
+                    "id": "757",
+                    "name": "Geirþjófsfjörður",
+                    "lat": "65.669539",
+                    "lng": "-23.326955",
+                    "type": "fjord",
+                    "county": "VesBar01",
+                    "c": "20",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Sveinarnir fara nú uns þeir koma í Geirþjófsfjörð og liggja úti tíu dægur. Koma þeir til Auðar og er Gísli þar fyrir. Þeir koma þar um nótt og drepa á dyr. Auður gengur til hurðar og heilsar þeim og spyr tíðinda en Gísli lá í rekkju sinni og var þar jarðhús undir niðri og beindi hún raust þegar ef hann þurfti að varast. þeir segja henni nú víg Þorkels og um hvað véla var, segja henni og hversu lengi matlausir þeir hafa verið."
+    },
+    {
+        "chapter": "Chapter 29",
+        "concepts": [
+            "Physical Landscape: ecological area: trees and woods"
+        ],
+        "places": [],
+        "text": "Nú fara sveinarnir í skóga þá er þeir mega eigi finnast og neyta matar því að þeir höfðu lengi matar misst og leggjast síðan niður og sofa er þeir voru mettir því að þeir voru mjög syfjaðir."
+    },
+    {
+        "chapter": "Chapter 30",
+        "concepts": [
+            "Physical Landscape: built environment: building: house",
+            "Actors: supernatural actors: dream figure",
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Einhverja nótt er það enn að Gísla dreymir að konan sú hin betri kom að honum. Hún sýndist honum ríða gráum hesti og býður honum með sér að fara til síns innis og það þekkist hann. Þau koma nú að húsi einu, því er nær var sem höll væri og leiðir hún hann inn í húsið og þóttu honum þar verða hægindi í pöllum og vel um búið. Hún bað þau þar vera og una sér vel, \"og skaltu hingað fara og þá er þú andast,\" sagði hún, \"og njóttu hér fjár og farsælu.\""
+    },
+    {
+        "chapter": "Chapter 31",
+        "concepts": [
+            "Physical Landscape: unmanaged landscape area: moving water: river",
+            "Actors: things: wood",
+            "Activities: woodland management",
+            "Physical Landscape: ecological area: woods and trees"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Geirþjófsfjörð",
+                "sm_entry": {
+                    "id": "757",
+                    "name": "Geirþjófsfjörður",
+                    "lat": "65.669539",
+                    "lng": "-23.326955",
+                    "type": "fjord",
+                    "county": "VesBar01",
+                    "c": "20",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Frá því er sagt einhverju sinni að Helgi var enn sendur á njósn í Geirþjófsfjörð og þykir mönnum áræðilegt að Gísli muni þar. Sá maður fer með honum er Hávarður hét. Hann hafði komið út um sumarið áður og var frændi gests Oddleifssonar. Þeir voru sendir í skóga að höggva efnitré en þó að þetta væri yfirbragð á þeirra ferð þá bjó þó hitt undir að þeir skyldu leita að Gísla og vita ef þeir fyndu fylgsni Gísla. Og einn dag að kveldi sjá þeir eld í kleifunum fyrir sunnan ána. Það var um dagsetursskeið og niðmyrkur sem mest."
+    },
+    {
+        "chapter": "Chapter 31",
+        "concepts": [
+            "Events: construction",
+            "Physical Landscape: built environment: cairn"
+        ],
+        "places": [],
+        "text": "\"Einn mun á ger,\" segir Helgi, \"að hlaða hér vörðu á holi þessum er nú stöndum við á og mun þá finnast er ljós dagur er og sér héðan frá vörðunni til kleifanna er skammt er að sjá.\""
+    },
+    {
+        "chapter": "Chapter 31",
+        "concepts": [
+            "Events: destruction"
+        ],
+        "places": [],
+        "text": "Þetta taka þeir til ráðs. Og er þeir hafa hlaðið vörðuna sagði Hávarður sig syfja svo að hann kveðst ekki mega annað en sofa. Hann gerir svo. En Helgi vakir og hleður það sem ógert var að vörðunni. Og er hann hafði því lokið þá vaknar Hávarður og biður Helga þá sofa en hann kveðst vaka mundu. Og Helgi sefur um hríð. Og á meðan hann sefur tekur Hávarður til verks og ber á brott vörðuna alla og sér hvern steininn í náttmyrkrinu. Og er hann hefur það gert þá tekur hann stein einn mikinn og keyrir niður á bergið nærri höfði Helga svo að jörðin bifaðist við. Og þá sprettur Helgi upp og verður lafhræddur og felmtsfullur og spurði hverju gegndi."
+    },
+    {
+        "chapter": "Chapter 31",
+        "concepts": [
+            "Physical Landscape: ecological area: trees and woods"
+        ],
+        "places": [],
+        "text": "Hávarður sagði: \"Maður er í skóginum og hafa margir slíkir komið í nótt.\""
+    },
+    {
+        "chapter": "Chapter 31",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Otradal",
+                "sm_entry": {
+                    "id": "210",
+                    "name": "Otradalur",
+                    "lat": "65.66359",
+                    "lng": "-23.565273",
+                    "type": "farm",
+                    "county": "VesBar01",
+                    "c": "15",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Nú rennur Helgi sem fljótast hann má hann en Hávarður gengur á eftir og biður Helga eigi hlaupa undan sér en Helgi gaf að því engan gaum og fór sem fætur toguðu. Og að lyktum koma þeir báðir til skips og stíga þar á og ljósta síðan árum í sjó og róa sem ákafast og létta eigi fyrr sinni ferð en þeir koma heim í Otradal og segir Helgi að hann er vís orðinn hvar Gísli er niður kominn."
+    },
+    {
+        "chapter": "Chapter 31",
+        "concepts": [
+            "Physical Landscape: built environment: cairn",
+            "Physical Landscape: ecological area: woods and trees"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Geirþjófsfjörð",
+                "sm_entry": {
+                    "id": "757",
+                    "name": "Geirþjófsfjörður",
+                    "lat": "65.669539",
+                    "lng": "-23.326955",
+                    "type": "fjord",
+                    "county": "VesBar01",
+                    "c": "20",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Eyjólfur víkst við skjótt og fer þegar við tólfta mann og er það í för Helgi og Hávarður. Þeir fara til þess er þeir koma í Geirþjófsfjörð og ganga um alla skóga að leita vörðunnar og fylgsnis Gísla og fundu hvorugt. Nú spyr Eyjólfur Hávarð hvar þeir settu vörðuna."
+    },
+    {
+        "chapter": "Chapter 31",
+        "concepts": [
+            "Events: construction"
+        ],
+        "places": [],
+        "text": ""
+    },
+    {
+        "chapter": "Chapter 31",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Hann tekur svo til orðs: \"Eg vil eig kaup við þig Auður,\" segir hann, \"að þú segir mér til Gísla en eg mun gefa þér þrjú hundruð silfurs þau sem eg hef tekið til höfuðs honum. Þú skalt og eigi við vera er vér tökum hann af lífi. Það skal og fylgja að eg mun fá þér ráðahag þann að öllu sé betri en sjá hefur verið. Máttu og á það líta,\" segir hann, \"hversu óhallkvæmt þér verður að liggja í eyðifirði þessum og hljóta það af óhöppum Gísla og sjá aldrei frændur og nauðleytamenn.\""
+    },
+    {
+        "chapter": "Chapter 31",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Hún svarar: \"Þar þykir mér óvænst um,\" segir hún, \"að vér verðum um það sátt að þú fáir mér það gjaforð að mér þyki jafnt við þetta. En þó er það satt sem mælt er að fé er best eftir feigan og lát mig sjá hvort fé þetta er svo mikið og frítt sem þú segir.\""
+    },
+    {
+        "chapter": "Chapter 32",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Eyjólfur hefur þá talið silfrið en Auður mælti: \"Í engan stað er féð minna eða verra en þú hefur sagt. Og mun þér nú þykja eg heimilt eiga að gera af slíkt er mér sýnist.\""
+    },
+    {
+        "chapter": "Chapter 32",
+        "concepts": [
+            "Acotrs: things: jewelry"
+        ],
+        "places": [],
+        "text": "En áður en Hávarður gengi út mælti Auður: \"Ekki mun sannlegt að halda skuld þeirri er Gísli á að gjalda þér og er hér fingurgull er eg vil að þú hafir.\""
+    },
+    {
+        "chapter": "Chapter 32",
+        "concepts": [
+            "Activities: travel",
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Strönd",
+                "sm_entry": {
+                    "id": "3036",
+                    "name": "Strönd",
+                    "lat": "63.808611",
+                    "lng": "-20.309894",
+                    "type": "farm",
+                    "county": "Rangár01",
+                    "c": "1",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Otradal",
+                "sm_entry": {
+                    "id": "210",
+                    "name": "Otradalur",
+                    "lat": "65.66359",
+                    "lng": "-23.565273",
+                    "type": "farm",
+                    "county": "VesBar01",
+                    "c": "15",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Hún gaf honum þó raunar gullið fyrir liðveislu sína. Hávarður fékk sér hest og fer suður á  Strönd  til Gests Oddleifssonar og vill eigi lengur vera með Eyjólfi. Eyjólfur fer heim í  Otradal  og unir illa sinni ferð enda þótti mönnum þessi ferð hin hæðilegasta."
+    },
+    {
+        "chapter": "Chapter 33",
+        "concepts": [
+            "Actors: supernatural actors: dream figure"
+        ],
+        "places": [],
+        "text": "Hann segir að nú kom að honum draumkonan sú hin verri og mælti svo: \"Nú skal eg því öllu bregða er hin betri draumkonan mælti við þig og skal eg þess ráðandi að þér skal þess ekki að gagni verða er hún hefur mælt.\""
+    },
+    {
+        "chapter": "Chapter 33",
+        "concepts": [
+            "Acotrs: supernatural actors: dream figure"
+        ],
+        "places": [],
+        "text": "\"Það dreymdi mig enn,\" sagði Gísli, \"að sjá kona kom til mín og bakk á höfuð mér dreyruga húfu og þó áður höfuð mitt í blóði og jós á mig allan svo að eg varð alblóðugur.\""
+    },
+    {
+        "chapter": "Chapter 33",
+        "concepts": [
+            "Actors: supernatural actors: dream figure"
+        ],
+        "places": [],
+        "text": "Nú gerðist svo mikið um drauma Gísla að hann gerir svo myrkhræddan að hann þorir hvergi einn saman að vera og þegar hann leggur sín augu  saman þá sýnist honum hin sama kona. Það var enn eina nótt að Gísli lét raunlítt í svefni. Auður spurði hvað fyrir hann bæri."
+    },
+    {
+        "chapter": "Chapter 34",
+        "concepts": [
+            "Physical Processes: weather: calm"
+        ],
+        "places": [],
+        "text": "Nú er Gísli heima það sumar og er nú kyrrt. Síðan kemur sumarnótt síðasta. Þá er þess getið að Gísli mátti ekki sofa og ekki þeirra þriggja. Veðri var þann veg farið að var á logn mikið; hélufall var og mikið. Þá kveðst Gísli vilja fara frá húsum og til fylgsnis síns suður undir kleifarnar og vita ef hann mætti sofna. Nú fara þau öll og eru þær í kyrtlum og draga kyrtlarnir döggslóðina. Gísli hafði kefli og reist á rúnir og falla niður spænirnir."
+    },
+    {
+        "chapter": "Chapter 34",
+        "concepts": [
+            "Actors: animals: birds"
+        ],
+        "places": [],
+        "text": "Þau koma til fylgsnisins. Hann leggst niður og vill vita ef hann gæti sofið en þær vaka. Rennur á hann svefnhöfgi, og dreymir hann að fuglar kæmi í húsið er læmingjar heita, þeir eru meiri en rjúpkerar og létu illilega of höfðu volkast í roðru og blóði."
+    },
+    {
+        "chapter": "Chapter 34",
+        "concepts": [
+            "Actors: things: wood"
+        ],
+        "places": [],
+        "text": "Og er þetta er tíðinda heyra þau mannamál og er Eyjólfur þar kominn við hinn fimmtánda mann og hafa áður komið til húss og sjá döggslóðina sem vísað væri til. Og er þau verða vör við mennina, ganga þau upp á kleifarnar þar sem vígi er best og hefur hvor þeirra þusl í hendi mikla. Þeir Eyjólfur ganga að neðan."
+    },
+    {
+        "chapter": "Chapter 34",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Helgi ræður nú til þar sem honum þykir vænst og hefur í hendi öxi mikla. Gísli var svo búinn að hann hafði í hendi öxi og gyrður sverði og skjöld á hlið; hann var í kufli gráum og hafði gyrt að sér með reipi. Nú skopar Helgi skeið og hleypur upp á kleifarnar að Gísla. Hann snarar í móti Helga og reiðir upp sverðið og rekur á lendarnar svo að í sundur tók manninn í miðju og fellur sér hvor hluturinn ofan fyrir kleifarnar. Eyjólfur komst upp annars staðar og kom þar Auður í móti honum og lýstur á hönd honum með lurki svo að úr dró allt aflið úr og hratar hann ofan aftur."
+    },
+    {
+        "chapter": "Chapter 35",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Þá fara til tveir menn að halda þeim Auði og Guðríði og þykjast þeir hafa ærið að vinna. Nú sækja tólf að Gísla og komast upp á kleifarnar. En hann ver sig bæði með grjóti og vopnum svo að því fylgdi mikil frægð."
+    },
+    {
+        "chapter": "Chapter 35",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: things: spear"
+        ],
+        "places": [],
+        "text": "Sjá maður leggur til Gísla með spjóti. En Gísli heggur mót og spjótið af skaftinu og verður höggið svo mikið að öxin hljóp í helluna og brestur af hyrnan. Hann kastar þá öxinni en grípur til sverðsins og vegur með því en hlífir sér með skildinum. Þeir sækja nú að rösklega en hann verst vel og drengilega; komu þeir nú hart saman. Gísli vó þá enn tvo menn og eru nú fjórir látnir."
+    },
+    {
+        "chapter": "Chapter 35",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Einhamar",
+                "sm_entry": {
+                    "id": "776",
+                    "name": "Einhamar",
+                    "lat": "65.672963",
+                    "lng": "-23.237465",
+                    "type": "cliff",
+                    "county": "VesBar01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Og er minnst er vonin vinst Gísli við og hleypur upp á hamar þann er heitir Einhamar og af kleifunum. Þar snýst Gísli við og verst. Þetta kom þeim að óvörum; þykir þeim nú mjög óhægjast sitt mál, mennirnir dauðir fjórir en þeir sárir og móðir. Verður nú hvíld á aðsókninni. Þá eggjar Eyjólfur menn sína allfast og heitir þeim miklum fríðindum ef þeir næðu Gísla. Eyjólfur hafði einvala lið með sér að hreysti og harðfengi."
+    },
+    {
+        "chapter": "Chapter 36",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Maður er nefndur Sveinn er fyrstur réðst í móti Gísla. Gísli heggur til hans og klýfur hann í herðar niður og fleygir honum ofan fyrir hamarinn. Nú þykjast þeir eigi vita hvað staðar næmi manndráp þessa manns."
+    },
+    {
+        "chapter": "Chapter 36",
+        "concepts": [
+            "Actors: things: spear",
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Nú leita þeir sér ráðs og vilja eigi fyrir líf sitt frá hverfa. Sækja þeir nú að honum tveggja vegna og fylgja þeir Eyjólfi fremstir er annan heitir Þórir en annar Þórður, frændur Eyjólfs; þeir voru hinir mestu garpar. Og er aðsóknin þá bæði hörð og áköf og fá þeir nú komið á hann sárum nokkrum með spjótalögum en hann verst með mikilli hreysti og drengskap. Og fá þeir svo þungt af honum af grjóti og stórum höggum svo að enginn var ósár, sá er að honum sótti, því að Gísli var eigi missfengur í höggum. Nú sækja þeir Eyjólfur að fast og frændur hans; þeir sáu að þar lá við sæmd þeirra og virðing. Leggja þeir þá til hans með spjótum svo að út falla iðrin en hann sveipar að sér iðrunum og skyrtunni og bindur að fyrir neðan með reipinu."
+    },
+    {
+        "chapter": "Chapter 36",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Sjá er hin síðasta vísa Gísla. Og jafnskjótt er hann hafði kveðið vísuna hleypur hann ofan af hamrinum og keyrir sverðið í höfuð Þórði, frænda Eyjólfs, og klýfur hann allt til beltisstaðar enda fellur Gísli á hann ofan og er þegar örendur. En þeir voru allir mjög sárir förunautar Eyjólfs. Gísli lét líf sitt með svo mörgum og stórum sárum að furða þótti í vera. Svo hafa þeir sagt að hann hopaði aldrei og eigi sáu þeir að högg hans væri minna hið síðasta en hið fyrsta."
+    },
+    {
+        "chapter": "Chapter 36",
+        "concepts": [
+            "Events: burial"
+        ],
+        "places": [],
+        "text": "Nú draga þeir hann ofan og taka af honum sverðið, götva hann þar í grjótinu og fara ofan til sjávar. Þá andaðist hinn sjötti maður við sjó niðri. Eyjólfur bauð Auði að hún færi með honum en hún vildi eigi."
+    },
+    {
+        "chapter": "Chapter 37",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Nú fer Eyjólfur heiman við hinn tólfta mann suður til fundar við Börk hinn digra og sagði honum þessi tíðindi og allan atburð."
+    },
+    {
+        "chapter": "Chapter 37",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Og um kveldið er hún bar mat fram fellir hún niður spónatrogið. Eyjólfur hafði lagt sverð það í milli stokks og fóta sér er Gísli hafði átt. Þórdís kennir sverðið og er hún lýtur niður eftir spónunum þreif hún meðalkaflann á sverðinu og leggur til Eyjólfs og vildi leggja á honum miðjum. Gáði hún eigi að hjalti horfði upp og nam við borðinu; hún lagði neðar en hún hafði ætlað og kom í lærið og var það mikið sár. Börkur tekur Þórdísi og snarar af henni sverðið. Þeir hlaupa upp allir og hrinda fram borðunum og matnum. Börkur bauð Eyjólfi sjálfdæmi fyrir þetta og gerði hann full manngjöld og kveðst gert mundu meira ef Berki hefði verr í farið."
+    },
+    {
+        "chapter": "Chapter 37",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þórdísarstöðum",
+                "sm_entry": {
+                    "id": "777",
+                    "name": "Þórdísarstaðir",
+                    "lat": "64.993016",
+                    "lng": "-23.207964",
+                    "type": "farm",
+                    "county": "Snæfe02",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Eyri",
+                "sm_entry": {
+                    "id": "120",
+                    "name": "Eyrar",
+                    "lat": "63.861632",
+                    "lng": "-21.142065",
+                    "type": "harbour",
+                    "info": "=Eyrarbakki. Main port for south of Iceland for many centuries.",
+                    "county": "Árnes01",
+                    "c": "28",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Helgafelli",
+                "sm_entry": {
+                    "id": "1818",
+                    "name": "Helgafell",
+                    "lat": "65.042662",
+                    "lng": "-22.729319",
+                    "type": "mountain",
+                    "county": "Snæfe02",
+                    "c": "19",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Glerárskógum",
+                "sm_entry": {
+                    "id": "779",
+                    "name": "Glerárskógar",
+                    "lat": "65.203738",
+                    "lng": "-21.712178",
+                    "type": "farm",
+                    "county": "Dalas01",
+                    "c": "4",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Þórdís nefnir sér þá votta og segir skilið við Börk og kveðst eigi skyldu koma síðan í sömu sæng hjá honum og það endi hún. Fór hún þá að búa á Þórdísarstöðum út á Eyri . En Börkur er eftir að Helgafelli , til þess er Snorri goði kom honum á brott og fór Börkur þá að búa í Glerárskógum . En Eyjólfur fer heim og unir illa við sína ferð."
+    },
+    {
+        "chapter": "Chapter 38",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hvítá",
+                "sm_entry": {
+                    "id": "12",
+                    "name": "Hvítá",
+                    "lat": "64.64455",
+                    "lng": "-21.561",
+                    "type": "river",
+                    "county": "Borga01",
+                    "c": "93",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Synir Vésteins fara til gests, frænda síns, og skora á hann að hann komi þeim utan með ráðum sínum og Gunnhildi, móður þeirra, og Auði er Gísli hafði átt og Guðríði Ingjaldsdóttur og Eirmundi bróður hennar. Fara þau öll utan í Hvítá , kom Gestur þeim utan með fé sínu."
+    },
+    {
+        "chapter": "Chapter 38",
+        "concepts": [
+            "Activities: fishing",
+            "Activities: travel",
+            "Actors: things: boat",
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Grænlands",
+                "sm_entry": {
+                    "id": "780",
+                    "name": "Grænland",
+                    "lat": "65.497644",
+                    "lng": "-44.107285",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "99",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Gengur Bergur á stræti og vill kaupa þeim brúðarrúm í kaupangi og tveir menn með honum. Þeir mæta tveim mönnum og var annar í skarlatsklæðum, ungur maður og mikill vexti; sá spurði Berg að nafni. Hann sagði til hið sanna um nafn sitt og kyn því að hann ætlaði að hann mundi þess víðar koma að hann mundi njóta föður síns en gjalda. En sá er í skarlatsklæðunum var brá sverði og hjó Berg banahögg. Það var Ari Súrsson, bróðir Gísla og Þorkels. Förunautar Bergs fóru til skips og sögðu tíðindin. Stýrimaður kom þeim undan og tók Helga far til Grænlands . Helgi kom þangað og þroskaðist þar og þótti hinn besti drengur og voru menn sendir til höfuðs honum en þess varð eigi auðið. Helgi týndist í veiðiför og þótti það mikill skaði."
+    },
+    {
+        "chapter": "Chapter 38",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Danmerkur",
+                "sm_entry": {
+                    "id": "18",
+                    "name": "Danmörk",
+                    "lat": "56.002194",
+                    "lng": "8.805019",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "73",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Heiðabæ",
+                "sm_entry": {
+                    "id": "781",
+                    "name": "Heiðabær",
+                    "lat": "55.932634",
+                    "lng": "8.461435",
+                    "type": "trading site",
+                    "info": "=Hedeby í Danmörku.",
+                    "county": "Foreign01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þær Auður og Gunnhildur fara til Danmerkur í Heiðabæ , tóku þær við trú og gengu suður og komu eigi aftur."
+    },
+    {
+        "chapter": "Chapter 38",
+        "concepts": [
+            "Communit Places: administrative unit: farm",
+            "Activitites: purchase",
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": ""
+    }
+]

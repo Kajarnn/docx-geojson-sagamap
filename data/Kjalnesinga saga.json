@@ -1,0 +1,1424 @@
+[
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Activities: land management"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þrándarstöðum",
+                "sm_entry": {
+                    "id": "1901",
+                    "name": "Þrándarstaðir",
+                    "lat": "64.908371",
+                    "lng": "-23.861176",
+                    "type": "farm",
+                    "county": "Snæfe02",
+                    "c": "1",
+                    "distance": 3
+                }
+            },
+            {
+                "as_mentioned": "Eilífsdal",
+                "sm_entry": {
+                    "id": "2009",
+                    "name": "Eilífsdalsá",
+                    "lat": "64.28759",
+                    "lng": "-21.652513",
+                    "type": "river",
+                    "county": "Kjósar01",
+                    "c": "1",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Hækingsdal",
+                "sm_entry": {
+                    "id": "1344",
+                    "name": "Hækingsdalur",
+                    "lat": "64.291033",
+                    "lng": "-21.394197",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "1",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Tindsstöðum"
+            }
+        ],
+        "text": "Helgi skipaði skipverjum sínum lönd þau sem hann hafði numið. Hann fékk Þrándi á  Þrándarstöðum , Eilífi í  Eilífsdal , Hækingi í  Hækingsdal , Tind á  Tindsstöðum  og þar hverjum sem honum þótti fallið vera."
+    },
+    {
+        "chapter": "1. kafli",
+        "concepts": [
+            "Physical Landsacpe: built environment: buildings: communal buildings: church",
+            "Community Places: administrative unit: farm",
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þerneyjarsundi",
+                "sm_entry": {
+                    "id": "1346",
+                    "name": "Þerneyjarsund",
+                    "lat": "64.181673",
+                    "lng": "-21.771233",
+                    "type": "harbour",
+                    "county": "Kjósar01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Eftir það býr Örlygur ferð sína og er frá ferð hans það fyrst að segja að allt gekk eftir því sem biskup sagði. Hann tók í  Þerneyjarsundi  höfn. Síðan fór hann að finna Helga bjólu og tók hann vel við honum. Reisti Örlygur þar nú bú og kirkju og bjó þar síðan til elli."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Leiruvog",
+                "sm_entry": {
+                    "id": "2924",
+                    "name": "Leiruvogur",
+                    "lat": "64.543604",
+                    "lng": "-14.574451",
+                    "type": "harbour",
+                    "county": "SuðMúl01",
+                    "c": "3",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Kollafjörð",
+                "sm_entry": {
+                    "id": "2721",
+                    "name": "Kollafjörður",
+                    "lat": "65.612305",
+                    "lng": "-22.529337",
+                    "type": "fjord",
+                    "county": "AusBar01",
+                    "c": "3",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Esjubergi",
+                "sm_entry": {
+                    "id": "1010",
+                    "name": "Esjuberg",
+                    "lat": "64.218422",
+                    "lng": "-21.774091",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "21",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Hofs",
+                "sm_entry": {
+                    "id": "72",
+                    "name": "Hof",
+                    "lat": "63.791331",
+                    "lng": "-20.198193",
+                    "type": "farm",
+                    "info": "=Stóra-Hof. Landnámsjörð (Ketill hængur Þorkelsson)",
+                    "county": "Rangár01",
+                    "c": "18",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Á ofanverðum dögum Konofogors kom skip í  Leiruvog . Þar voru á írskir menn. Maður hét Andríður, ungur og ókvongaður, mikill og sterkur. Þar var  á kona sú er hét Esja, ekkja og mjög auðig. Sá maður er nefndur Kolli er þar var á skipi með þeim. Helgi tók við þeim öllum. Kolla setti hann niður í Kollafjörð  en með því að Örlygur var gamall og barnlaus þá gaf hann upp land og bú og tók Esja við. Settist hún þá að  Esjubergi . Allir þessir menn voru kallaðir skírðir en þó var það margra manna mál að Esja væri forn í brögðum. Andríður fór um veturinn til vistar til  Hofs . Var þar þá fóstbræðralag og með sonum Helga."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Physical Landscape: ecological area: woods and trees",
+            "Actors: things: money"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Kjalarnes",
+                "sm_entry": {
+                    "id": "1008",
+                    "name": "Kjalarnes",
+                    "lat": "64.242635",
+                    "lng": "-21.822147",
+                    "type": "peninsula",
+                    "county": "Kjósar01",
+                    "c": "11",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Hofi",
+                "sm_entry": {
+                    "id": "72",
+                    "name": "Hof",
+                    "lat": "63.791331",
+                    "lng": "-20.198193",
+                    "type": "farm",
+                    "info": "=Stóra-Hof. Landnámsjörð (Ketill hængur Þorkelsson)",
+                    "county": "Rangár01",
+                    "c": "18",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Andríður bað Helga fá sér bústað og kvonfang. Hann hafði auð fjár. Þá var skógi vaxið allt  Kjalarnes  svo að þar aðeins var rjóður er menn ruddu til bæja eða vega. Braut mikil var rudd eftir holtunum frá  Hofi . Þangað riðu þeir Helgi og Andríður um vorið."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Community Places: administrative units: farm"
+        ],
+        "places": [],
+        "text": "Og er þeir komu út á holtið þá mælti Helgi: \"Hér við eg Andríður,\" sagði hann, \"gefa þér jörð og að þú reisir hér bæ. Mér þykir sem þeir synir mínir vilji að þér sitjið nær.\""
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: woods and trees"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Brautarholt",
+                "sm_entry": {
+                    "id": "1348",
+                    "name": "Brautarholt",
+                    "lat": "64.241583",
+                    "lng": "-21.875336",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "14",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Eftir það reisti Andríður bæ í brautinni og kallaði  Brautarholt  því að skógurinn var svo þykkur að honum þótti allt annað starfameira. Andríður setti þar reisulegt bú saman."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: woods and trees",
+            "Activities: animal husbandry: grazing",
+            "Actors: animals: mammals: sheep/cow",
+            "Community Places: administrative units: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Brautarholt",
+                "sm_entry": {
+                    "id": "1348",
+                    "name": "Brautarholt",
+                    "lat": "64.241583",
+                    "lng": "-21.875336",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "14",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Brautarholti",
+                "sm_entry": {
+                    "id": "1348",
+                    "name": "Brautarholt",
+                    "lat": "64.241583",
+                    "lng": "-21.875336",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "14",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Músarnes",
+                "sm_entry": {
+                    "id": "1351",
+                    "name": "Músarnes",
+                    "lat": "64.242854",
+                    "lng": "-21.902236",
+                    "type": "peninsula",
+                    "county": "Kjósar01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Eftir boðið fór Þuríður í  Brautarholt  og tók við búi fyrir innan stokk. Var það brátt auðsætt að hún var mikill skörungur. Þau höfðu mart ganganda fjár og gekk allt nær sjálfala úti í skóginum um nesið. Þetta haust var honum vant kvígu þrevetrar myrkrar. Hún hét Mús. Þessi kvíga fannst þrem vetrum síðar á nesi því er liggur til vesturs undan  Brautarholti  og hafði hún þá með sér tvo dilka, annan veturgamlan en annan sumargamlan. Því kölluðu þeir það  Músarnes ."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Activities: land management",
+            "Community Places: administrative units: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Brautarholti",
+                "sm_entry": {
+                    "id": "1348",
+                    "name": "Brautarholt",
+                    "lat": "64.241583",
+                    "lng": "-21.875336",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "14",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þann vetur er Andríður bjó fyrstan í  Brautarholti  andaðist Helgi bjóla. Það þótti mönnum hinn mesti skaði því að hann var hinn vinsælasti maður."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Physical Landscapes: managed landscape area: agricultural area: infield ",
+            "Physical Landscape: built environment: buildings: hall/house",
+            "Actors: institutions: preChristian temple",
+            "Events: construction"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hofi",
+                "sm_entry": {
+                    "id": "72",
+                    "name": "Hof",
+                    "lat": "63.791331",
+                    "lng": "-20.198193",
+                    "type": "farm",
+                    "info": "=Stóra-Hof. Landnámsjörð (Ketill hængur Þorkelsson)",
+                    "county": "Rangár01",
+                    "c": "18",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Nýjahrauns",
+                "sm_entry": {
+                    "id": "1353",
+                    "name": "Nýjahraun",
+                    "lat": "64.021245",
+                    "lng": "-21.953081",
+                    "type": "other",
+                    "info": "\"Þannig B, C, D; Minnahrauns A. Hraun þetta mun hafa runnið, eftir að land byggðis, og nefnist nú Brúni (nyrzt Kapelluhraun), sunnan Hafnarfjarðar (Náttúrufræðingurinn XXII, 87)\" (ÍF XIV: 7).",
+                    "county": "Kjósar01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Blótkeldu",
+                "sm_entry": {
+                    "id": "1354",
+                    "name": "Blótkelda",
+                    "lat": "64.239696",
+                    "lng": "-21.846999",
+                    "type": "bog",
+                    "county": "Kjósar01",
+                    "c": "1",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Hofi",
+                "sm_entry": {
+                    "id": "72",
+                    "name": "Hof",
+                    "lat": "63.791331",
+                    "lng": "-20.198193",
+                    "type": "farm",
+                    "info": "=Stóra-Hof. Landnámsjörð (Ketill hængur Þorkelsson)",
+                    "county": "Rangár01",
+                    "c": "18",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þorgrímur reisti bú um vorið að  Hofi . Var það brátt stórkostlegt enda stóðu margar stoðir undir, vinir og frændur. Gerðist hann héraðsríkur. Hafði hann mannaforráð allt til  Nýjahrauns  og kallað er Brundælagoðorð. Hann var kallaður Þorgrímur goði. Hann var blótmaður mikill. Lét hann reisa hof mikið í túni sínu. Það var hundrað fóta langt en sextugt á breidd. Þar skyldu allir menn hoftoll til leggja. Þór var þar mest tignaður. Þar var gert af innar kringlótt svo sem húfa væri. Það var allt tjaldað og gluggað. Þar stóð Þór í miðju og önnur goð á tvær hendur. Frammi fyrir þar stóð stallur með miklum hagleik ger og þiljaður ofan með járni. Þar á skyldi vera eldur sá er aldrei skyldi slokkna. Það kölluðu þeir vígðan eld. Á þeim stalli skyldi liggja hringur mikill af silfri ger. Hann skyldi hofgoði hafa á hendi til allra mannfunda. Þar að skyldu allir menn eiða sverja um kennslumál öll. Á þeim stalli skyldi og standa bolli af kopar mikill. Þar skyldi í láta blóð það allt er af því fé yrði er Þór var gefið eða mönnum. Þetta kölluðu þeir hlaut eða hlautbolla. Hlautinu skyldi dreifa yfir menn eða fé en fé það sem þar var gefið til skyldi hafa til mannfagnaðar þá er blótveislur eru hafðar. En mönnum er þeir blótuðu skyldi steypa ofan í fen það er úti var hjá dyrunum. Það kölluðu þeir  Blótkeldu . Þau þvertré voru í skálanum að  Hofi er verið höfðu í hofinu þá er Ólafur Jónsson lét bregða. Lét hann þá öll kljúfa í sundur og voru þá enn alldigur."
+    },
+    {
+        "chapter": "2. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: booths",
+            "Community Places: administrative unit: local assembly"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Kjalarnesi",
+                "sm_entry": {
+                    "id": "1008",
+                    "name": "Kjalarnes",
+                    "lat": "64.242635",
+                    "lng": "-21.822147",
+                    "type": "peninsula",
+                    "county": "Kjósar01",
+                    "c": "11",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þorgrímur lét setja vorþing á  Kjalarnesi  suður við sjóinn. Enn sér stað búðanna. Þar skyldi smámál sækja og þau ein til alþingis leggja er þar yrðu eigi sótt eða stærst væru."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Physical Landscape: managed landscape area: agricultural landscape: infield",
+            "Actors: animals: mammals: dog"
+        ],
+        "places": [],
+        "text": "Hann gekk þá til föður síns og mælti: \"Hversu lengi skal svo fram fara faðir að sjá hundur er eg sótti til skógar í sumar skal hér ganga um tún svo frjálslega sem hann eigi oss öngu að svara? Sýnist mér ef slíkt þolist af þínum nábúum sem öðrum muni eigi mikið þykja fyrir að brjóta þitt boð eða hirða eigi hvað vér mælum.\""
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Physical Landscape: ecological area: moving water: stream"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Kléberg",
+                "sm_entry": {
+                    "id": "1356",
+                    "name": "Kléberg",
+                    "lat": "64.23786",
+                    "lng": "-21.828715",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Eftir það fer Búi leið sína austur með sjá og þegar fékk Þorsteinn njósn af. Þeir tóku þá vopn sín og urðu saman tólf. Búi var þá kominn á hæð þá er heitir  Kléberg  er hann sá eftirförina. Nam hann þá staðar og tók að sér steina nokkura. Þeir Þorsteinn fóru mikið og er þeir komu yfir læk þann er þar var þá heyra þeir að þaut í slöngu Búa og fló steinn. Sá kom fyrir brjóstið á einum manni Þorsteins og fékk sá þegar bana. Þá sendi Búi steina nokkura og hafði mann fyrir hverjum. Voru þeir Þorsteinn þá mjög komnir að Búa. Sneri Búi þá af hæðinni annan veg. Var þá leitið eitt í millum þeirra. Í því laust yfir myrkri því að hvergi sá af tám sér."
+    },
+    {
+        "chapter": "3. kafli",
+        "concepts": [
+            "Actors: supernatural actors: monster"
+        ],
+        "places": [],
+        "text": "Þorsteinn mælti þá: \"Nú er við ramman reip að draga er bæði er að eiga við hund og tröll en aftur munum vér nú fara fyrst að sinni. En vilja skal eg til hafa að sá verði fundur okkar Búa að við eigum ekki báðir frá að segja.\""
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Actors: institutions: preChristian temple",
+            "Events: hostile encounter",
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Brautarholt",
+                "sm_entry": {
+                    "id": "1348",
+                    "name": "Brautarholt",
+                    "lat": "64.241583",
+                    "lng": "-21.875336",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "14",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Hofi",
+                "sm_entry": {
+                    "id": "72",
+                    "name": "Hof",
+                    "lat": "63.791331",
+                    "lng": "-20.198193",
+                    "type": "farm",
+                    "info": "=Stóra-Hof. Landnámsjörð (Ketill hængur Þorkelsson)",
+                    "county": "Rangár01",
+                    "c": "18",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Hofi",
+                "sm_entry": {
+                    "id": "72",
+                    "name": "Hof",
+                    "lat": "63.791331",
+                    "lng": "-20.198193",
+                    "type": "farm",
+                    "info": "=Stóra-Hof. Landnámsjörð (Ketill hængur Þorkelsson)",
+                    "county": "Rangár01",
+                    "c": "18",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú líður á til vetrar. Þá fer Búi einn aftan seint út í  Brautarholt  og var þar um nóttina. Um morguninn fyrir dag var hann á fótum. Sneri hann þá austur á holtið þar er hann sá gjörla til bæjarins að  Hofi . Veður var heiðríkt og bjart. Hann sá að maður kom út snemma að  Hofi  í línklæðum. Sá sneri ofan af hliðinu og gekk stræti það er lá til hofsins. Kenna þóttist Búi að þar var Þorsteinn. Búi sneri þá til hofsins og er hann kom þar sá hann að garðurinn var ólæstur og svo hofið. Búi gekk þá inn í hofið. Hann sá að Þorsteinn lá á grúfu fyrir Þór. Búi fór þá hljóðlega þar til er hann kom að Þorsteini. Hann greip þá til Þorsteins með því móti að hann tók annarri hendi undir knésbætur honum en annarri undir herðar honum. Með þeim hætti brá hann Þorsteini á loft og keyrði höfuð hans niður við stein svo fast að heilinn hraut um gólfið. Var hann þegar dauður. Búi bar hann þá út úr hofinu og kastaði honum undir garðinn. Síðan sneri hann inn aftur í hofið. Hann tók þá eldinn þann hinn vígða og tendraði. Síðan bar hann login um hofið og brá í tjöldin. Las þar brátt hvað af  öðru . Logaði nú hofið innan á lítilli stundu. Búi sneri þá út og læsti bæði hofinu og garðinum og fleygði lyklunum í logann. Eftir það gekk Búi leið sína."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Actors: things: wood",
+            "Physical Landscape: built environment: field boundary: wall"
+        ],
+        "places": [],
+        "text": "Þorgrímur goði vaknaði um morguninn og sá út. Hann gat að líta logann til hofsins. Hét hann á menn sína, bæði konur og karla, að hlaupa til með vatnkeröld og hjálpa við hofinu. Hann kallar og á Þorstein son sinn og fannst hann hvergi. En er þeir komu til garðshliðsins var þar ekki greiðfært því að hliðið var læst en þeir fundu hvergi lyklana. Urðu þeir að brjóta upp hliðið því að garðurinn var svo hár að hvergi mátti að komast. Brutu þeir þá upp hliðið. Og er þeir komu inn um hliðið og í garðinn sáu þeir hvar Þorsteinn lá dauður. Hofið var og læst og mátti því öngu bjarga er inni var. Voru þá gervir til krakar og varð dregið í sundur hofið og náðist við það nokkuð af viðinum."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: field boundary: wall"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hólum",
+                "sm_entry": {
+                    "id": "182",
+                    "name": "Hólar",
+                    "lat": "63.66954",
+                    "lng": "-20.421245",
+                    "type": "farm",
+                    "info": "=Álfhólar",
+                    "county": "Rangár01",
+                    "c": "2",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Nú er að segja frá Búa að hann kom á þann bæ er heitir í  Hólum . Lýsti hann þar vígi Þorsteins sér á hönd, gekk eftir það heim. Var Esja fyrir vestan garð og heilsaði Búa. Hann tók vel kveðju hennar."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: standing water: hot spring",
+            "Physical Landscape: unmanaged landscape area: moving water: river",
+            "Physical Landscape: managed landscape area: agricultural area: field"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Laugargnípa",
+                "sm_entry": {
+                    "id": "1575",
+                    "name": "Laugargnípa",
+                    "lat": "64.232349",
+                    "lng": "-21.770882",
+                    "type": "mountain",
+                    "county": "Kjósar01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Sneru þau þá fyrir ofan garð með fjallinu og þar yfir ána og síðan gengu þau einstigi upp í fjallið og til gnípu þeirrar er heitir  Laugargnípa . Þar varð fyrir þeim hellir fagur. Var það gott herbergi. Þar var undir niðri fögur jarðlaug. Í hellinum voru vistir og drykkur og klæði."
+    },
+    {
+        "chapter": "4. kafli",
+        "concepts": [
+            "Actors: plants: grasses (turf)"
+        ],
+        "places": [],
+        "text": "Búi kvað svo vera skulu. Esja sneri þá heim og þegar hún kom heim lét hún gera elda í húsunum af vatntorfi því er sviðnaði en yrði sem mestur reykur eða remma."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Actors: things: horn",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hólum",
+                "sm_entry": {
+                    "id": "182",
+                    "name": "Hólar",
+                    "lat": "63.66954",
+                    "lng": "-20.421245",
+                    "type": "farm",
+                    "info": "=Álfhólar",
+                    "county": "Rangár01",
+                    "c": "2",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Esjubergs",
+                "sm_entry": {
+                    "id": "1010",
+                    "name": "Esjuberg",
+                    "lat": "64.218422",
+                    "lng": "-21.774091",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "21",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Bóndi sá er bjó í  Hólum  reið þegar á fund Þorgríms goða er Búi var í brott og sagði honum hvert erindi Búi hafði þangað haft. Og þegar Þorgrímur var þessa vís þá sendi hann fyrst eftir mönnum, sonum Arngríms bróður síns, Helga og Vakur, og öðrum fleirum svo að þeir urðu saman þrír tigir manna. Þorgrímur reið með flokk þenna til  Esjubergs . Og er sén var ferð þeirra þá lét Esja bera sorp á eldana og horn en hún stóð úti í dyrum er þeir Þorgrímur komu. Esja heilsaði þeim og bauð þeim þar að vera."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Actors: institutions: preChristian temple"
+        ],
+        "places": [],
+        "text": "Þorgrímur segir: \"Það mun þér eigi allókunnigt. Kanntu að láta marga vega. Hann hefir unnið þau ódæmaverk að því er betur að eigi munu dæmi til finnast. Hann hefir drepið Þorstein son minn en það þó með að þetta er lítils vert. Hann hefir brennt upp hofið og goð vor.\""
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Brautarholt",
+                "sm_entry": {
+                    "id": "1348",
+                    "name": "Brautarholt",
+                    "lat": "64.241583",
+                    "lng": "-21.875336",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "14",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Ríða þeir þá í  Brautarholt . Var þar engi vörn fyrir því að Andríður var tekinn í öndugi sínu og leiddur út. Þuríður húsfreyja bauð fé fyrir Andríð bónda sinn en það tjáði ekki. Fékk Þorgrímur til mann að drepa hann og varð hann drengilega við dauða sinn. Eftir það ríða þeir á braut."
+    },
+    {
+        "chapter": "5. kafli",
+        "concepts": [
+            "Events: burial"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Andríðsey",
+                "sm_entry": {
+                    "id": "1576",
+                    "name": "Andriðsey",
+                    "lat": "64.254842",
+                    "lng": "-21.901389",
+                    "type": "island",
+                    "county": "Kjósar01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þuríður húsfreyja lét búa um lík Andríðs og var hann fluttur í ey þá er þar liggur fyrir landi og var þar heygður og er sú ey kölluð síðan  Andríðsey ."
+    },
+    {
+        "chapter": "6. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Kollafjörð",
+                "sm_entry": {
+                    "id": "2721",
+                    "name": "Kollafjörður",
+                    "lat": "65.612305",
+                    "lng": "-22.529337",
+                    "type": "fjord",
+                    "county": "AusBar01",
+                    "c": "3",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Þetta sama haust sem nú var frá sagt kom skip af hafi. Stýrimaður hét Örn, víkverskur að ætt. Örn stýrimaður fór til vistar í  Kollafjörð . En er Austmaður hafði þar eigi lengi verið leiddi hann augum til hversu fögur Ólöf var Kolladóttir. Tók hann þá í vana að sitja á tali við hana hvern dag. Kolli hafði prúð híbýli. Vildi hann þá og halda til gleði sakir stýrimanns. Lét hann þá efla til leika. En er það spurðu ungir menn um sveitina þá drifu þeir til og urðu þar leikar fjölmennir."
+    },
+    {
+        "chapter": "7. kafli",
+        "concepts": [
+            "Actors: things: wood"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Kollafjörð",
+                "sm_entry": {
+                    "id": "2721",
+                    "name": "Kollafjörður",
+                    "lat": "65.612305",
+                    "lng": "-22.529337",
+                    "type": "fjord",
+                    "county": "AusBar01",
+                    "c": "3",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Litlu síðar rís Kolfinnur upp og gengur út og litast um, sér að ekki er framorðið. Kolfinnur var svo búinn að hann var í kollhettu og hafði kneppt blöðum milli fóta sér. Hann hafði hökulbrækur og kálfskinnskó loðna á fótum. Viðarbolungur stóð á hlaðinu. Gekk hann þangað til og tók eitt tré hátt í hönd sér, sneri síðan úr garði. Hann skaut stönginni fram fyrir sig og hljóp þar eftir síðan. Hann fór stórlega mikið. Eigi létti hann fyrr en hann kom í  Kollafjörð . Var þá tekið til leiks. Ólöf sat á palli og á sína hönd henni hvor, Örn austmaður og Búi. En er Kolfinnur kom í stofu svo búinn sem fyrr var sagt þótti flestum mönnum hann vera heldur hæðilegur. Hann nam staðar á gólfinu og litast um. Hann sá hvar reiðustóll stóð á gólfinu. Hann gekk þangað og tók stólinn og setti að framan þar sem Ólöf sat. Kolfinnur settist síðan á stólinn og sat þar þann dag allan."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Physical Landscape: managed landscape area: agricultural area: infield"
+        ],
+        "places": [],
+        "text": "Þenna sama aftan bað Örn svein sinn taka vopn þeirra og ganga með suður úr túni og bíða sín þar. En með því að þys var mikill en margir menn bjuggust þá gáfu öngvir menn gaum að Austmanni hvert hann gekk. Sneri Austmaður þá suður um holt það er þar var. Sátu þeir þar tveir fyrir Kolfinni."
+    },
+    {
+        "chapter": "8. kafli",
+        "concepts": [
+            "Actors: humans: dead human",
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Kollafjörð",
+                "sm_entry": {
+                    "id": "2721",
+                    "name": "Kollafjörður",
+                    "lat": "65.612305",
+                    "lng": "-22.529337",
+                    "type": "fjord",
+                    "county": "AusBar01",
+                    "c": "3",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Eftir leikinn gekk Kolfinnur út að vanda og fór leið sína. En er hann kom suður af holtunum hlupu þeir Örn austmaður upp og sóttu að honum. Kolfinnur varðist með lurkinum og barði vopnin fyrir þeir. Varð þeim hann torsóttari en þeir hugðu. Og er þeir höfðu saman átt um hríð sló Kolfinnur sveininn í rot. Hraut þá frá honum bæði skjöldurinn og sverðið. Kolfinnur greip þá upp hvorttveggja. Sótti hann þá að Erni austmanni og lauk svo að Örn féll en Kolfinnur varð sár. Í því raknaði sveinninn við og vildi Kolfinnur ekki gera honum meira. Gekk hann þá leið sína. Sveinninn sá Austmanninn veginn. Skaut hann þá yfir hann skildi, gekk síðan heim í  Kollafjörð . Kolli lét flytja heim lík hans og búa um eftir siðvenju."
+    },
+    {
+        "chapter": "9. kafli",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Það var þá siður að kasta feldi undir fætur sér. Það voru lög þeirra að sá þeirra er af feldi hopaði skyldi leysa sig þrem mörkum silfurs. Sá þeirra var óvígur er fyrri lét sitt blóð á jörð."
+    },
+    {
+        "chapter": "9. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Eftir það voru sögð upp hólmgöngulög milli þeirra. Búi átti fyrr að höggva því að honum var á hólm skorað. Hvortveggi hafði góðan skjöld og öll önnur  vopn. Búi hjó þá til Kolfinns. Kolfinnur brá þá við skildinum og tók af öðrumegin mundriða. Eftir það hjó Kolfinnur þvílíkt högg til Búa. Búi hjá þá til Kolfinns og gerði ónýtan fyrir honum skjöldinn og særði hann miklu sári á höndina. Var Kolfinnur þegar óvígur. Menn hlupu þá í millum þeirra og voru þeir skildir. Eftir það fór hvor leið sína."
+    },
+    {
+        "chapter": "9. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: standing water: hot spring"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Korpúlfsstaði",
+                "sm_entry": {
+                    "id": "1577",
+                    "name": "Korpúlfsstaðir",
+                    "lat": "64.149937",
+                    "lng": "-21.758682",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "3",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Fór Kolfinnur á  Korpúlfsstaði  og batt Korpúlfur sár hans og kvað eigi minna að von um skipti þeirra Búa. Dvaldist Kolfinnur nú þar um stund."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hrútafjarðar",
+                "sm_entry": {
+                    "id": "1205",
+                    "name": "Hrútafjarðará",
+                    "lat": "65.1264827238581",
+                    "lng": "-21.0662841796875",
+                    "type": "river",
+                    "county": "VesHún01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Borðeyri",
+                "sm_entry": {
+                    "id": "402",
+                    "name": "Borðeyri",
+                    "lat": "65.208914",
+                    "lng": "-21.096312",
+                    "type": "peninsula",
+                    "county": "VesHún01",
+                    "c": "20",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "\"Vil eg nú,\" sagði hún, \"að þú liggir eigi hér lengur heldur skaltu fara norður til  Hrútafjarðar . Þar hefir skip uppi staðið í vetur á  Borðeyri . Þar skaltu utan fara og freista hvað þar liggi fyrir þér. Eg gerist nú gömul og mun eg eiga fá vetur ólifað.\""
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Kollafjörð",
+                "sm_entry": {
+                    "id": "2721",
+                    "name": "Kollafjörður",
+                    "lat": "65.612305",
+                    "lng": "-22.529337",
+                    "type": "fjord",
+                    "county": "AusBar01",
+                    "c": "3",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Þessu næst bjó hún ferð hans og fékk honum mann til fylgdar og þrjá hesta. Ólöf skyldi fara heim í  Kollafjörð  og bíða hans um þrjá vetur. Búi fór með fjalli inn, þegar hann var búinn, sem leið liggur. Esja fóstra hans fór á leið með honum og þótti mikið fyrir að skilja við hann."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Actors: animals: mammals: horses",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Blikdalsá",
+                "sm_entry": {
+                    "id": "1582",
+                    "name": "Blikdalsá",
+                    "lat": "64.263556",
+                    "lng": "-21.77447",
+                    "type": "river",
+                    "county": "Kjósar01",
+                    "c": "1",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Saurbæ",
+                "sm_entry": {
+                    "id": "1352",
+                    "name": "Saurbær",
+                    "lat": "64.280667",
+                    "lng": "-21.841911",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "7",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Síðan reið Búi leið sína og er hann kom inn fyrir  Blikdalsá  fann hann þar smalamann úr  Saurbæ . Hann spurði hverjir þessir menn væru. Búi sagði honum allt hið sanna. Og þegar þeir voru skildir og leiti bar á millum þeirra tók sauðamaður á rás heim og sagði þeim bræðrum allt um ferðir Búa. Þeir  þökkuðu honum sitt starf. Létu þeir þegar taka hesta og kölluðu með sér heimamenn sína. Vopnuðust þeir skjótt og urðu saman tólf menn. Riðu þeir mikið."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Skeiðhlíð",
+                "sm_entry": {
+                    "id": "1583",
+                    "name": "Skeiðhlíð",
+                    "lat": "64.291724",
+                    "lng": "-21.655283",
+                    "type": "hill",
+                    "county": "Kjósar01",
+                    "c": "1",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Orustuhóll",
+                "sm_entry": {
+                    "id": "499",
+                    "name": "Orustuhóll",
+                    "lat": "65.794661",
+                    "lng": "-17.914633",
+                    "type": "hill",
+                    "info": "Hét áður Kakalahóll eða Melrakkahóll, en heitir nú Orustuhóll",
+                    "county": "Eyjafj02",
+                    "c": "1",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Eilífsdal",
+                "sm_entry": {
+                    "id": "2009",
+                    "name": "Eilífsdalsá",
+                    "lat": "64.28759",
+                    "lng": "-21.652513",
+                    "type": "river",
+                    "county": "Kjósar01",
+                    "c": "1",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Saurbæ",
+                "sm_entry": {
+                    "id": "1352",
+                    "name": "Saurbær",
+                    "lat": "64.280667",
+                    "lng": "-21.841911",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "7",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Búi sá eigi eftirreiðina fyrr en hann kom ofan hjá  Skeiðhlíð . Hann reið þá þar til er hóll sá varð fyrir honum er síðan heitir  Orustuhóll . Þar nam Búi staðar og bað förunaut sinn geyma hesta þeirra og gagna. Búi gekk upp á hólinn og bar upp grjót að sér. Hann hafði öll góð vopn og skyrtu þá er fóstra hans hafði gefið honum. Þá bræður bar brátt að. Hlupu þeir þegar af hestum sínum og veittu Búa atsókn harða. Búi varðist drengilega. Lét hann ganga grjót í fyrstu. Var það jafnsnemma að fallnir voru fjórir menn af þeim bræðrum enda hafði Búi þá lokið grjótinu. Hann tók þá skjöld sinn og sverð. Þeir bræður sóttu að með miklu kappi því að þeir voru báðir hugprúðir. Féllu þá enn tveir förunautar þeirra. Voru þeir bræður þá sárir og allir þeirra menn. Búi var þá enn ósár en ákaflega vígmóður. Í því bili kom til Eilífur bóndi úr  Eilífsdal  við hinn sétta mann og gekk á millum þeirra. Og með því að þeir bræður voru sárir, Helgi og Vakur, þá gáfu þeir upp. Eilífur bað Búa fara leið sína og svo gerði hann. Eilífur lét jarða dauða menn en lét binda sár hinna. Eftir það fóru þeir bræður heim í  Saurbæ  og undu illa sinni ferð."
+    },
+    {
+        "chapter": "11. kafli",
+        "concepts": [
+            "Actors: institutions: preChristian temple",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Kollafirði"
+            },
+            {
+                "as_mentioned": "Noreg",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Þeir bræður Helgi og Vakur tóku sér fari um sumarið í  Kollafirði  og fóru utan báðir. Þeir tóku  Noreg  og fóru til hirðar Haralds konungs hins hárfagra. Voru þeir með konungi um veturinn og þokkuðust hverjum manni vel. Þeir sögðu konungi frá skiptum þeirra Búa. Lét konungur illa yfir því er Búi hafði brennt hofið og kallaði það níðingsverk."
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Actors: things: boat"
+        ],
+        "places": [],
+        "text": "Búi var með hirð jarlsins um veturinn. Einar jarl hafði starfsamt um veturinn. Var Búi hinn öruggasti í öllum mannraunum. En um vorið er skip  það bjóst til Noregs er Búi hafði þangað á farið þá gekk Búi fyrir jarl og bað hann orlofs."
+    },
+    {
+        "chapter": "12. kafli",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þrándheimi",
+                "sm_entry": {
+                    "id": "369",
+                    "name": "Þrándheimur",
+                    "lat": "63.4062799937642",
+                    "lng": "10.37109375",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "76",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Þrándheims",
+                "sm_entry": {
+                    "id": "369",
+                    "name": "Þrándheimur",
+                    "lat": "63.4062799937642",
+                    "lng": "10.37109375",
+                    "type": "region",
+                    "county": "Foreign01",
+                    "c": "76",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Búi þakkaði jarli með fögrum orðum en kveðst vilja til Noregs. Jarl kvað svo vera skyldu. Eftir það sigldu þeir til Noregs og komu að norðarlega. Spurðu þeir að Haraldur konungur sat í  Þrándheimi . Fór Búi til  Þrándheims á einum byrðingi. Og er hann kom til Steinkera þá gekk hann fyrir konung er hann sat yfir borðum og kvaddi hann vel. Konungur spurði hver sá væri hinn mikli maður. Búi sagði til allt hið sanna. Konungur spurði hvar hann hefði verið um veturinn."
+    },
+    {
+        "chapter": "13. kafli",
+        "concepts": [
+            "Actors: things: jewelry "
+        ],
+        "places": [],
+        "text": "Búi bað hann hafa þökk fyrir og gaf Rauð fingurgull gott og mikið."
+    },
+    {
+        "chapter": "13. kafli",
+        "concepts": [
+            "Actors: things: food"
+        ],
+        "places": [],
+        "text": "Hann gerði svo. Síðan skaut hún fyrir þau fögru borði og bjó það, bar síðan að honum munnlaug af silfri og dýran dúk. Því næst bað hún hann sitja og snæða. Tók hún þá góða vist og ágætan drykk. Allur borðbúnaður var þar af silfri og við gull búinn, diskar og ker og spænir. Fríður settist þá niður hjá Búa og snæddu og drukku bæði saman. Hún bað hann þá segja sér allt af sínum ferðum. Búi gerði nú svo að hann sagði henni allt af þarkomu sinni."
+    },
+    {
+        "chapter": "14. kafli",
+        "concepts": [
+            "Actors: things: jewelry "
+        ],
+        "places": [],
+        "text": "Fríður mælti: \"Gef honum tafl það er Haraldur konungur hefir oft eftir sent og þar með fingurgull. Má hann þá kaupa sig í frið við konung með taflinu en fingurgullið skal hann eiga til menja.\""
+    },
+    {
+        "chapter": "14. kafli",
+        "concepts": [
+            "Actors: things: jewelry "
+        ],
+        "places": [],
+        "text": "Þá mælti Dofri: \"Þú Búi hefir hér vel verið í vetur að vorri vitund og til marks viljum vér að það sjáist með sönnum jartegnum að þú hefir oss heim sótt. Tafl er hér er eg vil gefa þér. Þenna greip veit eg svo að Haraldi konungi fóstra mínum leikur mestur hugur á. Gullhring þenna skaltu þiggja að mér.\""
+    },
+    {
+        "chapter": "15. kafli",
+        "concepts": [
+            "Actors: supernatural actors: monster"
+        ],
+        "places": [],
+        "text": "Rauður mælti: \"Mikla gæfu hefir þú borið til um þína för. En svo muntu eiga við að búast að eigi mun Haraldur konungur þessu einu við þig hlíta því að nú mun hann etja á þig því trölli er eg veit mest í Noregi. En það er blámaður sá er mörgum manni hefir að bana orðið. Nú vil eg gefa þér fangastakk þann er þú skalt þá hafa. Vænti eg þá að þú munir eigi allmjög kenna hvar sem hann leggur að þér krummur sínar því að hann brýtur bein í flestum ef hann deyðir eigi.\""
+    },
+    {
+        "chapter": "15. kafli",
+        "concepts": [
+            "Actors: supernatural actors: monster",
+            "Physical Landscape: managed landscape area: field"
+        ],
+        "places": [],
+        "text": "Konungur játaði því. Eftir það lagði konungur til hálfs mánaðar stefnu að þetta fang tækist því að hann vildi að sem flestir sæju. En er sú stund var liðin þá lét konungur blása til öllu fólki út á víðan völl. Sem konungur og mikið fjölmenni var þar komið þá bjóst Búi til fangs. Hann fór í skyrtu sína þá er Esja hafði gefið honum og fyrr gátum vér. Síðan steypti hann yfir sig fangastakki þeim er Rauður gaf honum, fór þá til leikmótsins. Konungur lét þá leiða fram blámanninn og héldu á honum fjórir menn. Hann grenjaði fast og lét tröllslega."
+    },
+    {
+        "chapter": "15. kafli",
+        "concepts": [
+            "Physical Landscape: managed landscape area: field"
+        ],
+        "places": [],
+        "text": "Þar var svo háttað að þar var sléttur völlur en þar um utan hæðir miklar. Sat þar á fólkið umhverfis. Á vellinum stóð ein hella mikil og uppþunn niður í völlinn. Það kölluðu þeir fanghellu."
+    },
+    {
+        "chapter": "15. kafli",
+        "concepts": [
+            "Actors: supernatural actors: monster"
+        ],
+        "places": [],
+        "text": "Búi mælti: \"Ekki sýnist mér það maður. Trölli sýnist mér það líkara.\""
+    },
+    {
+        "chapter": "15. kafli",
+        "concepts": [
+            "Actors: animals: mammals: hogs",
+            "Physical Landscape: managed landscape area: field",
+            "Actors: supernatural actors: monster",
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Eftir það gekk Búi fram á völlinn og er fólkið sá hann þá mæltu margir að það væri illa er trölli skyldi etja upp á jafndrengilegan mann. Þeir létu þá lausan blámanninn. Hljóp hann þá grenjandi að Búa. Og er þeir mættust  tókust þeir afar fast og sviptust. Skildi Búi það skjótt að hann var mjög aflvani fyrir þessu kykvendi. Forðaði hann sér þá við föllum en stóð þó fast og fór undan víða um völlinn. Skildi Búi það að hann tók svo að bein hans mundu brotna ef eigi hlífðu honum klæðin. Það skildi Búi að blámaðurinn vildi færa hann að hellunni. En er þeir höfðu að gengist um stund þá mæddist blámaðurinn ákaflega og tók að láta í honum sem þá að lætur í göltum þá er þeir gangast að og á þann hátt felldi hann froðu. Og er Búi fann það lét hann hörfast undan að hellunni. Blámaðurinn herti þá að af nýju og voru ógurleg hans læti að heyra því að hann var drjúgum sprunginn af sókn. En er Búi kom að hellunni svo að hann kenndi hennar með hælunum þá herti blámaðurinn að slíkt er hann mátti. Búi brá þá við er minnst var von og hljóp hann þá öfugur yfir helluna en blámanninum urðu lausar hendurnar og skruppu af fangastakkinum. Búi kippti þá að sér blámanninum slíkt er hann mátt. Hrataði hann þá að hellunni svo að bringspalir hans tóku þar sem hvössust var. Þá hljóp Búi ofan á hann með öllu afli. Gengu þá í sundur bringspelirnir í blámanninum og því næst var hann dauður. Margir töluðu um að þetta væri mikið þrekvirki. Búi gekk þá fyrir Harald konung."
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: heathland",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eyrarbakka",
+                "sm_entry": {
+                    "id": "2124",
+                    "name": "Eyrabakki",
+                    "lat": "63.86281",
+                    "lng": "-21.14734",
+                    "type": "trading site",
+                    "county": "Árnes01",
+                    "c": "18",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Einarshöfn",
+                "sm_entry": {
+                    "id": "1580",
+                    "name": "Einarshöfn",
+                    "lat": "63.86378",
+                    "lng": "-21.164608",
+                    "type": "harbour",
+                    "county": "Árnes01",
+                    "c": "9",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Ölfus",
+                "sm_entry": {
+                    "id": "352",
+                    "name": "Ölfus",
+                    "lat": "63.9500401629496",
+                    "lng": "-21.2351989746094",
+                    "type": "region",
+                    "county": "Árnes01",
+                    "c": "9",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Öxnaskarðs",
+                "sm_entry": {
+                    "id": "1581",
+                    "name": "Öxnaskarð",
+                    "lat": "64.03293",
+                    "lng": "-21.381346",
+                    "type": "other",
+                    "info": "=Hellisskarð.",
+                    "county": "Kjósar01",
+                    "c": "1",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "En um sumarið eftir kom skip suður á  Eyrarbakka  í höfn þá er heitir í  Einarshöfn . Spurðist það þar af að þar var á Búi Andríðsson. Og þegar þetta spurðist ofan yfir heiði hélt Kolfinnur til njósnum um ferðir Búa og spurði er hann kom í  Ölfus . Þá reið Kolfinnur heiman upp til  Öxnaskarðs við  tólfta mann. Þar var með honum Grímur frændi hans og tíu menn aðrir. Þeir sátu þar fyrir Búa."
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: things: spear"
+        ],
+        "places": [],
+        "text": "Í því bili reið Búi ofan úr skarðinu. Hann sá mennina vopnaða. Hann hugsar hverjir vera mundu. Búi hafði öll góð vopn. Hann var í skyrtu sinni Esjunaut. Búi reið til steins eins mikils er stóð undir skarðinu og sté þar af hesti sínum. Þeir hlupu þá þangað til. Búi hafði haft snarspjót lítið í hendi. Fleygði hann því til þeirra. Það kom í skjöld Gríms neðanverðan. Þá brast út úr skildinum. Hljóp þá spjótið í fót Grími fyrir ofan kné og þar í gegnum. Var Grímur þegar óvígur. Búi sneri þá baki að steininum því að hann er svo mikill sem hamar. Mátti þá framan aðeins að honum ganga."
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Þá veittu þeir honum atsókn en hann varðist prúðlega. Kolfinnur eggjaði sína menn en hlífðist sjálfur við því að hann ætlaði sér afburð. En þeim var Búi torsóttur því að þótt þeir kæmu höggum eða lögum á hann þá varð hann ekki sár þar er skyrtan tók en hver sem hann kom höggum á þá þurfti eigi um að binda. Var þá svo komið að sex menn voru látnir af Kolfinni en hinir allir sárir. Búi var sár á fæti."
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Hljóp Kolfinnur þá að Búa með brugðið sverð og hjó hvert að öðru. Búi hlífði sér með skildinum. Kolfinnur hjó hart og tíðum og sótti alldrengilega. Hjóst þá allmjög skjöldur Búa. En er Kolfinni rénaði hin mesta atsókn og hann mæðist þá herti Búi að honum og gekk þá fram frá steininum. Hann hjó þá eigi mörg högg áður hann ónýtti skjöld Kolfinns. Síðan veitti hann Kolfinni það slag að hann tók í sundur í miðju. Búi var þá og sár nokkuð  bæði á höndum og fótum þar sem eigi hafði skyrtan hlíft en ákaflega var hann vígmóður. Búi gekk þá þangað til sem Grímur var son Korpúlfs og spurði hvort hann vildi grið hafa. Hann kveðst það vildu."
+    },
+    {
+        "chapter": "16. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: standing water: hot spring",
+            "Activities: travel",
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Elliðavatns",
+                "sm_entry": {
+                    "id": "1355",
+                    "name": "Elliðavatn",
+                    "lat": "64.087196",
+                    "lng": "-21.765973",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "5",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Kollafjarðar",
+                "sm_entry": {
+                    "id": "2721",
+                    "name": "Kollafjörður",
+                    "lat": "65.612305",
+                    "lng": "-22.529337",
+                    "type": "fjord",
+                    "county": "AusBar01",
+                    "c": "3",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Búi tók þá hest sinn. Reið hann þar til er hann kom ofan til  Elliðavatns . Ólöf var úti og heilsaði Búa. Hann bað hana taka klæði sín og fara með sér. Hún gerði svo. Reið hún með Búa til  Kollafjarðar . Kolli var úti og fagnaði vel Búa og bauð honum þar að vera. Búi kveðst mundu eiga þar dvöl nokkura við laugina og binda sár sín. Var nú svo gert."
+    },
+    {
+        "chapter": "17. kafli",
+        "concepts": [
+            "Community Places: administrative unit: local assembly ",
+            "Ideas: power: legal power",
+            "Actors: things: money"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hofi",
+                "sm_entry": {
+                    "id": "72",
+                    "name": "Hof",
+                    "lat": "63.791331",
+                    "lng": "-20.198193",
+                    "type": "farm",
+                    "info": "=Stóra-Hof. Landnámsjörð (Ketill hængur Þorkelsson)",
+                    "county": "Rangár01",
+                    "c": "18",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þorgrímur bjó þá enn að  Hofi  og var þá gamall mjög. Hann átti dóttur eina barna er Helga hét. Hún var ung og hin skörulegasta kona. Arngrímur bróðir hans var þá og andaður en þeir bræður höfðu skipt arfi með sér. Hafði Helgi land í Saurbæ en Vakur gerðist kaupmaður og þótti vera hinn vaskasti."
+    },
+    {
+        "chapter": "17. kafli",
+        "concepts": [
+            "Activities: land management"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Esjubergi",
+                "sm_entry": {
+                    "id": "1010",
+                    "name": "Esjuberg",
+                    "lat": "64.218422",
+                    "lng": "-21.774091",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "21",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Esjubergs",
+                "sm_entry": {
+                    "id": "1010",
+                    "name": "Esjuberg",
+                    "lat": "64.218422",
+                    "lng": "-21.774091",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "21",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Litlu síðar andaðist Esja. Hún gaf allt fé sitt Búa og Þuríði dóttur hans. Búi tók þá við búi á  Esjubergi  og setti þar á rausnarbú. Eftir brullaupið um sumarið fór Helga til  Esjubergs  með Búa. Var það brátt auðsætt að hún var hinn mesti skörungur. Tókst nú vinátta með þeim Þorgrími goða með mægðum. Hélt Þorgrímur nú öllu Búa til sæmdar. Var þá þangað skotið öllum málum. Búi færði sér það allvel í nyt. Varð hann hinn vinsælasti maður."
+    },
+    {
+        "chapter": "17. kafli",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Activities: land managment"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Saurbæ",
+                "sm_entry": {
+                    "id": "1352",
+                    "name": "Saurbær",
+                    "lat": "64.280667",
+                    "lng": "-21.841911",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "7",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Hofsland",
+                "sm_entry": {
+                    "id": "3046",
+                    "name": "Hofsland",
+                    "lat": "65.649649",
+                    "lng": "-15.061283",
+                    "type": "other",
+                    "county": "NorMúl01",
+                    "c": "1",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Nýjahrauni",
+                "sm_entry": {
+                    "id": "1353",
+                    "name": "Nýjahraun",
+                    "lat": "64.021245",
+                    "lng": "-21.953081",
+                    "type": "other",
+                    "info": "\"Þannig B, C, D; Minnahrauns A. Hraun þetta mun hafa runnið, eftir að land byggðis, og nefnist nú Brúni (nyrzt Kapelluhraun), sunnan Hafnarfjarðar (Náttúrufræðingurinn XXII, 87)\" (ÍF XIV: 7).",
+                    "county": "Kjósar01",
+                    "c": "2",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Botnsár",
+                "sm_entry": {
+                    "id": "1339",
+                    "name": "Botnsá",
+                    "lat": "64.384254",
+                    "lng": "-21.327364",
+                    "type": "river",
+                    "county": "Kjósar01",
+                    "c": "4",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Esjubergi",
+                "sm_entry": {
+                    "id": "1010",
+                    "name": "Esjuberg",
+                    "lat": "64.218422",
+                    "lng": "-21.774091",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "21",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Í þann tíma lét Vakur af förum. Tók hann við landi í  Saurbæ  en Helgi tók þá  Hofsland  af Búa. Tók þá Búi við mannaforræði. Hafði hann allt út að  Nýjahrauni  og inn til  Botnsár . Búi bjó á  Esjubergi  tólf vetur og átti mikið rausnarbú. Á þeirri stundu fékk Vakur Þuríðar dóttur Búa og Ólafar."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Actors: animals: mammals: horses",
+            "Activities: exchange",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eyjafirði"
+            },
+            {
+                "as_mentioned": "Esjubergs",
+                "sm_entry": {
+                    "id": "1010",
+                    "name": "Esjuberg",
+                    "lat": "64.218422",
+                    "lng": "-21.774091",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "21",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "En er svo var komið kom skip norður í  Eyjafirði . Þar voru á þrænskir menn. Á því skipi var sá maður er Jökull hét, ungur og stórþriflegur. Þegar er Jökull kom á land keypti hann sér hesta og föruneyti. Reið hann síðan suður um land og er ekki fyrr frá hans ferð sagt en hann kom aftan dags til  Esjubergs . Lét hann lítið yfir sér. Þeir voru þar um nóttina því að þar var öllum mönnum matur til reiðu."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Physical Landscape: ecological area: standing water: hot spring"
+        ],
+        "places": [],
+        "text": "Þeir Búi gengu þá austur undir fjallið til laugar. Þar voru vellir fagrir. Síðan klæddust þeir til fangs og tókust allsterklega og gekk svo lengi að hvorgi féll. Búi varð móður mjög."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Activities: travel",
+            "Actors: things: boat"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Eyrarbakka",
+                "sm_entry": {
+                    "id": "2124",
+                    "name": "Eyrabakki",
+                    "lat": "63.86281",
+                    "lng": "-21.14734",
+                    "type": "trading site",
+                    "county": "Árnes01",
+                    "c": "18",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Jökli þótti verk sitt svo illt að hann reið þegar í brott og til skips er búið var suður á  Eyrarbakka  og fór þar utan um sumarið en síðan höfum vér önga sögu heyrt frá honum."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: communal buildings: church",
+            "Events: burial"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Esjubergi",
+                "sm_entry": {
+                    "id": "1010",
+                    "name": "Esjuberg",
+                    "lat": "64.218422",
+                    "lng": "-21.774091",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "21",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Helga Þorgrímsdóttir bjó að  Esjubergi  með börnum þeirra Búa. Þá stóð enn kirkja sú að Esjubergi er Örlygur hafði látið gera. Gaf þá engi maður gaum að henni. En með því að Búi var skírður maður en blótaði aldrei þá lét Helga húsfreyja grafa hann undir kirkjuveggnum hinum syðra og leggja ekki fémætt hjá honum nema vopn hans."
+    },
+    {
+        "chapter": "18. kafli",
+        "concepts": [
+            "Ideas: stories: written work"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Esjubergi",
+                "sm_entry": {
+                    "id": "1010",
+                    "name": "Esjuberg",
+                    "lat": "64.218422",
+                    "lng": "-21.774091",
+                    "type": "farm",
+                    "county": "Kjósar01",
+                    "c": "21",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Hofi",
+                "sm_entry": {
+                    "id": "72",
+                    "name": "Hof",
+                    "lat": "63.791331",
+                    "lng": "-20.198193",
+                    "type": "farm",
+                    "info": "=Stóra-Hof. Landnámsjörð (Ketill hængur Þorkelsson)",
+                    "county": "Rangár01",
+                    "c": "18",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Skálholt",
+                "sm_entry": {
+                    "id": "388",
+                    "name": "Skálholt",
+                    "lat": "64.126038338238",
+                    "lng": "-20.5259799957275",
+                    "type": "farm",
+                    "county": "Árnes01",
+                    "c": "43",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Sú hin sama járnklukka hékk þá fyrir kirkjunni á  Esjubergi  er Árni biskup réð fyrir stað, Þorláksson, og Nikulás Pétursson bjó að  Hofi , og var þá slitin  af ryði. Árni biskup lét og þann sama plenarium fara suður í  Skálholt  og lét búa og líma öll blöðin í kjölinn og er írskt letur á."
+    }
+]

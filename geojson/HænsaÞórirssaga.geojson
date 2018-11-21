@@ -1,0 +1,2003 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1374",
+                "name": "Geirshlíð",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 1",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Blund-Ketill hét maður, son Geirs hins auðga úr Geirshlíð , Ketilssonar blunds er Blundsvatn er við kennt. Hann bjó í Örnólfsdal . Það var nokkuru ofar en nú stendur bærinn. Var þar mart bæja upp í frá. Hersteinn hét son hans. Blund-Ketill var manna auðgastur og best að sér í fornum sið. Hann átti þrjá tigu leigulanda. Hann var hinn vinsælasti maður í héraðinu.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.402011,
+                    64.627755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1372",
+                "name": "Blundsvatn",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 1",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Blund-Ketill hét maður, son Geirs hins auðga úr Geirshlíð , Ketilssonar blunds er Blundsvatn er við kennt. Hann bjó í Örnólfsdal . Það var nokkuru ofar en nú stendur bærinn. Var þar mart bæja upp í frá. Hersteinn hét son hans. Blund-Ketill var manna auðgastur og best að sér í fornum sið. Hann átti þrjá tigu leigulanda. Hann var hinn vinsælasti maður í héraðinu.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.575013,
+                    64.605828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 1",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Blund-Ketill hét maður, son Geirs hins auðga úr Geirshlíð , Ketilssonar blunds er Blundsvatn er við kennt. Hann bjó í Örnólfsdal . Það var nokkuru ofar en nú stendur bærinn. Var þar mart bæja upp í frá. Hersteinn hét son hans. Blund-Ketill var manna auðgastur og best að sér í fornum sið. Hann átti þrjá tigu leigulanda. Hann var hinn vinsælasti maður í héraðinu.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1808",
+                "name": "Vatn",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 1",
+                "concept": "Actors: things: money",
+                "text": "Nú græðir Þórir svo mikið að hann kaupir sér land er að Vatni heitir upp frá Norðurtungu . Og fá vetur hafði hann búið áður hann gerðist svo mikill auðmaður að hann átti undir vel hverjum manni stórfé. En þó að honum  græddist fé mikið þá héldust þó óvinsældir hans því að varla var til óþokkasælli maður en Hænsna-Þórir var.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.343457,
+                    65.487669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1378",
+                "name": "Norðurtunga",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 1",
+                "concept": "Actors: things: money",
+                "text": "Nú græðir Þórir svo mikið að hann kaupir sér land er að Vatni heitir upp frá Norðurtungu . Og fá vetur hafði hann búið áður hann gerðist svo mikill auðmaður að hann átti undir vel hverjum manni stórfé. En þó að honum  græddist fé mikið þá héldust þó óvinsældir hans því að varla var til óþokkasælli maður en Hænsna-Þórir var.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.400849,
+                    64.734727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1808",
+                "name": "Vatn",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 1",
+                "concept": "Activities: cultivation/farming",
+                "text": "Nú græðir Þórir svo mikið að hann kaupir sér land er að Vatni heitir upp frá Norðurtungu . Og fá vetur hafði hann búið áður hann gerðist svo mikill auðmaður að hann átti undir vel hverjum manni stórfé. En þó að honum  græddist fé mikið þá héldust þó óvinsældir hans því að varla var til óþokkasælli maður en Hænsna-Þórir var.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.343457,
+                    65.487669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1378",
+                "name": "Norðurtunga",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 1",
+                "concept": "Activities: cultivation/farming",
+                "text": "Nú græðir Þórir svo mikið að hann kaupir sér land er að Vatni heitir upp frá Norðurtungu . Og fá vetur hafði hann búið áður hann gerðist svo mikill auðmaður að hann átti undir vel hverjum manni stórfé. En þó að honum  græddist fé mikið þá héldust þó óvinsældir hans því að varla var til óþokkasælli maður en Hænsna-Þórir var.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.400849,
+                    64.734727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1808",
+                "name": "Vatn",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 1",
+                "concept": "Activities: exchange",
+                "text": "Nú græðir Þórir svo mikið að hann kaupir sér land er að Vatni heitir upp frá Norðurtungu . Og fá vetur hafði hann búið áður hann gerðist svo mikill auðmaður að hann átti undir vel hverjum manni stórfé. En þó að honum  græddist fé mikið þá héldust þó óvinsældir hans því að varla var til óþokkasælli maður en Hænsna-Þórir var.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.343457,
+                    65.487669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1378",
+                "name": "Norðurtunga",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 1",
+                "concept": "Activities: exchange",
+                "text": "Nú græðir Þórir svo mikið að hann kaupir sér land er að Vatni heitir upp frá Norðurtungu . Og fá vetur hafði hann búið áður hann gerðist svo mikill auðmaður að hann átti undir vel hverjum manni stórfé. En þó að honum  græddist fé mikið þá héldust þó óvinsældir hans því að varla var til óþokkasælli maður en Hænsna-Þórir var.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.400849,
+                    64.734727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1378",
+                "name": "Norðurtunga",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 2",
+                "concept": "Events: meeting",
+                "text": "Einn dag gerir Þórir heiman ferð sína og ríður í Norðurtungu og hitti Arngrím goða og bauð honum barnfóstur: \"Vil eg taka við Helga syni þínum og geyma sem eg kann en eg vil hafa vináttu þína í mót og fylgi til þess að eg nái réttu af mönnum.\"",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.400849,
+                    64.734727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1378",
+                "name": "Norðurtunga",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 2",
+                "concept": "Activities: travel",
+                "text": "Einn dag gerir Þórir heiman ferð sína og ríður í Norðurtungu og hitti Arngrím goða og bauð honum barnfóstur: \"Vil eg taka við Helga syni þínum og geyma sem eg kann en eg vil hafa vináttu þína í mót og fylgi til þess að eg nái réttu af mönnum.\"",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.400849,
+                    64.734727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1379",
+                "name": "Helgavatn",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 2",
+                "concept": "Actors: things: money",
+                "text": "Fór þá Helgi heim með Þóri og heitir þar nú síðan bærinn að Helgavatni . Arngrímur veitti Þóri umsjá og þykir þegar ódælla við hann og nær hann nú réttu máli af hverjum manni. Græðist honum nú stórmikið fé og gerist hinn mesti auðmaður. Hélst honum enn óvinsældin.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.343898,
+                    64.762524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "28",
+                "name": "Borgarfjörður",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 2",
+                "concept": "Actors: things: boat",
+                "text": "Það var eitt sumar að skip kom af hafi í Borgarfjörð og lögðu þeir eigi inn í ósinn en lögðu utarlega á höfnina. Örn hét stýrimaður. Hann var vinsæll maður og hinn besti kaupdrengur.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.083246,
+                    64.441961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1658",
+                "name": "Hísing",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 2",
+                "concept": "Actors: things: boat",
+                "text": "Það var eitt sumar að skip kom af hafi í Borgarfjörð og lögðu þeir eigi inn í ósinn en lögðu utarlega á höfnina. Örn hét stýrimaður. Hann var vinsæll maður og hinn besti kaupdrengur.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.779864,
+                    57.611523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "28",
+                "name": "Borgarfjörður",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 2",
+                "concept": "Physical Landscape: managed landscape area: coastal ocean",
+                "text": "Það var eitt sumar að skip kom af hafi í Borgarfjörð og lögðu þeir eigi inn í ósinn en lögðu utarlega á höfnina. Örn hét stýrimaður. Hann var vinsæll maður og hinn besti kaupdrengur.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.083246,
+                    64.441961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1658",
+                "name": "Hísing",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 2",
+                "concept": "Physical Landscape: managed landscape area: coastal ocean",
+                "text": "Það var eitt sumar að skip kom af hafi í Borgarfjörð og lögðu þeir eigi inn í ósinn en lögðu utarlega á höfnina. Örn hét stýrimaður. Hann var vinsæll maður og hinn besti kaupdrengur.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.779864,
+                    57.611523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "760",
+                "name": "Nes",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 3",
+                "concept": "Activities: travel",
+                "text": "Annan dag eftir reið Hersteinn Blund-Ketilsson út á Nes . Hann fann Austmenn er hann reið utan. Kannast hann við stýrimann og varð vel að skapi.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.797322,
+                    65.537596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1378",
+                "name": "Norðurtunga",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 6",
+                "concept": "Activities: travel",
+                "text": "Nú skal segja frá hvað Þórir hafðist að. Hann býr heiman ferð sína og Helgi fóstri hans með honum. Þeir ríða í Norðurtungu og var þar tekið við þeim afar vel. Spurði Arngrímur tíðinda.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.400849,
+                    64.734727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2934",
+                "name": "Breiðabólstaðir",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 6",
+                "concept": "Activities: travel",
+                "text": "Ríður Þórir á braut og koma á Breiðabólstað og heilsar Oddur honum vel og spyr tíðinda.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.014921,
+                    64.129372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1378",
+                "name": "Norðurtunga",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 7",
+                "concept": "Activities: travel",
+                "text": "Þorvaldur son Tungu-Odds hafði út komið um sumarið fyrir norðan land og þar vistaðist hann um veturinn. Hann fór norðan er leið að sumri á fund föður síns og gisti um nótt í Norðurtungu í góðum beina.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.400849,
+                    64.734727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1378",
+                "name": "Norðurtunga",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 7",
+                "concept": "Activities: travel",
+                "text": "Nú líður nóttin af hendi og þegar um morguninn ríður Þórir og þeir fóstrar í Norðurtungu . Er þar fjöldi manna kominn og var sveininum gefið seturúm en Þórir reikar á gólfinu.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.400849,
+                    64.734727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 9",
+                "concept": "Events: hostile encounter",
+                "text": "Svo er sagt að þegar er náttaði ríða þeir Þorvaldur að bænum í Örnólfsdal . Voru þar þá allir menn í svefni. Þeir draga viðarköst að bænum og slá í eldi. Vakna þeir Blund-Ketill eigi fyrr en húsin loguðu yfir þeim. Blund-Ketill spurði hverjir þar kveiktu svo heitan eld. Þórir sagði hverjir voru. Blund-Ketill frétti ef nokkuð skyldi ná sáttum. Þórir sagði að engi er kostur annar en brenna. Þeir skiljast nú eigi fyrr við en hvert mannsbarn er þar inni brunnið.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 9",
+                "concept": "Actors: things: wood",
+                "text": "Svo er sagt að þegar er náttaði ríða þeir Þorvaldur að bænum í Örnólfsdal . Voru þar þá allir menn í svefni. Þeir draga viðarköst að bænum og slá í eldi. Vakna þeir Blund-Ketill eigi fyrr en húsin loguðu yfir þeim. Blund-Ketill spurði hverjir þar kveiktu svo heitan eld. Þórir sagði hverjir voru. Blund-Ketill frétti ef nokkuð skyldi ná sáttum. Þórir sagði að engi er kostur annar en brenna. Þeir skiljast nú eigi fyrr við en hvert mannsbarn er þar inni brunnið.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 9",
+                "concept": "Activities: travel",
+                "text": "Svo er sagt að þegar er náttaði ríða þeir Þorvaldur að bænum í Örnólfsdal . Voru þar þá allir menn í svefni. Þeir draga viðarköst að bænum og slá í eldi. Vakna þeir Blund-Ketill eigi fyrr en húsin loguðu yfir þeim. Blund-Ketill spurði hverjir þar kveiktu svo heitan eld. Þórir sagði hverjir voru. Blund-Ketill frétti ef nokkuð skyldi ná sáttum. Þórir sagði að engi er kostur annar en brenna. Þeir skiljast nú eigi fyrr við en hvert mannsbarn er þar inni brunnið.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2934",
+                "name": "Breiðabólstaðir",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 9",
+                "concept": "Activities: travel",
+                "text": "En þó fara þeir og koma á Breiðabólstað og kalla út Odd. Hann gengur út og tekur við þeim vel og spurði tíðinda. Þeir sögðu slík sem orðin voru. Hann lætur illa yfir.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.014921,
+                    64.129372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 9",
+                "concept": "Events: destruction",
+                "text": "Oddur kvaðst svo gera mundu. Ríða þeir nú í Örnólfsdal og koma þar fyrir dag. Voru þá fallin húsin og fölskaður mjög eldurinn. Nú ríður Oddur að húsi einu því er eigi var allt brunnið.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 9",
+                "concept": "Physical Landscape: built environment: buildings",
+                "text": "Oddur kvaðst svo gera mundu. Ríða þeir nú í Örnólfsdal og koma þar fyrir dag. Voru þá fallin húsin og fölskaður mjög eldurinn. Nú ríður Oddur að húsi einu því er eigi var allt brunnið.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 9",
+                "concept": "Activities: travel",
+                "text": "Oddur kvaðst svo gera mundu. Ríða þeir nú í Örnólfsdal og koma þar fyrir dag. Voru þá fallin húsin og fölskaður mjög eldurinn. Nú ríður Oddur að húsi einu því er eigi var allt brunnið.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1373",
+                "name": "Svignaskarð",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 10",
+                "concept": "Actors: animals: domestic animals: livestock/sheep",
+                "text": "Sauðamaður Þorkels trefils úr Svignaskarði gekk þenna morgun að fé sínu. Hann sér hvar þeir fara og reka alls kyns fénað.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.699987,
+                    64.666038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "817",
+                "name": "Skógarströnd",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 10",
+                "concept": "Physical Landscape: managed landscape area: beach",
+                "text": "Þeir ríða nú út á Skógarströnd á Gunnarsstaði . Það er innarlega á ströndinni. Þar bjó sá maður er Gunnar hét og var Hlífarson, mikill maður og sterkur og  hinn mesti garpur. Hann átti systur Þórðar gellis er Helga hét. Gunnar átti tvær dætur. Hét önnur Jófríður en önnur Þuríður.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.38836,
+                    65.007447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1489",
+                "name": "Gunnarsstaðir",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 10",
+                "concept": "Physical Landscape: managed landscape area: beach",
+                "text": "Þeir ríða nú út á Skógarströnd á Gunnarsstaði . Það er innarlega á ströndinni. Þar bjó sá maður er Gunnar hét og var Hlífarson, mikill maður og sterkur og  hinn mesti garpur. Hann átti systur Þórðar gellis er Helga hét. Gunnar átti tvær dætur. Hét önnur Jófríður en önnur Þuríður.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.97322,
+                    65.018853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "28",
+                "name": "Borgarfjörður",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 12",
+                "concept": "Activities: travel ",
+                "text": "Og er vorar safna þeir að sér mönnum og fara suður til Borgarfjarðar og koma í Norðurtungu og stefna Arngrími til þings í Þingnes og Hænsna-Þóri.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.083246,
+                    64.441961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1378",
+                "name": "Norðurtunga",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 12",
+                "concept": "Activities: travel ",
+                "text": "Og er vorar safna þeir að sér mönnum og fara suður til Borgarfjarðar og koma í Norðurtungu og stefna Arngrími til þings í Þingnes og Hænsna-Þóri.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.400849,
+                    64.734727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "679",
+                "name": "Þingnes",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 12",
+                "concept": "Activities: travel ",
+                "text": "Og er vorar safna þeir að sér mönnum og fara suður til Borgarfjarðar og koma í Norðurtungu og stefna Arngrími til þings í Þingnes og Hænsna-Þóri.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.669853,
+                    64.609745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "28",
+                "name": "Borgarfjörður",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 12",
+                "concept": "Community Places: administrative unit: local assembly ",
+                "text": "Og er vorar safna þeir að sér mönnum og fara suður til Borgarfjarðar og koma í Norðurtungu og stefna Arngrími til þings í Þingnes og Hænsna-Þóri.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.083246,
+                    64.441961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1378",
+                "name": "Norðurtunga",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 12",
+                "concept": "Community Places: administrative unit: local assembly ",
+                "text": "Og er vorar safna þeir að sér mönnum og fara suður til Borgarfjarðar og koma í Norðurtungu og stefna Arngrími til þings í Þingnes og Hænsna-Þóri.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.400849,
+                    64.734727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "679",
+                "name": "Þingnes",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 12",
+                "concept": "Community Places: administrative unit: local assembly ",
+                "text": "Og er vorar safna þeir að sér mönnum og fara suður til Borgarfjarðar og koma í Norðurtungu og stefna Arngrími til þings í Þingnes og Hænsna-Þóri.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.669853,
+                    64.609745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2800",
+                "name": "Norðurá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Activities: travel",
+                "text": "Nú safnar Þórður gellir liði vestan og hefir eigi mart lið. Hittast nú þessir allir er í voru málinu og hafa alls tvö hundruð manna, ríða nú ofan fyrir utan Norðurá og yfir á að Eyjavaði fyrir ofan Stafholt og ætla yfir Hvítá þar sem heitir Þrælastraumur .",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.958878,
+                    65.456828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1490",
+                "name": "Eyjavað",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Activities: travel",
+                "text": "Nú safnar Þórður gellir liði vestan og hefir eigi mart lið. Hittast nú þessir allir er í voru málinu og hafa alls tvö hundruð manna, ríða nú ofan fyrir utan Norðurá og yfir á að Eyjavaði fyrir ofan Stafholt og ætla yfir Hvítá þar sem heitir Þrælastraumur .",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.630218,
+                    64.593068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1491",
+                "name": "Stafholt",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Activities: travel",
+                "text": "Nú safnar Þórður gellir liði vestan og hefir eigi mart lið. Hittast nú þessir allir er í voru málinu og hafa alls tvö hundruð manna, ríða nú ofan fyrir utan Norðurá og yfir á að Eyjavaði fyrir ofan Stafholt og ætla yfir Hvítá þar sem heitir Þrælastraumur .",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.654634,
+                    64.65101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "12",
+                "name": "Hvítá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Activities: travel",
+                "text": "Nú safnar Þórður gellir liði vestan og hefir eigi mart lið. Hittast nú þessir allir er í voru málinu og hafa alls tvö hundruð manna, ríða nú ofan fyrir utan Norðurá og yfir á að Eyjavaði fyrir ofan Stafholt og ætla yfir Hvítá þar sem heitir Þrælastraumur .",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.561,
+                    64.64455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1492",
+                "name": "Þrælastraumur",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Activities: travel",
+                "text": "Nú safnar Þórður gellir liði vestan og hefir eigi mart lið. Hittast nú þessir allir er í voru málinu og hafa alls tvö hundruð manna, ríða nú ofan fyrir utan Norðurá og yfir á að Eyjavaði fyrir ofan Stafholt og ætla yfir Hvítá þar sem heitir Þrælastraumur .",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.677763,
+                    64.620014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "95",
+                "name": "Dalur",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Events: hostile encounter",
+                "text": "Þá sjá þeir mannaferð mikla fyrir sunnan ána. Er þar Tungu-Oddur og nær fjögur hundruð manna. Gæða nú ferðina og vilja fyrr koma til vaðsins.  Hittast nú við ána og hlaupa þeir Oddur af baki og verja vaðið en þeim Þórði gengur ógreitt framreiðin og vildu gjarna komast á þingið. Slær nú í bardaga og verða þegar áverkar. Féllu fjórir menn af Þórði. Þar féll Þórólfur refur bróðir Álfs úr Dölum , virðulegur maður, og hverfa nú frá við svo búið. Einn maður féll af Oddi en þrír urðu mjög sárir.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.95087,
+                    63.637819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "95",
+                "name": "Dalur",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Physical Landscape: unmanaged landscape area: moving water: river",
+                "text": "Þá sjá þeir mannaferð mikla fyrir sunnan ána. Er þar Tungu-Oddur og nær fjögur hundruð manna. Gæða nú ferðina og vilja fyrr koma til vaðsins.  Hittast nú við ána og hlaupa þeir Oddur af baki og verja vaðið en þeim Þórði gengur ógreitt framreiðin og vildu gjarna komast á þingið. Slær nú í bardaga og verða þegar áverkar. Féllu fjórir menn af Þórði. Þar féll Þórólfur refur bróðir Álfs úr Dölum , virðulegur maður, og hverfa nú frá við svo búið. Einn maður féll af Oddi en þrír urðu mjög sárir.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.95087,
+                    63.637819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "344",
+                "name": "Breiðamýri",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Actors: animals: mammals: bull",
+                "text": "Þeir kváðust engi segja kunna önnur en þau að sá maður var einn kominn vestan úr Breiðafirði að svara kunni Tungu-Oddi \"og var hans hljómur og rödd sem griðungur gelldi.\"",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3844909667969,
+                    65.9694108052555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Events: reconstruction",
+                "text": "Nú líður þingið og verður þar eigi til tíðinda. En er þeir mágar koma heim vestur skipta þeir bústöðum. Fer Gunnar í Örnólfsdal en Hersteinn tekur Gunnarsstaði . Eftir þetta lætur Gunnar færa til sín vestan við þann allan sem Örn austmaður hafði átt og flytja heim í Örnólfsdal . Tekur hann til síðan og húsar upp bæinn í annað sinn því að Gunnar var allra manna hagastur. Hann var og um allt atgervismaður og manna best vígur og hinn vaskasti í öllu.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1489",
+                "name": "Gunnarsstaðir",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Events: reconstruction",
+                "text": "Nú líður þingið og verður þar eigi til tíðinda. En er þeir mágar koma heim vestur skipta þeir bústöðum. Fer Gunnar í Örnólfsdal en Hersteinn tekur Gunnarsstaði . Eftir þetta lætur Gunnar færa til sín vestan við þann allan sem Örn austmaður hafði átt og flytja heim í Örnólfsdal . Tekur hann til síðan og húsar upp bæinn í annað sinn því að Gunnar var allra manna hagastur. Hann var og um allt atgervismaður og manna best vígur og hinn vaskasti í öllu.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.97322,
+                    65.018853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Events: reconstruction",
+                "text": "Nú líður þingið og verður þar eigi til tíðinda. En er þeir mágar koma heim vestur skipta þeir bústöðum. Fer Gunnar í Örnólfsdal en Hersteinn tekur Gunnarsstaði . Eftir þetta lætur Gunnar færa til sín vestan við þann allan sem Örn austmaður hafði átt og flytja heim í Örnólfsdal . Tekur hann til síðan og húsar upp bæinn í annað sinn því að Gunnar var allra manna hagastur. Hann var og um allt atgervismaður og manna best vígur og hinn vaskasti í öllu.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Nú líður þingið og verður þar eigi til tíðinda. En er þeir mágar koma heim vestur skipta þeir bústöðum. Fer Gunnar í Örnólfsdal en Hersteinn tekur Gunnarsstaði . Eftir þetta lætur Gunnar færa til sín vestan við þann allan sem Örn austmaður hafði átt og flytja heim í Örnólfsdal . Tekur hann til síðan og húsar upp bæinn í annað sinn því að Gunnar var allra manna hagastur. Hann var og um allt atgervismaður og manna best vígur og hinn vaskasti í öllu.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1489",
+                "name": "Gunnarsstaðir",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Nú líður þingið og verður þar eigi til tíðinda. En er þeir mágar koma heim vestur skipta þeir bústöðum. Fer Gunnar í Örnólfsdal en Hersteinn tekur Gunnarsstaði . Eftir þetta lætur Gunnar færa til sín vestan við þann allan sem Örn austmaður hafði átt og flytja heim í Örnólfsdal . Tekur hann til síðan og húsar upp bæinn í annað sinn því að Gunnar var allra manna hagastur. Hann var og um allt atgervismaður og manna best vígur og hinn vaskasti í öllu.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.97322,
+                    65.018853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Nú líður þingið og verður þar eigi til tíðinda. En er þeir mágar koma heim vestur skipta þeir bústöðum. Fer Gunnar í Örnólfsdal en Hersteinn tekur Gunnarsstaði . Eftir þetta lætur Gunnar færa til sín vestan við þann allan sem Örn austmaður hafði átt og flytja heim í Örnólfsdal . Tekur hann til síðan og húsar upp bæinn í annað sinn því að Gunnar var allra manna hagastur. Hann var og um allt atgervismaður og manna best vígur og hinn vaskasti í öllu.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Activities: exchange",
+                "text": "Nú líður þingið og verður þar eigi til tíðinda. En er þeir mágar koma heim vestur skipta þeir bústöðum. Fer Gunnar í Örnólfsdal en Hersteinn tekur Gunnarsstaði . Eftir þetta lætur Gunnar færa til sín vestan við þann allan sem Örn austmaður hafði átt og flytja heim í Örnólfsdal . Tekur hann til síðan og húsar upp bæinn í annað sinn því að Gunnar var allra manna hagastur. Hann var og um allt atgervismaður og manna best vígur og hinn vaskasti í öllu.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1489",
+                "name": "Gunnarsstaðir",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Activities: exchange",
+                "text": "Nú líður þingið og verður þar eigi til tíðinda. En er þeir mágar koma heim vestur skipta þeir bústöðum. Fer Gunnar í Örnólfsdal en Hersteinn tekur Gunnarsstaði . Eftir þetta lætur Gunnar færa til sín vestan við þann allan sem Örn austmaður hafði átt og flytja heim í Örnólfsdal . Tekur hann til síðan og húsar upp bæinn í annað sinn því að Gunnar var allra manna hagastur. Hann var og um allt atgervismaður og manna best vígur og hinn vaskasti í öllu.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.97322,
+                    65.018853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 13",
+                "concept": "Activities: exchange",
+                "text": "Nú líður þingið og verður þar eigi til tíðinda. En er þeir mágar koma heim vestur skipta þeir bústöðum. Fer Gunnar í Örnólfsdal en Hersteinn tekur Gunnarsstaði . Eftir þetta lætur Gunnar færa til sín vestan við þann allan sem Örn austmaður hafði átt og flytja heim í Örnólfsdal . Tekur hann til síðan og húsar upp bæinn í annað sinn því að Gunnar var allra manna hagastur. Hann var og um allt atgervismaður og manna best vígur og hinn vaskasti í öllu.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1489",
+                "name": "Gunnarsstaðir",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 14",
+                "concept": "Community Places: shared spaces: assembly site",
+                "text": "Og er þeir Þórður gellir koma á Gunnarsstaði er Hersteinn sjúkur og má eigi fara til þings. Selur hann nú öðrum í hendur sakirnar. Eftir voru hjá honum þrír tigir manna.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.97322,
+                    65.018853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1489",
+                "name": "Gunnarsstaðir",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 14",
+                "concept": "Ideas: power: legal power",
+                "text": "Og er þeir Þórður gellir koma á Gunnarsstaði er Hersteinn sjúkur og má eigi fara til þings. Selur hann nú öðrum í hendur sakirnar. Eftir voru hjá honum þrír tigir manna.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.97322,
+                    65.018853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "659",
+                "name": "Ármannsfell",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 14",
+                "concept": "Activities: travel",
+                "text": "Nú ríður Þórður til þings. Hann safnar að sér vinum sínum og frændum og kemur snemma til þings. En þingið var þá undir Ármannsfelli . Og svo sem flokkar koma hefir Þórður liðsdrátt mikinn.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.0123825073242,
+                    64.3161104540328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 15",
+                "concept": "Activities: travel",
+                "text": "En nú skal segja nokkuð af Hersteini, að honum létti brátt sóttarinnar er þeir riðu til þingsins. Fer hann þá í Örnólfsdal .",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "536",
+                "name": "Skotland",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 15",
+                "concept": "Activities: travel ",
+                "text": "Nú er setið yfir málum manna og verða þær málalyktir að Arngrímur goði verður sekur fullri sekt og allir þeir er að brennunni voru nema Þorvaldur Oddsson. Hann skyldi vera utan þrjá vetur og eiga þá útkvæmt. Gefið var fé fyrir hann og svo til farningar öðrum mönnum. Þorvaldur fór utan um sumarið og var leiddur upp á Skotlandi og þjáður þar.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9111328125,
+                    57.338381265529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "536",
+                "name": "Skotland",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 15",
+                "concept": "Actors: things: money",
+                "text": "Nú er setið yfir málum manna og verða þær málalyktir að Arngrímur goði verður sekur fullri sekt og allir þeir er að brennunni voru nema Þorvaldur Oddsson. Hann skyldi vera utan þrjá vetur og eiga þá útkvæmt. Gefið var fé fyrir hann og svo til farningar öðrum mönnum. Þorvaldur fór utan um sumarið og var leiddur upp á Skotlandi og þjáður þar.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9111328125,
+                    57.338381265529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "536",
+                "name": "Skotland",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 15",
+                "concept": "Ideas: power: legal power",
+                "text": "Nú er setið yfir málum manna og verða þær málalyktir að Arngrímur goði verður sekur fullri sekt og allir þeir er að brennunni voru nema Þorvaldur Oddsson. Hann skyldi vera utan þrjá vetur og eiga þá útkvæmt. Gefið var fé fyrir hann og svo til farningar öðrum mönnum. Þorvaldur fór utan um sumarið og var leiddur upp á Skotlandi og þjáður þar.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9111328125,
+                    57.338381265529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 16",
+                "concept": "Physical Landscape: built environment: building: agricultural building: shieling",
+                "text": "Gunnar Hlífarson situr nú í Örnólfsdal og hefir húsað vel. Hann hafði selför og var jafnan mannfátt heima.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 16",
+                "concept": "Physical Landscape: built environment: buildings",
+                "text": "Gunnar Hlífarson situr nú í Örnólfsdal og hefir húsað vel. Hann hafði selför og var jafnan mannfátt heima.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 16",
+                "concept": "Events: construction",
+                "text": "Gunnar Hlífarson situr nú í Örnólfsdal og hefir húsað vel. Hann hafði selför og var jafnan mannfátt heima.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "400",
+                "name": "Þverárhlíð",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 16",
+                "concept": "Actors: animals: mammals: horse",
+                "text": "Einn dag ber svo til að Þóroddur son Tungu-Odds ríður í Þverárhlíð . Hann kemur í Örnólfsdal um farinn veg og gengur inn í tjaldið til Jófríðar. Hún heilsar honum vel. Hann sest niður hjá henni og taka þau tal sín á milli og í því kemur sveinn frá selinu og biður Jófríði taka ofan klyfjar með sér. Þóroddur fer til og tekur ofan klyfjarnar en sveinninn fer síðan í brott og kemur til sels.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.415155,
+                    64.741078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 16",
+                "concept": "Actors: animals: mammals: horse",
+                "text": "Einn dag ber svo til að Þóroddur son Tungu-Odds ríður í Þverárhlíð . Hann kemur í Örnólfsdal um farinn veg og gengur inn í tjaldið til Jófríðar. Hún heilsar honum vel. Hann sest niður hjá henni og taka þau tal sín á milli og í því kemur sveinn frá selinu og biður Jófríði taka ofan klyfjar með sér. Þóroddur fer til og tekur ofan klyfjarnar en sveinninn fer síðan í brott og kemur til sels.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "400",
+                "name": "Þverárhlíð",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 16",
+                "concept": "Physical Landscape: built environment: building: agricultural buildings: shieling",
+                "text": "Einn dag ber svo til að Þóroddur son Tungu-Odds ríður í Þverárhlíð . Hann kemur í Örnólfsdal um farinn veg og gengur inn í tjaldið til Jófríðar. Hún heilsar honum vel. Hann sest niður hjá henni og taka þau tal sín á milli og í því kemur sveinn frá selinu og biður Jófríði taka ofan klyfjar með sér. Þóroddur fer til og tekur ofan klyfjarnar en sveinninn fer síðan í brott og kemur til sels.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.415155,
+                    64.741078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 16",
+                "concept": "Physical Landscape: built environment: building: agricultural buildings: shieling",
+                "text": "Einn dag ber svo til að Þóroddur son Tungu-Odds ríður í Þverárhlíð . Hann kemur í Örnólfsdal um farinn veg og gengur inn í tjaldið til Jófríðar. Hún heilsar honum vel. Hann sest niður hjá henni og taka þau tal sín á milli og í því kemur sveinn frá selinu og biður Jófríði taka ofan klyfjar með sér. Þóroddur fer til og tekur ofan klyfjarnar en sveinninn fer síðan í brott og kemur til sels.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "400",
+                "name": "Þverárhlíð",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 16",
+                "concept": "Activities: travel",
+                "text": "Einn dag ber svo til að Þóroddur son Tungu-Odds ríður í Þverárhlíð . Hann kemur í Örnólfsdal um farinn veg og gengur inn í tjaldið til Jófríðar. Hún heilsar honum vel. Hann sest niður hjá henni og taka þau tal sín á milli og í því kemur sveinn frá selinu og biður Jófríði taka ofan klyfjar með sér. Þóroddur fer til og tekur ofan klyfjarnar en sveinninn fer síðan í brott og kemur til sels.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.415155,
+                    64.741078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 16",
+                "concept": "Activities: travel",
+                "text": "Einn dag ber svo til að Þóroddur son Tungu-Odds ríður í Þverárhlíð . Hann kemur í Örnólfsdal um farinn veg og gengur inn í tjaldið til Jófríðar. Hún heilsar honum vel. Hann sest niður hjá henni og taka þau tal sín á milli og í því kemur sveinn frá selinu og biður Jófríði taka ofan klyfjar með sér. Þóroddur fer til og tekur ofan klyfjarnar en sveinninn fer síðan í brott og kemur til sels.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "325",
+                "name": "Háls",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 17",
+                "concept": "Activities: land management",
+                "text": "Það var einn morgun snemma að Oddur kemur að máli við Þórodd son sinn: \"Þú skalt fara ofan í sveit og safna mönnum og vil eg nú reka menn af eignum vorum en Torfi skal fara upp um Hálsa og gera þeim í kunnleika um þenna fund. Vér skulum hittast við Steinsvað .\"",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.869348526001,
+                    65.7373638539285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1494",
+                "name": "Steinsvað",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 17",
+                "concept": "Activities: land management",
+                "text": "Það var einn morgun snemma að Oddur kemur að máli við Þórodd son sinn: \"Þú skalt fara ofan í sveit og safna mönnum og vil eg nú reka menn af eignum vorum en Torfi skal fara upp um Hálsa og gera þeim í kunnleika um þenna fund. Vér skulum hittast við Steinsvað .\"",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.348634,
+                    64.704858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2054",
+                "name": "Örnólfsdalsá",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 17",
+                "concept": "Community Places: administrative unit: farm",
+                "text": "Og er þeir koma að garði í Örnólfsdal er Gunnar að gera hlass.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.35665,
+                    64.74817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "359",
+                "name": "Noregur",
+                "sagaid": 26,
+                "saganame": "Hænsa-Þóris saga",
+                "chapter": "Chapter 17",
+                "concept": "Activities: travel",
+                "text": "Og að vetri afliðnum fer Þóroddur utan því að hann hafði spurt að Þorvaldur bróðir hans var í höftum og vildi leysa hann með fé. Hann kemur til Noregs og kom eigi út síðan og hvorgi þeirra bræðra.",
+                "action_start": "960",
+                "action_end": "960",
+                "composition_start": "1240",
+                "composition_end": "1310",
+                "oldest_manuscript": "AM 162 g fol. ",
+                "oldest_manuscript_start": "1400",
+                "oldest_manuscript_end": "1500",
+                "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM02-0162G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734375,
+                    60.2398111699989
+                ]
+            }
+        }
+    ]
+}

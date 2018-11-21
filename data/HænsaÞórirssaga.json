@@ -1,0 +1,1512 @@
+[
+    {
+        "chapter": "Chapter 1",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Geirshlíð",
+                "sm_entry": {
+                    "id": "1374",
+                    "name": "Geirshlíð",
+                    "lat": "64.627755",
+                    "lng": "-21.402011",
+                    "type": "farm",
+                    "county": "Borga01",
+                    "c": "5",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Blundsvatn",
+                "sm_entry": {
+                    "id": "1372",
+                    "name": "Blundsvatn",
+                    "lat": "64.605828",
+                    "lng": "-21.575013",
+                    "type": "lake",
+                    "county": "Borga01",
+                    "c": "3",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Örnólfsdal",
+                "sm_entry": {
+                    "id": "2054",
+                    "name": "Örnólfsdalsá",
+                    "lat": "64.74817",
+                    "lng": "-21.35665",
+                    "type": "river",
+                    "county": "Mýras01",
+                    "c": "1",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Blund-Ketill hét maður, son Geirs hins auðga úr Geirshlíð , Ketilssonar blunds er Blundsvatn er við kennt. Hann bjó í Örnólfsdal . Það var nokkuru ofar en nú stendur bærinn. Var þar mart bæja upp í frá. Hersteinn hét son hans. Blund-Ketill var manna auðgastur og best að sér í fornum sið. Hann átti þrjá tigu leigulanda. Hann var hinn vinsælasti maður í héraðinu."
+    },
+    {
+        "chapter": "Chapter 1",
+        "concepts": [
+            "Actors: animals: avian: chicken",
+            "Activities: travel",
+            "Activities: exchange"
+        ],
+        "places": [],
+        "text": "Þórir hét maður. Hann var snauður að fé og eigi mjög vinsæll af alþýðu manna. Hann lagði það í vanda sinn að hann fór með sumarkaup sitt héraða í milli og seldi það í öðru er hann keypti í öðru og græddist honum brátt fé af kaupum sínum. Og eitt sinn er Þórir fór sunnan um heiði hafði hann með sér hænsn í för norður um land og seldi þau með öðrum kaupskap og því var hann kallaður Hænsna-Þórir."
+    },
+    {
+        "chapter": "Chapter 1",
+        "concepts": [
+            "Actors: things: money",
+            "Activities: cultivation/farming",
+            "Activities: exchange"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Vatni",
+                "sm_entry": {
+                    "id": "1808",
+                    "name": "Vatn",
+                    "lat": "65.487669",
+                    "lng": "-20.343457",
+                    "type": "lake",
+                    "county": "AusHún01",
+                    "c": "1",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Norðurtungu",
+                "sm_entry": {
+                    "id": "1378",
+                    "name": "Norðurtunga",
+                    "lat": "64.734727",
+                    "lng": "-21.400849",
+                    "type": "farm",
+                    "info": "=Norðtunga",
+                    "county": "Borga01",
+                    "c": "9",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú græðir Þórir svo mikið að hann kaupir sér land er að Vatni heitir upp frá Norðurtungu . Og fá vetur hafði hann búið áður hann gerðist svo mikill auðmaður að hann átti undir vel hverjum manni stórfé. En þó að honum  græddist fé mikið þá héldust þó óvinsældir hans því að varla var til óþokkasælli maður en Hænsna-Þórir var."
+    },
+    {
+        "chapter": "Chapter 2",
+        "concepts": [
+            "Events: meeting",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Norðurtungu",
+                "sm_entry": {
+                    "id": "1378",
+                    "name": "Norðurtunga",
+                    "lat": "64.734727",
+                    "lng": "-21.400849",
+                    "type": "farm",
+                    "info": "=Norðtunga",
+                    "county": "Borga01",
+                    "c": "9",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Einn dag gerir Þórir heiman ferð sína og ríður í Norðurtungu og hitti Arngrím goða og bauð honum barnfóstur: \"Vil eg taka við Helga syni þínum og geyma sem eg kann en eg vil hafa vináttu þína í mót og fylgi til þess að eg nái réttu af mönnum.\""
+    },
+    {
+        "chapter": "Chapter 2",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Helgavatni",
+                "sm_entry": {
+                    "id": "1379",
+                    "name": "Helgavatn",
+                    "lat": "64.762524",
+                    "lng": "-21.343898",
+                    "type": "farm",
+                    "info": "First called Vatn; name later changed (according to Hænsa-Þóris saga) to Helgavatn. \"Samkvæmt því, sem ráða má af Landn. (96. kap.), er Helgavatn kennt við Helga, föður Arngríms goða (sjá bls. 4. nmgr. 2), en ekki son hans, sem er nefndur aðeins í Hænsa-Þóris sögu (ÍF III: 7).",
+                    "county": "Mýras01",
+                    "c": "4",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Fór þá Helgi heim með Þóri og heitir þar nú síðan bærinn að Helgavatni . Arngrímur veitti Þóri umsjá og þykir þegar ódælla við hann og nær hann nú réttu máli af hverjum manni. Græðist honum nú stórmikið fé og gerist hinn mesti auðmaður. Hélst honum enn óvinsældin."
+    },
+    {
+        "chapter": "Chapter 2",
+        "concepts": [
+            "Actors: things: boat",
+            "Physical Landscape: managed landscape area: coastal ocean"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Borgarfjörð",
+                "sm_entry": {
+                    "id": "28",
+                    "name": "Borgarfjörður",
+                    "lat": "64.441961",
+                    "lng": "-22.083246",
+                    "type": "fjord",
+                    "county": "Borga01",
+                    "c": "122",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "ósinn",
+                "sm_entry": {
+                    "id": "1658",
+                    "name": "Hísing",
+                    "lat": "57.611523",
+                    "lng": "11.779864",
+                    "type": "island",
+                    "county": "Foreign01",
+                    "c": "2",
+                    "distance": 3
+                }
+            }
+        ],
+        "text": "Það var eitt sumar að skip kom af hafi í Borgarfjörð og lögðu þeir eigi inn í ósinn en lögðu utarlega á höfnina. Örn hét stýrimaður. Hann var vinsæll maður og hinn besti kaupdrengur."
+    },
+    {
+        "chapter": "Chapter 2",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Örn svarar: \"Sjálfir ætlum vér að ráða vorri eigu fyrir þér því þú átt engan pening með vorum varnaði og muntu ráða að sinni eigi meira en þú mælir.\""
+    },
+    {
+        "chapter": "Chapter 2",
+        "concepts": [
+            "Physical Landscape: managed landscape area: coastal ocean",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Oddur ríður nú heim en Austmenn liggja þar í höfninni og gefur þeim eigi í brottu."
+    },
+    {
+        "chapter": "Chapter 3",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Nes",
+                "sm_entry": {
+                    "id": "760",
+                    "name": "Nes",
+                    "lat": "65.537596",
+                    "lng": "-22.797322",
+                    "type": "peninsula",
+                    "info": "=Skálmarnes",
+                    "county": "AusBar01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Annan dag eftir reið Hersteinn Blund-Ketilsson út á Nes . Hann fann Austmenn er hann reið utan. Kannast hann við stýrimann og varð vel að skapi."
+    },
+    {
+        "chapter": "Chapter 3",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Þeir talast við um daginn og að kveldi ríður Hersteinn heim og segir föður sínum frá farmönnum og hvar nú er komið þeirra máli."
+    },
+    {
+        "chapter": "Chapter 3",
+        "concepts": [
+            "Activities: travel",
+            "Physical Landscape: managed landscape area: agricultural landscape: pasture",
+            "Activities: animal husbandry: herding",
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [],
+        "text": "Nú líður nóttin en þegar um morguninn snemma lætur Blund-Ketill safna hrossum úr haga og er þá búin ferðin og rekur Hersteinn hundrað hrossa í móti kaupmönnum og þurfti einkis á bú að biðja. Hann kemur út þangað og sagði Erni tillag föður síns. Örn kvaðst gjarna þenna kost þiggja vilja en kvaðst þó hyggja að þeir feðgar mundu fá óvináttu annarra manna fyrir þetta. Hersteinn kvað þá eigi verða farið að því."
+    },
+    {
+        "chapter": "Chapter 3",
+        "concepts": [
+            "Actors: things: boat",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Hersteinn flytur nú Örn heim með sér og varning hans og skilst eigi fyrr við en allir kaupmenn eru í brottu og búið um skip og öllu til skila komið. Blund-Ketill tekur afar vel við Erni. Sat hann þar í góðum fagnaði."
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Actors: plants: grasses"
+        ],
+        "places": [],
+        "text": "Sumar þetta var lítill grasvöxtur og eigi góður fyrir því að lítt þornaði og varð alllítil heybjörg manna."
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Activities: animal husbandry: butchery",
+            "Actors: animals: domestic animals: livestock",
+            "Actors: plants: crops: ",
+            "Activities: exchange"
+        ],
+        "places": [],
+        "text": "Blund-Ketill mælti um haustið við landseta sína og segir að hann vildi heyleigur hafa á öllum löndum sínum: \"Eigum vér mart fé ganganda en hey fást lítil. Eg vil og ráða fyrir hversu miklu slátrað er í haust á hverju búi allra minna landseta og mun þá vel hlýða.\""
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Actors: plants: crops: hay"
+        ],
+        "places": [],
+        "text": "Nú líður sumar og kemur vetur og er snemma nauðamikill norður um  Hlíðina  en viðbúningur lítill. Fellur mönnum þungt. Fer svo fram um jól. Og er þorri kemur þá ekur hart að mönnum og eru margir þá upp tefldir."
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Activities: animal husbandry: butchery",
+            "Actors: animals"
+        ],
+        "places": [],
+        "text": "Sjá svarar að færra var slátrað en hann sagði."
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Actors: plants: crops: hay"
+        ],
+        "places": [],
+        "text": "Líður stund og kemur gói. Þá koma tveir landsetar hans og segja sig í heyþroti."
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [],
+        "text": "Blund-Ketill svarar: \"Illa hafið þér gert að þér hafið af brugðið mínum ráðum því að það er þann veg þó að vér höfum hey mikil þá höfum vér og fé  því fleira. Nú ef eg miðla yður þá hefi eg ekki til míns fjár. Er nú hér um að kjósa.\""
+    },
+    {
+        "chapter": "Chapter 4",
+        "concepts": [
+            "Activities: animal husbandry: butchery",
+            "Actors: animals: horses",
+            "Activities: animal husbandry: herding"
+        ],
+        "places": [],
+        "text": "Þeir ala á málið og tjá vesöld sína. En honum þótti hörmulegt að heyra á þeirra veinan og lét reka heim fjóra tigu hrossa og hundrað og lét drepa fjóra tigu hrossa þau er verst voru en gaf landsetum sínum það fóður sem hrossunum var ætlað áður. Fara þeir heim fegnir."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Actors: plants: crops: hay",
+            "Activitie: animal husbandry: butchery",
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [],
+        "text": "Nú kemur einmánuður og koma tveir landsetar Blund-Ketils. Þeir áttu sér hóti helst nokkurs kosti í fémunum en þó voru þeir nú í heyþroti og biðja hann úrlausna. Hann svarar þá og kveðst eigi til hafa enda lést hann eigi vilja drepa fleira fé. Þeir fréttu ef hann viti nokkura þá menn er hey hefðu til sölu. Hann kveðst eigi víst vita. Þeir sækja fast eftir og segja nú að fé þeirra muni deyja ef þeir fá enga hjálp af honum."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Physical Processes: weather: wind",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Þeir fara snemma um morguninn og var á norðan strykur sá og heldur kaldur. Þórir bóndi var úti staddur í það mund, sér mennina fara að garði, gengur inn síðan og rekur aftur hurð og lætur fyrir loku, fer til dagverðar."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Actors: plants: crops: hay",
+            "Activities: exchange"
+        ],
+        "places": [],
+        "text": "\"Svo er varið,\" sagði Blund-Ketill, \"að vér viljum kaupa hey að þér Þórir.\""
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [],
+        "text": "Þórir svarar: \"Eigi er mér þitt fé betra en mitt.\""
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Actors: plants: crops: hay"
+        ],
+        "places": [],
+        "text": "Þórir svarar: \"Hví ertu í heyþroti, auðigur maður?\""
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [],
+        "text": "Hann gerir svo. Nú gerir Blund-Ketill til fjár Þóris og hugðist svo að, þó að algjafta væri til alþingis, að þó mundi af ganga fimm stakkar. Og eftir þetta ganga þeir inn."
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Actors: plants: crops: hay"
+        ],
+        "places": [],
+        "text": "Blund-Ketill mælti: \"Svo hyggst mér um heykost þinn að góður fengur mun af ganga þó að fé þínu öllu sé inni gefið til alþingis og vil eg það kaupa.\""
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Blund-Ketill svarar: \"Eigi er þann veg upp að taka. Það veistu að silfur gengur í allar skuldir hér á landi og gef eg þér það við.\""
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Physical Landscape: built environment: buildings"
+        ],
+        "places": [],
+        "text": "Þórir svarar: \"Eigi vil eg spark annarra manna í húsum mínum.\""
+    },
+    {
+        "chapter": "Chapter 5",
+        "concepts": [
+            "Actors: animals: mammals: horses",
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [],
+        "text": "Þá þagnar Þórir og gerir eigi gott í skapi. Blund-Ketill lætur taka reip og binda heyið. Eftir það hefja þeir upp klyfjar og bera í brott heyið en ætla vel til alls fjár."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Norðurtungu",
+                "sm_entry": {
+                    "id": "1378",
+                    "name": "Norðurtunga",
+                    "lat": "64.734727",
+                    "lng": "-21.400849",
+                    "type": "farm",
+                    "info": "=Norðtunga",
+                    "county": "Borga01",
+                    "c": "9",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú skal segja frá hvað Þórir hafðist að. Hann býr heiman ferð sína og Helgi fóstri hans með honum. Þeir ríða í Norðurtungu og var þar tekið við þeim afar vel. Spurði Arngrímur tíðinda."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock",
+            "Actors: plants: crops: hay"
+        ],
+        "places": [],
+        "text": "Þórir svarar: \"Blund-Ketill hefir rænt mig öllum heyjum svo að eigi ætla eg forkast eftir nautum í köldu veðri.\""
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Actors: plants: crops: hay"
+        ],
+        "places": [],
+        "text": "Þá sagði Arngrímur: \"Það var líkara. Betur er það hey komið að hann hefir en hitt er fúnar fyrir þér.\""
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Breiðabólstað",
+                "sm_entry": {
+                    "id": "2934",
+                    "name": "Breiðabólstaðir",
+                    "lat": "64.129372",
+                    "lng": "-16.014921",
+                    "type": "farm",
+                    "county": "AusSka02",
+                    "c": "1",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Ríður Þórir á braut og koma á Breiðabólstað og heilsar Oddur honum vel og spyr tíðinda."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Actors: plants: crops: hay"
+        ],
+        "places": [],
+        "text": "\"Hvað ráni var það?\" sagði Oddur."
+    },
+    {
+        "chapter": "Chapter 6",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Ríður Þórir í brott við svo búið og Helgi með honum og fer heim og unir illa við."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Norðurtungu",
+                "sm_entry": {
+                    "id": "1378",
+                    "name": "Norðurtunga",
+                    "lat": "64.734727",
+                    "lng": "-21.400849",
+                    "type": "farm",
+                    "info": "=Norðtunga",
+                    "county": "Borga01",
+                    "c": "9",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þorvaldur son Tungu-Odds hafði út komið um sumarið fyrir norðan land og þar vistaðist hann um veturinn. Hann fór norðan er leið að sumri á fund föður síns og gisti um nótt í Norðurtungu í góðum beina."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Norðurtungu",
+                "sm_entry": {
+                    "id": "1378",
+                    "name": "Norðurtunga",
+                    "lat": "64.734727",
+                    "lng": "-21.400849",
+                    "type": "farm",
+                    "info": "=Norðtunga",
+                    "county": "Borga01",
+                    "c": "9",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú líður nóttin af hendi og þegar um morguninn ríður Þórir og þeir fóstrar í Norðurtungu . Er þar fjöldi manna kominn og var sveininum gefið seturúm en Þórir reikar á gólfinu."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Actors: plants: crops: hay"
+        ],
+        "places": [],
+        "text": "\"Var það þó satt að hann hafði heyið?\" segir Þorvaldur."
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Ideas: power: legal power"
+        ],
+        "places": [],
+        "text": "Þórir mælti: \"Eg vil gefa þér fé mitt hálft til þess að þú réttir málið og hafir annaðhvort sektir eða sjálfdæmi svo að óvinir mínir sitji eigi yfir mínu.\""
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "\"Sé eg,\" segir Þorvaldur, \"að þér leikur öfund á ef eg tek við fé hans og anntu mér þess eigi.\""
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [],
+        "text": "Þórir mælti: \"Svo er að að hyggja Þorvaldur að fé mitt mun reynast frítt og aðrir menn vita að mér er eigi fé goldið víða fyrir mitt eigin.\""
+    },
+    {
+        "chapter": "Chapter 7",
+        "concepts": [
+            "Activities: exchange"
+        ],
+        "places": [],
+        "text": "Nú handsalar Þórir honum fé sitt hálft og þar með málið á hendur Blund-Katli."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Þegar snemma um morguninn ríður Þorvaldur og Arngrímur með honum með þrjá tigu manna. Hitta þeir Þóri og var hann við þriðja mann. Þar var Helgi Arngrímsson og Víðfari frændi Þóris."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Actors: animals: mammals: horses",
+            "Community Places: administrative unit: farm",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Þeir ríða nú upp eftir  Hlíðinni . Mannferðin var sén af bæjunum og hleypir hver af sínum bæ. Þykist sá best hafa er fyrst kemur til Blund- Ketils og er þar mart manna fyrir. Þeir Þorvaldur ríða að garði og stíga þar af hestum sínum og ganga heim að bænum."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Actors: plants: crops: hay"
+        ],
+        "places": [],
+        "text": "Þorvaldur mælti: \"Annað er erindi hingað en eta mat. Eg vil vita hverju þú vilt svara fyrir mál það er þú tókst upp hey Þóris.\""
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Ideas: power: legal power"
+        ],
+        "places": [],
+        "text": "Hann stefnir þá Blund-Katli um rán og nefnir sér votta og hefir þau orð og umkvæði sem hann fékk frekust haft."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: house"
+        ],
+        "places": [],
+        "text": "Nú snýr Blund-Ketill heim að húsum og mætir Austmanninum Erni er hann gekk að varnaði sínum."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Örn tekur boga sinn og lætur koma ör á streng og kemur þá út í því er þeir stigu á bak. Hann skaut og varð maður fyrir og lætur sígast niður af hestinum og var það Helgi son Arngríms goða. Þeir hlaupa að honum."
+    },
+    {
+        "chapter": "Chapter 8",
+        "concepts": [
+            "Actors: animals: mammals: horses",
+            "Physical Landscape: Ecological Area: woods and trees"
+        ],
+        "places": [],
+        "text": "Þeir Arngrímur ríða nú brott undir skógarnef eitt og stíga af hestum og eru nú þar til þess að náttar. En Blund-Ketill þakkar mönnum vel sitt liðsinni og bað hvern mann ríða heimleiðis sem best gegndi."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Events: hostile encounter",
+            "Actors: things: wood",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Örnólfsdal",
+                "sm_entry": {
+                    "id": "2054",
+                    "name": "Örnólfsdalsá",
+                    "lat": "64.74817",
+                    "lng": "-21.35665",
+                    "type": "river",
+                    "county": "Mýras01",
+                    "c": "1",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Svo er sagt að þegar er náttaði ríða þeir Þorvaldur að bænum í Örnólfsdal . Voru þar þá allir menn í svefni. Þeir draga viðarköst að bænum og slá í eldi. Vakna þeir Blund-Ketill eigi fyrr en húsin loguðu yfir þeim. Blund-Ketill spurði hverjir þar kveiktu svo heitan eld. Þórir sagði hverjir voru. Blund-Ketill frétti ef nokkuð skyldi ná sáttum. Þórir sagði að engi er kostur annar en brenna. Þeir skiljast nú eigi fyrr við en hvert mannsbarn er þar inni brunnið."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Breiðabólstað",
+                "sm_entry": {
+                    "id": "2934",
+                    "name": "Breiðabólstaðir",
+                    "lat": "64.129372",
+                    "lng": "-16.014921",
+                    "type": "farm",
+                    "county": "AusSka02",
+                    "c": "1",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "En þó fara þeir og koma á Breiðabólstað og kalla út Odd. Hann gengur út og tekur við þeim vel og spurði tíðinda. Þeir sögðu slík sem orðin voru. Hann lætur illa yfir."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Ideas: power: legal power"
+        ],
+        "places": [],
+        "text": "Þorbjörn karl tekur þá til orða: \"Á þá leið er Oddur bóndi,\" sagði hann, \"að þú hefir heitið mér ásjá þinni og vil eg nú til þess taka að þú leggir til nokkur góð ráð og komir til.\""
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Events: destruction",
+            "Physical Landscape: built environment: buildings",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Örnólfsdal",
+                "sm_entry": {
+                    "id": "2054",
+                    "name": "Örnólfsdalsá",
+                    "lat": "64.74817",
+                    "lng": "-21.35665",
+                    "type": "river",
+                    "county": "Mýras01",
+                    "c": "1",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Oddur kvaðst svo gera mundu. Ríða þeir nú í Örnólfsdal og koma þar fyrir dag. Voru þá fallin húsin og fölskaður mjög eldurinn. Nú ríður Oddur að húsi einu því er eigi var allt brunnið."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Physical Landscape: built environment: buildings",
+            "Actors: things: wood"
+        ],
+        "places": [],
+        "text": "Hann seilist til birkirafts eins og kippir brott úr húsinu, ríður síðan andsælis um húsin með loganda brandinn og mælti: \"Hér nem eg mér land fyrir því að hér sé eg nú eigi byggðan bólstað. Heyri það vottar þeir er hjá eru.\""
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Hann keyrir síðan hestinn og ríður í brott."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: agricultural buildings: outhouse"
+        ],
+        "places": [],
+        "text": "Útibúr var óbrunnið, það sem varningur Austmanns var inni og mikið fé annað."
+    },
+    {
+        "chapter": "Chapter 9",
+        "concepts": [
+            "Community Places: administrative unit: farm",
+            "Physical Landscape: built environment: buildings: agricultural buildings: outhouse",
+            "Physical Landscape: managed landscape area: agricultural landscape: infield",
+            "Actors: animals: mammals: mammals: horses/sheep/cows/livestock",
+            "Physical Landscape: built environment: buildings: agricultural building: barn"
+        ],
+        "places": [],
+        "text": "Í þessu hverfur Þorbjörn karl. Nú lítur Hersteinn heim til bæjarins og sér útibúrið opið og út borið féið en engan sér hann manninn. Þar eru bundnar klyfjar. Þar næst heyrir hann hark mikið í túnið, sér nú að heim eru rekin hross öll þau er faðir hans hafði átt, sauðir og naut úr fjósi og allt ganganda fé. Síðan eru klyfjar upp hafðar og því næst öllu á ferð snúið og allt fémætt á brott fært."
+    },
+    {
+        "chapter": "Chapter 10",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock/sheep"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Svignaskarði",
+                "sm_entry": {
+                    "id": "1373",
+                    "name": "Svignaskarð",
+                    "lat": "64.666038",
+                    "lng": "-21.699987",
+                    "type": "farm",
+                    "county": "Borga01",
+                    "c": "5",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Sauðamaður Þorkels trefils úr Svignaskarði gekk þenna morgun að fé sínu. Hann sér hvar þeir fara og reka alls kyns fénað."
+    },
+    {
+        "chapter": "Chapter 10",
+        "concepts": [
+            "Physical Landscape: managed landscape area: agricultural landscape: infield",
+            "Actors: animals: domestic animals: livestock",
+            "Activities: animal husbandry: grazing"
+        ],
+        "places": [],
+        "text": "Hann segir þetta Þorkatli en hann svarar: \"Veit eg hverju gegna mun. Það munu vera Þverhlíðingar vinir mínir. Þeir hafa vetrarnauð mikla og munu þeir reka hingað fé sitt. Skal þeim það heimilt. Eg hefi hey ærin. Eru hér og nógar jarðir útifé.\""
+    },
+    {
+        "chapter": "Chapter 10",
+        "concepts": [
+            "Actors: animals: domestic animals: livestock"
+        ],
+        "places": [],
+        "text": "\"Veit eg erindi þitt að féið mun hér skulu eftir vera og skortir hér eigi jörð nóga og góða.\""
+    },
+    {
+        "chapter": "Chapter 10",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: house"
+        ],
+        "places": [],
+        "text": "Þá víkur hann Þorkatli hjá húsunum og mælti: \"Tíðindi mikil eru að segja.\""
+    },
+    {
+        "chapter": "Chapter 10",
+        "concepts": [
+            "Activities: travel",
+            "Actors: animals: mammals: horses/livestock",
+            "Physical Landscape: built environment: buildings: agricultural buildings: barn"
+        ],
+        "places": [],
+        "text": "Þeir játuðu því. Þorkell trefill var þá mjög fámálugur og nokkuð hugsi. Og er þeir voru mettir lætur hann taka hesta þeirra. Síðan taka þeir vopn sín og stíga á bak. Ríður Þorkell fyrir þann dag og mælti áður að vel skyldi geyma fjárins í haganum en gefa vel því sem inni var."
+    },
+    {
+        "chapter": "Chapter 10",
+        "concepts": [
+            "Physical Landscape: managed landscape area: beach"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Skógarströnd",
+                "sm_entry": {
+                    "id": "817",
+                    "name": "Skógarströnd",
+                    "lat": "65.007447",
+                    "lng": "-22.38836",
+                    "type": "coast",
+                    "county": "Dalas01",
+                    "c": "11",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Gunnarsstaði",
+                "sm_entry": {
+                    "id": "1489",
+                    "name": "Gunnarsstaðir",
+                    "lat": "65.018853",
+                    "lng": "-21.97322",
+                    "type": "farm",
+                    "county": "Dalas01",
+                    "c": "8",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Þeir ríða nú út á Skógarströnd á Gunnarsstaði . Það er innarlega á ströndinni. Þar bjó sá maður er Gunnar hét og var Hlífarson, mikill maður og sterkur og  hinn mesti garpur. Hann átti systur Þórðar gellis er Helga hét. Gunnar átti tvær dætur. Hét önnur Jófríður en önnur Þuríður."
+    },
+    {
+        "chapter": "Chapter 10",
+        "concepts": [
+            "Physical Processes: weather: wind",
+            "Physical Landscape: built environment: buildings: house"
+        ],
+        "places": [],
+        "text": "Þeir koma þar síð dags, stíga af baki fyrir ofan hús. Vindur var á norðan og heldur kalt. Þorkell gengur að durum og klappar en húskarl gengur til hurðar og heilsar vel þeim sem kominn var og spyr hver hann væri."
+    },
+    {
+        "chapter": "Chapter 10",
+        "concepts": [
+            "Physical Landscape: managed landscape area: agricultural landscape: infield"
+        ],
+        "places": [],
+        "text": "Gunnar reis þá upp og gekk út í túnið. Hann var í skyrtu og línbrókum, möttul yfir sér og svarta skó á fótum, sverð í hendi. Hann fagnar vel Þorkatli og biður hann inn ganga. Hann segir að þeir voru fleiri saman."
+    },
+    {
+        "chapter": "Chapter 11",
+        "concepts": [
+            "Activities: travel",
+            "Actors: animals: mammals: horses"
+        ],
+        "places": [],
+        "text": "Þegar um morguninn í ár er Gunnar á fótum og gengur að Þorkatli og bað þá klæðast. Þeir gera svo, ganga síðan til snæðings. Eru þá og búnir hestar þeirra og stíga þeir á bak. Ríður Gunnar fyrir inn með firðinum. Þá voru íslög mikil."
+    },
+    {
+        "chapter": "Chapter 11",
+        "concepts": [
+            "Activities: exchange",
+            "Actors: animals: mammals: horses",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Þórður svarar: \"Vel er mér við Blund-Ketil því að einn tíma er við Tungu-Oddur deildum á alþingi um þrælsgjöld er dæmdust á hendur honum og fór eg að heimta í foraðsillu veðri og vér þrír saman og komum um nótt til Blund-Ketils og var oss þar allvel fagnað og þar vorum vér viku. Hann skipti við oss hestum en gaf mér góð stóðhross. Slíkt reyndi eg af honum en þó líst mér svo á að eigi muni því misráðið þó að eigi sé þessu keypt.\""
+    },
+    {
+        "chapter": "Chapter 11",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Eftir það stíga þeir á bak og snúa á ferð og víkur Þórður á götu með þeim og spurði enn ef nokkuð væri nýtt að segja."
+    },
+    {
+        "chapter": "Chapter 12",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Nú skiljast þeir og er Þórður hinn reiðasti og þykir honum þeir hafa gabbað sig. En þeir ríða nú fyrst á Gunnarsstaði og þykjast allvel leikið hafa að þeir höfðu komið Þórði í málið með sér og voru nú allkátir. Eigi ríða þeir nú suður að sinni en bjóða mönnum til boðs og sækja í Hvammi að ákveðnum tíma."
+    },
+    {
+        "chapter": "Chapter 12",
+        "concepts": [
+            "Activities: travel ",
+            "Community Places: administrative unit: local assembly "
+        ],
+        "places": [
+            {
+                "as_mentioned": "Borgarfjarðar",
+                "sm_entry": {
+                    "id": "28",
+                    "name": "Borgarfjörður",
+                    "lat": "64.441961",
+                    "lng": "-22.083246",
+                    "type": "fjord",
+                    "county": "Borga01",
+                    "c": "122",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Norðurtungu",
+                "sm_entry": {
+                    "id": "1378",
+                    "name": "Norðurtunga",
+                    "lat": "64.734727",
+                    "lng": "-21.400849",
+                    "type": "farm",
+                    "info": "=Norðtunga",
+                    "county": "Borga01",
+                    "c": "9",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Þingnes",
+                "sm_entry": {
+                    "id": "679",
+                    "name": "Þingnes",
+                    "lat": "64.609745",
+                    "lng": "-21.669853",
+                    "type": "region",
+                    "info": "Hænsna-Þóris saga ch. 12: \"Leiðrétt samkvæmt frásögninni hér á eftir og Íslendingabók, 5. kap.; Þórsnes öll handrit, og sama villa er einnig í Sturlubók. 107. kaf., þar sem segir frá falli Þórólfs refs. -- Um þingstaði í Borgarfirði á söguöld hefir verið nokkur óvissa. Þingnessþing var háð í Þingnesi, er svo heitir, milli Hvítár og Grímsár, en það virðist ekki hafa átt sér langan aldur ... Sjá enn fremur Kalund I, 303-305; Árb. Fornl. 1886, bls. 1-3, 27-35; 1904, bls. 1-5)\", ÍF III, pp. 34-35. See also 'Þinghald til forna. Framvinduskýrsla 2002' (Fornleifastofnun Íslands) via online link below ",
+                    "county": "Borga01",
+                    "c": "7",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Og er vorar safna þeir að sér mönnum og fara suður til Borgarfjarðar og koma í Norðurtungu og stefna Arngrími til þings í Þingnes og Hænsna-Þóri."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Norðurá",
+                "sm_entry": {
+                    "id": "2800",
+                    "name": "Norðurá",
+                    "lat": "65.456828",
+                    "lng": "-18.958878",
+                    "type": "river",
+                    "county": "Skagaf01",
+                    "c": "2",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Eyjavaði",
+                "sm_entry": {
+                    "id": "1490",
+                    "name": "Eyjavað",
+                    "lat": "64.593068",
+                    "lng": "-21.630218",
+                    "type": "ford",
+                    "info": "\"Eyjavað mun vera það, sem nú heitir Hólmavað, milli Haugs og Sólheimatungu; það er einnig nefnt í Eyrb. s., 51. kap., og Laxd. s., 62. kap.\", ÍF III, p. 36. ",
+                    "county": "Borga01",
+                    "c": "1",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Stafholt",
+                "sm_entry": {
+                    "id": "1491",
+                    "name": "Stafholt",
+                    "lat": "64.65101",
+                    "lng": "-21.654634",
+                    "type": "farm",
+                    "county": "Borga01",
+                    "c": "17",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Hvítá",
+                "sm_entry": {
+                    "id": "12",
+                    "name": "Hvítá",
+                    "lat": "64.64455",
+                    "lng": "-21.561",
+                    "type": "river",
+                    "county": "Borga01",
+                    "c": "93",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Þrælastraumur",
+                "sm_entry": {
+                    "id": "1492",
+                    "name": "Þrælastraumur",
+                    "lat": "64.620014",
+                    "lng": "-21.677763",
+                    "type": "ford",
+                    "info": "\"Þrælastraumr er í útnorður frá bænum í Þingnesi. Vaðið hét síðar Þrælaeyravað (Kalund I, 303) eða Þrælaeyjarvað (Sig. Vigf., Árb. Fornl. 1886, 29-30); það er nú orðið ófært fyrir alllöngu\", ÍF III, p. 36. ",
+                    "county": "Borga01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Nú safnar Þórður gellir liði vestan og hefir eigi mart lið. Hittast nú þessir allir er í voru málinu og hafa alls tvö hundruð manna, ríða nú ofan fyrir utan Norðurá og yfir á að Eyjavaði fyrir ofan Stafholt og ætla yfir Hvítá þar sem heitir Þrælastraumur ."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Events: hostile encounter",
+            "Physical Landscape: unmanaged landscape area: moving water: river"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Dölum",
+                "sm_entry": {
+                    "id": "95",
+                    "name": "Dalur",
+                    "lat": "63.637819",
+                    "lng": "-19.95087",
+                    "type": "farm",
+                    "info": "=Stóri-Dalur",
+                    "county": "Rangár01",
+                    "c": "13",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Þá sjá þeir mannaferð mikla fyrir sunnan ána. Er þar Tungu-Oddur og nær fjögur hundruð manna. Gæða nú ferðina og vilja fyrr koma til vaðsins.  Hittast nú við ána og hlaupa þeir Oddur af baki og verja vaðið en þeim Þórði gengur ógreitt framreiðin og vildu gjarna komast á þingið. Slær nú í bardaga og verða þegar áverkar. Féllu fjórir menn af Þórði. Þar féll Þórólfur refur bróðir Álfs úr Dölum , virðulegur maður, og hverfa nú frá við svo búið. Einn maður féll af Oddi en þrír urðu mjög sárir."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Community Places: shared spaces: assembly site",
+            "Activities: travel",
+            "Actors: animals: mammals: horse"
+        ],
+        "places": [],
+        "text": "Þórður snýr nú málinu til alþingis. Þeir ríða nú heim vestur og þykir mönnum mjög hallast hafa metorð vestanmanna."
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Actors: animals: mammals: bull"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Breiðafirði",
+                "sm_entry": {
+                    "id": "344",
+                    "name": "Breiðamýri",
+                    "lat": "65.9694108052555",
+                    "lng": "-17.3844909667969",
+                    "type": "farm",
+                    "county": "SuðÞin01",
+                    "c": "4",
+                    "distance": 3
+                }
+            }
+        ],
+        "text": "Þeir kváðust engi segja kunna önnur en þau að sá maður var einn kominn vestan úr Breiðafirði að svara kunni Tungu-Oddi \"og var hans hljómur og rödd sem griðungur gelldi.\""
+    },
+    {
+        "chapter": "Chapter 13",
+        "concepts": [
+            "Events: reconstruction",
+            "Community Places: administrative unit: farm",
+            "Activities: exchange"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Örnólfsdal",
+                "sm_entry": {
+                    "id": "2054",
+                    "name": "Örnólfsdalsá",
+                    "lat": "64.74817",
+                    "lng": "-21.35665",
+                    "type": "river",
+                    "county": "Mýras01",
+                    "c": "1",
+                    "distance": 2
+                }
+            },
+            {
+                "as_mentioned": "Gunnarsstaði",
+                "sm_entry": {
+                    "id": "1489",
+                    "name": "Gunnarsstaðir",
+                    "lat": "65.018853",
+                    "lng": "-21.97322",
+                    "type": "farm",
+                    "county": "Dalas01",
+                    "c": "8",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Örnólfsdal",
+                "sm_entry": {
+                    "id": "2054",
+                    "name": "Örnólfsdalsá",
+                    "lat": "64.74817",
+                    "lng": "-21.35665",
+                    "type": "river",
+                    "county": "Mýras01",
+                    "c": "1",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Nú líður þingið og verður þar eigi til tíðinda. En er þeir mágar koma heim vestur skipta þeir bústöðum. Fer Gunnar í Örnólfsdal en Hersteinn tekur Gunnarsstaði . Eftir þetta lætur Gunnar færa til sín vestan við þann allan sem Örn austmaður hafði átt og flytja heim í Örnólfsdal . Tekur hann til síðan og húsar upp bæinn í annað sinn því að Gunnar var allra manna hagastur. Hann var og um allt atgervismaður og manna best vígur og hinn vaskasti í öllu."
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Community Places: shared spaces: assembly site",
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Nú líða stundir fram allt til þess að menn ríða til þings. Er nú mikill viðbúnaður í héruðunum. Ríða nú hvorirtveggju ákafa fjölmennir."
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Community Places: shared spaces: assembly site",
+            "Ideas: power: legal power"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Gunnarsstaði",
+                "sm_entry": {
+                    "id": "1489",
+                    "name": "Gunnarsstaðir",
+                    "lat": "65.018853",
+                    "lng": "-21.97322",
+                    "type": "farm",
+                    "county": "Dalas01",
+                    "c": "8",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Og er þeir Þórður gellir koma á Gunnarsstaði er Hersteinn sjúkur og má eigi fara til þings. Selur hann nú öðrum í hendur sakirnar. Eftir voru hjá honum þrír tigir manna."
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Ármannsfelli",
+                "sm_entry": {
+                    "id": "659",
+                    "name": "Ármannsfell",
+                    "lat": "64.3161104540328",
+                    "lng": "-21.0123825073242",
+                    "type": "hill",
+                    "county": "Kjósar01",
+                    "c": "15",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú ríður Þórður til þings. Hann safnar að sér vinum sínum og frændum og kemur snemma til þings. En þingið var þá undir Ármannsfelli . Og svo sem flokkar koma hefir Þórður liðsdrátt mikinn."
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Nú er sén ferð Tungu-Odds. Ríður Þórður þá í mót honum og vill eigi að hann nái þinghelginni. Oddur ríður með þremur hundruðum manna. Þeir Þórður verja þingið og slær þá þegar í bardaga. Tekst brátt mannfall en allmargir urðu sárir. Þar féllu sex menn af Oddi því Þórður var miklu fjölmennari."
+    },
+    {
+        "chapter": "Chapter 14",
+        "concepts": [
+            "Ideas: power: legal power",
+            "Community Places: shared spaces: assembly site"
+        ],
+        "places": [],
+        "text": "Þetta sjá góðgjarnir menn að þau vandræði mundu af standa ef þingheimurinn berðist að seint mundi bætur bíða. Er þá gengið í milli og verða skildir og snúið málum til sættar og var Oddur ofurliði borinn og varð undan að láta fyrir því að bæði var að hann þótti þyngra málahlut eiga að flytja enda varð hann aflvani fyrir liðs sakir. Var þá það mælt að Oddur mundi tjalda á brottu úr þinghelgi en ganga til dóma og að nauðsynjum sínum, fara með sig spaklega, sýna enga þrjósku né hans menn. Sitja menn nú yfir málum og leita að sætta þá og horfir Oddi þunglega fyrir það mest að mikið ofurefli var í móti."
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Örnólfsdal",
+                "sm_entry": {
+                    "id": "2054",
+                    "name": "Örnólfsdalsá",
+                    "lat": "64.74817",
+                    "lng": "-21.35665",
+                    "type": "river",
+                    "county": "Mýras01",
+                    "c": "1",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "En nú skal segja nokkuð af Hersteini, að honum létti brátt sóttarinnar er þeir riðu til þingsins. Fer hann þá í Örnólfsdal ."
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Actors: animals: mammals: cow"
+        ],
+        "places": [],
+        "text": "Þá kemur þar bóndi einn sá er Örnólfur hét og sagði svo: \"Sjúk er kýr mín,\" sagði hann, \"og bið eg þig Hersteinn að þú farir og sjáir hana. Þykir oss nú gott að þú ert aftur kominn og höfum vér þá nokkuð svo iðgjöld föður þíns er oss varð að mestu gagni.\""
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Physical Landscape: ecological area: woods and trees"
+        ],
+        "places": [],
+        "text": "Hersteinn sprettur þá upp og verður hermt við og gengur út og bóndinn með honum, snúa síðan í veg til skógar. Liggur þar ein sneiðigata og skógurinn á tvær hendur. Og er Hersteinn fer klifgötuna nemur hann staðar. Hann var allra manna skyggnastur."
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Physical Landscape: ecological area: woods and trees"
+        ],
+        "places": [],
+        "text": "Bóndinn leggst þá niður en Hersteinn snýr heim og kallar á menn sína. Þeir taka vopn sín og fara þegar í skóginn og finna Örnólf í götunni. Þeir biðja hann fara með sér þangað sem mælt var að þeir skyldu finnast. Nú fara þeir þar til er þeir koma í eitt rjóður."
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Activities: travel",
+            "Events: hostile encounter"
+        ],
+        "places": [],
+        "text": "Bóndi hleypur þá upp á hól einn og blístrar hátt. Síðan hlaupa þar fram tólf menn og var þar Hænsna-Þórir fyrir flokki. En þeir Hersteinn taka þessa menn höndum og drepa. Höggur Hersteinn sjálfur höfuð af Þóri og hefir með sér, ríða nú síðan suður til þings og segja þar þessi tíðindi. Verður Hersteinn ágætur mjög af þessu verki og fær af virðing mikla sem von var að."
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Activities: travel ",
+            "Actors: things: money",
+            "Ideas: power: legal power"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Skotlandi",
+                "sm_entry": {
+                    "id": "536",
+                    "name": "Skotland",
+                    "lat": "57.338381265529",
+                    "lng": "-3.9111328125",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "23",
+                    "distance": 1
+                }
+            }
+        ],
+        "text": "Nú er setið yfir málum manna og verða þær málalyktir að Arngrímur goði verður sekur fullri sekt og allir þeir er að brennunni voru nema Þorvaldur Oddsson. Hann skyldi vera utan þrjá vetur og eiga þá útkvæmt. Gefið var fé fyrir hann og svo til farningar öðrum mönnum. Þorvaldur fór utan um sumarið og var leiddur upp á Skotlandi og þjáður þar."
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Actors: things: money"
+        ],
+        "places": [],
+        "text": "Arngrímur goði fór og utan um sumarið og er það eigi ákveðið hversu mikið fé goldið var. Lýkur á þá leið þessum málum."
+    },
+    {
+        "chapter": "Chapter 15",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Ríða menn síðan heim af þingi en þeir fara utan sem mælt var er sekir voru."
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Physical Landscape: built environment: building: agricultural building: shieling",
+            "Physical Landscape: built environment: buildings",
+            "Events: construction"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Örnólfsdal",
+                "sm_entry": {
+                    "id": "2054",
+                    "name": "Örnólfsdalsá",
+                    "lat": "64.74817",
+                    "lng": "-21.35665",
+                    "type": "river",
+                    "county": "Mýras01",
+                    "c": "1",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Gunnar Hlífarson situr nú í Örnólfsdal og hefir húsað vel. Hann hafði selför og var jafnan mannfátt heima."
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Actors: animals: mammals: horse",
+            "Physical Landscape: built environment: building: agricultural buildings: shieling",
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Þverárhlíð",
+                "sm_entry": {
+                    "id": "400",
+                    "name": "Þverárhlíð",
+                    "lat": "64.741078",
+                    "lng": "-21.415155",
+                    "type": "farm",
+                    "info": "Sometimes abbreviated as 'Hlíð'.",
+                    "county": "Mýras01",
+                    "c": "12",
+                    "distance": 0
+                }
+            },
+            {
+                "as_mentioned": "Örnólfsdal",
+                "sm_entry": {
+                    "id": "2054",
+                    "name": "Örnólfsdalsá",
+                    "lat": "64.74817",
+                    "lng": "-21.35665",
+                    "type": "river",
+                    "county": "Mýras01",
+                    "c": "1",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Einn dag ber svo til að Þóroddur son Tungu-Odds ríður í Þverárhlíð . Hann kemur í Örnólfsdal um farinn veg og gengur inn í tjaldið til Jófríðar. Hún heilsar honum vel. Hann sest niður hjá henni og taka þau tal sín á milli og í því kemur sveinn frá selinu og biður Jófríði taka ofan klyfjar með sér. Þóroddur fer til og tekur ofan klyfjarnar en sveinninn fer síðan í brott og kemur til sels."
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Actors: things: wood"
+        ],
+        "places": [],
+        "text": "\"Þú munt nú segja verða,\" sagði Gunnar og tók sviga einn mikinn og ætlar að berja piltinn með."
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Physical Landscape: built environment: buildings: house",
+            "Actors: animals: horse"
+        ],
+        "places": [],
+        "text": "Eftir það fékk Gunnar sér hest og hleypur á bak og ríður skyndilega ofan til veturhúsa með hlíðinni."
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Gunnar ber fljótt að og hleypur af baki, gengur þegar inn í tjaldið. Þóroddur heilsar honum vel en Gunnar tók kveðju hans og spurði síðan hví hann væri þar kominn."
+    },
+    {
+        "chapter": "Chapter 16",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Síðan reið Þóroddur heim."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Actors: animals: mammals: sheep/livestock",
+            "Activities: animal husbandry: milking"
+        ],
+        "places": [],
+        "text": "Konur sögðu það til liggja, \"gerist fé harðla nytlétt og mun þá miklu betur mjólka ef svo er breytt.\""
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Physical Landscape: managed landscape area: agricultural landscape: pastures"
+        ],
+        "places": [],
+        "text": "\"Þá skal þangað fénu halda,\" sagði Oddur, \"því að þar eru hagar góðir.\""
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Activities: animal husbandry: herding"
+        ],
+        "places": [],
+        "text": "Oddur segist það gjarna vilja og fara þeir nú með fénu. Og er þeir eru langt komnir segir Þóroddur að þeir skulu þangað halda fénu að þeir fá versta haga og skermsl eru mest."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Activities: animal husbandry: milking"
+        ],
+        "places": [],
+        "text": "Nú líður nóttin af hendi og reka þeir heim féið um morguninn. Og er konur hafa mjólkað þá kveða þær aldrei jafnilla nýst hafa sem þá og er þessa eigi oftar freistað. Líða nú svo stundir fram."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Activities: land management"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Hálsa",
+                "sm_entry": {
+                    "id": "325",
+                    "name": "Háls",
+                    "lat": "65.7373638539285",
+                    "lng": "-17.869348526001",
+                    "type": "farm",
+                    "county": "SuðÞin01",
+                    "c": "11",
+                    "distance": 1
+                }
+            },
+            {
+                "as_mentioned": "Steinsvað",
+                "sm_entry": {
+                    "id": "1494",
+                    "name": "Steinsvað",
+                    "lat": "64.704858",
+                    "lng": "-21.348634",
+                    "type": "ford",
+                    "info": "\"Steinsvað er einnig nefnt í Sturlungu (Íslendinga s., 158. kap.; útg. Kalunds I, 555). Nafn þetta er nú týnt en vaðið hefir verið á Hvítá, að sumra hyggju norðan til í Hvítársíðu (Sig. Vigf., Árb. Fornl. 1885, 124), en þó öllu heldur hjá Fróðastöðum, neðst í Síðunni (Kalund I, 350)\", ÍF III, p. 44.",
+                    "county": "Borga01",
+                    "c": "1",
+                    "distance": 0
+                }
+            }
+        ],
+        "text": "Það var einn morgun snemma að Oddur kemur að máli við Þórodd son sinn: \"Þú skalt fara ofan í sveit og safna mönnum og vil eg nú reka menn af eignum vorum en Torfi skal fara upp um Hálsa og gera þeim í kunnleika um þenna fund. Vér skulum hittast við Steinsvað .\""
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [],
+        "text": "Þeir gera nú svo, safna liði. Fá þeir Þóroddur níu tigi manna, ríða síðan til vaðsins. Þeir Þóroddur koma fyrri til vaðsins."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Community Places: administrative unit: farm"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Örnólfsdal",
+                "sm_entry": {
+                    "id": "2054",
+                    "name": "Örnólfsdalsá",
+                    "lat": "64.74817",
+                    "lng": "-21.35665",
+                    "type": "river",
+                    "county": "Mýras01",
+                    "c": "1",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Og er þeir koma að garði í Örnólfsdal er Gunnar að gera hlass."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Events: construction"
+        ],
+        "places": [],
+        "text": "Hann hafði þá húsað vel bæinn en gluggur var á útihurðinni svo að inn mátti rétta og út höfuð sitt. Hann stóð við hurðina með bogann."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Physical Landscape: managed landscape area: agricultural landscape: infield"
+        ],
+        "places": [],
+        "text": "Nú í þessu kemur Oddur í tún og snýr Þóroddur þegar í mót föður sínum og spyr hvað hann ætlar. Hann kveðst ætla að brenna bæinn og svo mennina."
+    },
+    {
+        "chapter": "Chapter 17",
+        "concepts": [
+            "Activities: travel"
+        ],
+        "places": [
+            {
+                "as_mentioned": "Noregs",
+                "sm_entry": {
+                    "id": "359",
+                    "name": "Noregur",
+                    "lat": "60.2398111699989",
+                    "lng": "7.734375",
+                    "type": "country",
+                    "county": "Foreign01",
+                    "c": "362",
+                    "distance": 2
+                }
+            }
+        ],
+        "text": "Og að vetri afliðnum fer Þóroddur utan því að hann hafði spurt að Þorvaldur bróðir hans var í höftum og vildi leysa hann með fé. Hann kemur til Noregs og kom eigi út síðan og hvorgi þeirra bræðra."
+    }
+]
