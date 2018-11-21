@@ -49,4 +49,4 @@ Conversion commands for each of the sagas are found in the `createGeoJson.bat` f
 Example: `node createGeoJson.js "data\Eyrbyggja saga.json" "geojson\Eyrbyggja saga.geojson" --saga_name="Eyrbyggja saga" --saga_id=28 --action=880-1031 --composition=1240-1310 --oldest_manuscript="AM 162 e fol. " --oldest_manuscript_time=1290-1310 --manuscript_link="https://handrit.is/en/manuscript/view/is/AM02-0162E"`
 
 ## Joining all the geojson files into single file
-...
+Here a script would be useful, but basically the final step before uploading to DataARC is to combine the features arrays of all the geojson files to a single geojson file.
